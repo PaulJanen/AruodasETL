@@ -45,7 +45,7 @@ input("Press Enter to exit")
 
 def OpenAndPrepareSite(email, pswd):
     url = "https://en.aruodas.lt/kainu-statistika/"
-    driver = webdriver.Chrome(r"C:/Users/paulius.janenas/Documents/GitHub\AruodasETL/SSIS/RealEstatePriceTimeSeries/PythonScripts/chromedriver.exe")
+    driver = webdriver.Chrome("../chromedriver.exe")
     driver.get(url)
     sleep(1)
     driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
@@ -142,7 +142,7 @@ def CrawlData(propertyType, tableName):
     propertyType = propertyType
     dataTable =  GetPropertyTypeTimeseries(propertyType, driver)
 
-    os.chdir("../Output")
+    os.chdir("./Output")
     dataTable.to_csv(tableName,index=False)
 
 CrawlData(sys.argv[2], sys.argv[1])
@@ -152,5 +152,4 @@ CrawlData(sys.argv[2], sys.argv[1])
 
 #input("Press Enter to print arguments")
 #os.chdir('/tmp')
-
 
