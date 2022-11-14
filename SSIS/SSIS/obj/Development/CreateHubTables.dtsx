@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CreateHubTables"
   DTS:PackageType="5"
-  DTS:VersionBuild="30"
-  DTS:VersionGUID="{294D2665-6796-4EEC-A1F6-525074693A3F}">
+  DTS:VersionBuild="41"
+  DTS:VersionGUID="{29851C75-F61A-4ACF-86B5-CCAA4479FB78}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -45,7 +45,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{5FE3308D-BE92-4C7F-ACBC-3C18F3E4B511}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_CITY&#xA;&#xA;CREATE TABLE dbo.HUB_CITY(&#xA; [HubCityHK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [HubRecordSourceId] [nvarchar](255) NOT NULL,&#xA; [HubLoadDate] [datetime] NOT NULL,&#xA; [City] [nvarchar](255) NOT NULL UNIQUE,&#xA;CONSTRAINT HubCityHK_PK PRIMARY KEY ([HubCityHK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_CITY&#xA;&#xA;CREATE TABLE dbo.HUB_CITY(&#xA; [HK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [RecordSourceId] [nvarchar](255) NOT NULL,&#xA; [LoadDate] [datetime] NOT NULL,&#xA; [City] [nvarchar](255) NOT NULL UNIQUE,&#xA;CONSTRAINT HubCityHK_PK PRIMARY KEY ([HK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -62,7 +62,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{5FE3308D-BE92-4C7F-ACBC-3C18F3E4B511}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_DISTRICT&#xA;&#xA;CREATE TABLE dbo.HUB_DISTRICT(&#xA; [HubDistrictHK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [HubRecordSourceId] [nvarchar](255) NOT NULL,&#xA; [HubLoadDate] [datetime] NOT NULL,&#xA; [District] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubDistrictHK_PK PRIMARY KEY ([HubDistrictHK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_DISTRICT&#xA;&#xA;CREATE TABLE dbo.HUB_DISTRICT(&#xA; [HK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [RecordSourceId] [nvarchar](255) NOT NULL,&#xA; [LoadDate] [datetime] NOT NULL,&#xA; [District] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubDistrictHK_PK PRIMARY KEY ([HK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -79,7 +79,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{5FE3308D-BE92-4C7F-ACBC-3C18F3E4B511}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_EQUIPMENT&#xA;&#xA;CREATE TABLE dbo.HUB_EQUIPMENT(&#xA; [HubEquipmentHK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [HubRecordSourceId] [nvarchar](255) NOT NULL,&#xA; [HubLoadDate] [datetime] NOT NULL,&#xA; [Equipment] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubEquipmentHK_PK PRIMARY KEY ([HubEquipmentHK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_EQUIPMENT&#xA;&#xA;CREATE TABLE dbo.HUB_EQUIPMENT(&#xA; [HK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [RecordSourceId] [nvarchar](255) NOT NULL,&#xA; [LoadDate] [datetime] NOT NULL,&#xA; [Equipment] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubEquipmentHK_PK PRIMARY KEY ([HK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -96,7 +96,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{5FE3308D-BE92-4C7F-ACBC-3C18F3E4B511}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_FLAT&#xA;&#xA;CREATE TABLE dbo.[HUB_FLAT](&#xA;&#x9;[HubFlatHK] [nvarchar](128) NOT NULL UNIQUE,&#xA;&#x9;[HubRecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[HubLoadDate] [datetime] NOT NULL,&#xA;&#x9;[href] [nvarchar](1024) NOT NULL UNIQUE,&#xA;&#x9;CONSTRAINT HubFlatHK_PK PRIMARY KEY ([HubFlatHK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_FLAT&#xA;&#xA;CREATE TABLE dbo.[HUB_FLAT](&#xA;&#x9;[HK] [nvarchar](128) NOT NULL UNIQUE,&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[href] [nvarchar](1024) NOT NULL UNIQUE,&#xA;&#x9;CONSTRAINT HubFlatHK_PK PRIMARY KEY ([HK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -113,7 +113,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{5FE3308D-BE92-4C7F-ACBC-3C18F3E4B511}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_HEATING&#xA;&#xA;CREATE TABLE dbo.HUB_HEATING(&#xA; [HubHeatingHK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [HubRecordSourceId] [nvarchar](255) NOT NULL,&#xA; [HubLoadDate] [datetime] NOT NULL,&#xA; [Heating_Type] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubHeatingHK_PK PRIMARY KEY ([HubHeatingHK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.HUB_HEATING&#xA;&#xA;CREATE TABLE dbo.HUB_HEATING(&#xA; [HK] [nvarchar](128) NOT NULL UNIQUE,&#xA; [RecordSourceId] [nvarchar](255) NOT NULL,&#xA; [LoadDate] [datetime] NOT NULL,&#xA; [Heating_Type] [nvarchar](255) NOT NULL UNIQUE,&#xA; CONSTRAINT HubHeatingHK_PK PRIMARY KEY ([HK] )&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -205,21 +205,21 @@
         <NodeLayout
           Size="165,42"
           Id="Package\CreateHeatingHub"
-          TopLeft="692,335" />
+          TopLeft="691,299" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="774.25,244">
+          TopLeft="773.75,244">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,91"
+              EndConnector="0,55"
               Start="0,0"
-              End="0,83.5">
+              End="0,47.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,83.5" />
+                    End="0,47.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -230,18 +230,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="776.75,377">
+          TopLeft="776.25,341">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,41"
+              EndConnector="0,77"
               Start="0,0"
-              End="0,33.5">
+              End="0,69.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33.5" />
+                    End="0,69.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

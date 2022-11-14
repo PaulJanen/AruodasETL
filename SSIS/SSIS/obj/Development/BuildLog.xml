@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>RealEstatePriceTimeSeries</Name>
-    <LastWriteTime>2022-11-07T09:34:00.1327041Z</LastWriteTime>
+    <LastWriteTime>2022-11-09T08:10:54.8284929Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateHubTables.dtsx</Name>
-      <LastWriteTime>2022-11-07T10:57:38.1158656Z</LastWriteTime>
+      <LastWriteTime>2022-11-10T08:17:25.6024934Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -23,22 +23,42 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertIntoHubsData.dtsx</Name>
-      <LastWriteTime>2022-11-07T10:57:37.4069881Z</LastWriteTime>
+      <LastWriteTime>2022-11-11T09:48:40.7669761Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateSatelliteTables.dtsx</Name>
-      <LastWriteTime>2022-11-08T05:54:19.1135699Z</LastWriteTime>
+      <LastWriteTime>2022-11-11T06:25:33.8602037Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateLinkTables.dtsx</Name>
-      <LastWriteTime>2022-11-07T10:57:39.0612006Z</LastWriteTime>
+      <LastWriteTime>2022-11-10T08:22:19.5028989Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>03_ScrappeAllEligibleFlats.dtsx</Name>
       <LastWriteTime>2022-11-07T10:57:39.7546161Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>InsertIntoLinksData.dtsx</Name>
+      <LastWriteTime>2022-11-09T08:03:17.48969Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>InsertIntoSatData.dtsx</Name>
+      <LastWriteTime>2022-11-09T08:03:15.5106541Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CreateAllTables.dtsx</Name>
+      <LastWriteTime>2022-11-10T05:17:51.6890316Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>InsertAllData.dtsx</Name>
+      <LastWriteTime>2022-11-09T08:10:52.3368362Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

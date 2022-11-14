@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="11/4/2022 3:14:19 PM"
+  DTS:CreationDate="11/9/2022 9:27:05 AM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="INTUNE-3M3ZXT2"
   DTS:CreatorName="INTERNAL\paulius.janenas"
-  DTS:DTSID="{5C4C6B81-309C-49A2-9617-6C7BABDD6AF6}"
+  DTS:DTSID="{889BA4B0-E68A-42FF-9B6A-C6D4F912B613}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.180"
   DTS:LocaleID="1033"
-  DTS:ObjectName="InsertIntoHubsData"
+  DTS:ObjectName="InsertIntoSatData"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{E272BBBC-8E77-46D9-B673-9C55A5E43B77}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{A023F41C-F12B-480A-B63F-2CE2E166F316}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[INTUNE-3M3ZXT2.Aruodas]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{4A887574-5905-404F-A74A-48F46E87A531}"
+      DTS:DTSID="{0531377D-9BAF-409B-B0D6-AB83FEAA4A18}"
       DTS:ObjectName="INTUNE-3M3ZXT2.Aruodas">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -32,88 +32,71 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\HUB_City"
+      DTS:refId="Package\Sat_Flat"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:DTSID="{c0396f19-0266-4215-b543-8212df47e348}"
+      DTS:DTSID="{71b1dccc-f585-4fd5-baf0-b98647bf9cd9}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="HUB_City"
+      DTS:ObjectName="Sat_Flat"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_CITY', 'City'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{0531377D-9BAF-409B-B0D6-AB83FEAA4A18}"
+          SQLTask:SqlStatementSource="exec InsertSatFlatProcedure" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\HUB_District"
+      DTS:refId="Package\Sat_FlatHeatingValidity"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:DTSID="{5353a6fd-f767-43eb-9b96-806a64a01dfe}"
+      DTS:DTSID="{62971844-66c4-4254-a9eb-029a62d41336}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="HUB_District"
+      DTS:ObjectName="Sat_FlatHeatingValidity"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_DISTRICT', 'District'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{0531377D-9BAF-409B-B0D6-AB83FEAA4A18}"
+          SQLTask:SqlStatementSource="exec InsertSatFlatHeatingValidityProcedure" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\HUB_Equipment"
+      DTS:refId="Package\UpdateLoadEndDate"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:DTSID="{827e5f24-7cc9-4495-a07b-325908902a97}"
+      DTS:DTSID="{a95755c2-555b-450b-a3cf-bc1671232adf}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="HUB_Equipment"
+      DTS:ObjectName="UpdateLoadEndDate"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_Equipment', 'Equipment'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{0531377D-9BAF-409B-B0D6-AB83FEAA4A18}"
+          SQLTask:SqlStatementSource="exec UpdateSatFlatLoadEndDateProcedure" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\HUB_FLAT"
+      DTS:refId="Package\UpdateValidity"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:DTSID="{F1553A06-0738-4288-8E7C-D0F0F0446834}"
+      DTS:DTSID="{454e4633-13ed-4ea2-917c-7d15f226874e}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="HUB_FLAT"
+      DTS:ObjectName="UpdateValidity"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_FLAT', 'href'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\HUB_HEATING"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Execute SQL Task"
-      DTS:DTSID="{d396794d-6933-427a-8917-02da2de373b4}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="HUB_HEATING"
-      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_HEATING', 'Heating_Type'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{0531377D-9BAF-409B-B0D6-AB83FEAA4A18}"
+          SQLTask:SqlStatementSource="exec UpdateSatFlatHeatingValidityProcedure" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -121,35 +104,27 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint]"
       DTS:CreationName=""
-      DTS:DTSID="{4C3C43CF-A878-4050-BEDE-854964848A2B}"
-      DTS:From="Package\HUB_FLAT"
+      DTS:DTSID="{2547135B-B6B4-4744-A641-5DF440A668CB}"
+      DTS:From="Package\Sat_Flat"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint"
-      DTS:To="Package\HUB_HEATING" />
+      DTS:To="Package\UpdateLoadEndDate" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
-      DTS:DTSID="{BB8E9862-43AA-4732-BD1A-97C9C1689BE4}"
-      DTS:From="Package\HUB_HEATING"
+      DTS:DTSID="{68A7265A-DA3F-4045-B5AC-5CCB98BD6425}"
+      DTS:From="Package\UpdateLoadEndDate"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
-      DTS:To="Package\HUB_City" />
+      DTS:To="Package\Sat_FlatHeatingValidity" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
       DTS:CreationName=""
-      DTS:DTSID="{1B7FEF0B-9AC4-4502-9FF0-68AFD521F91B}"
-      DTS:From="Package\HUB_City"
+      DTS:DTSID="{B64C28C0-727A-4146-A291-AD4DC6547980}"
+      DTS:From="Package\Sat_FlatHeatingValidity"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 2"
-      DTS:To="Package\HUB_District" />
-    <DTS:PrecedenceConstraint
-      DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
-      DTS:CreationName=""
-      DTS:DTSID="{3A38FE9C-DEBA-4B3C-8068-A83EB3C943C7}"
-      DTS:From="Package\HUB_District"
-      DTS:LogicalAnd="True"
-      DTS:ObjectName="Constraint 3"
-      DTS:To="Package\HUB_Equipment" />
+      DTS:To="Package\UpdateValidity" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -162,41 +137,29 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="123,42"
-          Id="Package\HUB_City"
-          TopLeft="568,423" />
+          Size="117,42"
+          Id="Package\Sat_Flat"
+          TopLeft="839,430" />
         <NodeLayout
-          Size="138,42"
-          Id="Package\HUB_District"
-          TopLeft="561,526" />
-        <NodeLayout
-          Size="156,42"
-          Id="Package\HUB_Equipment"
-          TopLeft="556,629" />
-        <NodeLayout
-          Size="129,42"
-          Id="Package\HUB_FLAT"
-          TopLeft="572,221" />
-        <NodeLayout
-          Size="149,42"
-          Id="Package\HUB_HEATING"
-          TopLeft="562,322" />
+          Size="175,42"
+          Id="Package\UpdateLoadEndDate"
+          TopLeft="809,523" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="636.5,263">
+          TopLeft="897,472">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,59"
+              EndConnector="0,51"
               Start="0,0"
-              End="0,51.5">
+              End="0,43.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,51.5" />
+                    End="0,43.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -205,20 +168,24 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="187,42"
+          Id="Package\Sat_FlatHeatingValidity"
+          TopLeft="801,619" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="633,364">
+          TopLeft="895.5,565">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,59"
+              EndConnector="0,54"
               Start="0,0"
-              End="0,51.5">
+              End="0,46.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,51.5" />
+                    End="0,46.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -227,42 +194,24 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="147,42"
+          Id="Package\UpdateValidity"
+          TopLeft="826,714" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="629.75,465">
+          TopLeft="897,661">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,61"
+              EndConnector="0,53"
               Start="0,0"
-              End="0,53.5">
+              End="0,45.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,53.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="632,568">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,61"
-              Start="0,0"
-              End="0,53.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,53.5" />
+                    End="0,45.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

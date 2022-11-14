@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="InsertIntoHubsData"
   DTS:PackageType="5"
-  DTS:VersionBuild="14"
-  DTS:VersionGUID="{8A69D923-26D0-47C7-A199-226E44816B63}">
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{E272BBBC-8E77-46D9-B673-9C55A5E43B77}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -45,7 +45,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_CITY', 'City', 'HubCityHK'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_CITY', 'City'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -62,7 +62,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_DISTRICT', 'District', 'HubDistrictHK'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_DISTRICT', 'District'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -79,7 +79,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_Equipment', 'Equipment', 'HubEquipmentHK'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_Equipment', 'Equipment'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -96,7 +96,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_FLAT', 'href', 'HubFlatHK'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_FLAT', 'href'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -113,7 +113,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{4A887574-5905-404F-A74A-48F46E87A531}"
-          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_HEATING', 'Heating_Type', 'HubHeatingHK'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec InsertHubFlats 'stage.AllListings', 'HUB_HEATING', 'Heating_Type'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>

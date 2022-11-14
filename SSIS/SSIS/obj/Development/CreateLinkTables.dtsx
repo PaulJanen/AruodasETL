@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CreateLinkTables"
   DTS:PackageType="5"
-  DTS:VersionBuild="8"
-  DTS:VersionGUID="{2CC68088-DB53-418C-A469-84272AED67DD}">
+  DTS:VersionBuild="23"
+  DTS:VersionGUID="{AEC3E163-D93C-40B1-9B24-877F0D54D4DA}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -45,7 +45,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{CF81DB97-373A-4D64-94EA-BA56FCAB3861}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.LINK_FLATLOCATIONEQUIPMENT&#xA;&#xA;CREATE TABLE dbo.[LINK_FLATLOCATIONEQUIPMENT](&#xA;&#x9;[LinkFlatLocationEquipmentHK] [nvarchar](128),&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[CityHK] [nvarchar](128),&#xA;&#x9;[DistrictHK] [nvarchar](128),&#xA;&#x9;[FlatHK] [nvarchar](128),&#xA;&#x9;[EquipmentHK] [nvarchar](128),&#xA;&#x9;CONSTRAINT LinkFlatLocationEquipmentHK_PK PRIMARY KEY ([LinkFlatLocationEquipmentHK]),&#xA;&#x9;CONSTRAINT CityHK_FK Foreign KEY (CityHK) REFERENCES HUB_CITY (HubCityHK),&#xA;&#x9;CONSTRAINT DistrictHK_FK Foreign KEY (DistrictHK) REFERENCES HUB_DISTRICT (HubDistrictHK),&#xA;&#x9;CONSTRAINT FlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HubFlatHK),&#xA;&#x9;CONSTRAINT EquipmentHK_FK Foreign KEY (EquipmentHK) REFERENCES HUB_EQUIPMENT (HubEquipmentHK) &#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.LINK_FLATLOCATIONEQUIPMENT&#xA;&#xA;CREATE TABLE dbo.[LINK_FLATLOCATIONEQUIPMENT](&#xA;&#x9;[HK] [nvarchar](128),&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[CityHK] [nvarchar](128),&#xA;&#x9;[DistrictHK] [nvarchar](128),&#xA;&#x9;[FlatHK] [nvarchar](128),&#xA;&#x9;[EquipmentHK] [nvarchar](128),&#xA;&#x9;Href nvarchar(1024),&#xA;&#x9;City nvarchar(255),&#xA;&#x9;District nvarchar(255),&#xA;&#x9;Equipment nvarchar(255),&#xA;&#x9;CONSTRAINT LinkFlatLocationEquipmentHK_PK PRIMARY KEY ([HK]),&#xA;&#x9;CONSTRAINT CityHK_FK Foreign KEY (CityHK) REFERENCES HUB_CITY (HK),&#xA;&#x9;CONSTRAINT DistrictHK_FK Foreign KEY (DistrictHK) REFERENCES HUB_DISTRICT (HK),&#xA;&#x9;CONSTRAINT FlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HK),&#xA;&#x9;CONSTRAINT EquipmentHK_FK Foreign KEY (EquipmentHK) REFERENCES HUB_EQUIPMENT (HK) &#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -62,7 +62,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{CF81DB97-373A-4D64-94EA-BA56FCAB3861}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.LINK_FLATSHEATING&#xA;&#xA;CREATE TABLE dbo.LINK_FLATSHEATING(&#xA;&#x9;FlatHeatingHK [nvarchar](128),&#xA;&#x9;RecordSourceId [nvarchar](255) NOT NULL,&#xA;&#x9;LoadDate [datetime] NOT NULL,&#xA;&#x9;[FlatHK] [nvarchar](128),&#xA;&#x9;[HeatingHK] [nvarchar](128),&#xA;&#x9;CONSTRAINT FlatHeatingHK_PK PRIMARY KEY (FlatHeatingHK),&#xA;&#x9;CONSTRAINT LinkFlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HubFlatHK),&#xA;&#x9;CONSTRAINT HeatingHK_FK Foreign KEY (HeatingHK) REFERENCES HUB_HEATING (HubHeatingHK),&#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.LINK_FLATSHEATING&#xA;&#xA;CREATE TABLE dbo.LINK_FLATSHEATING(&#xA;&#x9;HK [nvarchar](128),&#xA;&#x9;RecordSourceId [nvarchar](255) NOT NULL,&#xA;&#x9;LoadDate [datetime] NOT NULL,&#xA;&#x9;[FlatHK] [nvarchar](128),&#xA;&#x9;[HeatingHK] [nvarchar](128),&#xA;&#x9;Href [nvarchar] (1024),&#xA;&#x9;Heating_Type nvarchar(255),&#xA;&#x9;CONSTRAINT FlatHeatingHK_PK PRIMARY KEY (HK),&#xA;&#x9;CONSTRAINT LinkFlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HK),&#xA;&#x9;CONSTRAINT HeatingHK_FK Foreign KEY (HeatingHK) REFERENCES HUB_HEATING (HK),&#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
