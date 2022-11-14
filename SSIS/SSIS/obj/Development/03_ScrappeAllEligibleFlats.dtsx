@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="03_ScrappeAllEligibleFlats"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{B04FA027-D966-4A28-9EF5-8F7A1608B988}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{84551FB7-E917-41F6-969D-9A75D51CDEE7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

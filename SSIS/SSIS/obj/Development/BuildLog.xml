@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>RealEstatePriceTimeSeries</Name>
-    <LastWriteTime>2022-11-09T08:10:54.8284929Z</LastWriteTime>
+    <LastWriteTime>2022-11-14T08:21:33.9477718Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -23,7 +23,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertIntoHubsData.dtsx</Name>
-      <LastWriteTime>2022-11-11T09:48:40.7669761Z</LastWriteTime>
+      <LastWriteTime>2022-11-11T12:25:26.7232528Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -38,7 +38,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>03_ScrappeAllEligibleFlats.dtsx</Name>
-      <LastWriteTime>2022-11-07T10:57:39.7546161Z</LastWriteTime>
+      <LastWriteTime>2022-11-14T08:21:33.8498541Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -59,6 +59,11 @@
     <ProjectBuildItemInfo>
       <Name>InsertAllData.dtsx</Name>
       <LastWriteTime>2022-11-09T08:10:52.3368362Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>04_FlatForecasting.dtsx</Name>
+      <LastWriteTime>2022-11-14T08:21:32.589893Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

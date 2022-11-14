@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="11/5/2022 10:25:02 AM"
+  DTS:CreationDate="11/14/2022 10:19:31 AM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="INTUNE-3M3ZXT2"
   DTS:CreatorName="INTERNAL\paulius.janenas"
-  DTS:DTSID="{2794E6EF-127B-4571-93F9-8CA454035751}"
+  DTS:DTSID="{7CE4E835-CC83-40CE-8EAD-A0B7D860C602}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.180"
   DTS:LocaleID="1033"
-  DTS:ObjectName="03_ScrappeAllEligibleFlats"
+  DTS:ObjectName="04_FlatForecasting"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{84551FB7-E917-41F6-969D-9A75D51CDEE7}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{279EE27F-5E2A-4F1A-9326-D108A07A2034}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\GettAllEligibleListings"
+      DTS:refId="Package\ForecastFlatPrices"
       DTS:CreationName="Microsoft.ExecuteProcess"
       DTS:Description="Execute Process Task"
-      DTS:DTSID="{518b7677-4db6-47f4-9ac3-c075baf5f9ce}"
+      DTS:DTSID="{521ebfce-c9e6-4ce9-8972-64323b0f41cd}"
       DTS:ExecutableType="Microsoft.ExecuteProcess"
       DTS:LocaleID="-1"
-      DTS:ObjectName="GettAllEligibleListings"
+      DTS:ObjectName="ForecastFlatPrices"
       DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ExecuteProcessData
           Executable="C:\Users\paulius.janenas\AppData\Local\Programs\Python\Python310\python.exe"
-          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\03-ScarpingEligibleFlats\FlatScapping.py&quot;" />
+          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\FlatForecasting.py&quot;" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -48,9 +48,9 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="178,42"
-          Id="Package\GettAllEligibleListings"
-          TopLeft="882,189" />
+          Size="163,42"
+          Id="Package\ForecastFlatPrices"
+          TopLeft="863,294" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

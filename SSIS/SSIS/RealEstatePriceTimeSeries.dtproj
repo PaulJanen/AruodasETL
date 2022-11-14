@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">INTUNE-3M3ZXT2</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAACAAAAAAAQZgAAAAEAACAAAAByFaNQc9hr88uurIwtvq4zwnuEeaFTfeTMucA9nkHJ9AAAAAAOgAAAAAIAACAAAAA+j12LtKsVCEiEvLIj5JAL4dc12spqO+/JUgRSvXcX0pAAAAB4m9VHAIkWVpX5FVsgv6RfoKK5E7A2vLnM+xAhVxfoqUTbSDDdDJ1WWD1oBfNrs/AMb6sUVPf1WFD6O/USbAy5C0uaYydOaPpJpLfGq7SuvUJLhXRDGLGm+klHUUWRUl5cnJUqullksx6zMVQCs0qhpg7YF+n5hIPSExYRpqRFzzQRlVK1p7AHex68w7DvGO1AAAAA/M7VUS8e5Vc09k6kIXtsJepIIB76Zt6/fzTXIxxyy1TVyPCDiA3yeVqQEhaAp//1hqAP0QAtaPsFcgWU4NKv6w==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAACAAAAAAAQZgAAAAEAACAAAABPXRk3Oc1Q1gdRH+AGTtPQDbd5u8rGpkpwleSljSmthQAAAAAOgAAAAAIAACAAAAC16HQ6MYgHWQePVInJGLcqNqjcqQKtkrPraj/4FVdvHpAAAAAEpsnS6/UHtKc5Z9oYMyyvnj6Zd4u5K/8eeub5/KrD2EeV6GvIF6uxX9waXTdKh2bx+O//C6w/USWdpLGQLRN9eWrFCp7mbxWoBspogKeAbPdk2gzxCfHrMn0BxZcHlytbBNE4uOHCk0WO18jpTUL/jVG2H2fUpPLguK5XfN5g/vgBGc9Tst74AIpMA3XsQLpAAAAAWuFXXaP94BedyyE3baM5eS3/tC/cOA/kNRoOt9nH9GLEjNg0luUP4kekrJul1v0Bl+jcjqhKe7xENPFgSy6zzA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -41,6 +41,7 @@
           <SSIS:Package SSIS:Name="InsertIntoSatData.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="CreateAllTables.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="InsertAllData.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="04_FlatForecasting.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -1838,10 +1839,10 @@
                 <SSIS:Property SSIS:Name="Name">InsertIntoHubsData</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">16</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">18</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{523ECD99-CED0-4B83-96F7-622DF2D65A37}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{E272BBBC-8E77-46D9-B673-9C55A5E43B77}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2336,10 +2337,10 @@
                 <SSIS:Property SSIS:Name="Name">03_ScrappeAllEligibleFlats</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{B04FA027-D966-4A28-9EF5-8F7A1608B988}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{84551FB7-E917-41F6-969D-9A75D51CDEE7}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2706,6 +2707,23 @@
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionGUID">{553F8154-57B4-435D-B812-CD1694B2BFE6}</SSIS:Property>
+                <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="ProtectionLevel">1</SSIS:Property>
+              </SSIS:Properties>
+              <SSIS:Parameters />
+            </SSIS:PackageMetaData>
+            <SSIS:PackageMetaData SSIS:Name="04_FlatForecasting.dtsx">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">{7CE4E835-CC83-40CE-8EAD-A0B7D860C602}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">04_FlatForecasting</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionComments">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{279EE27F-5E2A-4F1A-9326-D108A07A2034}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>

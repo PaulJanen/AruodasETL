@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">INTUNE-3M3ZXT2</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAACAAAAAAAQZgAAAAEAACAAAAAQz6NFwRK5EgQSW7gDUZOfjdMlo0plE/suR91Yru3ouQAAAAAOgAAAAAIAACAAAADS4V2IiPVBMyrKIkb7JK0fL8up0MDuFuPBAMlO3UVM2pAAAADD5fLiR304BAYTCyvV9M9J0Hs7E39Fn+b/7cWX+BblP6IY5/6sUDBrZYkvX/ulzT914mb7p++TdzukhYQ5dwxjpqM73Xxpti4kKfOEdrNpbiVajcKMbs2FvSPpcMFdIiqEU18dn0Z6KCRQLZM8j8DcCfbSLIk3pcHYL5ubIkjY2OWz23CmXtRC6Z36/CkF3YhAAAAAwTob9YKaiOLWyuf2wlxIoFbFw8IFudpCK9fXfmJVCTAG74DXTiXLGwMrE2RyAwYEt3dKjvPWd5w3UbcTVK574A==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAACAAAAAAAQZgAAAAEAACAAAAB7dJi25+SkxohTeX8berrtEo3XDOS04tFYb0+4ZeNQegAAAAAOgAAAAAIAACAAAADqOa+yxkfs4Z6bfQBwklBpPb4ID4aXh130g/QCfD7PkZAAAAA8d//W/2XKocCJG2AAmHP7K4Hc76ImMa0pVQn8rDkQ+4/kuluH5wcAbFKrMyTQx2ZMuuwNe4ZlKtXEbU9NTRwdIGLPUHufPLIAxCaqw3PgTvk8AD+EbaeePNZ6FxuVUFKbcaOj2209Nlp7wqQGa4HtxaaN5nLqMVAhjv/x+XVAhKmJTCig8Gw3thKDwdOQYc9AAAAAbIwliKMScCChJgk4GxAsIige/bx0i+yN8+kUqKXE9hHkHDa+ztZhcX+seDh6gx+l8zOI2gbH2pno3/xgO55gcA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -41,6 +41,7 @@
           <SSIS:Package SSIS:Name="InsertIntoSatData.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="CreateAllTables.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="InsertAllData.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="04_FlatForecasting.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -921,10 +922,10 @@
                 <SSIS:Property SSIS:Name="Name">CreateHubTables</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">41</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">37</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{29851C75-F61A-4ACF-86B5-CCAA4479FB78}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{3631D254-6783-47E2-A0E2-06D95975C3C2}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2004,10 +2005,10 @@
                 <SSIS:Property SSIS:Name="Name">CreateSatelliteTables</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">29</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">26</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{7EEEF544-67F1-424D-8BE9-16B9415DAB7F}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{5364831A-5CBD-4F04-A5F1-C2A4BF0DCE6C}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2170,10 +2171,10 @@
                 <SSIS:Property SSIS:Name="Name">CreateLinkTables</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">23</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">14</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{AEC3E163-D93C-40B1-9B24-877F0D54D4DA}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{2F6AF921-2DEB-4E1A-BC30-557EDBC86AF1}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2336,10 +2337,10 @@
                 <SSIS:Property SSIS:Name="Name">03_ScrappeAllEligibleFlats</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{B04FA027-D966-4A28-9EF5-8F7A1608B988}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{84551FB7-E917-41F6-969D-9A75D51CDEE7}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2685,10 +2686,10 @@
                 <SSIS:Property SSIS:Name="Name">CreateAllTables</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">2</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{30A5589E-020C-4217-889D-8BB8BD9FF2E5}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{DA02F92B-EC23-47B4-81D0-CDF743EDE022}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -2706,6 +2707,23 @@
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionGUID">{553F8154-57B4-435D-B812-CD1694B2BFE6}</SSIS:Property>
+                <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="ProtectionLevel">1</SSIS:Property>
+              </SSIS:Properties>
+              <SSIS:Parameters />
+            </SSIS:PackageMetaData>
+            <SSIS:PackageMetaData SSIS:Name="04_FlatForecasting.dtsx">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">{7CE4E835-CC83-40CE-8EAD-A0B7D860C602}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">04_FlatForecasting</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionComments">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{279EE27F-5E2A-4F1A-9326-D108A07A2034}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
