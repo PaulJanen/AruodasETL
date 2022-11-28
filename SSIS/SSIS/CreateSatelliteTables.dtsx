@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/7/2022 7:04:18 AM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CreateSatelliteTables"
   DTS:PackageType="5"
-  DTS:VersionBuild="29"
-  DTS:VersionGUID="{7EEEF544-67F1-424D-8BE9-16B9415DAB7F}">
+  DTS:VersionBuild="34"
+  DTS:VersionGUID="{2B93DD3F-D24D-4161-993B-139EE45B5204}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -45,7 +45,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{86B8CA14-32CF-4FC6-BA66-72DB804773E9}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.SAT_FLAT&#xA;&#xA;CREATE TABLE dbo.[SAT_FLAT](&#xA;&#x9;[HK] [nvarchar](128),&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[LoadEndDate] [datetime],&#xA;&#x9;[Price] [decimal](18,0),&#xA;&#x9;[PricePerM2] [decimal](18,0),&#xA;&#x9;[Area] [decimal](18,0),&#xA;&#x9;[Floor] [int],&#xA;&#x9;[NumberOfFloors] [int],&#xA;&#x9;[RoomCount] [int],&#xA;&#x9;[BuiltYear] [datetime],&#xA;&#x9;[ColumnHash] nvarchar(128),&#xA;&#x9;CONSTRAINT SatFlatHK_FK Foreign KEY ([HK] ) &#xA;&#x9;REFERENCES HUB_FLAT (HK)&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.SAT_FLAT&#xA;&#xA;CREATE TABLE dbo.[SAT_FLAT](&#xA;&#x9;[HK] [nvarchar](128),&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[LoadEndDate] [datetime],&#xA;&#x9;[Price] [decimal](18,2),&#xA;&#x9;[PredictedPrice][decimal](18,2),&#xA;&#x9;[Gains][decimal](18,2),&#xA;&#x9;[PricePerM2] [decimal](18,2),&#xA;&#x9;[Area] [decimal](18,2),&#xA;&#x9;[Floor] [int],&#xA;&#x9;[NumberOfFloors] [int],&#xA;&#x9;[RoomCount] [int],&#xA;&#x9;[NearestKindergarten] [decimal](18,2),&#xA;&#x9;[NearestEducational] [decimal](18,2),&#xA;&#x9;[NearestShop] [decimal](18,2),&#xA;&#x9;[NearestStop] [decimal](18,2),&#xA;&#x9;[CrimeRate] [int],&#xA;&#x9;[BuiltYear] [date],&#xA;&#x9;[ScrapingDate] [date],&#xA;&#x9;[ColumnHash] nvarchar(128),&#xA;&#x9;CONSTRAINT SatFlatHK_FK Foreign KEY ([HK] ) &#xA;&#x9;REFERENCES HUB_FLAT (HK)&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -62,7 +62,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{86B8CA14-32CF-4FC6-BA66-72DB804773E9}"
-          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.SAT_FLATHEATINGVALIDITY&#xA;&#xA;CREATE TABLE dbo.SAT_FLATHEATINGVALIDITY(&#xA;&#x9;HK [nvarchar](128),&#xA;&#x9;FlatHK nvarchar(128) NOT NULL,&#xA;&#x9;HeatingHK nvarchar(128) NOT NULL,&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[ValidTo] [datetime],&#xA;&#x9;[Validity] [bit] NOT NULL,&#xA;&#x9;CONSTRAINT FlatHeatingHK_FK Foreign KEY (HK) REFERENCES LINK_FLATSHEATING(HK),&#xA;&#x9;CONSTRAINT SatValidityFlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HK),&#xA;&#x9;CONSTRAINT SatValidityHeatingHK_FK Foreign KEY (HeatingHK) REFERENCES HUB_HEATING (HK),&#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS dbo.SAT_FLATHEATINGVALIDITY&#xA;&#xA;CREATE TABLE dbo.SAT_FLATHEATINGVALIDITY(&#xA;&#x9;HK [nvarchar](128),&#xA;&#x9;FlatHK nvarchar(128) NOT NULL,&#xA;&#x9;HeatingHK nvarchar(128) NOT NULL,&#xA;&#x9;[RecordSourceId] [nvarchar](255) NOT NULL,&#xA;&#x9;[LoadDate] [datetime] NOT NULL,&#xA;&#x9;[ValidTo] [datetime],&#xA;&#x9;[Validity] [bit] NOT NULL,&#xA;&#x9;ScrapingDate date,&#xA;&#x9;CONSTRAINT FlatHeatingHK_FK Foreign KEY (HK) REFERENCES LINK_FLATSHEATING(HK),&#xA;&#x9;CONSTRAINT SatValidityFlatHK_FK Foreign KEY (FlatHK) REFERENCES HUB_FLAT (HK),&#xA;&#x9;CONSTRAINT SatValidityHeatingHK_FK Foreign KEY (HeatingHK) REFERENCES HUB_HEATING (HK),&#xA;&#xA;) ON [PRIMARY]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -91,14 +91,14 @@
         <NodeLayout
           Size="164,42"
           Id="Package\CreateFlatSatellite"
-          TopLeft="802.777777777778,349.777777777778" />
+          TopLeft="507.777777777778,258.777777777778" />
         <NodeLayout
           Size="224,42"
           Id="Package\CreateFlatsHeatingLinkSatellite"
-          TopLeft="771,450" />
+          TopLeft="476,359" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="883.888888888889,391.777777777778">
+          TopLeft="588.888888888889,300.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"

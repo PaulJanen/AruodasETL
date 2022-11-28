@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/7/2022 7:32:26 AM"
@@ -12,7 +12,7 @@
   DTS:ObjectName="CreateLinkTables"
   DTS:PackageType="5"
   DTS:VersionBuild="23"
-  DTS:VersionGUID="{AEC3E163-D93C-40B1-9B24-877F0D54D4DA}">
+  DTS:VersionGUID="{4CEBF522-CC4F-4FE4-8B51-D68D6579024C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>

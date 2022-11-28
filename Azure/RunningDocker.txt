@@ -1,0 +1,12 @@
+docker build . -t aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City
+
+docker run `
+-e AZURE_TENANT_ID=cc84208e-b172-4820-844d-821efd930891 `
+-e AZURE_CLIENT_ID=c00aba8c-9242-475d-b0e5-50be469be0ab `
+-e AZURE_CLIENT_SECRET=Txt8Q~leP2c-_S53G-lzknta-MHLgUEcfFV.yavq `
+-e public1='Public environment variable' `
+-e City='Palanga' `
+-e private1='Private environment variable' `
+-v $PWD\mnt:/app/mnt `
+aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City `
+

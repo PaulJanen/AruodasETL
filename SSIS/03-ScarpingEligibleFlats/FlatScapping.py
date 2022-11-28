@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import re
 import numpy as np
+from numpy import nan
 import datetime as dt
 from datetime import datetime
 import os
@@ -42,6 +43,14 @@ def GetDistrictUrl(city, district):
     driver.close()
     return currentUrl
 
+def ConvertToKm(measurement):
+    if(measurement == None):
+        return nan
+
+    if(re.search('km', measurement) == None): 
+        return round((float)(measurement[:-1]) * 0.001,2)
+    else:
+        return round((float)(measurement[:-2]),2)
 
 def GetDistrictPropertyData(districtUrl, city, district, globalDataFrame):
     driver = webdriver.Chrome(r"../chromedriver.exe")
@@ -61,9 +70,11 @@ def GetDistrictPropertyData(districtUrl, city, district, globalDataFrame):
         driver.get(url)
         sleep(1)
         soup = bs(driver.page_source, "lxml")
-        allElements = soup.find_all("tr", {"class" : "list-row"})
-        allListings = [element.find('h3').find('a', href=True)['href'] for element in allElements if element.find("td", {"class":"list-adress"}) != None]
-        
+        allElements = soup.find("div", {"class" :"list-search-v2"})
+        allElements = allElements.find_all("div", {"class" :"list-adress-v2"})
+        allListings = [element.find('h3').find('a', href=True)['href'] for element in allElements if element.find('h3') != None]
+        #allListings = [element for element in allElements if element.find("div", {"class":"list-adress-v2"}) != None]
+        #print(allListings[0].prettify())
         for propertyUrl in allListings:
             driver.get(propertyUrl)
             sleep(1)
@@ -80,8 +91,27 @@ def GetDistrictPropertyData(districtUrl, city, district, globalDataFrame):
             builtYear = mainTable.find('dt', text=re.compile('Build year')).find_next_sibling('dd').text.strip()
             heating = mainTable.find('dt', text=re.compile('Heating system')).find_next_sibling('dd').text.strip()
             equipment = mainTable.find('dt', text=re.compile('Equipment')).find_next_sibling('dd').text.strip()
-            dataTable = pd.DataFrame({'Price': [price], 'PricePerM2': [pricePerM2], 'Area': [area], 'floor' : [floor], 'Number of floors': [numberOfFloors], 'Room count': [roomCount], 
-                                      'Built year': [builtYear], 'Heating': [heating], 'Equipment': [equipment], 'City': [city], 'District': [district], 'href':[propertyUrl]})
+
+            nearestObj = soup.find_all("div", {"class" : "statistic-info-cell-main"})
+            nearestKindergarten = [item.find("span",  {"class" : "cell-data"}).text for item in nearestObj if item.find("span", {"class" : "cell-text"}).text == 'Nearest kindergarten ']
+            nearestKindergarten = None if(len(nearestKindergarten) == 0) else nearestKindergarten[0].replace(' ', '').replace('\n', '')[1:].replace(",", ".") 
+            nearestEducational = [item.find("span",  {"class" : "cell-data"}).text for item in nearestObj if item.find("span", {"class" : "cell-text"}).text == 'Nearest educational institution']
+            nearestEducational = None if(len(nearestEducational) == 0) else nearestEducational[0].replace(' ', '').replace('\n', '')[1:].replace(",", ".")
+            nearestShop = [item.find("span",  {"class" : "cell-data"}).text for item in nearestObj if item.find("span", {"class" : "cell-text"}).text == 'Nearest shop']
+            nearestShop = None if(len(nearestShop) == 0) else nearestShop[0].replace(' ', '').replace('\n', '')[1:].replace(",", ".")
+            nearestStop = [item.find("span",  {"class" : "cell-data"}).text for item in nearestObj if item.find("span", {"class" : "cell-text"}).text == 'Public transport stop']
+            nearestStop = None if(len(nearestStop) == 0) else nearestStop[0].replace(' ', '').replace('\n', '')[1:].replace(",", ".")
+            
+            crimeRateSoup = soup.find_all("div", {"class" : "arrow_line_left"})
+            crimeRate = None
+            for i, crime in enumerate(crimeRateSoup):
+                if(crimeRateSoup[i].find("div", {"class" : "icon-crime-gray"}) != None):
+                    crimeRate = crimeRateSoup[i].find("span", {"class" : "cell-data"}).text
+    
+            dataTable = pd.DataFrame({'Price': [price], 'PricePerM2': [pricePerM2], 'Area': [area], 'floor' : [floor], 'Number of floors': [numberOfFloors], 'Room count': [roomCount]
+                                    ,'Built year': [builtYear], 'Heating': [heating], 'Equipment': [equipment],'NearestKindergarten': [ConvertToKm(nearestKindergarten)]
+                                    ,'NearestEducational': [ConvertToKm(nearestEducational)],'NearestShop': [ConvertToKm(nearestShop)],'NearestStop': [ConvertToKm(nearestStop)]
+                                    ,'CrimeRate': [crimeRate],'City': [city], 'District': [district], 'href':[propertyUrl]})
             globalDataFrame = pd.concat( [globalDataFrame, dataTable])
             #print(globalDataFrame)
             driver.back()
@@ -92,7 +122,7 @@ def GetDistrictPropertyData(districtUrl, city, district, globalDataFrame):
 
 def GetAllListings(flatsPriceData):
     global globalDataFrame
-    for index in range(0,1):
+    for index in range(0,2):
         districtUrl = GetDistrictUrl(flatsPriceData.iloc[index][0], flatsPriceData.iloc[index][1])
         globalDataFrame = GetDistrictPropertyData(districtUrl, flatsPriceData.iloc[index][0], flatsPriceData.iloc[index][1], globalDataFrame)
         print(index)
@@ -109,10 +139,13 @@ def ChangeDataTypesAndCleanData(df):
     df["Room count"] = pd.to_numeric(df["Room count"])
     df['Built year'] = df['Built year'].apply(lambda x: x[0:4])
     df["Built year"] = pd.to_datetime(df['Built year'].apply(lambda x: x[0:4]) + "-01-01")
-    
     df["Equipment"] = df["Equipment"].apply(lambda x: "Partial decoration" if "USEFUL" in x else x)
+    df["NearestKindergarten"] = pd.to_numeric(df["NearestKindergarten"])
+    df["NearestEducational"] = pd.to_numeric(df["NearestEducational"])
+    df["NearestShop"] = pd.to_numeric(df["NearestShop"])
+    df["NearestStop"] = pd.to_numeric(df["NearestStop"])
+    df["CrimeRate"] = pd.to_numeric(df["CrimeRate"])
     return df
-
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path)

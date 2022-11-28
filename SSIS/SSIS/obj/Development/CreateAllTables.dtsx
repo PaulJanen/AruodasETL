@@ -12,7 +12,7 @@
   DTS:ObjectName="CreateAllTables"
   DTS:PackageType="5"
   DTS:VersionBuild="3"
-  DTS:VersionGUID="{30A5589E-020C-4217-889D-8BB8BD9FF2E5}">
+  DTS:VersionGUID="{B00742CF-66C6-402D-8C1A-28C9D5F8469C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

@@ -1,42 +1,5761 @@
 Date,Price,City,District
-2020-10-01,6,Palanga,Palanga
-2020-11-01,6,Palanga,Palanga
-2020-12-01,5,Palanga,Palanga
-2021-01-01,7,Palanga,Palanga
-2021-02-01,11,Palanga,Palanga
-2021-09-01,7,Palanga,Palanga
-2021-10-01,7,Palanga,Palanga
-2021-11-01,7,Palanga,Palanga
-2021-12-01,7,Palanga,Palanga
-2022-01-01,7,Palanga,Palanga
-2022-02-01,8,Palanga,Palanga
-2022-04-01,11,Palanga,Palanga
-2022-05-01,14,Palanga,Palanga
-2022-06-01,13,Palanga,Palanga
-2022-07-01,11,Palanga,Palanga
-2022-08-01,10,Palanga,Palanga
-2022-09-01,9,Palanga,Palanga
-2022-10-01,8,Palanga,Palanga
-2017-12-01,2,Palanga,Šventoji
-2018-01-01,2,Palanga,Šventoji
-2018-02-01,2,Palanga,Šventoji
-2018-11-01,5,Palanga,Šventoji
-2018-12-01,4,Palanga,Šventoji
-2019-09-01,4,Palanga,Šventoji
-2019-10-01,4,Palanga,Šventoji
-2019-11-01,4,Palanga,Šventoji
-2019-12-01,5,Palanga,Šventoji
-2020-01-01,5,Palanga,Šventoji
-2020-02-01,5,Palanga,Šventoji
-2020-03-01,5,Palanga,Šventoji
-2020-04-01,6,Palanga,Šventoji
-2020-06-01,22,Palanga,Šventoji
-2020-07-01,20,Palanga,Šventoji
-2020-08-01,15,Palanga,Šventoji
-2020-09-01,4,Palanga,Šventoji
-2020-10-01,4,Palanga,Šventoji
-2022-09-01,7,Palanga,Šventoji
-2022-10-01,7,Palanga,Šventoji
+2017-01-01,8,Vilnius,Antakalnis
+2017-02-01,8,Vilnius,Antakalnis
+2017-03-01,7,Vilnius,Antakalnis
+2017-04-01,7,Vilnius,Antakalnis
+2017-05-01,8,Vilnius,Antakalnis
+2017-06-01,8,Vilnius,Antakalnis
+2017-07-01,8,Vilnius,Antakalnis
+2017-08-01,8,Vilnius,Antakalnis
+2017-09-01,7,Vilnius,Antakalnis
+2017-10-01,7,Vilnius,Antakalnis
+2017-11-01,7,Vilnius,Antakalnis
+2017-12-01,7,Vilnius,Antakalnis
+2018-01-01,7,Vilnius,Antakalnis
+2018-02-01,8,Vilnius,Antakalnis
+2018-03-01,8,Vilnius,Antakalnis
+2018-04-01,8,Vilnius,Antakalnis
+2018-05-01,8,Vilnius,Antakalnis
+2018-06-01,8,Vilnius,Antakalnis
+2018-07-01,8,Vilnius,Antakalnis
+2018-08-01,8,Vilnius,Antakalnis
+2018-09-01,8,Vilnius,Antakalnis
+2018-10-01,8,Vilnius,Antakalnis
+2018-11-01,7,Vilnius,Antakalnis
+2018-12-01,8,Vilnius,Antakalnis
+2019-01-01,8,Vilnius,Antakalnis
+2019-02-01,8,Vilnius,Antakalnis
+2019-03-01,7,Vilnius,Antakalnis
+2019-04-01,8,Vilnius,Antakalnis
+2019-05-01,8,Vilnius,Antakalnis
+2019-06-01,8,Vilnius,Antakalnis
+2019-07-01,8,Vilnius,Antakalnis
+2019-08-01,9,Vilnius,Antakalnis
+2019-09-01,8,Vilnius,Antakalnis
+2019-10-01,8,Vilnius,Antakalnis
+2019-11-01,8,Vilnius,Antakalnis
+2019-12-01,8,Vilnius,Antakalnis
+2020-01-01,9,Vilnius,Antakalnis
+2020-02-01,9,Vilnius,Antakalnis
+2020-03-01,9,Vilnius,Antakalnis
+2020-04-01,9,Vilnius,Antakalnis
+2020-05-01,8,Vilnius,Antakalnis
+2020-06-01,8,Vilnius,Antakalnis
+2020-07-01,9,Vilnius,Antakalnis
+2020-08-01,9,Vilnius,Antakalnis
+2020-09-01,9,Vilnius,Antakalnis
+2020-10-01,9,Vilnius,Antakalnis
+2020-11-01,9,Vilnius,Antakalnis
+2020-12-01,9,Vilnius,Antakalnis
+2021-01-01,9,Vilnius,Antakalnis
+2021-02-01,9,Vilnius,Antakalnis
+2021-03-01,9,Vilnius,Antakalnis
+2021-04-01,9,Vilnius,Antakalnis
+2021-05-01,10,Vilnius,Antakalnis
+2021-06-01,10,Vilnius,Antakalnis
+2021-07-01,10,Vilnius,Antakalnis
+2021-08-01,10,Vilnius,Antakalnis
+2021-09-01,10,Vilnius,Antakalnis
+2021-10-01,10,Vilnius,Antakalnis
+2021-11-01,10,Vilnius,Antakalnis
+2021-12-01,10,Vilnius,Antakalnis
+2022-01-01,10,Vilnius,Antakalnis
+2022-02-01,10,Vilnius,Antakalnis
+2022-03-01,11,Vilnius,Antakalnis
+2022-04-01,12,Vilnius,Antakalnis
+2022-05-01,12,Vilnius,Antakalnis
+2022-06-01,14,Vilnius,Antakalnis
+2022-07-01,14,Vilnius,Antakalnis
+2022-08-01,14,Vilnius,Antakalnis
+2022-09-01,12,Vilnius,Antakalnis
+2022-10-01,12,Vilnius,Antakalnis
+2019-11-01,4,Vilnius,Antavilis
+2019-12-01,4,Vilnius,Antavilis
+2020-04-01,8,Vilnius,Antavilis
+2020-05-01,8,Vilnius,Antavilis
+2021-02-01,9,Vilnius,Antavilis
+2021-03-01,9,Vilnius,Antavilis
+2017-12-01,7,Vilnius,Aukštieji Paneriai
+2018-01-01,6,Vilnius,Aukštieji Paneriai
+2018-07-01,5,Vilnius,Aukštieji Paneriai
+2018-08-01,4,Vilnius,Aukštieji Paneriai
+2018-09-01,7,Vilnius,Aukštieji Paneriai
+2018-10-01,7,Vilnius,Aukštieji Paneriai
+2018-11-01,4,Vilnius,Aukštieji Paneriai
+2018-12-01,5,Vilnius,Aukštieji Paneriai
+2019-02-01,3,Vilnius,Aukštieji Paneriai
+2019-05-01,8,Vilnius,Aukštieji Paneriai
+2019-06-01,6,Vilnius,Aukštieji Paneriai
+2019-07-01,8,Vilnius,Aukštieji Paneriai
+2019-08-01,8,Vilnius,Aukštieji Paneriai
+2019-10-01,9,Vilnius,Aukštieji Paneriai
+2019-11-01,9,Vilnius,Aukštieji Paneriai
+2019-12-01,8,Vilnius,Aukštieji Paneriai
+2020-01-01,7,Vilnius,Aukštieji Paneriai
+2020-02-01,6,Vilnius,Aukštieji Paneriai
+2020-03-01,5,Vilnius,Aukštieji Paneriai
+2020-04-01,5,Vilnius,Aukštieji Paneriai
+2020-05-01,5,Vilnius,Aukštieji Paneriai
+2020-06-01,5,Vilnius,Aukštieji Paneriai
+2020-07-01,4,Vilnius,Aukštieji Paneriai
+2020-08-01,5,Vilnius,Aukštieji Paneriai
+2020-09-01,5,Vilnius,Aukštieji Paneriai
+2020-10-01,6,Vilnius,Aukštieji Paneriai
+2020-11-01,6,Vilnius,Aukštieji Paneriai
+2020-12-01,5,Vilnius,Aukštieji Paneriai
+2021-01-01,9,Vilnius,Aukštieji Paneriai
+2021-02-01,9,Vilnius,Aukštieji Paneriai
+2017-01-01,6,Vilnius,Bajorai
+2017-02-01,7,Vilnius,Bajorai
+2017-03-01,6,Vilnius,Bajorai
+2017-04-01,7,Vilnius,Bajorai
+2017-05-01,7,Vilnius,Bajorai
+2017-06-01,8,Vilnius,Bajorai
+2017-07-01,7,Vilnius,Bajorai
+2017-08-01,8,Vilnius,Bajorai
+2017-09-01,7,Vilnius,Bajorai
+2017-10-01,6,Vilnius,Bajorai
+2017-11-01,6,Vilnius,Bajorai
+2017-12-01,6,Vilnius,Bajorai
+2018-01-01,6,Vilnius,Bajorai
+2018-02-01,6,Vilnius,Bajorai
+2018-03-01,6,Vilnius,Bajorai
+2018-04-01,7,Vilnius,Bajorai
+2018-05-01,7,Vilnius,Bajorai
+2018-06-01,6,Vilnius,Bajorai
+2018-07-01,7,Vilnius,Bajorai
+2018-08-01,8,Vilnius,Bajorai
+2018-09-01,8,Vilnius,Bajorai
+2018-10-01,7,Vilnius,Bajorai
+2018-11-01,8,Vilnius,Bajorai
+2018-12-01,9,Vilnius,Bajorai
+2019-01-01,8,Vilnius,Bajorai
+2019-02-01,7,Vilnius,Bajorai
+2019-03-01,7,Vilnius,Bajorai
+2019-04-01,7,Vilnius,Bajorai
+2019-05-01,7,Vilnius,Bajorai
+2019-06-01,7,Vilnius,Bajorai
+2019-07-01,8,Vilnius,Bajorai
+2019-08-01,8,Vilnius,Bajorai
+2019-09-01,8,Vilnius,Bajorai
+2019-10-01,7,Vilnius,Bajorai
+2019-11-01,8,Vilnius,Bajorai
+2019-12-01,8,Vilnius,Bajorai
+2020-01-01,7,Vilnius,Bajorai
+2020-02-01,7,Vilnius,Bajorai
+2020-03-01,8,Vilnius,Bajorai
+2020-04-01,7,Vilnius,Bajorai
+2020-05-01,8,Vilnius,Bajorai
+2020-06-01,8,Vilnius,Bajorai
+2020-07-01,7,Vilnius,Bajorai
+2020-08-01,8,Vilnius,Bajorai
+2020-09-01,8,Vilnius,Bajorai
+2020-10-01,8,Vilnius,Bajorai
+2020-11-01,8,Vilnius,Bajorai
+2020-12-01,9,Vilnius,Bajorai
+2021-01-01,9,Vilnius,Bajorai
+2021-02-01,10,Vilnius,Bajorai
+2021-03-01,9,Vilnius,Bajorai
+2021-04-01,8,Vilnius,Bajorai
+2021-05-01,8,Vilnius,Bajorai
+2021-06-01,8,Vilnius,Bajorai
+2021-08-01,9,Vilnius,Bajorai
+2021-12-01,10,Vilnius,Bajorai
+2022-01-01,10,Vilnius,Bajorai
+2022-02-01,9,Vilnius,Bajorai
+2022-03-01,12,Vilnius,Bajorai
+2022-04-01,12,Vilnius,Bajorai
+2022-06-01,14,Vilnius,Bajorai
+2022-07-01,13,Vilnius,Bajorai
+2022-08-01,13,Vilnius,Bajorai
+2022-09-01,11,Vilnius,Bajorai
+2022-10-01,5,Vilnius,Bajorai
+2018-02-01,6,Vilnius,Balsiai
+2018-03-01,6,Vilnius,Balsiai
+2018-04-01,4,Vilnius,Balsiai
+2018-05-01,4,Vilnius,Balsiai
+2018-06-01,4,Vilnius,Balsiai
+2018-07-01,6,Vilnius,Balsiai
+2018-08-01,6,Vilnius,Balsiai
+2018-11-01,5,Vilnius,Balsiai
+2018-12-01,7,Vilnius,Balsiai
+2019-03-01,6,Vilnius,Balsiai
+2019-04-01,7,Vilnius,Balsiai
+2019-05-01,6,Vilnius,Balsiai
+2019-06-01,7,Vilnius,Balsiai
+2019-07-01,7,Vilnius,Balsiai
+2019-08-01,5,Vilnius,Balsiai
+2019-09-01,6,Vilnius,Balsiai
+2019-10-01,9,Vilnius,Balsiai
+2019-11-01,7,Vilnius,Balsiai
+2019-12-01,6,Vilnius,Balsiai
+2020-01-01,7,Vilnius,Balsiai
+2020-02-01,7,Vilnius,Balsiai
+2020-03-01,6,Vilnius,Balsiai
+2020-05-01,6,Vilnius,Balsiai
+2020-06-01,9,Vilnius,Balsiai
+2020-07-01,7,Vilnius,Balsiai
+2020-08-01,7,Vilnius,Balsiai
+2020-09-01,8,Vilnius,Balsiai
+2020-10-01,7,Vilnius,Balsiai
+2020-11-01,7,Vilnius,Balsiai
+2021-02-01,5,Vilnius,Balsiai
+2021-03-01,3,Vilnius,Balsiai
+2022-08-01,10,Vilnius,Balsiai
+2017-01-01,7,Vilnius,Baltupiai
+2017-02-01,7,Vilnius,Baltupiai
+2017-03-01,7,Vilnius,Baltupiai
+2017-04-01,7,Vilnius,Baltupiai
+2017-05-01,7,Vilnius,Baltupiai
+2017-06-01,6,Vilnius,Baltupiai
+2017-07-01,7,Vilnius,Baltupiai
+2017-08-01,7,Vilnius,Baltupiai
+2017-09-01,7,Vilnius,Baltupiai
+2017-10-01,7,Vilnius,Baltupiai
+2017-11-01,7,Vilnius,Baltupiai
+2017-12-01,7,Vilnius,Baltupiai
+2018-01-01,7,Vilnius,Baltupiai
+2018-02-01,7,Vilnius,Baltupiai
+2018-03-01,8,Vilnius,Baltupiai
+2018-04-01,7,Vilnius,Baltupiai
+2018-05-01,8,Vilnius,Baltupiai
+2018-06-01,7,Vilnius,Baltupiai
+2018-07-01,7,Vilnius,Baltupiai
+2018-08-01,7,Vilnius,Baltupiai
+2018-09-01,6,Vilnius,Baltupiai
+2018-10-01,8,Vilnius,Baltupiai
+2018-11-01,8,Vilnius,Baltupiai
+2018-12-01,7,Vilnius,Baltupiai
+2019-01-01,8,Vilnius,Baltupiai
+2019-02-01,8,Vilnius,Baltupiai
+2019-03-01,9,Vilnius,Baltupiai
+2019-04-01,8,Vilnius,Baltupiai
+2019-05-01,8,Vilnius,Baltupiai
+2019-06-01,8,Vilnius,Baltupiai
+2019-07-01,8,Vilnius,Baltupiai
+2019-08-01,9,Vilnius,Baltupiai
+2019-09-01,8,Vilnius,Baltupiai
+2019-10-01,8,Vilnius,Baltupiai
+2019-11-01,8,Vilnius,Baltupiai
+2019-12-01,8,Vilnius,Baltupiai
+2020-01-01,8,Vilnius,Baltupiai
+2020-02-01,8,Vilnius,Baltupiai
+2020-03-01,10,Vilnius,Baltupiai
+2020-04-01,9,Vilnius,Baltupiai
+2020-05-01,8,Vilnius,Baltupiai
+2020-06-01,9,Vilnius,Baltupiai
+2020-07-01,9,Vilnius,Baltupiai
+2020-08-01,9,Vilnius,Baltupiai
+2020-09-01,9,Vilnius,Baltupiai
+2020-10-01,9,Vilnius,Baltupiai
+2020-11-01,9,Vilnius,Baltupiai
+2020-12-01,9,Vilnius,Baltupiai
+2021-01-01,9,Vilnius,Baltupiai
+2021-02-01,9,Vilnius,Baltupiai
+2021-03-01,9,Vilnius,Baltupiai
+2021-04-01,10,Vilnius,Baltupiai
+2021-05-01,9,Vilnius,Baltupiai
+2021-06-01,11,Vilnius,Baltupiai
+2021-07-01,11,Vilnius,Baltupiai
+2021-08-01,10,Vilnius,Baltupiai
+2021-09-01,10,Vilnius,Baltupiai
+2021-10-01,9,Vilnius,Baltupiai
+2021-11-01,10,Vilnius,Baltupiai
+2021-12-01,10,Vilnius,Baltupiai
+2022-01-01,10,Vilnius,Baltupiai
+2022-02-01,10,Vilnius,Baltupiai
+2022-03-01,11,Vilnius,Baltupiai
+2022-04-01,11,Vilnius,Baltupiai
+2022-05-01,13,Vilnius,Baltupiai
+2022-06-01,14,Vilnius,Baltupiai
+2022-07-01,14,Vilnius,Baltupiai
+2022-08-01,13,Vilnius,Baltupiai
+2022-09-01,13,Vilnius,Baltupiai
+2022-10-01,12,Vilnius,Baltupiai
+2018-01-01,4,Vilnius,Buivydiškės
+2018-02-01,5,Vilnius,Buivydiškės
+2019-03-01,5,Vilnius,Buivydiškės
+2019-04-01,5,Vilnius,Buivydiškės
+2019-12-01,6,Vilnius,Buivydiškės
+2020-06-01,5,Vilnius,Buivydiškės
+2020-07-01,7,Vilnius,Buivydiškės
+2020-10-01,5,Vilnius,Buivydiškės
+2020-11-01,7,Vilnius,Buivydiškės
+2019-09-01,17,Vilnius,Bukčiai
+2019-10-01,8,Vilnius,Bukčiai
+2019-11-01,6,Vilnius,Bukčiai
+2020-11-01,7,Vilnius,Bukčiai
+2017-12-01,8,Vilnius,Burbiškės
+2018-01-01,8,Vilnius,Burbiškės
+2018-05-01,8,Vilnius,Burbiškės
+2018-06-01,8,Vilnius,Burbiškės
+2018-08-01,12,Vilnius,Burbiškės
+2018-09-01,9,Vilnius,Burbiškės
+2018-10-01,8,Vilnius,Burbiškės
+2019-01-01,10,Vilnius,Burbiškės
+2019-03-01,10,Vilnius,Burbiškės
+2019-04-01,10,Vilnius,Burbiškės
+2019-05-01,9,Vilnius,Burbiškės
+2019-06-01,10,Vilnius,Burbiškės
+2019-07-01,9,Vilnius,Burbiškės
+2019-08-01,8,Vilnius,Burbiškės
+2019-09-01,7,Vilnius,Burbiškės
+2019-10-01,7,Vilnius,Burbiškės
+2019-11-01,10,Vilnius,Burbiškės
+2020-01-01,13,Vilnius,Burbiškės
+2020-02-01,10,Vilnius,Burbiškės
+2020-03-01,11,Vilnius,Burbiškės
+2020-04-01,8,Vilnius,Burbiškės
+2020-05-01,10,Vilnius,Burbiškės
+2020-06-01,10,Vilnius,Burbiškės
+2020-07-01,10,Vilnius,Burbiškės
+2020-08-01,9,Vilnius,Burbiškės
+2020-09-01,9,Vilnius,Burbiškės
+2020-10-01,11,Vilnius,Burbiškės
+2020-11-01,12,Vilnius,Burbiškės
+2020-12-01,10,Vilnius,Burbiškės
+2021-01-01,9,Vilnius,Burbiškės
+2021-02-01,9,Vilnius,Burbiškės
+2021-03-01,9,Vilnius,Burbiškės
+2018-02-01,8,Vilnius,Didieji Gulbinai
+2018-05-01,8,Vilnius,Didieji Gulbinai
+2020-06-01,8,Vilnius,Didieji Gulbinai
+2017-12-01,6,Vilnius,Dvarčionys
+2018-01-01,4,Vilnius,Dvarčionys
+2018-02-01,5,Vilnius,Dvarčionys
+2018-06-01,7,Vilnius,Dvarčionys
+2018-07-01,5,Vilnius,Dvarčionys
+2018-08-01,4,Vilnius,Dvarčionys
+2018-09-01,3,Vilnius,Dvarčionys
+2018-10-01,5,Vilnius,Dvarčionys
+2018-11-01,7,Vilnius,Dvarčionys
+2018-12-01,6,Vilnius,Dvarčionys
+2019-01-01,6,Vilnius,Dvarčionys
+2019-02-01,6,Vilnius,Dvarčionys
+2019-03-01,7,Vilnius,Dvarčionys
+2019-04-01,8,Vilnius,Dvarčionys
+2019-05-01,7,Vilnius,Dvarčionys
+2019-06-01,7,Vilnius,Dvarčionys
+2019-08-01,4,Vilnius,Dvarčionys
+2019-09-01,4,Vilnius,Dvarčionys
+2019-11-01,6,Vilnius,Dvarčionys
+2019-12-01,5,Vilnius,Dvarčionys
+2020-01-01,5,Vilnius,Dvarčionys
+2020-02-01,5,Vilnius,Dvarčionys
+2020-03-01,6,Vilnius,Dvarčionys
+2020-04-01,6,Vilnius,Dvarčionys
+2020-05-01,6,Vilnius,Dvarčionys
+2020-06-01,7,Vilnius,Dvarčionys
+2020-07-01,7,Vilnius,Dvarčionys
+2020-08-01,7,Vilnius,Dvarčionys
+2020-09-01,7,Vilnius,Dvarčionys
+2020-10-01,7,Vilnius,Dvarčionys
+2020-11-01,7,Vilnius,Dvarčionys
+2021-03-01,8,Vilnius,Dvarčionys
+2017-01-01,6,Vilnius,Fabijoniškės
+2017-02-01,6,Vilnius,Fabijoniškės
+2017-03-01,6,Vilnius,Fabijoniškės
+2017-04-01,6,Vilnius,Fabijoniškės
+2017-05-01,6,Vilnius,Fabijoniškės
+2017-06-01,6,Vilnius,Fabijoniškės
+2017-07-01,6,Vilnius,Fabijoniškės
+2017-08-01,6,Vilnius,Fabijoniškės
+2017-09-01,6,Vilnius,Fabijoniškės
+2017-10-01,6,Vilnius,Fabijoniškės
+2017-11-01,6,Vilnius,Fabijoniškės
+2017-12-01,6,Vilnius,Fabijoniškės
+2018-01-01,6,Vilnius,Fabijoniškės
+2018-02-01,6,Vilnius,Fabijoniškės
+2018-03-01,7,Vilnius,Fabijoniškės
+2018-04-01,7,Vilnius,Fabijoniškės
+2018-05-01,7,Vilnius,Fabijoniškės
+2018-06-01,6,Vilnius,Fabijoniškės
+2018-07-01,7,Vilnius,Fabijoniškės
+2018-08-01,7,Vilnius,Fabijoniškės
+2018-09-01,6,Vilnius,Fabijoniškės
+2018-10-01,6,Vilnius,Fabijoniškės
+2018-11-01,6,Vilnius,Fabijoniškės
+2018-12-01,6,Vilnius,Fabijoniškės
+2019-01-01,6,Vilnius,Fabijoniškės
+2019-02-01,6,Vilnius,Fabijoniškės
+2019-03-01,6,Vilnius,Fabijoniškės
+2019-04-01,7,Vilnius,Fabijoniškės
+2019-05-01,7,Vilnius,Fabijoniškės
+2019-06-01,7,Vilnius,Fabijoniškės
+2019-07-01,7,Vilnius,Fabijoniškės
+2019-08-01,7,Vilnius,Fabijoniškės
+2019-09-01,7,Vilnius,Fabijoniškės
+2019-10-01,7,Vilnius,Fabijoniškės
+2019-11-01,7,Vilnius,Fabijoniškės
+2019-12-01,7,Vilnius,Fabijoniškės
+2020-01-01,8,Vilnius,Fabijoniškės
+2020-02-01,7,Vilnius,Fabijoniškės
+2020-03-01,7,Vilnius,Fabijoniškės
+2020-04-01,7,Vilnius,Fabijoniškės
+2020-05-01,7,Vilnius,Fabijoniškės
+2020-06-01,7,Vilnius,Fabijoniškės
+2020-07-01,7,Vilnius,Fabijoniškės
+2020-08-01,7,Vilnius,Fabijoniškės
+2020-09-01,7,Vilnius,Fabijoniškės
+2020-10-01,7,Vilnius,Fabijoniškės
+2020-11-01,7,Vilnius,Fabijoniškės
+2020-12-01,7,Vilnius,Fabijoniškės
+2021-01-01,7,Vilnius,Fabijoniškės
+2021-02-01,8,Vilnius,Fabijoniškės
+2021-03-01,8,Vilnius,Fabijoniškės
+2021-04-01,8,Vilnius,Fabijoniškės
+2021-05-01,8,Vilnius,Fabijoniškės
+2021-06-01,8,Vilnius,Fabijoniškės
+2021-07-01,8,Vilnius,Fabijoniškės
+2021-08-01,8,Vilnius,Fabijoniškės
+2021-09-01,8,Vilnius,Fabijoniškės
+2021-10-01,9,Vilnius,Fabijoniškės
+2021-11-01,8,Vilnius,Fabijoniškės
+2021-12-01,8,Vilnius,Fabijoniškės
+2022-01-01,9,Vilnius,Fabijoniškės
+2022-02-01,8,Vilnius,Fabijoniškės
+2022-03-01,8,Vilnius,Fabijoniškės
+2022-04-01,9,Vilnius,Fabijoniškės
+2022-05-01,10,Vilnius,Fabijoniškės
+2022-06-01,11,Vilnius,Fabijoniškės
+2022-07-01,12,Vilnius,Fabijoniškės
+2022-08-01,11,Vilnius,Fabijoniškės
+2022-09-01,10,Vilnius,Fabijoniškės
+2022-10-01,10,Vilnius,Fabijoniškės
+2017-02-01,6,Vilnius,Filaretai
+2017-12-01,5,Vilnius,Filaretai
+2018-01-01,7,Vilnius,Filaretai
+2018-02-01,8,Vilnius,Filaretai
+2018-03-01,7,Vilnius,Filaretai
+2018-04-01,7,Vilnius,Filaretai
+2018-05-01,7,Vilnius,Filaretai
+2018-06-01,7,Vilnius,Filaretai
+2018-07-01,6,Vilnius,Filaretai
+2018-08-01,8,Vilnius,Filaretai
+2018-09-01,8,Vilnius,Filaretai
+2018-10-01,5,Vilnius,Filaretai
+2018-11-01,9,Vilnius,Filaretai
+2018-12-01,7,Vilnius,Filaretai
+2019-01-01,7,Vilnius,Filaretai
+2019-02-01,6,Vilnius,Filaretai
+2019-03-01,4,Vilnius,Filaretai
+2019-06-01,7,Vilnius,Filaretai
+2019-08-01,8,Vilnius,Filaretai
+2019-09-01,8,Vilnius,Filaretai
+2019-10-01,8,Vilnius,Filaretai
+2019-11-01,9,Vilnius,Filaretai
+2019-12-01,8,Vilnius,Filaretai
+2020-01-01,8,Vilnius,Filaretai
+2020-02-01,8,Vilnius,Filaretai
+2020-04-01,8,Vilnius,Filaretai
+2020-05-01,9,Vilnius,Filaretai
+2020-06-01,9,Vilnius,Filaretai
+2020-07-01,10,Vilnius,Filaretai
+2020-08-01,8,Vilnius,Filaretai
+2020-09-01,8,Vilnius,Filaretai
+2020-10-01,9,Vilnius,Filaretai
+2020-11-01,12,Vilnius,Filaretai
+2020-12-01,12,Vilnius,Filaretai
+2021-01-01,11,Vilnius,Filaretai
+2021-02-01,9,Vilnius,Filaretai
+2021-03-01,9,Vilnius,Filaretai
+2022-06-01,12,Vilnius,Filaretai
+2018-02-01,7,Vilnius,Galgiai
+2019-04-01,6,Vilnius,Galgiai
+2020-06-01,10,Vilnius,Galgiai
+2020-07-01,11,Vilnius,Galgiai
+2020-10-01,11,Vilnius,Galgiai
+2019-11-01,6,Vilnius,Gariūnai
+2019-12-01,6,Vilnius,Gariūnai
+2020-01-01,8,Vilnius,Gariūnai
+2018-04-01,3,Vilnius,Gineitiškės
+2018-05-01,3,Vilnius,Gineitiškės
+2018-07-01,4,Vilnius,Gineitiškės
+2018-09-01,4,Vilnius,Gineitiškės
+2018-10-01,4,Vilnius,Gineitiškės
+2018-11-01,4,Vilnius,Gineitiškės
+2018-12-01,4,Vilnius,Gineitiškės
+2019-05-01,8,Vilnius,Gineitiškės
+2019-06-01,7,Vilnius,Gineitiškės
+2019-07-01,5,Vilnius,Gineitiškės
+2019-08-01,5,Vilnius,Gineitiškės
+2020-04-01,12,Vilnius,Gineitiškės
+2020-08-01,10,Vilnius,Gineitiškės
+2020-09-01,8,Vilnius,Gineitiškės
+2020-10-01,9,Vilnius,Gineitiškės
+2020-11-01,8,Vilnius,Gineitiškės
+2020-12-01,8,Vilnius,Gineitiškės
+2017-01-01,4,Vilnius,Grigiškės
+2017-02-01,4,Vilnius,Grigiškės
+2017-03-01,4,Vilnius,Grigiškės
+2017-09-01,5,Vilnius,Grigiškės
+2017-10-01,5,Vilnius,Grigiškės
+2017-11-01,5,Vilnius,Grigiškės
+2017-12-01,6,Vilnius,Grigiškės
+2018-01-01,6,Vilnius,Grigiškės
+2018-02-01,5,Vilnius,Grigiškės
+2018-03-01,5,Vilnius,Grigiškės
+2018-04-01,4,Vilnius,Grigiškės
+2018-06-01,5,Vilnius,Grigiškės
+2018-07-01,7,Vilnius,Grigiškės
+2018-08-01,6,Vilnius,Grigiškės
+2018-09-01,6,Vilnius,Grigiškės
+2018-10-01,7,Vilnius,Grigiškės
+2018-11-01,7,Vilnius,Grigiškės
+2018-12-01,7,Vilnius,Grigiškės
+2019-01-01,6,Vilnius,Grigiškės
+2019-02-01,5,Vilnius,Grigiškės
+2019-03-01,5,Vilnius,Grigiškės
+2019-04-01,6,Vilnius,Grigiškės
+2019-05-01,6,Vilnius,Grigiškės
+2019-06-01,5,Vilnius,Grigiškės
+2019-07-01,5,Vilnius,Grigiškės
+2019-08-01,6,Vilnius,Grigiškės
+2019-09-01,7,Vilnius,Grigiškės
+2019-10-01,7,Vilnius,Grigiškės
+2019-11-01,7,Vilnius,Grigiškės
+2019-12-01,7,Vilnius,Grigiškės
+2020-01-01,8,Vilnius,Grigiškės
+2020-02-01,8,Vilnius,Grigiškės
+2020-03-01,7,Vilnius,Grigiškės
+2020-04-01,7,Vilnius,Grigiškės
+2020-05-01,6,Vilnius,Grigiškės
+2020-06-01,6,Vilnius,Grigiškės
+2020-07-01,5,Vilnius,Grigiškės
+2020-08-01,6,Vilnius,Grigiškės
+2020-09-01,7,Vilnius,Grigiškės
+2020-10-01,7,Vilnius,Grigiškės
+2020-11-01,6,Vilnius,Grigiškės
+2020-12-01,6,Vilnius,Grigiškės
+2021-01-01,6,Vilnius,Grigiškės
+2021-02-01,5,Vilnius,Grigiškės
+2021-03-01,6,Vilnius,Grigiškės
+2021-06-01,6,Vilnius,Grigiškės
+2021-07-01,7,Vilnius,Grigiškės
+2021-08-01,7,Vilnius,Grigiškės
+2021-09-01,7,Vilnius,Grigiškės
+2021-10-01,7,Vilnius,Grigiškės
+2021-11-01,7,Vilnius,Grigiškės
+2021-12-01,7,Vilnius,Grigiškės
+2022-01-01,7,Vilnius,Grigiškės
+2022-09-01,11,Vilnius,Grigiškės
+2022-10-01,9,Vilnius,Grigiškės
+2019-12-01,10,Vilnius,Gudeliai
+2020-01-01,9,Vilnius,Gudeliai
+2017-01-01,5,Vilnius,Jeruzalė
+2017-02-01,5,Vilnius,Jeruzalė
+2017-03-01,6,Vilnius,Jeruzalė
+2017-04-01,6,Vilnius,Jeruzalė
+2017-05-01,6,Vilnius,Jeruzalė
+2017-06-01,6,Vilnius,Jeruzalė
+2017-07-01,6,Vilnius,Jeruzalė
+2017-08-01,6,Vilnius,Jeruzalė
+2017-09-01,7,Vilnius,Jeruzalė
+2017-10-01,6,Vilnius,Jeruzalė
+2017-11-01,6,Vilnius,Jeruzalė
+2017-12-01,6,Vilnius,Jeruzalė
+2018-01-01,6,Vilnius,Jeruzalė
+2018-02-01,6,Vilnius,Jeruzalė
+2018-03-01,7,Vilnius,Jeruzalė
+2018-04-01,6,Vilnius,Jeruzalė
+2018-05-01,6,Vilnius,Jeruzalė
+2018-06-01,6,Vilnius,Jeruzalė
+2018-07-01,7,Vilnius,Jeruzalė
+2018-08-01,6,Vilnius,Jeruzalė
+2018-09-01,5,Vilnius,Jeruzalė
+2018-10-01,6,Vilnius,Jeruzalė
+2018-11-01,6,Vilnius,Jeruzalė
+2018-12-01,6,Vilnius,Jeruzalė
+2019-01-01,6,Vilnius,Jeruzalė
+2019-02-01,7,Vilnius,Jeruzalė
+2019-03-01,6,Vilnius,Jeruzalė
+2019-04-01,7,Vilnius,Jeruzalė
+2019-05-01,7,Vilnius,Jeruzalė
+2019-06-01,7,Vilnius,Jeruzalė
+2019-07-01,7,Vilnius,Jeruzalė
+2019-08-01,7,Vilnius,Jeruzalė
+2019-09-01,7,Vilnius,Jeruzalė
+2019-10-01,7,Vilnius,Jeruzalė
+2019-11-01,7,Vilnius,Jeruzalė
+2019-12-01,8,Vilnius,Jeruzalė
+2020-01-01,8,Vilnius,Jeruzalė
+2020-02-01,8,Vilnius,Jeruzalė
+2020-03-01,7,Vilnius,Jeruzalė
+2020-04-01,6,Vilnius,Jeruzalė
+2020-05-01,6,Vilnius,Jeruzalė
+2020-06-01,7,Vilnius,Jeruzalė
+2020-07-01,7,Vilnius,Jeruzalė
+2020-08-01,7,Vilnius,Jeruzalė
+2020-09-01,7,Vilnius,Jeruzalė
+2020-10-01,7,Vilnius,Jeruzalė
+2020-11-01,7,Vilnius,Jeruzalė
+2020-12-01,8,Vilnius,Jeruzalė
+2021-01-01,7,Vilnius,Jeruzalė
+2021-02-01,7,Vilnius,Jeruzalė
+2021-03-01,8,Vilnius,Jeruzalė
+2021-04-01,8,Vilnius,Jeruzalė
+2021-05-01,7,Vilnius,Jeruzalė
+2021-06-01,7,Vilnius,Jeruzalė
+2021-07-01,8,Vilnius,Jeruzalė
+2021-08-01,8,Vilnius,Jeruzalė
+2021-09-01,8,Vilnius,Jeruzalė
+2021-10-01,8,Vilnius,Jeruzalė
+2021-11-01,9,Vilnius,Jeruzalė
+2021-12-01,9,Vilnius,Jeruzalė
+2022-01-01,9,Vilnius,Jeruzalė
+2022-02-01,8,Vilnius,Jeruzalė
+2022-03-01,8,Vilnius,Jeruzalė
+2022-04-01,9,Vilnius,Jeruzalė
+2022-05-01,10,Vilnius,Jeruzalė
+2022-06-01,11,Vilnius,Jeruzalė
+2022-07-01,11,Vilnius,Jeruzalė
+2022-08-01,11,Vilnius,Jeruzalė
+2022-09-01,10,Vilnius,Jeruzalė
+2022-10-01,9,Vilnius,Jeruzalė
+2017-01-01,5,Vilnius,Justiniškės
+2017-02-01,5,Vilnius,Justiniškės
+2017-03-01,5,Vilnius,Justiniškės
+2017-04-01,6,Vilnius,Justiniškės
+2017-05-01,6,Vilnius,Justiniškės
+2017-06-01,6,Vilnius,Justiniškės
+2017-07-01,6,Vilnius,Justiniškės
+2017-08-01,6,Vilnius,Justiniškės
+2017-09-01,5,Vilnius,Justiniškės
+2017-10-01,5,Vilnius,Justiniškės
+2017-11-01,5,Vilnius,Justiniškės
+2017-12-01,6,Vilnius,Justiniškės
+2018-01-01,6,Vilnius,Justiniškės
+2018-02-01,6,Vilnius,Justiniškės
+2018-03-01,6,Vilnius,Justiniškės
+2018-04-01,6,Vilnius,Justiniškės
+2018-05-01,6,Vilnius,Justiniškės
+2018-06-01,6,Vilnius,Justiniškės
+2018-07-01,6,Vilnius,Justiniškės
+2018-08-01,6,Vilnius,Justiniškės
+2018-09-01,6,Vilnius,Justiniškės
+2018-10-01,6,Vilnius,Justiniškės
+2018-11-01,6,Vilnius,Justiniškės
+2018-12-01,6,Vilnius,Justiniškės
+2019-01-01,5,Vilnius,Justiniškės
+2019-02-01,6,Vilnius,Justiniškės
+2019-03-01,6,Vilnius,Justiniškės
+2019-04-01,7,Vilnius,Justiniškės
+2019-05-01,7,Vilnius,Justiniškės
+2019-06-01,7,Vilnius,Justiniškės
+2019-07-01,7,Vilnius,Justiniškės
+2019-08-01,7,Vilnius,Justiniškės
+2019-09-01,7,Vilnius,Justiniškės
+2019-10-01,7,Vilnius,Justiniškės
+2019-11-01,7,Vilnius,Justiniškės
+2019-12-01,7,Vilnius,Justiniškės
+2020-01-01,8,Vilnius,Justiniškės
+2020-02-01,7,Vilnius,Justiniškės
+2020-03-01,8,Vilnius,Justiniškės
+2020-04-01,8,Vilnius,Justiniškės
+2020-05-01,7,Vilnius,Justiniškės
+2020-06-01,6,Vilnius,Justiniškės
+2020-07-01,7,Vilnius,Justiniškės
+2020-08-01,7,Vilnius,Justiniškės
+2020-09-01,7,Vilnius,Justiniškės
+2020-10-01,7,Vilnius,Justiniškės
+2020-11-01,7,Vilnius,Justiniškės
+2020-12-01,7,Vilnius,Justiniškės
+2021-01-01,7,Vilnius,Justiniškės
+2021-02-01,7,Vilnius,Justiniškės
+2021-03-01,7,Vilnius,Justiniškės
+2021-04-01,7,Vilnius,Justiniškės
+2021-05-01,8,Vilnius,Justiniškės
+2021-06-01,8,Vilnius,Justiniškės
+2021-07-01,8,Vilnius,Justiniškės
+2021-08-01,8,Vilnius,Justiniškės
+2021-09-01,9,Vilnius,Justiniškės
+2021-10-01,10,Vilnius,Justiniškės
+2021-11-01,9,Vilnius,Justiniškės
+2021-12-01,8,Vilnius,Justiniškės
+2022-01-01,8,Vilnius,Justiniškės
+2022-02-01,8,Vilnius,Justiniškės
+2022-03-01,9,Vilnius,Justiniškės
+2022-04-01,10,Vilnius,Justiniškės
+2022-05-01,10,Vilnius,Justiniškės
+2022-06-01,11,Vilnius,Justiniškės
+2022-07-01,11,Vilnius,Justiniškės
+2022-08-01,11,Vilnius,Justiniškės
+2022-09-01,11,Vilnius,Justiniškės
+2022-10-01,10,Vilnius,Justiniškės
+2018-03-01,6,Vilnius,Kairėnai
+2018-08-01,6,Vilnius,Kairėnai
+2019-04-01,5,Vilnius,Kairėnai
+2019-06-01,7,Vilnius,Kairėnai
+2019-09-01,8,Vilnius,Kairėnai
+2020-06-01,7,Vilnius,Kairėnai
+2020-10-01,3,Vilnius,Kairėnai
+2020-11-01,4,Vilnius,Kairėnai
+2021-01-01,6,Vilnius,Kairėnai
+2017-02-01,8,Vilnius,Kalnėnai
+2017-03-01,9,Vilnius,Kalnėnai
+2017-04-01,9,Vilnius,Kalnėnai
+2017-05-01,9,Vilnius,Kalnėnai
+2017-06-01,10,Vilnius,Kalnėnai
+2017-07-01,10,Vilnius,Kalnėnai
+2017-08-01,10,Vilnius,Kalnėnai
+2017-10-01,10,Vilnius,Kalnėnai
+2017-11-01,10,Vilnius,Kalnėnai
+2017-12-01,11,Vilnius,Kalnėnai
+2018-01-01,11,Vilnius,Kalnėnai
+2018-02-01,9,Vilnius,Kalnėnai
+2018-03-01,9,Vilnius,Kalnėnai
+2018-04-01,9,Vilnius,Kalnėnai
+2018-05-01,8,Vilnius,Kalnėnai
+2018-08-01,8,Vilnius,Kalnėnai
+2018-09-01,8,Vilnius,Kalnėnai
+2018-10-01,9,Vilnius,Kalnėnai
+2018-11-01,7,Vilnius,Kalnėnai
+2018-12-01,7,Vilnius,Kalnėnai
+2019-01-01,7,Vilnius,Kalnėnai
+2019-02-01,8,Vilnius,Kalnėnai
+2019-03-01,8,Vilnius,Kalnėnai
+2019-04-01,8,Vilnius,Kalnėnai
+2019-06-01,9,Vilnius,Kalnėnai
+2019-07-01,9,Vilnius,Kalnėnai
+2019-09-01,9,Vilnius,Kalnėnai
+2019-10-01,8,Vilnius,Kalnėnai
+2019-11-01,7,Vilnius,Kalnėnai
+2019-12-01,8,Vilnius,Kalnėnai
+2020-01-01,9,Vilnius,Kalnėnai
+2020-02-01,9,Vilnius,Kalnėnai
+2020-03-01,9,Vilnius,Kalnėnai
+2020-05-01,7,Vilnius,Kalnėnai
+2020-06-01,7,Vilnius,Kalnėnai
+2020-07-01,7,Vilnius,Kalnėnai
+2020-08-01,7,Vilnius,Kalnėnai
+2021-02-01,13,Vilnius,Kalnėnai
+2021-03-01,12,Vilnius,Kalnėnai
+2021-11-01,9,Vilnius,Kalnėnai
+2017-01-01,6,Vilnius,Karoliniškės
+2017-02-01,6,Vilnius,Karoliniškės
+2017-03-01,8,Vilnius,Karoliniškės
+2017-04-01,9,Vilnius,Karoliniškės
+2017-05-01,10,Vilnius,Karoliniškės
+2017-06-01,11,Vilnius,Karoliniškės
+2017-07-01,10,Vilnius,Karoliniškės
+2017-08-01,7,Vilnius,Karoliniškės
+2017-09-01,9,Vilnius,Karoliniškės
+2017-10-01,9,Vilnius,Karoliniškės
+2017-11-01,9,Vilnius,Karoliniškės
+2017-12-01,10,Vilnius,Karoliniškės
+2018-01-01,10,Vilnius,Karoliniškės
+2018-02-01,8,Vilnius,Karoliniškės
+2018-03-01,8,Vilnius,Karoliniškės
+2018-04-01,9,Vilnius,Karoliniškės
+2018-05-01,9,Vilnius,Karoliniškės
+2018-06-01,9,Vilnius,Karoliniškės
+2018-07-01,10,Vilnius,Karoliniškės
+2018-08-01,9,Vilnius,Karoliniškės
+2018-09-01,8,Vilnius,Karoliniškės
+2018-10-01,9,Vilnius,Karoliniškės
+2018-11-01,9,Vilnius,Karoliniškės
+2018-12-01,9,Vilnius,Karoliniškės
+2019-01-01,8,Vilnius,Karoliniškės
+2019-02-01,7,Vilnius,Karoliniškės
+2019-03-01,8,Vilnius,Karoliniškės
+2019-04-01,8,Vilnius,Karoliniškės
+2019-05-01,7,Vilnius,Karoliniškės
+2019-06-01,7,Vilnius,Karoliniškės
+2019-07-01,8,Vilnius,Karoliniškės
+2019-08-01,7,Vilnius,Karoliniškės
+2019-09-01,7,Vilnius,Karoliniškės
+2019-10-01,8,Vilnius,Karoliniškės
+2019-11-01,9,Vilnius,Karoliniškės
+2019-12-01,8,Vilnius,Karoliniškės
+2020-01-01,9,Vilnius,Karoliniškės
+2020-02-01,8,Vilnius,Karoliniškės
+2020-03-01,8,Vilnius,Karoliniškės
+2020-04-01,7,Vilnius,Karoliniškės
+2020-05-01,7,Vilnius,Karoliniškės
+2020-06-01,7,Vilnius,Karoliniškės
+2020-07-01,7,Vilnius,Karoliniškės
+2020-08-01,7,Vilnius,Karoliniškės
+2020-09-01,7,Vilnius,Karoliniškės
+2020-10-01,8,Vilnius,Karoliniškės
+2020-11-01,8,Vilnius,Karoliniškės
+2020-12-01,7,Vilnius,Karoliniškės
+2021-01-01,8,Vilnius,Karoliniškės
+2021-02-01,8,Vilnius,Karoliniškės
+2021-03-01,8,Vilnius,Karoliniškės
+2021-04-01,8,Vilnius,Karoliniškės
+2021-05-01,8,Vilnius,Karoliniškės
+2021-06-01,8,Vilnius,Karoliniškės
+2021-07-01,9,Vilnius,Karoliniškės
+2021-08-01,8,Vilnius,Karoliniškės
+2021-09-01,8,Vilnius,Karoliniškės
+2021-10-01,9,Vilnius,Karoliniškės
+2021-11-01,9,Vilnius,Karoliniškės
+2021-12-01,9,Vilnius,Karoliniškės
+2022-01-01,9,Vilnius,Karoliniškės
+2022-02-01,8,Vilnius,Karoliniškės
+2022-03-01,9,Vilnius,Karoliniškės
+2022-04-01,9,Vilnius,Karoliniškės
+2022-05-01,12,Vilnius,Karoliniškės
+2022-06-01,12,Vilnius,Karoliniškės
+2022-07-01,11,Vilnius,Karoliniškės
+2022-08-01,11,Vilnius,Karoliniškės
+2022-09-01,11,Vilnius,Karoliniškės
+2022-10-01,11,Vilnius,Karoliniškės
+2017-12-01,5,Vilnius,Kirtimai
+2018-01-01,4,Vilnius,Kirtimai
+2018-04-01,6,Vilnius,Kirtimai
+2018-05-01,6,Vilnius,Kirtimai
+2018-06-01,8,Vilnius,Kirtimai
+2018-07-01,6,Vilnius,Kirtimai
+2018-08-01,7,Vilnius,Kirtimai
+2018-09-01,7,Vilnius,Kirtimai
+2018-10-01,6,Vilnius,Kirtimai
+2020-04-01,11,Vilnius,Kirtimai
+2020-11-01,8,Vilnius,Kirtimai
+2020-12-01,7,Vilnius,Kirtimai
+2017-01-01,5,Vilnius,Lazdynai
+2017-02-01,5,Vilnius,Lazdynai
+2017-03-01,6,Vilnius,Lazdynai
+2017-04-01,6,Vilnius,Lazdynai
+2017-05-01,6,Vilnius,Lazdynai
+2017-06-01,6,Vilnius,Lazdynai
+2017-07-01,6,Vilnius,Lazdynai
+2017-08-01,6,Vilnius,Lazdynai
+2017-09-01,6,Vilnius,Lazdynai
+2017-10-01,6,Vilnius,Lazdynai
+2017-11-01,6,Vilnius,Lazdynai
+2017-12-01,5,Vilnius,Lazdynai
+2018-01-01,6,Vilnius,Lazdynai
+2018-02-01,6,Vilnius,Lazdynai
+2018-03-01,6,Vilnius,Lazdynai
+2018-04-01,6,Vilnius,Lazdynai
+2018-05-01,7,Vilnius,Lazdynai
+2018-06-01,6,Vilnius,Lazdynai
+2018-07-01,6,Vilnius,Lazdynai
+2018-08-01,6,Vilnius,Lazdynai
+2018-09-01,6,Vilnius,Lazdynai
+2018-10-01,6,Vilnius,Lazdynai
+2018-11-01,6,Vilnius,Lazdynai
+2018-12-01,6,Vilnius,Lazdynai
+2019-01-01,6,Vilnius,Lazdynai
+2019-02-01,7,Vilnius,Lazdynai
+2019-03-01,6,Vilnius,Lazdynai
+2019-04-01,7,Vilnius,Lazdynai
+2019-05-01,7,Vilnius,Lazdynai
+2019-06-01,7,Vilnius,Lazdynai
+2019-07-01,8,Vilnius,Lazdynai
+2019-08-01,6,Vilnius,Lazdynai
+2019-09-01,7,Vilnius,Lazdynai
+2019-10-01,7,Vilnius,Lazdynai
+2019-11-01,7,Vilnius,Lazdynai
+2019-12-01,7,Vilnius,Lazdynai
+2020-01-01,7,Vilnius,Lazdynai
+2020-02-01,7,Vilnius,Lazdynai
+2020-03-01,7,Vilnius,Lazdynai
+2020-04-01,7,Vilnius,Lazdynai
+2020-05-01,7,Vilnius,Lazdynai
+2020-06-01,6,Vilnius,Lazdynai
+2020-07-01,7,Vilnius,Lazdynai
+2020-08-01,7,Vilnius,Lazdynai
+2020-09-01,7,Vilnius,Lazdynai
+2020-10-01,7,Vilnius,Lazdynai
+2020-11-01,7,Vilnius,Lazdynai
+2020-12-01,7,Vilnius,Lazdynai
+2021-01-01,7,Vilnius,Lazdynai
+2021-02-01,8,Vilnius,Lazdynai
+2021-03-01,8,Vilnius,Lazdynai
+2021-04-01,8,Vilnius,Lazdynai
+2021-05-01,8,Vilnius,Lazdynai
+2021-06-01,9,Vilnius,Lazdynai
+2021-07-01,8,Vilnius,Lazdynai
+2021-08-01,8,Vilnius,Lazdynai
+2021-09-01,8,Vilnius,Lazdynai
+2021-10-01,8,Vilnius,Lazdynai
+2021-11-01,9,Vilnius,Lazdynai
+2021-12-01,9,Vilnius,Lazdynai
+2022-01-01,8,Vilnius,Lazdynai
+2022-02-01,9,Vilnius,Lazdynai
+2022-03-01,9,Vilnius,Lazdynai
+2022-04-01,10,Vilnius,Lazdynai
+2022-05-01,11,Vilnius,Lazdynai
+2022-06-01,11,Vilnius,Lazdynai
+2022-07-01,11,Vilnius,Lazdynai
+2022-08-01,12,Vilnius,Lazdynai
+2022-09-01,11,Vilnius,Lazdynai
+2022-10-01,10,Vilnius,Lazdynai
+2017-01-01,6,Vilnius,Lazdynėliai
+2017-02-01,7,Vilnius,Lazdynėliai
+2017-03-01,6,Vilnius,Lazdynėliai
+2017-04-01,6,Vilnius,Lazdynėliai
+2017-05-01,6,Vilnius,Lazdynėliai
+2017-06-01,6,Vilnius,Lazdynėliai
+2017-07-01,6,Vilnius,Lazdynėliai
+2017-08-01,6,Vilnius,Lazdynėliai
+2017-09-01,6,Vilnius,Lazdynėliai
+2017-10-01,6,Vilnius,Lazdynėliai
+2017-11-01,5,Vilnius,Lazdynėliai
+2017-12-01,5,Vilnius,Lazdynėliai
+2018-01-01,6,Vilnius,Lazdynėliai
+2018-02-01,6,Vilnius,Lazdynėliai
+2018-03-01,7,Vilnius,Lazdynėliai
+2018-04-01,7,Vilnius,Lazdynėliai
+2018-05-01,7,Vilnius,Lazdynėliai
+2018-06-01,6,Vilnius,Lazdynėliai
+2018-07-01,6,Vilnius,Lazdynėliai
+2018-08-01,7,Vilnius,Lazdynėliai
+2018-09-01,6,Vilnius,Lazdynėliai
+2018-10-01,7,Vilnius,Lazdynėliai
+2018-11-01,7,Vilnius,Lazdynėliai
+2018-12-01,7,Vilnius,Lazdynėliai
+2019-01-01,7,Vilnius,Lazdynėliai
+2019-02-01,8,Vilnius,Lazdynėliai
+2019-03-01,7,Vilnius,Lazdynėliai
+2019-04-01,7,Vilnius,Lazdynėliai
+2019-05-01,8,Vilnius,Lazdynėliai
+2019-06-01,7,Vilnius,Lazdynėliai
+2019-07-01,8,Vilnius,Lazdynėliai
+2019-08-01,8,Vilnius,Lazdynėliai
+2019-09-01,8,Vilnius,Lazdynėliai
+2019-10-01,8,Vilnius,Lazdynėliai
+2019-11-01,8,Vilnius,Lazdynėliai
+2019-12-01,8,Vilnius,Lazdynėliai
+2020-01-01,7,Vilnius,Lazdynėliai
+2020-02-01,7,Vilnius,Lazdynėliai
+2020-03-01,8,Vilnius,Lazdynėliai
+2020-04-01,8,Vilnius,Lazdynėliai
+2020-05-01,9,Vilnius,Lazdynėliai
+2020-06-01,8,Vilnius,Lazdynėliai
+2020-07-01,8,Vilnius,Lazdynėliai
+2020-08-01,8,Vilnius,Lazdynėliai
+2020-09-01,8,Vilnius,Lazdynėliai
+2020-10-01,8,Vilnius,Lazdynėliai
+2020-11-01,8,Vilnius,Lazdynėliai
+2020-12-01,8,Vilnius,Lazdynėliai
+2021-01-01,9,Vilnius,Lazdynėliai
+2021-02-01,9,Vilnius,Lazdynėliai
+2021-03-01,9,Vilnius,Lazdynėliai
+2021-04-01,9,Vilnius,Lazdynėliai
+2021-05-01,8,Vilnius,Lazdynėliai
+2021-06-01,10,Vilnius,Lazdynėliai
+2021-07-01,9,Vilnius,Lazdynėliai
+2021-08-01,10,Vilnius,Lazdynėliai
+2021-09-01,10,Vilnius,Lazdynėliai
+2021-10-01,11,Vilnius,Lazdynėliai
+2021-11-01,10,Vilnius,Lazdynėliai
+2021-12-01,11,Vilnius,Lazdynėliai
+2022-01-01,11,Vilnius,Lazdynėliai
+2022-02-01,10,Vilnius,Lazdynėliai
+2022-03-01,10,Vilnius,Lazdynėliai
+2022-04-01,10,Vilnius,Lazdynėliai
+2022-05-01,13,Vilnius,Lazdynėliai
+2022-06-01,15,Vilnius,Lazdynėliai
+2022-07-01,14,Vilnius,Lazdynėliai
+2022-08-01,15,Vilnius,Lazdynėliai
+2022-09-01,14,Vilnius,Lazdynėliai
+2022-10-01,12,Vilnius,Lazdynėliai
+2019-02-01,5,Vilnius,Liepkalnis
+2019-03-01,7,Vilnius,Liepkalnis
+2019-06-01,9,Vilnius,Liepkalnis
+2019-07-01,14,Vilnius,Liepkalnis
+2019-08-01,8,Vilnius,Liepkalnis
+2020-08-01,10,Vilnius,Liepkalnis
+2020-09-01,10,Vilnius,Liepkalnis
+2020-10-01,10,Vilnius,Liepkalnis
+2020-11-01,11,Vilnius,Liepkalnis
+2021-03-01,9,Vilnius,Liepkalnis
+2018-01-01,7,Vilnius,Markučiai
+2018-02-01,8,Vilnius,Markučiai
+2018-03-01,6,Vilnius,Markučiai
+2018-04-01,7,Vilnius,Markučiai
+2018-05-01,7,Vilnius,Markučiai
+2018-06-01,8,Vilnius,Markučiai
+2018-07-01,7,Vilnius,Markučiai
+2018-08-01,9,Vilnius,Markučiai
+2018-09-01,6,Vilnius,Markučiai
+2018-10-01,7,Vilnius,Markučiai
+2018-11-01,9,Vilnius,Markučiai
+2018-12-01,8,Vilnius,Markučiai
+2019-01-01,8,Vilnius,Markučiai
+2019-02-01,8,Vilnius,Markučiai
+2019-03-01,9,Vilnius,Markučiai
+2019-04-01,8,Vilnius,Markučiai
+2019-05-01,7,Vilnius,Markučiai
+2019-06-01,8,Vilnius,Markučiai
+2019-07-01,9,Vilnius,Markučiai
+2019-08-01,8,Vilnius,Markučiai
+2019-09-01,11,Vilnius,Markučiai
+2019-10-01,12,Vilnius,Markučiai
+2019-11-01,10,Vilnius,Markučiai
+2019-12-01,9,Vilnius,Markučiai
+2020-01-01,8,Vilnius,Markučiai
+2020-02-01,9,Vilnius,Markučiai
+2020-03-01,9,Vilnius,Markučiai
+2020-04-01,8,Vilnius,Markučiai
+2020-05-01,9,Vilnius,Markučiai
+2020-06-01,9,Vilnius,Markučiai
+2020-07-01,9,Vilnius,Markučiai
+2020-08-01,8,Vilnius,Markučiai
+2020-09-01,10,Vilnius,Markučiai
+2020-10-01,11,Vilnius,Markučiai
+2020-11-01,12,Vilnius,Markučiai
+2020-12-01,10,Vilnius,Markučiai
+2021-01-01,11,Vilnius,Markučiai
+2021-02-01,12,Vilnius,Markučiai
+2021-03-01,11,Vilnius,Markučiai
+2021-04-01,12,Vilnius,Markučiai
+2021-05-01,12,Vilnius,Markučiai
+2021-06-01,11,Vilnius,Markučiai
+2021-09-01,13,Vilnius,Markučiai
+2021-10-01,10,Vilnius,Markučiai
+2021-11-01,11,Vilnius,Markučiai
+2021-12-01,13,Vilnius,Markučiai
+2022-01-01,14,Vilnius,Markučiai
+2022-02-01,14,Vilnius,Markučiai
+2022-03-01,14,Vilnius,Markučiai
+2022-06-01,18,Vilnius,Markučiai
+2022-07-01,20,Vilnius,Markučiai
+2022-08-01,19,Vilnius,Markučiai
+2022-09-01,16,Vilnius,Markučiai
+2022-10-01,17,Vilnius,Markučiai
+2017-01-01,9,Vilnius,Naujamiestis
+2017-02-01,9,Vilnius,Naujamiestis
+2017-03-01,9,Vilnius,Naujamiestis
+2017-04-01,9,Vilnius,Naujamiestis
+2017-05-01,9,Vilnius,Naujamiestis
+2017-06-01,9,Vilnius,Naujamiestis
+2017-07-01,9,Vilnius,Naujamiestis
+2017-08-01,9,Vilnius,Naujamiestis
+2017-09-01,9,Vilnius,Naujamiestis
+2017-10-01,9,Vilnius,Naujamiestis
+2017-11-01,10,Vilnius,Naujamiestis
+2017-12-01,10,Vilnius,Naujamiestis
+2018-01-01,10,Vilnius,Naujamiestis
+2018-02-01,10,Vilnius,Naujamiestis
+2018-03-01,10,Vilnius,Naujamiestis
+2018-04-01,9,Vilnius,Naujamiestis
+2018-05-01,10,Vilnius,Naujamiestis
+2018-06-01,9,Vilnius,Naujamiestis
+2018-07-01,9,Vilnius,Naujamiestis
+2018-08-01,10,Vilnius,Naujamiestis
+2018-09-01,10,Vilnius,Naujamiestis
+2018-10-01,10,Vilnius,Naujamiestis
+2018-11-01,10,Vilnius,Naujamiestis
+2018-12-01,10,Vilnius,Naujamiestis
+2019-01-01,10,Vilnius,Naujamiestis
+2019-02-01,10,Vilnius,Naujamiestis
+2019-03-01,10,Vilnius,Naujamiestis
+2019-04-01,10,Vilnius,Naujamiestis
+2019-05-01,10,Vilnius,Naujamiestis
+2019-06-01,10,Vilnius,Naujamiestis
+2019-07-01,10,Vilnius,Naujamiestis
+2019-08-01,10,Vilnius,Naujamiestis
+2019-09-01,7,Vilnius,Naujamiestis
+2019-10-01,11,Vilnius,Naujamiestis
+2019-11-01,11,Vilnius,Naujamiestis
+2019-12-01,11,Vilnius,Naujamiestis
+2020-01-01,11,Vilnius,Naujamiestis
+2020-02-01,11,Vilnius,Naujamiestis
+2020-03-01,11,Vilnius,Naujamiestis
+2020-04-01,10,Vilnius,Naujamiestis
+2020-05-01,10,Vilnius,Naujamiestis
+2020-06-01,10,Vilnius,Naujamiestis
+2020-07-01,10,Vilnius,Naujamiestis
+2020-08-01,11,Vilnius,Naujamiestis
+2020-09-01,11,Vilnius,Naujamiestis
+2020-10-01,11,Vilnius,Naujamiestis
+2020-11-01,11,Vilnius,Naujamiestis
+2020-12-01,10,Vilnius,Naujamiestis
+2021-01-01,11,Vilnius,Naujamiestis
+2021-02-01,11,Vilnius,Naujamiestis
+2021-03-01,11,Vilnius,Naujamiestis
+2021-04-01,11,Vilnius,Naujamiestis
+2021-05-01,11,Vilnius,Naujamiestis
+2021-06-01,11,Vilnius,Naujamiestis
+2021-07-01,11,Vilnius,Naujamiestis
+2021-08-01,12,Vilnius,Naujamiestis
+2021-09-01,12,Vilnius,Naujamiestis
+2021-10-01,12,Vilnius,Naujamiestis
+2021-11-01,12,Vilnius,Naujamiestis
+2021-12-01,13,Vilnius,Naujamiestis
+2022-01-01,13,Vilnius,Naujamiestis
+2022-02-01,13,Vilnius,Naujamiestis
+2022-03-01,13,Vilnius,Naujamiestis
+2022-04-01,14,Vilnius,Naujamiestis
+2022-05-01,15,Vilnius,Naujamiestis
+2022-06-01,16,Vilnius,Naujamiestis
+2022-07-01,16,Vilnius,Naujamiestis
+2022-08-01,16,Vilnius,Naujamiestis
+2022-09-01,15,Vilnius,Naujamiestis
+2022-10-01,14,Vilnius,Naujamiestis
+2017-01-01,6,Vilnius,Naujininkai
+2017-02-01,6,Vilnius,Naujininkai
+2017-03-01,6,Vilnius,Naujininkai
+2017-04-01,6,Vilnius,Naujininkai
+2017-05-01,6,Vilnius,Naujininkai
+2017-06-01,6,Vilnius,Naujininkai
+2017-07-01,6,Vilnius,Naujininkai
+2017-08-01,7,Vilnius,Naujininkai
+2017-09-01,6,Vilnius,Naujininkai
+2017-10-01,6,Vilnius,Naujininkai
+2017-11-01,6,Vilnius,Naujininkai
+2017-12-01,5,Vilnius,Naujininkai
+2018-01-01,6,Vilnius,Naujininkai
+2018-02-01,6,Vilnius,Naujininkai
+2018-03-01,7,Vilnius,Naujininkai
+2018-04-01,7,Vilnius,Naujininkai
+2018-05-01,7,Vilnius,Naujininkai
+2018-06-01,7,Vilnius,Naujininkai
+2018-07-01,7,Vilnius,Naujininkai
+2018-08-01,7,Vilnius,Naujininkai
+2018-09-01,7,Vilnius,Naujininkai
+2018-10-01,7,Vilnius,Naujininkai
+2018-11-01,7,Vilnius,Naujininkai
+2018-12-01,8,Vilnius,Naujininkai
+2019-01-01,7,Vilnius,Naujininkai
+2019-02-01,7,Vilnius,Naujininkai
+2019-03-01,8,Vilnius,Naujininkai
+2019-04-01,7,Vilnius,Naujininkai
+2019-05-01,7,Vilnius,Naujininkai
+2019-06-01,8,Vilnius,Naujininkai
+2019-07-01,8,Vilnius,Naujininkai
+2019-08-01,8,Vilnius,Naujininkai
+2019-09-01,9,Vilnius,Naujininkai
+2019-10-01,10,Vilnius,Naujininkai
+2019-11-01,9,Vilnius,Naujininkai
+2019-12-01,9,Vilnius,Naujininkai
+2020-01-01,8,Vilnius,Naujininkai
+2020-02-01,9,Vilnius,Naujininkai
+2020-03-01,9,Vilnius,Naujininkai
+2020-04-01,9,Vilnius,Naujininkai
+2020-05-01,8,Vilnius,Naujininkai
+2020-06-01,8,Vilnius,Naujininkai
+2020-07-01,8,Vilnius,Naujininkai
+2020-08-01,8,Vilnius,Naujininkai
+2020-09-01,8,Vilnius,Naujininkai
+2020-10-01,8,Vilnius,Naujininkai
+2020-11-01,9,Vilnius,Naujininkai
+2020-12-01,9,Vilnius,Naujininkai
+2021-01-01,10,Vilnius,Naujininkai
+2021-02-01,9,Vilnius,Naujininkai
+2021-03-01,9,Vilnius,Naujininkai
+2021-04-01,9,Vilnius,Naujininkai
+2021-05-01,9,Vilnius,Naujininkai
+2021-06-01,9,Vilnius,Naujininkai
+2021-07-01,9,Vilnius,Naujininkai
+2021-08-01,8,Vilnius,Naujininkai
+2021-09-01,9,Vilnius,Naujininkai
+2021-10-01,9,Vilnius,Naujininkai
+2021-11-01,9,Vilnius,Naujininkai
+2021-12-01,9,Vilnius,Naujininkai
+2022-01-01,9,Vilnius,Naujininkai
+2022-02-01,11,Vilnius,Naujininkai
+2022-03-01,11,Vilnius,Naujininkai
+2022-04-01,11,Vilnius,Naujininkai
+2022-05-01,13,Vilnius,Naujininkai
+2022-06-01,12,Vilnius,Naujininkai
+2022-07-01,13,Vilnius,Naujininkai
+2022-08-01,13,Vilnius,Naujininkai
+2022-09-01,12,Vilnius,Naujininkai
+2022-10-01,11,Vilnius,Naujininkai
+2017-01-01,4,Vilnius,Naujoji Vilnia
+2017-03-01,5,Vilnius,Naujoji Vilnia
+2017-04-01,5,Vilnius,Naujoji Vilnia
+2017-05-01,5,Vilnius,Naujoji Vilnia
+2017-06-01,5,Vilnius,Naujoji Vilnia
+2017-08-01,6,Vilnius,Naujoji Vilnia
+2017-09-01,5,Vilnius,Naujoji Vilnia
+2017-10-01,5,Vilnius,Naujoji Vilnia
+2017-11-01,5,Vilnius,Naujoji Vilnia
+2017-12-01,5,Vilnius,Naujoji Vilnia
+2018-01-01,5,Vilnius,Naujoji Vilnia
+2018-02-01,5,Vilnius,Naujoji Vilnia
+2018-03-01,5,Vilnius,Naujoji Vilnia
+2018-04-01,5,Vilnius,Naujoji Vilnia
+2018-05-01,6,Vilnius,Naujoji Vilnia
+2018-06-01,6,Vilnius,Naujoji Vilnia
+2018-07-01,5,Vilnius,Naujoji Vilnia
+2018-08-01,5,Vilnius,Naujoji Vilnia
+2018-09-01,6,Vilnius,Naujoji Vilnia
+2018-10-01,5,Vilnius,Naujoji Vilnia
+2018-11-01,6,Vilnius,Naujoji Vilnia
+2018-12-01,7,Vilnius,Naujoji Vilnia
+2019-01-01,7,Vilnius,Naujoji Vilnia
+2019-02-01,6,Vilnius,Naujoji Vilnia
+2019-03-01,6,Vilnius,Naujoji Vilnia
+2019-04-01,6,Vilnius,Naujoji Vilnia
+2019-05-01,7,Vilnius,Naujoji Vilnia
+2019-06-01,7,Vilnius,Naujoji Vilnia
+2019-07-01,6,Vilnius,Naujoji Vilnia
+2019-08-01,6,Vilnius,Naujoji Vilnia
+2019-09-01,6,Vilnius,Naujoji Vilnia
+2019-10-01,8,Vilnius,Naujoji Vilnia
+2019-11-01,7,Vilnius,Naujoji Vilnia
+2019-12-01,7,Vilnius,Naujoji Vilnia
+2020-01-01,7,Vilnius,Naujoji Vilnia
+2020-02-01,7,Vilnius,Naujoji Vilnia
+2020-03-01,7,Vilnius,Naujoji Vilnia
+2020-04-01,7,Vilnius,Naujoji Vilnia
+2020-05-01,7,Vilnius,Naujoji Vilnia
+2020-06-01,7,Vilnius,Naujoji Vilnia
+2020-07-01,7,Vilnius,Naujoji Vilnia
+2020-08-01,7,Vilnius,Naujoji Vilnia
+2020-09-01,7,Vilnius,Naujoji Vilnia
+2020-10-01,7,Vilnius,Naujoji Vilnia
+2020-11-01,7,Vilnius,Naujoji Vilnia
+2020-12-01,7,Vilnius,Naujoji Vilnia
+2021-01-01,6,Vilnius,Naujoji Vilnia
+2021-02-01,7,Vilnius,Naujoji Vilnia
+2021-03-01,7,Vilnius,Naujoji Vilnia
+2021-04-01,7,Vilnius,Naujoji Vilnia
+2021-05-01,7,Vilnius,Naujoji Vilnia
+2021-06-01,7,Vilnius,Naujoji Vilnia
+2021-07-01,7,Vilnius,Naujoji Vilnia
+2021-08-01,8,Vilnius,Naujoji Vilnia
+2021-09-01,8,Vilnius,Naujoji Vilnia
+2021-10-01,8,Vilnius,Naujoji Vilnia
+2021-11-01,8,Vilnius,Naujoji Vilnia
+2021-12-01,8,Vilnius,Naujoji Vilnia
+2022-01-01,8,Vilnius,Naujoji Vilnia
+2022-02-01,8,Vilnius,Naujoji Vilnia
+2022-03-01,8,Vilnius,Naujoji Vilnia
+2022-04-01,9,Vilnius,Naujoji Vilnia
+2022-05-01,11,Vilnius,Naujoji Vilnia
+2022-06-01,11,Vilnius,Naujoji Vilnia
+2022-07-01,10,Vilnius,Naujoji Vilnia
+2022-08-01,13,Vilnius,Naujoji Vilnia
+2022-09-01,11,Vilnius,Naujoji Vilnia
+2022-10-01,10,Vilnius,Naujoji Vilnia
+2018-01-01,7,Vilnius,Pagiriai
+2018-02-01,5,Vilnius,Pagiriai
+2018-05-01,3,Vilnius,Pagiriai
+2018-06-01,3,Vilnius,Pagiriai
+2018-07-01,4,Vilnius,Pagiriai
+2018-08-01,4,Vilnius,Pagiriai
+2018-12-01,9,Vilnius,Pagiriai
+2019-02-01,4,Vilnius,Pagiriai
+2019-05-01,3,Vilnius,Pagiriai
+2019-06-01,4,Vilnius,Pagiriai
+2019-07-01,4,Vilnius,Pagiriai
+2020-04-01,6,Vilnius,Pagiriai
+2020-11-01,5,Vilnius,Pagiriai
+2017-12-01,6,Vilnius,Paneriai
+2018-01-01,5,Vilnius,Paneriai
+2018-02-01,4,Vilnius,Paneriai
+2018-10-01,6,Vilnius,Paneriai
+2019-05-01,5,Vilnius,Paneriai
+2019-06-01,8,Vilnius,Paneriai
+2020-07-01,7,Vilnius,Paneriai
+2020-08-01,6,Vilnius,Paneriai
+2020-09-01,6,Vilnius,Paneriai
+2020-10-01,6,Vilnius,Paneriai
+2020-11-01,9,Vilnius,Paneriai
+2020-12-01,9,Vilnius,Paneriai
+2021-01-01,10,Vilnius,Paneriai
+2017-01-01,6,Vilnius,Pašilaičiai
+2017-02-01,6,Vilnius,Pašilaičiai
+2017-03-01,6,Vilnius,Pašilaičiai
+2017-04-01,6,Vilnius,Pašilaičiai
+2017-05-01,6,Vilnius,Pašilaičiai
+2017-06-01,6,Vilnius,Pašilaičiai
+2017-07-01,6,Vilnius,Pašilaičiai
+2017-08-01,6,Vilnius,Pašilaičiai
+2017-09-01,6,Vilnius,Pašilaičiai
+2017-10-01,6,Vilnius,Pašilaičiai
+2017-11-01,6,Vilnius,Pašilaičiai
+2017-12-01,6,Vilnius,Pašilaičiai
+2018-01-01,6,Vilnius,Pašilaičiai
+2018-02-01,6,Vilnius,Pašilaičiai
+2018-03-01,6,Vilnius,Pašilaičiai
+2018-04-01,6,Vilnius,Pašilaičiai
+2018-05-01,6,Vilnius,Pašilaičiai
+2018-06-01,6,Vilnius,Pašilaičiai
+2018-07-01,6,Vilnius,Pašilaičiai
+2018-08-01,6,Vilnius,Pašilaičiai
+2018-09-01,6,Vilnius,Pašilaičiai
+2018-10-01,6,Vilnius,Pašilaičiai
+2018-11-01,6,Vilnius,Pašilaičiai
+2018-12-01,6,Vilnius,Pašilaičiai
+2019-01-01,6,Vilnius,Pašilaičiai
+2019-02-01,6,Vilnius,Pašilaičiai
+2019-03-01,6,Vilnius,Pašilaičiai
+2019-04-01,7,Vilnius,Pašilaičiai
+2019-05-01,7,Vilnius,Pašilaičiai
+2019-06-01,7,Vilnius,Pašilaičiai
+2019-07-01,7,Vilnius,Pašilaičiai
+2019-08-01,7,Vilnius,Pašilaičiai
+2019-09-01,7,Vilnius,Pašilaičiai
+2019-10-01,7,Vilnius,Pašilaičiai
+2019-11-01,7,Vilnius,Pašilaičiai
+2019-12-01,7,Vilnius,Pašilaičiai
+2020-01-01,7,Vilnius,Pašilaičiai
+2020-02-01,7,Vilnius,Pašilaičiai
+2020-03-01,7,Vilnius,Pašilaičiai
+2020-04-01,7,Vilnius,Pašilaičiai
+2020-05-01,7,Vilnius,Pašilaičiai
+2020-06-01,7,Vilnius,Pašilaičiai
+2020-07-01,7,Vilnius,Pašilaičiai
+2020-08-01,7,Vilnius,Pašilaičiai
+2020-09-01,8,Vilnius,Pašilaičiai
+2020-10-01,7,Vilnius,Pašilaičiai
+2020-11-01,8,Vilnius,Pašilaičiai
+2020-12-01,7,Vilnius,Pašilaičiai
+2021-01-01,7,Vilnius,Pašilaičiai
+2021-02-01,8,Vilnius,Pašilaičiai
+2021-03-01,7,Vilnius,Pašilaičiai
+2021-04-01,8,Vilnius,Pašilaičiai
+2021-05-01,8,Vilnius,Pašilaičiai
+2021-06-01,8,Vilnius,Pašilaičiai
+2021-07-01,9,Vilnius,Pašilaičiai
+2021-08-01,9,Vilnius,Pašilaičiai
+2021-09-01,9,Vilnius,Pašilaičiai
+2021-10-01,9,Vilnius,Pašilaičiai
+2021-11-01,9,Vilnius,Pašilaičiai
+2021-12-01,9,Vilnius,Pašilaičiai
+2022-01-01,9,Vilnius,Pašilaičiai
+2022-02-01,9,Vilnius,Pašilaičiai
+2022-03-01,9,Vilnius,Pašilaičiai
+2022-04-01,10,Vilnius,Pašilaičiai
+2022-05-01,11,Vilnius,Pašilaičiai
+2022-06-01,11,Vilnius,Pašilaičiai
+2022-07-01,11,Vilnius,Pašilaičiai
+2022-08-01,12,Vilnius,Pašilaičiai
+2022-09-01,11,Vilnius,Pašilaičiai
+2022-10-01,11,Vilnius,Pašilaičiai
+2020-12-01,20,Vilnius,Paupys
+2021-01-01,21,Vilnius,Paupys
+2021-02-01,21,Vilnius,Paupys
+2021-03-01,18,Vilnius,Paupys
+2021-06-01,18,Vilnius,Paupys
+2021-07-01,15,Vilnius,Paupys
+2021-08-01,18,Vilnius,Paupys
+2021-09-01,16,Vilnius,Paupys
+2021-10-01,16,Vilnius,Paupys
+2021-11-01,14,Vilnius,Paupys
+2021-12-01,16,Vilnius,Paupys
+2022-01-01,19,Vilnius,Paupys
+2022-02-01,18,Vilnius,Paupys
+2022-03-01,19,Vilnius,Paupys
+2022-05-01,24,Vilnius,Paupys
+2022-06-01,24,Vilnius,Paupys
+2022-07-01,25,Vilnius,Paupys
+2022-08-01,24,Vilnius,Paupys
+2022-09-01,21,Vilnius,Paupys
+2022-10-01,21,Vilnius,Paupys
+2017-11-01,7,Vilnius,Pavilnys
+2017-12-01,9,Vilnius,Pavilnys
+2018-01-01,7,Vilnius,Pavilnys
+2018-02-01,6,Vilnius,Pavilnys
+2018-03-01,6,Vilnius,Pavilnys
+2018-04-01,7,Vilnius,Pavilnys
+2018-05-01,6,Vilnius,Pavilnys
+2018-06-01,7,Vilnius,Pavilnys
+2018-07-01,7,Vilnius,Pavilnys
+2018-08-01,8,Vilnius,Pavilnys
+2018-09-01,9,Vilnius,Pavilnys
+2018-10-01,9,Vilnius,Pavilnys
+2018-11-01,8,Vilnius,Pavilnys
+2018-12-01,6,Vilnius,Pavilnys
+2019-01-01,6,Vilnius,Pavilnys
+2019-03-01,6,Vilnius,Pavilnys
+2019-04-01,8,Vilnius,Pavilnys
+2019-06-01,7,Vilnius,Pavilnys
+2019-07-01,8,Vilnius,Pavilnys
+2019-08-01,9,Vilnius,Pavilnys
+2019-09-01,8,Vilnius,Pavilnys
+2019-10-01,2,Vilnius,Pavilnys
+2019-11-01,3,Vilnius,Pavilnys
+2019-12-01,3,Vilnius,Pavilnys
+2020-01-01,7,Vilnius,Pavilnys
+2020-02-01,8,Vilnius,Pavilnys
+2020-03-01,8,Vilnius,Pavilnys
+2020-04-01,9,Vilnius,Pavilnys
+2020-05-01,8,Vilnius,Pavilnys
+2020-06-01,6,Vilnius,Pavilnys
+2020-07-01,8,Vilnius,Pavilnys
+2020-08-01,5,Vilnius,Pavilnys
+2020-09-01,2,Vilnius,Pavilnys
+2020-10-01,5,Vilnius,Pavilnys
+2020-11-01,7,Vilnius,Pavilnys
+2020-12-01,6,Vilnius,Pavilnys
+2021-03-01,8,Vilnius,Pavilnys
+2022-09-01,10,Vilnius,Pavilnys
+2022-10-01,10,Vilnius,Pavilnys
+2017-01-01,6,Vilnius,Pilaitė
+2017-02-01,6,Vilnius,Pilaitė
+2017-03-01,6,Vilnius,Pilaitė
+2017-04-01,7,Vilnius,Pilaitė
+2017-05-01,7,Vilnius,Pilaitė
+2017-06-01,7,Vilnius,Pilaitė
+2017-07-01,7,Vilnius,Pilaitė
+2017-08-01,6,Vilnius,Pilaitė
+2017-09-01,6,Vilnius,Pilaitė
+2017-10-01,6,Vilnius,Pilaitė
+2017-11-01,6,Vilnius,Pilaitė
+2017-12-01,6,Vilnius,Pilaitė
+2018-01-01,6,Vilnius,Pilaitė
+2018-02-01,6,Vilnius,Pilaitė
+2018-03-01,7,Vilnius,Pilaitė
+2018-04-01,7,Vilnius,Pilaitė
+2018-05-01,6,Vilnius,Pilaitė
+2018-06-01,6,Vilnius,Pilaitė
+2018-07-01,7,Vilnius,Pilaitė
+2018-08-01,6,Vilnius,Pilaitė
+2018-09-01,7,Vilnius,Pilaitė
+2018-10-01,7,Vilnius,Pilaitė
+2018-11-01,6,Vilnius,Pilaitė
+2018-12-01,6,Vilnius,Pilaitė
+2019-01-01,6,Vilnius,Pilaitė
+2019-02-01,7,Vilnius,Pilaitė
+2019-03-01,7,Vilnius,Pilaitė
+2019-04-01,7,Vilnius,Pilaitė
+2019-05-01,8,Vilnius,Pilaitė
+2019-06-01,8,Vilnius,Pilaitė
+2019-07-01,8,Vilnius,Pilaitė
+2019-08-01,8,Vilnius,Pilaitė
+2019-09-01,7,Vilnius,Pilaitė
+2019-10-01,7,Vilnius,Pilaitė
+2019-11-01,8,Vilnius,Pilaitė
+2019-12-01,8,Vilnius,Pilaitė
+2020-01-01,8,Vilnius,Pilaitė
+2020-02-01,8,Vilnius,Pilaitė
+2020-03-01,8,Vilnius,Pilaitė
+2020-04-01,8,Vilnius,Pilaitė
+2020-05-01,8,Vilnius,Pilaitė
+2020-06-01,8,Vilnius,Pilaitė
+2020-07-01,8,Vilnius,Pilaitė
+2020-08-01,8,Vilnius,Pilaitė
+2020-09-01,8,Vilnius,Pilaitė
+2020-10-01,8,Vilnius,Pilaitė
+2020-11-01,8,Vilnius,Pilaitė
+2020-12-01,8,Vilnius,Pilaitė
+2021-01-01,8,Vilnius,Pilaitė
+2021-02-01,8,Vilnius,Pilaitė
+2021-03-01,8,Vilnius,Pilaitė
+2021-04-01,8,Vilnius,Pilaitė
+2021-05-01,8,Vilnius,Pilaitė
+2021-06-01,9,Vilnius,Pilaitė
+2021-07-01,9,Vilnius,Pilaitė
+2021-08-01,8,Vilnius,Pilaitė
+2021-09-01,9,Vilnius,Pilaitė
+2021-10-01,9,Vilnius,Pilaitė
+2021-11-01,9,Vilnius,Pilaitė
+2021-12-01,9,Vilnius,Pilaitė
+2022-01-01,9,Vilnius,Pilaitė
+2022-02-01,10,Vilnius,Pilaitė
+2022-03-01,10,Vilnius,Pilaitė
+2022-04-01,10,Vilnius,Pilaitė
+2022-05-01,11,Vilnius,Pilaitė
+2022-06-01,12,Vilnius,Pilaitė
+2022-07-01,12,Vilnius,Pilaitė
+2022-08-01,12,Vilnius,Pilaitė
+2022-09-01,12,Vilnius,Pilaitė
+2022-10-01,11,Vilnius,Pilaitė
+2017-01-01,6,Vilnius,Rasos
+2017-03-01,7,Vilnius,Rasos
+2017-04-01,7,Vilnius,Rasos
+2017-05-01,7,Vilnius,Rasos
+2017-08-01,6,Vilnius,Rasos
+2017-11-01,6,Vilnius,Rasos
+2017-12-01,6,Vilnius,Rasos
+2018-01-01,7,Vilnius,Rasos
+2018-02-01,9,Vilnius,Rasos
+2018-03-01,8,Vilnius,Rasos
+2018-04-01,7,Vilnius,Rasos
+2018-05-01,8,Vilnius,Rasos
+2018-06-01,8,Vilnius,Rasos
+2018-07-01,7,Vilnius,Rasos
+2018-08-01,7,Vilnius,Rasos
+2018-09-01,8,Vilnius,Rasos
+2018-10-01,8,Vilnius,Rasos
+2018-11-01,8,Vilnius,Rasos
+2018-12-01,9,Vilnius,Rasos
+2019-01-01,8,Vilnius,Rasos
+2019-02-01,7,Vilnius,Rasos
+2019-03-01,8,Vilnius,Rasos
+2019-04-01,8,Vilnius,Rasos
+2019-05-01,9,Vilnius,Rasos
+2019-06-01,9,Vilnius,Rasos
+2019-07-01,7,Vilnius,Rasos
+2019-08-01,10,Vilnius,Rasos
+2019-09-01,10,Vilnius,Rasos
+2019-10-01,8,Vilnius,Rasos
+2019-11-01,9,Vilnius,Rasos
+2019-12-01,8,Vilnius,Rasos
+2020-01-01,8,Vilnius,Rasos
+2020-02-01,9,Vilnius,Rasos
+2020-03-01,9,Vilnius,Rasos
+2020-04-01,9,Vilnius,Rasos
+2020-05-01,9,Vilnius,Rasos
+2020-06-01,9,Vilnius,Rasos
+2020-07-01,8,Vilnius,Rasos
+2020-08-01,8,Vilnius,Rasos
+2020-09-01,10,Vilnius,Rasos
+2020-10-01,8,Vilnius,Rasos
+2020-11-01,6,Vilnius,Rasos
+2020-12-01,5,Vilnius,Rasos
+2021-01-01,9,Vilnius,Rasos
+2021-02-01,10,Vilnius,Rasos
+2021-03-01,13,Vilnius,Rasos
+2021-04-01,14,Vilnius,Rasos
+2021-05-01,12,Vilnius,Rasos
+2021-09-01,10,Vilnius,Rasos
+2022-01-01,9,Vilnius,Rasos
+2022-02-01,10,Vilnius,Rasos
+2022-03-01,13,Vilnius,Rasos
+2022-08-01,14,Vilnius,Rasos
+2022-09-01,13,Vilnius,Rasos
+2022-10-01,10,Vilnius,Rasos
+2018-05-01,5,Vilnius,Salininkai
+2018-07-01,5,Vilnius,Salininkai
+2018-08-01,5,Vilnius,Salininkai
+2018-09-01,5,Vilnius,Salininkai
+2018-10-01,5,Vilnius,Salininkai
+2018-11-01,5,Vilnius,Salininkai
+2018-12-01,7,Vilnius,Salininkai
+2019-01-01,6,Vilnius,Salininkai
+2019-02-01,5,Vilnius,Salininkai
+2019-03-01,5,Vilnius,Salininkai
+2019-06-01,5,Vilnius,Salininkai
+2019-07-01,5,Vilnius,Salininkai
+2019-08-01,6,Vilnius,Salininkai
+2019-10-01,6,Vilnius,Salininkai
+2019-11-01,6,Vilnius,Salininkai
+2020-01-01,6,Vilnius,Salininkai
+2020-02-01,7,Vilnius,Salininkai
+2020-03-01,8,Vilnius,Salininkai
+2020-04-01,6,Vilnius,Salininkai
+2020-05-01,5,Vilnius,Salininkai
+2020-06-01,6,Vilnius,Salininkai
+2020-09-01,4,Vilnius,Salininkai
+2020-10-01,4,Vilnius,Salininkai
+2021-01-01,5,Vilnius,Salininkai
+2021-02-01,6,Vilnius,Salininkai
+2021-03-01,6,Vilnius,Salininkai
+2017-01-01,7,Vilnius,Santariškės
+2017-02-01,7,Vilnius,Santariškės
+2017-03-01,7,Vilnius,Santariškės
+2017-04-01,7,Vilnius,Santariškės
+2017-05-01,7,Vilnius,Santariškės
+2017-06-01,7,Vilnius,Santariškės
+2017-07-01,7,Vilnius,Santariškės
+2017-08-01,7,Vilnius,Santariškės
+2017-09-01,6,Vilnius,Santariškės
+2017-10-01,6,Vilnius,Santariškės
+2017-11-01,7,Vilnius,Santariškės
+2017-12-01,7,Vilnius,Santariškės
+2018-01-01,6,Vilnius,Santariškės
+2018-02-01,6,Vilnius,Santariškės
+2018-03-01,6,Vilnius,Santariškės
+2018-04-01,7,Vilnius,Santariškės
+2018-05-01,6,Vilnius,Santariškės
+2018-06-01,6,Vilnius,Santariškės
+2018-07-01,6,Vilnius,Santariškės
+2018-08-01,7,Vilnius,Santariškės
+2018-09-01,8,Vilnius,Santariškės
+2018-10-01,7,Vilnius,Santariškės
+2018-11-01,7,Vilnius,Santariškės
+2018-12-01,7,Vilnius,Santariškės
+2019-01-01,7,Vilnius,Santariškės
+2019-02-01,7,Vilnius,Santariškės
+2019-03-01,8,Vilnius,Santariškės
+2019-04-01,8,Vilnius,Santariškės
+2019-05-01,7,Vilnius,Santariškės
+2019-06-01,8,Vilnius,Santariškės
+2019-07-01,7,Vilnius,Santariškės
+2019-08-01,7,Vilnius,Santariškės
+2019-09-01,7,Vilnius,Santariškės
+2019-10-01,7,Vilnius,Santariškės
+2019-11-01,7,Vilnius,Santariškės
+2019-12-01,7,Vilnius,Santariškės
+2020-01-01,8,Vilnius,Santariškės
+2020-02-01,7,Vilnius,Santariškės
+2020-03-01,7,Vilnius,Santariškės
+2020-04-01,8,Vilnius,Santariškės
+2020-05-01,8,Vilnius,Santariškės
+2020-06-01,8,Vilnius,Santariškės
+2020-07-01,8,Vilnius,Santariškės
+2020-08-01,8,Vilnius,Santariškės
+2020-09-01,8,Vilnius,Santariškės
+2020-10-01,9,Vilnius,Santariškės
+2020-11-01,8,Vilnius,Santariškės
+2020-12-01,8,Vilnius,Santariškės
+2021-01-01,8,Vilnius,Santariškės
+2021-02-01,8,Vilnius,Santariškės
+2021-03-01,9,Vilnius,Santariškės
+2021-04-01,8,Vilnius,Santariškės
+2021-05-01,8,Vilnius,Santariškės
+2021-06-01,9,Vilnius,Santariškės
+2021-07-01,9,Vilnius,Santariškės
+2021-08-01,9,Vilnius,Santariškės
+2021-09-01,9,Vilnius,Santariškės
+2021-10-01,9,Vilnius,Santariškės
+2021-11-01,9,Vilnius,Santariškės
+2021-12-01,9,Vilnius,Santariškės
+2022-01-01,9,Vilnius,Santariškės
+2022-02-01,10,Vilnius,Santariškės
+2022-03-01,10,Vilnius,Santariškės
+2022-06-01,14,Vilnius,Santariškės
+2022-07-01,13,Vilnius,Santariškės
+2022-08-01,12,Vilnius,Santariškės
+2022-09-01,12,Vilnius,Santariškės
+2022-10-01,11,Vilnius,Santariškės
+2017-06-01,5,Vilnius,Saulėtekis
+2017-07-01,7,Vilnius,Saulėtekis
+2017-08-01,6,Vilnius,Saulėtekis
+2017-12-01,8,Vilnius,Saulėtekis
+2018-01-01,6,Vilnius,Saulėtekis
+2018-02-01,8,Vilnius,Saulėtekis
+2018-03-01,7,Vilnius,Saulėtekis
+2018-04-01,6,Vilnius,Saulėtekis
+2018-05-01,3,Vilnius,Saulėtekis
+2018-06-01,5,Vilnius,Saulėtekis
+2018-07-01,7,Vilnius,Saulėtekis
+2018-08-01,8,Vilnius,Saulėtekis
+2018-09-01,10,Vilnius,Saulėtekis
+2018-10-01,8,Vilnius,Saulėtekis
+2018-11-01,7,Vilnius,Saulėtekis
+2018-12-01,5,Vilnius,Saulėtekis
+2019-01-01,5,Vilnius,Saulėtekis
+2019-02-01,7,Vilnius,Saulėtekis
+2019-03-01,7,Vilnius,Saulėtekis
+2019-04-01,7,Vilnius,Saulėtekis
+2019-05-01,6,Vilnius,Saulėtekis
+2019-07-01,5,Vilnius,Saulėtekis
+2019-08-01,4,Vilnius,Saulėtekis
+2019-09-01,4,Vilnius,Saulėtekis
+2019-10-01,6,Vilnius,Saulėtekis
+2019-11-01,7,Vilnius,Saulėtekis
+2019-12-01,7,Vilnius,Saulėtekis
+2020-01-01,4,Vilnius,Saulėtekis
+2020-02-01,4,Vilnius,Saulėtekis
+2020-03-01,4,Vilnius,Saulėtekis
+2020-04-01,6,Vilnius,Saulėtekis
+2020-05-01,7,Vilnius,Saulėtekis
+2020-06-01,5,Vilnius,Saulėtekis
+2020-07-01,6,Vilnius,Saulėtekis
+2020-08-01,7,Vilnius,Saulėtekis
+2020-09-01,7,Vilnius,Saulėtekis
+2020-10-01,7,Vilnius,Saulėtekis
+2020-11-01,7,Vilnius,Saulėtekis
+2020-12-01,6,Vilnius,Saulėtekis
+2021-01-01,6,Vilnius,Saulėtekis
+2021-02-01,6,Vilnius,Saulėtekis
+2021-03-01,6,Vilnius,Saulėtekis
+2021-12-01,9,Vilnius,Saulėtekis
+2017-01-01,10,Vilnius,Senamiestis
+2017-02-01,10,Vilnius,Senamiestis
+2017-03-01,10,Vilnius,Senamiestis
+2017-04-01,11,Vilnius,Senamiestis
+2017-05-01,11,Vilnius,Senamiestis
+2017-06-01,11,Vilnius,Senamiestis
+2017-07-01,11,Vilnius,Senamiestis
+2017-08-01,11,Vilnius,Senamiestis
+2017-09-01,11,Vilnius,Senamiestis
+2017-10-01,11,Vilnius,Senamiestis
+2017-11-01,11,Vilnius,Senamiestis
+2017-12-01,11,Vilnius,Senamiestis
+2018-01-01,11,Vilnius,Senamiestis
+2018-02-01,11,Vilnius,Senamiestis
+2018-03-01,11,Vilnius,Senamiestis
+2018-04-01,11,Vilnius,Senamiestis
+2018-05-01,10,Vilnius,Senamiestis
+2018-06-01,11,Vilnius,Senamiestis
+2018-07-01,11,Vilnius,Senamiestis
+2018-08-01,11,Vilnius,Senamiestis
+2018-09-01,12,Vilnius,Senamiestis
+2018-10-01,11,Vilnius,Senamiestis
+2018-11-01,11,Vilnius,Senamiestis
+2018-12-01,11,Vilnius,Senamiestis
+2019-01-01,11,Vilnius,Senamiestis
+2019-02-01,11,Vilnius,Senamiestis
+2019-03-01,12,Vilnius,Senamiestis
+2019-04-01,12,Vilnius,Senamiestis
+2019-05-01,12,Vilnius,Senamiestis
+2019-06-01,12,Vilnius,Senamiestis
+2019-07-01,12,Vilnius,Senamiestis
+2019-08-01,12,Vilnius,Senamiestis
+2019-09-01,12,Vilnius,Senamiestis
+2019-10-01,12,Vilnius,Senamiestis
+2019-11-01,12,Vilnius,Senamiestis
+2019-12-01,12,Vilnius,Senamiestis
+2020-01-01,12,Vilnius,Senamiestis
+2020-02-01,12,Vilnius,Senamiestis
+2020-03-01,12,Vilnius,Senamiestis
+2020-04-01,11,Vilnius,Senamiestis
+2020-05-01,11,Vilnius,Senamiestis
+2020-06-01,11,Vilnius,Senamiestis
+2020-07-01,11,Vilnius,Senamiestis
+2020-08-01,12,Vilnius,Senamiestis
+2020-09-01,12,Vilnius,Senamiestis
+2020-10-01,12,Vilnius,Senamiestis
+2020-11-01,12,Vilnius,Senamiestis
+2020-12-01,12,Vilnius,Senamiestis
+2021-01-01,13,Vilnius,Senamiestis
+2021-02-01,13,Vilnius,Senamiestis
+2021-03-01,13,Vilnius,Senamiestis
+2021-04-01,14,Vilnius,Senamiestis
+2021-05-01,13,Vilnius,Senamiestis
+2021-06-01,14,Vilnius,Senamiestis
+2021-07-01,14,Vilnius,Senamiestis
+2021-08-01,14,Vilnius,Senamiestis
+2021-09-01,15,Vilnius,Senamiestis
+2021-10-01,15,Vilnius,Senamiestis
+2021-11-01,15,Vilnius,Senamiestis
+2021-12-01,15,Vilnius,Senamiestis
+2022-01-01,15,Vilnius,Senamiestis
+2022-02-01,15,Vilnius,Senamiestis
+2022-03-01,15,Vilnius,Senamiestis
+2022-04-01,15,Vilnius,Senamiestis
+2022-05-01,16,Vilnius,Senamiestis
+2022-06-01,17,Vilnius,Senamiestis
+2022-07-01,18,Vilnius,Senamiestis
+2022-08-01,17,Vilnius,Senamiestis
+2022-09-01,17,Vilnius,Senamiestis
+2022-10-01,16,Vilnius,Senamiestis
+2017-01-01,5,Vilnius,Šeškinė
+2017-02-01,5,Vilnius,Šeškinė
+2017-03-01,5,Vilnius,Šeškinė
+2017-04-01,6,Vilnius,Šeškinė
+2017-05-01,6,Vilnius,Šeškinė
+2017-06-01,6,Vilnius,Šeškinė
+2017-07-01,6,Vilnius,Šeškinė
+2017-08-01,6,Vilnius,Šeškinė
+2017-09-01,6,Vilnius,Šeškinė
+2017-10-01,6,Vilnius,Šeškinė
+2017-11-01,6,Vilnius,Šeškinė
+2017-12-01,5,Vilnius,Šeškinė
+2018-01-01,5,Vilnius,Šeškinė
+2018-02-01,6,Vilnius,Šeškinė
+2018-03-01,6,Vilnius,Šeškinė
+2018-04-01,6,Vilnius,Šeškinė
+2018-05-01,6,Vilnius,Šeškinė
+2018-06-01,6,Vilnius,Šeškinė
+2018-07-01,6,Vilnius,Šeškinė
+2018-08-01,6,Vilnius,Šeškinė
+2018-09-01,6,Vilnius,Šeškinė
+2018-10-01,6,Vilnius,Šeškinė
+2018-11-01,6,Vilnius,Šeškinė
+2018-12-01,6,Vilnius,Šeškinė
+2019-01-01,6,Vilnius,Šeškinė
+2019-02-01,6,Vilnius,Šeškinė
+2019-03-01,6,Vilnius,Šeškinė
+2019-04-01,6,Vilnius,Šeškinė
+2019-05-01,6,Vilnius,Šeškinė
+2019-06-01,7,Vilnius,Šeškinė
+2019-07-01,7,Vilnius,Šeškinė
+2019-08-01,7,Vilnius,Šeškinė
+2019-09-01,7,Vilnius,Šeškinė
+2019-10-01,7,Vilnius,Šeškinė
+2019-11-01,7,Vilnius,Šeškinė
+2019-12-01,7,Vilnius,Šeškinė
+2020-01-01,7,Vilnius,Šeškinė
+2020-02-01,7,Vilnius,Šeškinė
+2020-03-01,7,Vilnius,Šeškinė
+2020-04-01,7,Vilnius,Šeškinė
+2020-05-01,7,Vilnius,Šeškinė
+2020-06-01,7,Vilnius,Šeškinė
+2020-07-01,7,Vilnius,Šeškinė
+2020-08-01,7,Vilnius,Šeškinė
+2020-09-01,7,Vilnius,Šeškinė
+2020-10-01,7,Vilnius,Šeškinė
+2020-11-01,7,Vilnius,Šeškinė
+2020-12-01,7,Vilnius,Šeškinė
+2021-01-01,8,Vilnius,Šeškinė
+2021-02-01,8,Vilnius,Šeškinė
+2021-03-01,8,Vilnius,Šeškinė
+2021-04-01,8,Vilnius,Šeškinė
+2021-05-01,8,Vilnius,Šeškinė
+2021-06-01,8,Vilnius,Šeškinė
+2021-07-01,8,Vilnius,Šeškinė
+2021-08-01,9,Vilnius,Šeškinė
+2021-09-01,9,Vilnius,Šeškinė
+2021-10-01,10,Vilnius,Šeškinė
+2021-11-01,9,Vilnius,Šeškinė
+2021-12-01,9,Vilnius,Šeškinė
+2022-01-01,9,Vilnius,Šeškinė
+2022-02-01,9,Vilnius,Šeškinė
+2022-03-01,9,Vilnius,Šeškinė
+2022-04-01,11,Vilnius,Šeškinė
+2022-05-01,11,Vilnius,Šeškinė
+2022-06-01,12,Vilnius,Šeškinė
+2022-07-01,12,Vilnius,Šeškinė
+2022-08-01,12,Vilnius,Šeškinė
+2022-09-01,11,Vilnius,Šeškinė
+2022-10-01,11,Vilnius,Šeškinė
+2017-01-01,7,Vilnius,Šiaurės miestelis
+2017-02-01,7,Vilnius,Šiaurės miestelis
+2017-03-01,8,Vilnius,Šiaurės miestelis
+2017-04-01,7,Vilnius,Šiaurės miestelis
+2017-05-01,7,Vilnius,Šiaurės miestelis
+2017-06-01,7,Vilnius,Šiaurės miestelis
+2017-07-01,7,Vilnius,Šiaurės miestelis
+2017-08-01,8,Vilnius,Šiaurės miestelis
+2017-09-01,7,Vilnius,Šiaurės miestelis
+2017-10-01,7,Vilnius,Šiaurės miestelis
+2017-11-01,8,Vilnius,Šiaurės miestelis
+2017-12-01,7,Vilnius,Šiaurės miestelis
+2018-01-01,7,Vilnius,Šiaurės miestelis
+2018-02-01,7,Vilnius,Šiaurės miestelis
+2018-03-01,7,Vilnius,Šiaurės miestelis
+2018-04-01,7,Vilnius,Šiaurės miestelis
+2018-05-01,7,Vilnius,Šiaurės miestelis
+2018-06-01,8,Vilnius,Šiaurės miestelis
+2018-07-01,8,Vilnius,Šiaurės miestelis
+2018-08-01,8,Vilnius,Šiaurės miestelis
+2018-09-01,8,Vilnius,Šiaurės miestelis
+2018-10-01,8,Vilnius,Šiaurės miestelis
+2018-11-01,9,Vilnius,Šiaurės miestelis
+2018-12-01,9,Vilnius,Šiaurės miestelis
+2019-01-01,8,Vilnius,Šiaurės miestelis
+2019-02-01,8,Vilnius,Šiaurės miestelis
+2019-03-01,8,Vilnius,Šiaurės miestelis
+2019-04-01,8,Vilnius,Šiaurės miestelis
+2019-05-01,8,Vilnius,Šiaurės miestelis
+2019-06-01,8,Vilnius,Šiaurės miestelis
+2019-07-01,8,Vilnius,Šiaurės miestelis
+2019-08-01,8,Vilnius,Šiaurės miestelis
+2019-09-01,8,Vilnius,Šiaurės miestelis
+2019-10-01,8,Vilnius,Šiaurės miestelis
+2019-11-01,9,Vilnius,Šiaurės miestelis
+2019-12-01,9,Vilnius,Šiaurės miestelis
+2020-01-01,8,Vilnius,Šiaurės miestelis
+2020-02-01,9,Vilnius,Šiaurės miestelis
+2020-03-01,9,Vilnius,Šiaurės miestelis
+2020-04-01,8,Vilnius,Šiaurės miestelis
+2020-05-01,8,Vilnius,Šiaurės miestelis
+2020-06-01,8,Vilnius,Šiaurės miestelis
+2020-07-01,8,Vilnius,Šiaurės miestelis
+2020-08-01,8,Vilnius,Šiaurės miestelis
+2020-09-01,8,Vilnius,Šiaurės miestelis
+2020-10-01,8,Vilnius,Šiaurės miestelis
+2020-11-01,9,Vilnius,Šiaurės miestelis
+2020-12-01,9,Vilnius,Šiaurės miestelis
+2021-01-01,9,Vilnius,Šiaurės miestelis
+2021-02-01,8,Vilnius,Šiaurės miestelis
+2021-03-01,8,Vilnius,Šiaurės miestelis
+2021-04-01,8,Vilnius,Šiaurės miestelis
+2021-05-01,9,Vilnius,Šiaurės miestelis
+2021-06-01,9,Vilnius,Šiaurės miestelis
+2021-07-01,9,Vilnius,Šiaurės miestelis
+2021-08-01,9,Vilnius,Šiaurės miestelis
+2021-09-01,9,Vilnius,Šiaurės miestelis
+2021-10-01,9,Vilnius,Šiaurės miestelis
+2021-11-01,10,Vilnius,Šiaurės miestelis
+2021-12-01,9,Vilnius,Šiaurės miestelis
+2022-01-01,10,Vilnius,Šiaurės miestelis
+2022-02-01,10,Vilnius,Šiaurės miestelis
+2022-03-01,10,Vilnius,Šiaurės miestelis
+2022-04-01,11,Vilnius,Šiaurės miestelis
+2022-05-01,11,Vilnius,Šiaurės miestelis
+2022-06-01,13,Vilnius,Šiaurės miestelis
+2022-07-01,12,Vilnius,Šiaurės miestelis
+2022-08-01,13,Vilnius,Šiaurės miestelis
+2022-09-01,12,Vilnius,Šiaurės miestelis
+2022-10-01,12,Vilnius,Šiaurės miestelis
+2017-01-01,8,Vilnius,Šnipiškės
+2017-02-01,9,Vilnius,Šnipiškės
+2017-03-01,8,Vilnius,Šnipiškės
+2017-04-01,8,Vilnius,Šnipiškės
+2017-05-01,8,Vilnius,Šnipiškės
+2017-06-01,8,Vilnius,Šnipiškės
+2017-07-01,9,Vilnius,Šnipiškės
+2017-08-01,9,Vilnius,Šnipiškės
+2017-09-01,9,Vilnius,Šnipiškės
+2017-10-01,8,Vilnius,Šnipiškės
+2017-11-01,8,Vilnius,Šnipiškės
+2017-12-01,9,Vilnius,Šnipiškės
+2018-01-01,9,Vilnius,Šnipiškės
+2018-02-01,8,Vilnius,Šnipiškės
+2018-03-01,9,Vilnius,Šnipiškės
+2018-04-01,9,Vilnius,Šnipiškės
+2018-05-01,9,Vilnius,Šnipiškės
+2018-06-01,9,Vilnius,Šnipiškės
+2018-07-01,9,Vilnius,Šnipiškės
+2018-08-01,10,Vilnius,Šnipiškės
+2018-09-01,9,Vilnius,Šnipiškės
+2018-10-01,9,Vilnius,Šnipiškės
+2018-11-01,10,Vilnius,Šnipiškės
+2018-12-01,10,Vilnius,Šnipiškės
+2019-01-01,10,Vilnius,Šnipiškės
+2019-02-01,10,Vilnius,Šnipiškės
+2019-03-01,10,Vilnius,Šnipiškės
+2019-04-01,10,Vilnius,Šnipiškės
+2019-05-01,10,Vilnius,Šnipiškės
+2019-06-01,10,Vilnius,Šnipiškės
+2019-07-01,11,Vilnius,Šnipiškės
+2019-08-01,10,Vilnius,Šnipiškės
+2019-09-01,10,Vilnius,Šnipiškės
+2019-10-01,10,Vilnius,Šnipiškės
+2019-11-01,10,Vilnius,Šnipiškės
+2019-12-01,11,Vilnius,Šnipiškės
+2020-01-01,11,Vilnius,Šnipiškės
+2020-02-01,11,Vilnius,Šnipiškės
+2020-03-01,11,Vilnius,Šnipiškės
+2020-04-01,10,Vilnius,Šnipiškės
+2020-05-01,10,Vilnius,Šnipiškės
+2020-06-01,10,Vilnius,Šnipiškės
+2020-07-01,10,Vilnius,Šnipiškės
+2020-08-01,10,Vilnius,Šnipiškės
+2020-09-01,11,Vilnius,Šnipiškės
+2020-10-01,11,Vilnius,Šnipiškės
+2020-11-01,12,Vilnius,Šnipiškės
+2020-12-01,11,Vilnius,Šnipiškės
+2021-01-01,12,Vilnius,Šnipiškės
+2021-02-01,11,Vilnius,Šnipiškės
+2021-03-01,11,Vilnius,Šnipiškės
+2021-04-01,12,Vilnius,Šnipiškės
+2021-05-01,12,Vilnius,Šnipiškės
+2021-06-01,12,Vilnius,Šnipiškės
+2021-07-01,13,Vilnius,Šnipiškės
+2021-08-01,12,Vilnius,Šnipiškės
+2021-09-01,13,Vilnius,Šnipiškės
+2021-10-01,13,Vilnius,Šnipiškės
+2021-11-01,13,Vilnius,Šnipiškės
+2021-12-01,13,Vilnius,Šnipiškės
+2022-01-01,13,Vilnius,Šnipiškės
+2022-02-01,13,Vilnius,Šnipiškės
+2022-03-01,14,Vilnius,Šnipiškės
+2022-04-01,15,Vilnius,Šnipiškės
+2022-05-01,16,Vilnius,Šnipiškės
+2022-06-01,16,Vilnius,Šnipiškės
+2022-07-01,16,Vilnius,Šnipiškės
+2022-08-01,16,Vilnius,Šnipiškės
+2022-09-01,15,Vilnius,Šnipiškės
+2022-10-01,15,Vilnius,Šnipiškės
+2017-12-01,6,Vilnius,Tarandė
+2018-01-01,7,Vilnius,Tarandė
+2018-10-01,4,Vilnius,Tarandė
+2018-12-01,6,Vilnius,Tarandė
+2019-01-01,5,Vilnius,Tarandė
+2019-04-01,6,Vilnius,Tarandė
+2019-09-01,7,Vilnius,Tarandė
+2019-10-01,8,Vilnius,Tarandė
+2019-12-01,8,Vilnius,Tarandė
+2020-01-01,11,Vilnius,Tarandė
+2020-03-01,6,Vilnius,Tarandė
+2020-05-01,7,Vilnius,Tarandė
+2020-06-01,8,Vilnius,Tarandė
+2020-10-01,6,Vilnius,Tarandė
+2020-11-01,8,Vilnius,Tarandė
+2017-12-01,5,Vilnius,Trakų Vokė
+2018-01-01,5,Vilnius,Trakų Vokė
+2018-02-01,5,Vilnius,Trakų Vokė
+2018-03-01,5,Vilnius,Trakų Vokė
+2018-04-01,6,Vilnius,Trakų Vokė
+2018-05-01,6,Vilnius,Trakų Vokė
+2018-06-01,5,Vilnius,Trakų Vokė
+2018-07-01,5,Vilnius,Trakų Vokė
+2018-08-01,5,Vilnius,Trakų Vokė
+2018-09-01,5,Vilnius,Trakų Vokė
+2018-10-01,5,Vilnius,Trakų Vokė
+2018-12-01,5,Vilnius,Trakų Vokė
+2019-01-01,5,Vilnius,Trakų Vokė
+2019-02-01,5,Vilnius,Trakų Vokė
+2019-03-01,5,Vilnius,Trakų Vokė
+2019-04-01,5,Vilnius,Trakų Vokė
+2019-05-01,5,Vilnius,Trakų Vokė
+2019-08-01,5,Vilnius,Trakų Vokė
+2019-09-01,5,Vilnius,Trakų Vokė
+2019-10-01,5,Vilnius,Trakų Vokė
+2019-11-01,5,Vilnius,Trakų Vokė
+2019-12-01,6,Vilnius,Trakų Vokė
+2020-01-01,6,Vilnius,Trakų Vokė
+2020-02-01,6,Vilnius,Trakų Vokė
+2020-03-01,8,Vilnius,Trakų Vokė
+2020-04-01,7,Vilnius,Trakų Vokė
+2020-11-01,7,Vilnius,Trakų Vokė
+2020-12-01,5,Vilnius,Trakų Vokė
+2021-01-01,5,Vilnius,Trakų Vokė
+2018-03-01,9,Vilnius,Turniškės
+2018-04-01,8,Vilnius,Turniškės
+2018-05-01,8,Vilnius,Turniškės
+2018-06-01,7,Vilnius,Turniškės
+2018-10-01,9,Vilnius,Turniškės
+2018-12-01,9,Vilnius,Turniškės
+2019-05-01,13,Vilnius,Turniškės
+2019-06-01,12,Vilnius,Turniškės
+2020-05-01,9,Vilnius,Turniškės
+2020-06-01,10,Vilnius,Turniškės
+2020-07-01,10,Vilnius,Turniškės
+2020-10-01,10,Vilnius,Turniškės
+2020-11-01,11,Vilnius,Turniškės
+2021-01-01,10,Vilnius,Turniškės
+2021-02-01,10,Vilnius,Turniškės
+2021-03-01,10,Vilnius,Turniškės
+2017-01-01,9,Vilnius,Užupis
+2017-02-01,9,Vilnius,Užupis
+2017-03-01,10,Vilnius,Užupis
+2017-04-01,11,Vilnius,Užupis
+2017-05-01,11,Vilnius,Užupis
+2017-06-01,10,Vilnius,Užupis
+2017-07-01,10,Vilnius,Užupis
+2017-08-01,11,Vilnius,Užupis
+2017-09-01,11,Vilnius,Užupis
+2017-10-01,11,Vilnius,Užupis
+2017-11-01,11,Vilnius,Užupis
+2017-12-01,11,Vilnius,Užupis
+2018-01-01,10,Vilnius,Užupis
+2018-02-01,10,Vilnius,Užupis
+2018-03-01,10,Vilnius,Užupis
+2018-04-01,11,Vilnius,Užupis
+2018-05-01,10,Vilnius,Užupis
+2018-06-01,10,Vilnius,Užupis
+2018-07-01,11,Vilnius,Užupis
+2018-08-01,11,Vilnius,Užupis
+2018-09-01,11,Vilnius,Užupis
+2018-10-01,11,Vilnius,Užupis
+2018-11-01,11,Vilnius,Užupis
+2018-12-01,11,Vilnius,Užupis
+2019-01-01,12,Vilnius,Užupis
+2019-02-01,13,Vilnius,Užupis
+2019-03-01,12,Vilnius,Užupis
+2019-04-01,13,Vilnius,Užupis
+2019-05-01,12,Vilnius,Užupis
+2019-06-01,11,Vilnius,Užupis
+2019-07-01,13,Vilnius,Užupis
+2019-08-01,13,Vilnius,Užupis
+2019-09-01,12,Vilnius,Užupis
+2019-10-01,12,Vilnius,Užupis
+2019-11-01,12,Vilnius,Užupis
+2019-12-01,12,Vilnius,Užupis
+2020-01-01,11,Vilnius,Užupis
+2020-02-01,11,Vilnius,Užupis
+2020-03-01,12,Vilnius,Užupis
+2020-04-01,12,Vilnius,Užupis
+2020-05-01,11,Vilnius,Užupis
+2020-06-01,12,Vilnius,Užupis
+2020-07-01,12,Vilnius,Užupis
+2020-08-01,13,Vilnius,Užupis
+2020-09-01,13,Vilnius,Užupis
+2020-10-01,13,Vilnius,Užupis
+2020-11-01,13,Vilnius,Užupis
+2020-12-01,13,Vilnius,Užupis
+2021-01-01,13,Vilnius,Užupis
+2021-02-01,13,Vilnius,Užupis
+2021-03-01,13,Vilnius,Užupis
+2021-04-01,13,Vilnius,Užupis
+2021-05-01,13,Vilnius,Užupis
+2021-06-01,14,Vilnius,Užupis
+2021-07-01,14,Vilnius,Užupis
+2021-08-01,15,Vilnius,Užupis
+2021-09-01,16,Vilnius,Užupis
+2021-10-01,16,Vilnius,Užupis
+2021-11-01,16,Vilnius,Užupis
+2021-12-01,16,Vilnius,Užupis
+2022-01-01,15,Vilnius,Užupis
+2022-02-01,16,Vilnius,Užupis
+2022-03-01,15,Vilnius,Užupis
+2022-04-01,16,Vilnius,Užupis
+2022-05-01,18,Vilnius,Užupis
+2022-06-01,19,Vilnius,Užupis
+2022-07-01,19,Vilnius,Užupis
+2022-08-01,19,Vilnius,Užupis
+2022-09-01,17,Vilnius,Užupis
+2022-10-01,16,Vilnius,Užupis
+2017-01-01,9,Vilnius,Valakampiai
+2017-02-01,9,Vilnius,Valakampiai
+2017-03-01,9,Vilnius,Valakampiai
+2017-04-01,10,Vilnius,Valakampiai
+2017-05-01,10,Vilnius,Valakampiai
+2017-12-01,7,Vilnius,Valakampiai
+2018-01-01,8,Vilnius,Valakampiai
+2018-02-01,9,Vilnius,Valakampiai
+2018-03-01,9,Vilnius,Valakampiai
+2018-04-01,9,Vilnius,Valakampiai
+2018-05-01,10,Vilnius,Valakampiai
+2018-06-01,10,Vilnius,Valakampiai
+2018-07-01,10,Vilnius,Valakampiai
+2018-08-01,10,Vilnius,Valakampiai
+2018-09-01,10,Vilnius,Valakampiai
+2018-10-01,9,Vilnius,Valakampiai
+2018-11-01,8,Vilnius,Valakampiai
+2018-12-01,10,Vilnius,Valakampiai
+2019-01-01,11,Vilnius,Valakampiai
+2019-03-01,9,Vilnius,Valakampiai
+2019-07-01,10,Vilnius,Valakampiai
+2019-08-01,11,Vilnius,Valakampiai
+2019-09-01,10,Vilnius,Valakampiai
+2019-10-01,10,Vilnius,Valakampiai
+2019-11-01,11,Vilnius,Valakampiai
+2019-12-01,10,Vilnius,Valakampiai
+2020-01-01,9,Vilnius,Valakampiai
+2020-02-01,9,Vilnius,Valakampiai
+2020-03-01,11,Vilnius,Valakampiai
+2020-04-01,9,Vilnius,Valakampiai
+2020-05-01,9,Vilnius,Valakampiai
+2020-06-01,9,Vilnius,Valakampiai
+2020-07-01,10,Vilnius,Valakampiai
+2020-08-01,10,Vilnius,Valakampiai
+2020-09-01,11,Vilnius,Valakampiai
+2020-10-01,10,Vilnius,Valakampiai
+2020-11-01,13,Vilnius,Valakampiai
+2020-12-01,13,Vilnius,Valakampiai
+2021-01-01,13,Vilnius,Valakampiai
+2021-02-01,14,Vilnius,Valakampiai
+2021-03-01,17,Vilnius,Valakampiai
+2022-09-01,15,Vilnius,Valakampiai
+2022-10-01,14,Vilnius,Valakampiai
+2017-01-01,9,Vilnius,Verkiai
+2017-03-01,12,Vilnius,Verkiai
+2017-04-01,10,Vilnius,Verkiai
+2017-05-01,11,Vilnius,Verkiai
+2017-06-01,18,Vilnius,Verkiai
+2017-07-01,10,Vilnius,Verkiai
+2017-08-01,9,Vilnius,Verkiai
+2017-09-01,11,Vilnius,Verkiai
+2017-10-01,11,Vilnius,Verkiai
+2017-11-01,10,Vilnius,Verkiai
+2017-12-01,9,Vilnius,Verkiai
+2018-01-01,9,Vilnius,Verkiai
+2018-02-01,10,Vilnius,Verkiai
+2018-03-01,11,Vilnius,Verkiai
+2018-04-01,11,Vilnius,Verkiai
+2018-05-01,10,Vilnius,Verkiai
+2018-06-01,9,Vilnius,Verkiai
+2018-07-01,9,Vilnius,Verkiai
+2018-08-01,10,Vilnius,Verkiai
+2018-09-01,10,Vilnius,Verkiai
+2018-10-01,10,Vilnius,Verkiai
+2018-11-01,11,Vilnius,Verkiai
+2018-12-01,10,Vilnius,Verkiai
+2019-01-01,13,Vilnius,Verkiai
+2019-02-01,12,Vilnius,Verkiai
+2019-03-01,11,Vilnius,Verkiai
+2019-04-01,10,Vilnius,Verkiai
+2019-05-01,10,Vilnius,Verkiai
+2019-06-01,12,Vilnius,Verkiai
+2019-07-01,13,Vilnius,Verkiai
+2019-08-01,11,Vilnius,Verkiai
+2019-09-01,11,Vilnius,Verkiai
+2019-10-01,10,Vilnius,Verkiai
+2019-11-01,8,Vilnius,Verkiai
+2019-12-01,8,Vilnius,Verkiai
+2020-01-01,7,Vilnius,Verkiai
+2020-02-01,6,Vilnius,Verkiai
+2020-03-01,10,Vilnius,Verkiai
+2020-04-01,10,Vilnius,Verkiai
+2020-05-01,8,Vilnius,Verkiai
+2020-07-01,7,Vilnius,Verkiai
+2020-08-01,11,Vilnius,Verkiai
+2020-09-01,10,Vilnius,Verkiai
+2020-10-01,10,Vilnius,Verkiai
+2020-11-01,9,Vilnius,Verkiai
+2020-12-01,9,Vilnius,Verkiai
+2021-01-01,12,Vilnius,Verkiai
+2021-03-01,11,Vilnius,Verkiai
+2022-07-01,16,Vilnius,Verkiai
+2022-08-01,17,Vilnius,Verkiai
+2022-09-01,16,Vilnius,Verkiai
+2022-10-01,15,Vilnius,Verkiai
+2017-03-01,9,Vilnius,Vilkpėdė
+2017-05-01,7,Vilnius,Vilkpėdė
+2017-06-01,8,Vilnius,Vilkpėdė
+2017-07-01,10,Vilnius,Vilkpėdė
+2017-08-01,9,Vilnius,Vilkpėdė
+2017-09-01,8,Vilnius,Vilkpėdė
+2017-10-01,9,Vilnius,Vilkpėdė
+2017-11-01,8,Vilnius,Vilkpėdė
+2017-12-01,8,Vilnius,Vilkpėdė
+2018-01-01,6,Vilnius,Vilkpėdė
+2018-02-01,7,Vilnius,Vilkpėdė
+2018-03-01,8,Vilnius,Vilkpėdė
+2018-04-01,10,Vilnius,Vilkpėdė
+2018-05-01,9,Vilnius,Vilkpėdė
+2018-06-01,8,Vilnius,Vilkpėdė
+2018-07-01,7,Vilnius,Vilkpėdė
+2018-08-01,5,Vilnius,Vilkpėdė
+2018-10-01,7,Vilnius,Vilkpėdė
+2018-11-01,8,Vilnius,Vilkpėdė
+2018-12-01,10,Vilnius,Vilkpėdė
+2019-01-01,9,Vilnius,Vilkpėdė
+2019-02-01,9,Vilnius,Vilkpėdė
+2019-03-01,8,Vilnius,Vilkpėdė
+2019-04-01,8,Vilnius,Vilkpėdė
+2019-05-01,9,Vilnius,Vilkpėdė
+2019-06-01,10,Vilnius,Vilkpėdė
+2019-07-01,9,Vilnius,Vilkpėdė
+2019-08-01,5,Vilnius,Vilkpėdė
+2019-09-01,6,Vilnius,Vilkpėdė
+2019-10-01,7,Vilnius,Vilkpėdė
+2019-11-01,9,Vilnius,Vilkpėdė
+2019-12-01,8,Vilnius,Vilkpėdė
+2020-01-01,10,Vilnius,Vilkpėdė
+2020-02-01,9,Vilnius,Vilkpėdė
+2020-04-01,8,Vilnius,Vilkpėdė
+2020-05-01,8,Vilnius,Vilkpėdė
+2020-06-01,7,Vilnius,Vilkpėdė
+2020-07-01,7,Vilnius,Vilkpėdė
+2020-08-01,6,Vilnius,Vilkpėdė
+2020-09-01,8,Vilnius,Vilkpėdė
+2020-10-01,9,Vilnius,Vilkpėdė
+2020-11-01,9,Vilnius,Vilkpėdė
+2020-12-01,9,Vilnius,Vilkpėdė
+2021-01-01,8,Vilnius,Vilkpėdė
+2021-02-01,8,Vilnius,Vilkpėdė
+2021-03-01,9,Vilnius,Vilkpėdė
+2021-04-01,9,Vilnius,Vilkpėdė
+2021-05-01,6,Vilnius,Vilkpėdė
+2021-09-01,10,Vilnius,Vilkpėdė
+2022-01-01,11,Vilnius,Vilkpėdė
+2022-02-01,11,Vilnius,Vilkpėdė
+2022-03-01,13,Vilnius,Vilkpėdė
+2022-06-01,13,Vilnius,Vilkpėdė
+2022-08-01,12,Vilnius,Vilkpėdė
+2022-09-01,14,Vilnius,Vilkpėdė
+2022-10-01,12,Vilnius,Vilkpėdė
+2017-01-01,5,Vilnius,Viršuliškės
+2017-02-01,5,Vilnius,Viršuliškės
+2017-03-01,6,Vilnius,Viršuliškės
+2017-04-01,6,Vilnius,Viršuliškės
+2017-05-01,6,Vilnius,Viršuliškės
+2017-06-01,6,Vilnius,Viršuliškės
+2017-07-01,6,Vilnius,Viršuliškės
+2017-08-01,7,Vilnius,Viršuliškės
+2017-09-01,7,Vilnius,Viršuliškės
+2017-10-01,6,Vilnius,Viršuliškės
+2017-11-01,6,Vilnius,Viršuliškės
+2017-12-01,6,Vilnius,Viršuliškės
+2018-01-01,6,Vilnius,Viršuliškės
+2018-02-01,6,Vilnius,Viršuliškės
+2018-03-01,6,Vilnius,Viršuliškės
+2018-04-01,6,Vilnius,Viršuliškės
+2018-05-01,6,Vilnius,Viršuliškės
+2018-06-01,6,Vilnius,Viršuliškės
+2018-07-01,6,Vilnius,Viršuliškės
+2018-08-01,6,Vilnius,Viršuliškės
+2018-09-01,6,Vilnius,Viršuliškės
+2018-10-01,6,Vilnius,Viršuliškės
+2018-11-01,6,Vilnius,Viršuliškės
+2018-12-01,6,Vilnius,Viršuliškės
+2019-01-01,6,Vilnius,Viršuliškės
+2019-02-01,6,Vilnius,Viršuliškės
+2019-03-01,7,Vilnius,Viršuliškės
+2019-04-01,6,Vilnius,Viršuliškės
+2019-05-01,6,Vilnius,Viršuliškės
+2019-06-01,6,Vilnius,Viršuliškės
+2019-07-01,6,Vilnius,Viršuliškės
+2019-08-01,7,Vilnius,Viršuliškės
+2019-09-01,7,Vilnius,Viršuliškės
+2019-10-01,7,Vilnius,Viršuliškės
+2019-11-01,8,Vilnius,Viršuliškės
+2019-12-01,6,Vilnius,Viršuliškės
+2020-01-01,7,Vilnius,Viršuliškės
+2020-02-01,7,Vilnius,Viršuliškės
+2020-03-01,7,Vilnius,Viršuliškės
+2020-04-01,7,Vilnius,Viršuliškės
+2020-05-01,7,Vilnius,Viršuliškės
+2020-06-01,7,Vilnius,Viršuliškės
+2020-07-01,7,Vilnius,Viršuliškės
+2020-08-01,7,Vilnius,Viršuliškės
+2020-09-01,7,Vilnius,Viršuliškės
+2020-10-01,8,Vilnius,Viršuliškės
+2020-11-01,8,Vilnius,Viršuliškės
+2020-12-01,8,Vilnius,Viršuliškės
+2021-01-01,8,Vilnius,Viršuliškės
+2021-02-01,8,Vilnius,Viršuliškės
+2021-03-01,8,Vilnius,Viršuliškės
+2021-04-01,8,Vilnius,Viršuliškės
+2021-05-01,7,Vilnius,Viršuliškės
+2021-06-01,8,Vilnius,Viršuliškės
+2021-07-01,9,Vilnius,Viršuliškės
+2021-08-01,8,Vilnius,Viršuliškės
+2021-09-01,8,Vilnius,Viršuliškės
+2021-10-01,8,Vilnius,Viršuliškės
+2021-11-01,8,Vilnius,Viršuliškės
+2021-12-01,9,Vilnius,Viršuliškės
+2022-01-01,9,Vilnius,Viršuliškės
+2022-02-01,9,Vilnius,Viršuliškės
+2022-03-01,9,Vilnius,Viršuliškės
+2022-04-01,10,Vilnius,Viršuliškės
+2022-05-01,11,Vilnius,Viršuliškės
+2022-06-01,13,Vilnius,Viršuliškės
+2022-07-01,12,Vilnius,Viršuliškės
+2022-08-01,12,Vilnius,Viršuliškės
+2022-09-01,11,Vilnius,Viršuliškės
+2022-10-01,11,Vilnius,Viršuliškės
+2017-05-01,6,Vilnius,Visoriai
+2017-06-01,7,Vilnius,Visoriai
+2017-08-01,5,Vilnius,Visoriai
+2017-09-01,5,Vilnius,Visoriai
+2017-10-01,5,Vilnius,Visoriai
+2017-11-01,6,Vilnius,Visoriai
+2017-12-01,5,Vilnius,Visoriai
+2018-01-01,5,Vilnius,Visoriai
+2018-02-01,6,Vilnius,Visoriai
+2018-03-01,6,Vilnius,Visoriai
+2018-04-01,6,Vilnius,Visoriai
+2018-05-01,7,Vilnius,Visoriai
+2018-06-01,7,Vilnius,Visoriai
+2018-07-01,8,Vilnius,Visoriai
+2018-08-01,8,Vilnius,Visoriai
+2018-09-01,8,Vilnius,Visoriai
+2018-10-01,8,Vilnius,Visoriai
+2018-11-01,8,Vilnius,Visoriai
+2018-12-01,7,Vilnius,Visoriai
+2019-01-01,7,Vilnius,Visoriai
+2019-02-01,6,Vilnius,Visoriai
+2019-03-01,7,Vilnius,Visoriai
+2019-04-01,7,Vilnius,Visoriai
+2019-05-01,7,Vilnius,Visoriai
+2019-06-01,8,Vilnius,Visoriai
+2019-07-01,7,Vilnius,Visoriai
+2019-08-01,6,Vilnius,Visoriai
+2019-09-01,7,Vilnius,Visoriai
+2019-10-01,7,Vilnius,Visoriai
+2019-11-01,9,Vilnius,Visoriai
+2019-12-01,11,Vilnius,Visoriai
+2020-02-01,6,Vilnius,Visoriai
+2020-03-01,6,Vilnius,Visoriai
+2020-04-01,8,Vilnius,Visoriai
+2020-05-01,7,Vilnius,Visoriai
+2020-06-01,8,Vilnius,Visoriai
+2020-07-01,8,Vilnius,Visoriai
+2020-08-01,7,Vilnius,Visoriai
+2020-09-01,8,Vilnius,Visoriai
+2020-10-01,8,Vilnius,Visoriai
+2020-11-01,9,Vilnius,Visoriai
+2020-12-01,9,Vilnius,Visoriai
+2021-01-01,8,Vilnius,Visoriai
+2021-02-01,9,Vilnius,Visoriai
+2021-03-01,9,Vilnius,Visoriai
+2021-04-01,8,Vilnius,Visoriai
+2021-08-01,9,Vilnius,Visoriai
+2022-08-01,12,Vilnius,Visoriai
+2022-09-01,13,Vilnius,Visoriai
+2018-01-01,4,Vilnius,Zujūnai
+2018-02-01,5,Vilnius,Zujūnai
+2018-12-01,6,Vilnius,Zujūnai
+2019-04-01,9,Vilnius,Zujūnai
+2019-07-01,5,Vilnius,Zujūnai
+2020-05-01,3,Vilnius,Zujūnai
+2020-06-01,3,Vilnius,Zujūnai
+2020-10-01,10,Vilnius,Zujūnai
+2020-11-01,8,Vilnius,Zujūnai
+2020-12-01,7,Vilnius,Zujūnai
+2021-02-01,8,Vilnius,Zujūnai
+2021-03-01,8,Vilnius,Zujūnai
+2017-03-01,4,Vilnius,Žemieji Paneriai
+2017-04-01,5,Vilnius,Žemieji Paneriai
+2017-06-01,4,Vilnius,Žemieji Paneriai
+2017-07-01,6,Vilnius,Žemieji Paneriai
+2017-08-01,5,Vilnius,Žemieji Paneriai
+2017-09-01,5,Vilnius,Žemieji Paneriai
+2017-11-01,4,Vilnius,Žemieji Paneriai
+2017-12-01,5,Vilnius,Žemieji Paneriai
+2018-01-01,4,Vilnius,Žemieji Paneriai
+2018-02-01,4,Vilnius,Žemieji Paneriai
+2018-03-01,5,Vilnius,Žemieji Paneriai
+2018-04-01,5,Vilnius,Žemieji Paneriai
+2018-05-01,5,Vilnius,Žemieji Paneriai
+2018-06-01,5,Vilnius,Žemieji Paneriai
+2018-07-01,5,Vilnius,Žemieji Paneriai
+2018-08-01,4,Vilnius,Žemieji Paneriai
+2018-09-01,5,Vilnius,Žemieji Paneriai
+2018-10-01,6,Vilnius,Žemieji Paneriai
+2018-11-01,6,Vilnius,Žemieji Paneriai
+2018-12-01,5,Vilnius,Žemieji Paneriai
+2019-01-01,5,Vilnius,Žemieji Paneriai
+2019-03-01,6,Vilnius,Žemieji Paneriai
+2019-04-01,8,Vilnius,Žemieji Paneriai
+2019-05-01,6,Vilnius,Žemieji Paneriai
+2019-06-01,6,Vilnius,Žemieji Paneriai
+2019-07-01,7,Vilnius,Žemieji Paneriai
+2019-08-01,7,Vilnius,Žemieji Paneriai
+2019-09-01,7,Vilnius,Žemieji Paneriai
+2019-10-01,6,Vilnius,Žemieji Paneriai
+2019-11-01,5,Vilnius,Žemieji Paneriai
+2019-12-01,5,Vilnius,Žemieji Paneriai
+2020-01-01,6,Vilnius,Žemieji Paneriai
+2020-02-01,6,Vilnius,Žemieji Paneriai
+2020-03-01,6,Vilnius,Žemieji Paneriai
+2020-04-01,6,Vilnius,Žemieji Paneriai
+2020-05-01,6,Vilnius,Žemieji Paneriai
+2020-06-01,5,Vilnius,Žemieji Paneriai
+2020-07-01,6,Vilnius,Žemieji Paneriai
+2020-08-01,6,Vilnius,Žemieji Paneriai
+2020-09-01,6,Vilnius,Žemieji Paneriai
+2020-10-01,6,Vilnius,Žemieji Paneriai
+2020-11-01,5,Vilnius,Žemieji Paneriai
+2020-12-01,6,Vilnius,Žemieji Paneriai
+2021-01-01,7,Vilnius,Žemieji Paneriai
+2021-02-01,10,Vilnius,Žemieji Paneriai
+2021-03-01,10,Vilnius,Žemieji Paneriai
+2021-09-01,9,Vilnius,Žemieji Paneriai
+2021-10-01,8,Vilnius,Žemieji Paneriai
+2021-11-01,9,Vilnius,Žemieji Paneriai
+2021-12-01,10,Vilnius,Žemieji Paneriai
+2022-01-01,9,Vilnius,Žemieji Paneriai
+2022-02-01,8,Vilnius,Žemieji Paneriai
+2022-03-01,9,Vilnius,Žemieji Paneriai
+2022-07-01,10,Vilnius,Žemieji Paneriai
+2022-08-01,11,Vilnius,Žemieji Paneriai
+2022-09-01,11,Vilnius,Žemieji Paneriai
+2022-10-01,11,Vilnius,Žemieji Paneriai
+2017-01-01,7,Vilnius,Žirmūnai
+2017-02-01,7,Vilnius,Žirmūnai
+2017-03-01,7,Vilnius,Žirmūnai
+2017-04-01,7,Vilnius,Žirmūnai
+2017-05-01,7,Vilnius,Žirmūnai
+2017-06-01,7,Vilnius,Žirmūnai
+2017-07-01,8,Vilnius,Žirmūnai
+2017-08-01,7,Vilnius,Žirmūnai
+2017-09-01,7,Vilnius,Žirmūnai
+2017-10-01,7,Vilnius,Žirmūnai
+2017-11-01,7,Vilnius,Žirmūnai
+2017-12-01,7,Vilnius,Žirmūnai
+2018-01-01,8,Vilnius,Žirmūnai
+2018-02-01,8,Vilnius,Žirmūnai
+2018-03-01,8,Vilnius,Žirmūnai
+2018-04-01,8,Vilnius,Žirmūnai
+2018-05-01,8,Vilnius,Žirmūnai
+2018-06-01,8,Vilnius,Žirmūnai
+2018-07-01,8,Vilnius,Žirmūnai
+2018-08-01,9,Vilnius,Žirmūnai
+2018-09-01,8,Vilnius,Žirmūnai
+2018-10-01,9,Vilnius,Žirmūnai
+2018-11-01,9,Vilnius,Žirmūnai
+2018-12-01,10,Vilnius,Žirmūnai
+2019-01-01,8,Vilnius,Žirmūnai
+2019-02-01,9,Vilnius,Žirmūnai
+2019-03-01,9,Vilnius,Žirmūnai
+2019-04-01,9,Vilnius,Žirmūnai
+2019-05-01,9,Vilnius,Žirmūnai
+2019-06-01,8,Vilnius,Žirmūnai
+2019-07-01,9,Vilnius,Žirmūnai
+2019-08-01,9,Vilnius,Žirmūnai
+2019-09-01,9,Vilnius,Žirmūnai
+2019-10-01,9,Vilnius,Žirmūnai
+2019-11-01,9,Vilnius,Žirmūnai
+2019-12-01,9,Vilnius,Žirmūnai
+2020-01-01,9,Vilnius,Žirmūnai
+2020-02-01,9,Vilnius,Žirmūnai
+2020-03-01,9,Vilnius,Žirmūnai
+2020-04-01,9,Vilnius,Žirmūnai
+2020-05-01,9,Vilnius,Žirmūnai
+2020-06-01,8,Vilnius,Žirmūnai
+2020-07-01,8,Vilnius,Žirmūnai
+2020-08-01,9,Vilnius,Žirmūnai
+2020-09-01,9,Vilnius,Žirmūnai
+2020-10-01,9,Vilnius,Žirmūnai
+2020-11-01,8,Vilnius,Žirmūnai
+2020-12-01,8,Vilnius,Žirmūnai
+2021-01-01,9,Vilnius,Žirmūnai
+2021-02-01,9,Vilnius,Žirmūnai
+2021-03-01,9,Vilnius,Žirmūnai
+2021-04-01,9,Vilnius,Žirmūnai
+2021-05-01,9,Vilnius,Žirmūnai
+2021-06-01,10,Vilnius,Žirmūnai
+2021-07-01,10,Vilnius,Žirmūnai
+2021-08-01,10,Vilnius,Žirmūnai
+2021-09-01,11,Vilnius,Žirmūnai
+2021-10-01,10,Vilnius,Žirmūnai
+2021-11-01,10,Vilnius,Žirmūnai
+2021-12-01,11,Vilnius,Žirmūnai
+2022-01-01,11,Vilnius,Žirmūnai
+2022-02-01,11,Vilnius,Žirmūnai
+2022-03-01,11,Vilnius,Žirmūnai
+2022-04-01,12,Vilnius,Žirmūnai
+2022-05-01,13,Vilnius,Žirmūnai
+2022-06-01,13,Vilnius,Žirmūnai
+2022-07-01,14,Vilnius,Žirmūnai
+2022-08-01,14,Vilnius,Žirmūnai
+2022-09-01,13,Vilnius,Žirmūnai
+2022-10-01,11,Vilnius,Žirmūnai
+2017-01-01,10,Vilnius,Žvėrynas
+2017-02-01,10,Vilnius,Žvėrynas
+2017-03-01,10,Vilnius,Žvėrynas
+2017-04-01,9,Vilnius,Žvėrynas
+2017-05-01,9,Vilnius,Žvėrynas
+2017-06-01,10,Vilnius,Žvėrynas
+2017-07-01,10,Vilnius,Žvėrynas
+2017-08-01,10,Vilnius,Žvėrynas
+2017-09-01,10,Vilnius,Žvėrynas
+2017-10-01,10,Vilnius,Žvėrynas
+2017-11-01,10,Vilnius,Žvėrynas
+2017-12-01,10,Vilnius,Žvėrynas
+2018-01-01,10,Vilnius,Žvėrynas
+2018-02-01,10,Vilnius,Žvėrynas
+2018-03-01,11,Vilnius,Žvėrynas
+2018-04-01,10,Vilnius,Žvėrynas
+2018-05-01,10,Vilnius,Žvėrynas
+2018-06-01,10,Vilnius,Žvėrynas
+2018-07-01,10,Vilnius,Žvėrynas
+2018-08-01,9,Vilnius,Žvėrynas
+2018-09-01,9,Vilnius,Žvėrynas
+2018-10-01,10,Vilnius,Žvėrynas
+2018-11-01,10,Vilnius,Žvėrynas
+2018-12-01,11,Vilnius,Žvėrynas
+2019-01-01,11,Vilnius,Žvėrynas
+2019-02-01,11,Vilnius,Žvėrynas
+2019-03-01,11,Vilnius,Žvėrynas
+2019-04-01,10,Vilnius,Žvėrynas
+2019-05-01,10,Vilnius,Žvėrynas
+2019-06-01,11,Vilnius,Žvėrynas
+2019-07-01,11,Vilnius,Žvėrynas
+2019-08-01,11,Vilnius,Žvėrynas
+2019-09-01,10,Vilnius,Žvėrynas
+2019-10-01,11,Vilnius,Žvėrynas
+2019-11-01,12,Vilnius,Žvėrynas
+2019-12-01,11,Vilnius,Žvėrynas
+2020-01-01,11,Vilnius,Žvėrynas
+2020-02-01,12,Vilnius,Žvėrynas
+2020-03-01,12,Vilnius,Žvėrynas
+2020-04-01,12,Vilnius,Žvėrynas
+2020-05-01,11,Vilnius,Žvėrynas
+2020-06-01,11,Vilnius,Žvėrynas
+2020-07-01,11,Vilnius,Žvėrynas
+2020-08-01,11,Vilnius,Žvėrynas
+2020-09-01,11,Vilnius,Žvėrynas
+2020-10-01,11,Vilnius,Žvėrynas
+2020-11-01,11,Vilnius,Žvėrynas
+2020-12-01,11,Vilnius,Žvėrynas
+2021-01-01,11,Vilnius,Žvėrynas
+2021-02-01,11,Vilnius,Žvėrynas
+2021-03-01,11,Vilnius,Žvėrynas
+2021-04-01,11,Vilnius,Žvėrynas
+2021-05-01,11,Vilnius,Žvėrynas
+2021-06-01,12,Vilnius,Žvėrynas
+2021-07-01,12,Vilnius,Žvėrynas
+2021-08-01,12,Vilnius,Žvėrynas
+2021-09-01,13,Vilnius,Žvėrynas
+2021-10-01,14,Vilnius,Žvėrynas
+2021-11-01,13,Vilnius,Žvėrynas
+2021-12-01,13,Vilnius,Žvėrynas
+2022-01-01,14,Vilnius,Žvėrynas
+2022-02-01,13,Vilnius,Žvėrynas
+2022-03-01,14,Vilnius,Žvėrynas
+2022-04-01,15,Vilnius,Žvėrynas
+2022-05-01,16,Vilnius,Žvėrynas
+2022-06-01,17,Vilnius,Žvėrynas
+2022-07-01,18,Vilnius,Žvėrynas
+2022-08-01,17,Vilnius,Žvėrynas
+2022-09-01,15,Vilnius,Žvėrynas
+2022-10-01,15,Vilnius,Žvėrynas
+2017-01-01,5,Kaunas,Aleksotas
+2017-02-01,5,Kaunas,Aleksotas
+2017-03-01,4,Kaunas,Aleksotas
+2017-08-01,5,Kaunas,Aleksotas
+2017-09-01,5,Kaunas,Aleksotas
+2017-10-01,6,Kaunas,Aleksotas
+2017-11-01,6,Kaunas,Aleksotas
+2017-12-01,5,Kaunas,Aleksotas
+2018-01-01,5,Kaunas,Aleksotas
+2018-02-01,5,Kaunas,Aleksotas
+2018-03-01,5,Kaunas,Aleksotas
+2018-04-01,7,Kaunas,Aleksotas
+2018-05-01,6,Kaunas,Aleksotas
+2018-06-01,7,Kaunas,Aleksotas
+2018-07-01,6,Kaunas,Aleksotas
+2018-08-01,6,Kaunas,Aleksotas
+2018-09-01,5,Kaunas,Aleksotas
+2018-10-01,6,Kaunas,Aleksotas
+2018-11-01,5,Kaunas,Aleksotas
+2018-12-01,8,Kaunas,Aleksotas
+2019-01-01,6,Kaunas,Aleksotas
+2019-02-01,7,Kaunas,Aleksotas
+2019-03-01,7,Kaunas,Aleksotas
+2019-04-01,7,Kaunas,Aleksotas
+2019-05-01,8,Kaunas,Aleksotas
+2019-06-01,8,Kaunas,Aleksotas
+2019-07-01,6,Kaunas,Aleksotas
+2019-08-01,7,Kaunas,Aleksotas
+2019-09-01,6,Kaunas,Aleksotas
+2019-10-01,6,Kaunas,Aleksotas
+2019-11-01,6,Kaunas,Aleksotas
+2019-12-01,6,Kaunas,Aleksotas
+2020-01-01,7,Kaunas,Aleksotas
+2020-02-01,7,Kaunas,Aleksotas
+2020-03-01,9,Kaunas,Aleksotas
+2020-04-01,9,Kaunas,Aleksotas
+2020-05-01,9,Kaunas,Aleksotas
+2020-06-01,8,Kaunas,Aleksotas
+2020-07-01,7,Kaunas,Aleksotas
+2020-08-01,8,Kaunas,Aleksotas
+2020-09-01,8,Kaunas,Aleksotas
+2020-10-01,7,Kaunas,Aleksotas
+2020-11-01,7,Kaunas,Aleksotas
+2020-12-01,8,Kaunas,Aleksotas
+2021-01-01,8,Kaunas,Aleksotas
+2021-02-01,8,Kaunas,Aleksotas
+2021-03-01,8,Kaunas,Aleksotas
+2021-04-01,8,Kaunas,Aleksotas
+2021-05-01,7,Kaunas,Aleksotas
+2021-06-01,6,Kaunas,Aleksotas
+2021-09-01,9,Kaunas,Aleksotas
+2021-12-01,10,Kaunas,Aleksotas
+2022-01-01,10,Kaunas,Aleksotas
+2022-02-01,10,Kaunas,Aleksotas
+2022-03-01,10,Kaunas,Aleksotas
+2022-04-01,11,Kaunas,Aleksotas
+2022-06-01,11,Kaunas,Aleksotas
+2022-07-01,10,Kaunas,Aleksotas
+2022-08-01,11,Kaunas,Aleksotas
+2022-09-01,10,Kaunas,Aleksotas
+2022-10-01,9,Kaunas,Aleksotas
+2018-08-01,5,Kaunas,Amaliai
+2018-11-01,3,Kaunas,Amaliai
+2018-12-01,4,Kaunas,Amaliai
+2019-04-01,5,Kaunas,Amaliai
+2019-06-01,5,Kaunas,Amaliai
+2019-08-01,5,Kaunas,Amaliai
+2019-11-01,4,Kaunas,Amaliai
+2020-12-01,6,Kaunas,Amaliai
+2017-01-01,4,Kaunas,Aukštieji Šančiai
+2017-02-01,4,Kaunas,Aukštieji Šančiai
+2017-03-01,5,Kaunas,Aukštieji Šančiai
+2017-04-01,6,Kaunas,Aukštieji Šančiai
+2017-05-01,5,Kaunas,Aukštieji Šančiai
+2017-06-01,5,Kaunas,Aukštieji Šančiai
+2017-07-01,5,Kaunas,Aukštieji Šančiai
+2017-08-01,5,Kaunas,Aukštieji Šančiai
+2017-09-01,5,Kaunas,Aukštieji Šančiai
+2017-10-01,5,Kaunas,Aukštieji Šančiai
+2017-11-01,5,Kaunas,Aukštieji Šančiai
+2017-12-01,5,Kaunas,Aukštieji Šančiai
+2018-01-01,5,Kaunas,Aukštieji Šančiai
+2018-02-01,5,Kaunas,Aukštieji Šančiai
+2018-03-01,6,Kaunas,Aukštieji Šančiai
+2018-04-01,6,Kaunas,Aukštieji Šančiai
+2018-05-01,6,Kaunas,Aukštieji Šančiai
+2018-06-01,5,Kaunas,Aukštieji Šančiai
+2018-07-01,6,Kaunas,Aukštieji Šančiai
+2018-08-01,6,Kaunas,Aukštieji Šančiai
+2018-09-01,6,Kaunas,Aukštieji Šančiai
+2018-10-01,6,Kaunas,Aukštieji Šančiai
+2018-11-01,6,Kaunas,Aukštieji Šančiai
+2018-12-01,6,Kaunas,Aukštieji Šančiai
+2019-01-01,6,Kaunas,Aukštieji Šančiai
+2019-02-01,7,Kaunas,Aukštieji Šančiai
+2019-03-01,6,Kaunas,Aukštieji Šančiai
+2019-04-01,6,Kaunas,Aukštieji Šančiai
+2019-05-01,7,Kaunas,Aukštieji Šančiai
+2019-06-01,7,Kaunas,Aukštieji Šančiai
+2019-07-01,7,Kaunas,Aukštieji Šančiai
+2019-08-01,6,Kaunas,Aukštieji Šančiai
+2019-09-01,6,Kaunas,Aukštieji Šančiai
+2019-10-01,6,Kaunas,Aukštieji Šančiai
+2019-11-01,7,Kaunas,Aukštieji Šančiai
+2019-12-01,6,Kaunas,Aukštieji Šančiai
+2020-01-01,6,Kaunas,Aukštieji Šančiai
+2020-02-01,6,Kaunas,Aukštieji Šančiai
+2020-03-01,7,Kaunas,Aukštieji Šančiai
+2020-04-01,7,Kaunas,Aukštieji Šančiai
+2020-05-01,7,Kaunas,Aukštieji Šančiai
+2020-06-01,6,Kaunas,Aukštieji Šančiai
+2020-07-01,6,Kaunas,Aukštieji Šančiai
+2020-08-01,7,Kaunas,Aukštieji Šančiai
+2020-09-01,7,Kaunas,Aukštieji Šančiai
+2020-10-01,7,Kaunas,Aukštieji Šančiai
+2020-11-01,6,Kaunas,Aukštieji Šančiai
+2020-12-01,7,Kaunas,Aukštieji Šančiai
+2021-01-01,7,Kaunas,Aukštieji Šančiai
+2021-02-01,8,Kaunas,Aukštieji Šančiai
+2021-03-01,8,Kaunas,Aukštieji Šančiai
+2021-04-01,7,Kaunas,Aukštieji Šančiai
+2021-05-01,9,Kaunas,Aukštieji Šančiai
+2021-06-01,7,Kaunas,Aukštieji Šančiai
+2021-07-01,9,Kaunas,Aukštieji Šančiai
+2021-08-01,7,Kaunas,Aukštieji Šančiai
+2021-09-01,7,Kaunas,Aukštieji Šančiai
+2021-12-01,7,Kaunas,Aukštieji Šančiai
+2022-01-01,8,Kaunas,Aukštieji Šančiai
+2022-02-01,8,Kaunas,Aukštieji Šančiai
+2022-03-01,8,Kaunas,Aukštieji Šančiai
+2022-04-01,11,Kaunas,Aukštieji Šančiai
+2022-05-01,9,Kaunas,Aukštieji Šančiai
+2022-06-01,8,Kaunas,Aukštieji Šančiai
+2022-07-01,9,Kaunas,Aukštieji Šančiai
+2022-08-01,10,Kaunas,Aukštieji Šančiai
+2022-09-01,10,Kaunas,Aukštieji Šančiai
+2022-10-01,9,Kaunas,Aukštieji Šančiai
+2018-04-01,6,Kaunas,Aukštutiniai Kaniūkai
+2018-05-01,6,Kaunas,Aukštutiniai Kaniūkai
+2018-06-01,7,Kaunas,Aukštutiniai Kaniūkai
+2018-07-01,6,Kaunas,Aukštutiniai Kaniūkai
+2018-08-01,6,Kaunas,Aukštutiniai Kaniūkai
+2018-09-01,6,Kaunas,Aukštutiniai Kaniūkai
+2019-01-01,7,Kaunas,Aukštutiniai Kaniūkai
+2019-02-01,7,Kaunas,Aukštutiniai Kaniūkai
+2019-03-01,8,Kaunas,Aukštutiniai Kaniūkai
+2019-04-01,8,Kaunas,Aukštutiniai Kaniūkai
+2019-05-01,8,Kaunas,Aukštutiniai Kaniūkai
+2019-07-01,4,Kaunas,Aukštutiniai Kaniūkai
+2019-08-01,4,Kaunas,Aukštutiniai Kaniūkai
+2019-09-01,7,Kaunas,Aukštutiniai Kaniūkai
+2019-10-01,5,Kaunas,Aukštutiniai Kaniūkai
+2019-11-01,5,Kaunas,Aukštutiniai Kaniūkai
+2019-12-01,5,Kaunas,Aukštutiniai Kaniūkai
+2020-01-01,6,Kaunas,Aukštutiniai Kaniūkai
+2020-02-01,5,Kaunas,Aukštutiniai Kaniūkai
+2020-03-01,6,Kaunas,Aukštutiniai Kaniūkai
+2020-04-01,6,Kaunas,Aukštutiniai Kaniūkai
+2020-05-01,4,Kaunas,Aukštutiniai Kaniūkai
+2020-06-01,8,Kaunas,Aukštutiniai Kaniūkai
+2021-03-01,9,Kaunas,Aukštutiniai Kaniūkai
+2017-01-01,7,Kaunas,Centras
+2017-02-01,7,Kaunas,Centras
+2017-03-01,7,Kaunas,Centras
+2017-04-01,7,Kaunas,Centras
+2017-05-01,7,Kaunas,Centras
+2017-06-01,7,Kaunas,Centras
+2017-07-01,7,Kaunas,Centras
+2017-08-01,8,Kaunas,Centras
+2017-09-01,8,Kaunas,Centras
+2017-10-01,8,Kaunas,Centras
+2017-11-01,7,Kaunas,Centras
+2017-12-01,7,Kaunas,Centras
+2018-01-01,7,Kaunas,Centras
+2018-02-01,8,Kaunas,Centras
+2018-03-01,7,Kaunas,Centras
+2018-04-01,8,Kaunas,Centras
+2018-05-01,7,Kaunas,Centras
+2018-06-01,7,Kaunas,Centras
+2018-07-01,8,Kaunas,Centras
+2018-08-01,8,Kaunas,Centras
+2018-09-01,7,Kaunas,Centras
+2018-10-01,8,Kaunas,Centras
+2018-11-01,8,Kaunas,Centras
+2018-12-01,7,Kaunas,Centras
+2019-01-01,7,Kaunas,Centras
+2019-02-01,7,Kaunas,Centras
+2019-03-01,7,Kaunas,Centras
+2019-04-01,8,Kaunas,Centras
+2019-05-01,8,Kaunas,Centras
+2019-06-01,8,Kaunas,Centras
+2019-07-01,8,Kaunas,Centras
+2019-08-01,8,Kaunas,Centras
+2019-09-01,8,Kaunas,Centras
+2019-10-01,8,Kaunas,Centras
+2019-11-01,8,Kaunas,Centras
+2019-12-01,8,Kaunas,Centras
+2020-01-01,8,Kaunas,Centras
+2020-02-01,9,Kaunas,Centras
+2020-03-01,9,Kaunas,Centras
+2020-04-01,8,Kaunas,Centras
+2020-05-01,8,Kaunas,Centras
+2020-06-01,9,Kaunas,Centras
+2020-07-01,9,Kaunas,Centras
+2020-08-01,9,Kaunas,Centras
+2020-09-01,9,Kaunas,Centras
+2020-10-01,9,Kaunas,Centras
+2020-11-01,8,Kaunas,Centras
+2020-12-01,8,Kaunas,Centras
+2021-01-01,9,Kaunas,Centras
+2021-02-01,9,Kaunas,Centras
+2021-03-01,10,Kaunas,Centras
+2021-04-01,9,Kaunas,Centras
+2021-05-01,9,Kaunas,Centras
+2021-06-01,9,Kaunas,Centras
+2021-07-01,9,Kaunas,Centras
+2021-08-01,10,Kaunas,Centras
+2021-09-01,10,Kaunas,Centras
+2021-10-01,11,Kaunas,Centras
+2021-11-01,11,Kaunas,Centras
+2021-12-01,10,Kaunas,Centras
+2022-01-01,10,Kaunas,Centras
+2022-02-01,10,Kaunas,Centras
+2022-03-01,10,Kaunas,Centras
+2022-04-01,11,Kaunas,Centras
+2022-05-01,11,Kaunas,Centras
+2022-06-01,12,Kaunas,Centras
+2022-07-01,11,Kaunas,Centras
+2022-08-01,12,Kaunas,Centras
+2022-09-01,12,Kaunas,Centras
+2022-10-01,11,Kaunas,Centras
+2017-01-01,5,Kaunas,Dainava
+2017-02-01,5,Kaunas,Dainava
+2017-03-01,5,Kaunas,Dainava
+2017-04-01,5,Kaunas,Dainava
+2017-05-01,5,Kaunas,Dainava
+2017-06-01,5,Kaunas,Dainava
+2017-07-01,5,Kaunas,Dainava
+2017-08-01,5,Kaunas,Dainava
+2017-09-01,5,Kaunas,Dainava
+2017-10-01,5,Kaunas,Dainava
+2017-11-01,5,Kaunas,Dainava
+2017-12-01,5,Kaunas,Dainava
+2018-01-01,5,Kaunas,Dainava
+2018-02-01,6,Kaunas,Dainava
+2018-03-01,5,Kaunas,Dainava
+2018-04-01,6,Kaunas,Dainava
+2018-05-01,6,Kaunas,Dainava
+2018-06-01,6,Kaunas,Dainava
+2018-07-01,6,Kaunas,Dainava
+2018-08-01,6,Kaunas,Dainava
+2018-09-01,6,Kaunas,Dainava
+2018-10-01,6,Kaunas,Dainava
+2018-11-01,6,Kaunas,Dainava
+2018-12-01,6,Kaunas,Dainava
+2019-01-01,6,Kaunas,Dainava
+2019-02-01,6,Kaunas,Dainava
+2019-03-01,6,Kaunas,Dainava
+2019-04-01,6,Kaunas,Dainava
+2019-05-01,6,Kaunas,Dainava
+2019-06-01,6,Kaunas,Dainava
+2019-07-01,6,Kaunas,Dainava
+2019-08-01,6,Kaunas,Dainava
+2019-09-01,6,Kaunas,Dainava
+2019-10-01,6,Kaunas,Dainava
+2019-11-01,6,Kaunas,Dainava
+2019-12-01,7,Kaunas,Dainava
+2020-01-01,6,Kaunas,Dainava
+2020-02-01,6,Kaunas,Dainava
+2020-03-01,7,Kaunas,Dainava
+2020-04-01,6,Kaunas,Dainava
+2020-05-01,6,Kaunas,Dainava
+2020-06-01,6,Kaunas,Dainava
+2020-07-01,7,Kaunas,Dainava
+2020-08-01,7,Kaunas,Dainava
+2020-09-01,7,Kaunas,Dainava
+2020-10-01,7,Kaunas,Dainava
+2020-11-01,7,Kaunas,Dainava
+2020-12-01,6,Kaunas,Dainava
+2021-01-01,7,Kaunas,Dainava
+2021-02-01,7,Kaunas,Dainava
+2021-03-01,7,Kaunas,Dainava
+2021-04-01,7,Kaunas,Dainava
+2021-05-01,7,Kaunas,Dainava
+2021-06-01,7,Kaunas,Dainava
+2021-07-01,8,Kaunas,Dainava
+2021-08-01,8,Kaunas,Dainava
+2021-09-01,8,Kaunas,Dainava
+2021-10-01,7,Kaunas,Dainava
+2021-11-01,8,Kaunas,Dainava
+2021-12-01,8,Kaunas,Dainava
+2022-01-01,8,Kaunas,Dainava
+2022-02-01,8,Kaunas,Dainava
+2022-03-01,8,Kaunas,Dainava
+2022-04-01,8,Kaunas,Dainava
+2022-05-01,9,Kaunas,Dainava
+2022-06-01,9,Kaunas,Dainava
+2022-07-01,9,Kaunas,Dainava
+2022-08-01,10,Kaunas,Dainava
+2022-09-01,9,Kaunas,Dainava
+2022-10-01,9,Kaunas,Dainava
+2017-01-01,4,Kaunas,Eiguliai
+2017-02-01,4,Kaunas,Eiguliai
+2017-03-01,4,Kaunas,Eiguliai
+2017-04-01,5,Kaunas,Eiguliai
+2017-05-01,5,Kaunas,Eiguliai
+2017-06-01,5,Kaunas,Eiguliai
+2017-07-01,5,Kaunas,Eiguliai
+2017-08-01,5,Kaunas,Eiguliai
+2017-09-01,5,Kaunas,Eiguliai
+2017-10-01,5,Kaunas,Eiguliai
+2017-11-01,5,Kaunas,Eiguliai
+2017-12-01,5,Kaunas,Eiguliai
+2018-01-01,5,Kaunas,Eiguliai
+2018-02-01,5,Kaunas,Eiguliai
+2018-03-01,5,Kaunas,Eiguliai
+2018-04-01,6,Kaunas,Eiguliai
+2018-05-01,6,Kaunas,Eiguliai
+2018-06-01,6,Kaunas,Eiguliai
+2018-07-01,5,Kaunas,Eiguliai
+2018-08-01,5,Kaunas,Eiguliai
+2018-09-01,5,Kaunas,Eiguliai
+2018-10-01,5,Kaunas,Eiguliai
+2018-11-01,6,Kaunas,Eiguliai
+2018-12-01,6,Kaunas,Eiguliai
+2019-01-01,6,Kaunas,Eiguliai
+2019-02-01,5,Kaunas,Eiguliai
+2019-03-01,6,Kaunas,Eiguliai
+2019-04-01,6,Kaunas,Eiguliai
+2019-05-01,6,Kaunas,Eiguliai
+2019-06-01,6,Kaunas,Eiguliai
+2019-07-01,6,Kaunas,Eiguliai
+2019-08-01,6,Kaunas,Eiguliai
+2019-09-01,6,Kaunas,Eiguliai
+2019-10-01,6,Kaunas,Eiguliai
+2019-11-01,6,Kaunas,Eiguliai
+2019-12-01,6,Kaunas,Eiguliai
+2020-01-01,6,Kaunas,Eiguliai
+2020-02-01,6,Kaunas,Eiguliai
+2020-03-01,6,Kaunas,Eiguliai
+2020-04-01,5,Kaunas,Eiguliai
+2020-05-01,5,Kaunas,Eiguliai
+2020-06-01,5,Kaunas,Eiguliai
+2020-07-01,6,Kaunas,Eiguliai
+2020-08-01,7,Kaunas,Eiguliai
+2020-09-01,6,Kaunas,Eiguliai
+2020-10-01,6,Kaunas,Eiguliai
+2020-11-01,6,Kaunas,Eiguliai
+2020-12-01,6,Kaunas,Eiguliai
+2021-01-01,7,Kaunas,Eiguliai
+2021-02-01,7,Kaunas,Eiguliai
+2021-03-01,7,Kaunas,Eiguliai
+2021-04-01,7,Kaunas,Eiguliai
+2021-05-01,7,Kaunas,Eiguliai
+2021-06-01,7,Kaunas,Eiguliai
+2021-07-01,7,Kaunas,Eiguliai
+2021-08-01,7,Kaunas,Eiguliai
+2021-09-01,7,Kaunas,Eiguliai
+2021-10-01,7,Kaunas,Eiguliai
+2021-11-01,7,Kaunas,Eiguliai
+2021-12-01,7,Kaunas,Eiguliai
+2022-01-01,7,Kaunas,Eiguliai
+2022-02-01,7,Kaunas,Eiguliai
+2022-03-01,7,Kaunas,Eiguliai
+2022-04-01,7,Kaunas,Eiguliai
+2022-05-01,8,Kaunas,Eiguliai
+2022-06-01,8,Kaunas,Eiguliai
+2022-07-01,9,Kaunas,Eiguliai
+2022-08-01,9,Kaunas,Eiguliai
+2022-09-01,8,Kaunas,Eiguliai
+2022-10-01,8,Kaunas,Eiguliai
+2017-01-01,7,Kaunas,Freda
+2017-02-01,7,Kaunas,Freda
+2017-03-01,6,Kaunas,Freda
+2017-05-01,7,Kaunas,Freda
+2017-06-01,9,Kaunas,Freda
+2017-07-01,8,Kaunas,Freda
+2017-08-01,8,Kaunas,Freda
+2017-09-01,8,Kaunas,Freda
+2017-10-01,7,Kaunas,Freda
+2017-11-01,7,Kaunas,Freda
+2017-12-01,7,Kaunas,Freda
+2018-01-01,7,Kaunas,Freda
+2018-02-01,8,Kaunas,Freda
+2018-03-01,7,Kaunas,Freda
+2018-04-01,7,Kaunas,Freda
+2018-05-01,7,Kaunas,Freda
+2018-06-01,6,Kaunas,Freda
+2018-07-01,8,Kaunas,Freda
+2018-08-01,8,Kaunas,Freda
+2018-09-01,8,Kaunas,Freda
+2018-10-01,7,Kaunas,Freda
+2018-11-01,7,Kaunas,Freda
+2018-12-01,8,Kaunas,Freda
+2019-01-01,7,Kaunas,Freda
+2019-02-01,8,Kaunas,Freda
+2019-03-01,8,Kaunas,Freda
+2019-04-01,8,Kaunas,Freda
+2019-05-01,9,Kaunas,Freda
+2019-06-01,8,Kaunas,Freda
+2019-07-01,9,Kaunas,Freda
+2019-08-01,8,Kaunas,Freda
+2019-09-01,8,Kaunas,Freda
+2019-10-01,7,Kaunas,Freda
+2019-11-01,7,Kaunas,Freda
+2019-12-01,8,Kaunas,Freda
+2020-01-01,7,Kaunas,Freda
+2020-02-01,7,Kaunas,Freda
+2020-03-01,8,Kaunas,Freda
+2020-04-01,7,Kaunas,Freda
+2020-05-01,8,Kaunas,Freda
+2020-06-01,7,Kaunas,Freda
+2020-07-01,8,Kaunas,Freda
+2020-08-01,8,Kaunas,Freda
+2020-09-01,8,Kaunas,Freda
+2020-10-01,8,Kaunas,Freda
+2020-11-01,7,Kaunas,Freda
+2020-12-01,7,Kaunas,Freda
+2021-01-01,7,Kaunas,Freda
+2021-02-01,7,Kaunas,Freda
+2021-03-01,8,Kaunas,Freda
+2021-04-01,8,Kaunas,Freda
+2021-05-01,9,Kaunas,Freda
+2021-07-01,8,Kaunas,Freda
+2021-11-01,6,Kaunas,Freda
+2021-12-01,7,Kaunas,Freda
+2022-02-01,9,Kaunas,Freda
+2022-06-01,8,Kaunas,Freda
+2022-07-01,11,Kaunas,Freda
+2022-08-01,11,Kaunas,Freda
+2022-09-01,9,Kaunas,Freda
+2022-10-01,8,Kaunas,Freda
+2017-01-01,4,Kaunas,Kalniečiai
+2017-02-01,5,Kaunas,Kalniečiai
+2017-03-01,5,Kaunas,Kalniečiai
+2017-04-01,5,Kaunas,Kalniečiai
+2017-05-01,5,Kaunas,Kalniečiai
+2017-06-01,6,Kaunas,Kalniečiai
+2017-07-01,5,Kaunas,Kalniečiai
+2017-08-01,6,Kaunas,Kalniečiai
+2017-09-01,5,Kaunas,Kalniečiai
+2017-10-01,5,Kaunas,Kalniečiai
+2017-11-01,4,Kaunas,Kalniečiai
+2017-12-01,5,Kaunas,Kalniečiai
+2018-01-01,5,Kaunas,Kalniečiai
+2018-02-01,5,Kaunas,Kalniečiai
+2018-03-01,5,Kaunas,Kalniečiai
+2018-04-01,5,Kaunas,Kalniečiai
+2018-05-01,5,Kaunas,Kalniečiai
+2018-06-01,5,Kaunas,Kalniečiai
+2018-07-01,6,Kaunas,Kalniečiai
+2018-08-01,6,Kaunas,Kalniečiai
+2018-09-01,5,Kaunas,Kalniečiai
+2018-10-01,6,Kaunas,Kalniečiai
+2018-11-01,6,Kaunas,Kalniečiai
+2018-12-01,6,Kaunas,Kalniečiai
+2019-01-01,5,Kaunas,Kalniečiai
+2019-02-01,6,Kaunas,Kalniečiai
+2019-03-01,6,Kaunas,Kalniečiai
+2019-04-01,5,Kaunas,Kalniečiai
+2019-05-01,7,Kaunas,Kalniečiai
+2019-06-01,6,Kaunas,Kalniečiai
+2019-07-01,7,Kaunas,Kalniečiai
+2019-08-01,6,Kaunas,Kalniečiai
+2019-09-01,6,Kaunas,Kalniečiai
+2019-10-01,5,Kaunas,Kalniečiai
+2019-11-01,6,Kaunas,Kalniečiai
+2019-12-01,6,Kaunas,Kalniečiai
+2020-01-01,6,Kaunas,Kalniečiai
+2020-02-01,5,Kaunas,Kalniečiai
+2020-03-01,6,Kaunas,Kalniečiai
+2020-04-01,6,Kaunas,Kalniečiai
+2020-05-01,5,Kaunas,Kalniečiai
+2020-06-01,6,Kaunas,Kalniečiai
+2020-07-01,6,Kaunas,Kalniečiai
+2020-08-01,6,Kaunas,Kalniečiai
+2020-09-01,6,Kaunas,Kalniečiai
+2020-10-01,7,Kaunas,Kalniečiai
+2020-11-01,6,Kaunas,Kalniečiai
+2020-12-01,6,Kaunas,Kalniečiai
+2021-01-01,6,Kaunas,Kalniečiai
+2021-02-01,6,Kaunas,Kalniečiai
+2021-03-01,6,Kaunas,Kalniečiai
+2021-04-01,7,Kaunas,Kalniečiai
+2021-05-01,7,Kaunas,Kalniečiai
+2021-06-01,7,Kaunas,Kalniečiai
+2021-07-01,6,Kaunas,Kalniečiai
+2021-08-01,7,Kaunas,Kalniečiai
+2021-09-01,7,Kaunas,Kalniečiai
+2021-10-01,8,Kaunas,Kalniečiai
+2021-11-01,7,Kaunas,Kalniečiai
+2021-12-01,6,Kaunas,Kalniečiai
+2022-01-01,7,Kaunas,Kalniečiai
+2022-02-01,7,Kaunas,Kalniečiai
+2022-03-01,5,Kaunas,Kalniečiai
+2022-04-01,8,Kaunas,Kalniečiai
+2022-05-01,8,Kaunas,Kalniečiai
+2022-06-01,7,Kaunas,Kalniečiai
+2022-07-01,8,Kaunas,Kalniečiai
+2022-08-01,9,Kaunas,Kalniečiai
+2022-09-01,9,Kaunas,Kalniečiai
+2022-10-01,9,Kaunas,Kalniečiai
+2018-03-01,5,Kaunas,Kleboniškis
+2018-04-01,5,Kaunas,Kleboniškis
+2018-12-01,7,Kaunas,Kleboniškis
+2020-05-01,7,Kaunas,Kleboniškis
+2020-06-01,7,Kaunas,Kleboniškis
+2017-03-01,5,Kaunas,Lampėdžiai
+2017-05-01,6,Kaunas,Lampėdžiai
+2017-07-01,7,Kaunas,Lampėdžiai
+2017-08-01,6,Kaunas,Lampėdžiai
+2018-01-01,8,Kaunas,Lampėdžiai
+2018-02-01,7,Kaunas,Lampėdžiai
+2018-03-01,6,Kaunas,Lampėdžiai
+2018-04-01,6,Kaunas,Lampėdžiai
+2018-05-01,6,Kaunas,Lampėdžiai
+2018-08-01,6,Kaunas,Lampėdžiai
+2018-09-01,7,Kaunas,Lampėdžiai
+2018-10-01,6,Kaunas,Lampėdžiai
+2018-11-01,6,Kaunas,Lampėdžiai
+2018-12-01,7,Kaunas,Lampėdžiai
+2019-01-01,8,Kaunas,Lampėdžiai
+2019-02-01,8,Kaunas,Lampėdžiai
+2019-03-01,7,Kaunas,Lampėdžiai
+2019-04-01,7,Kaunas,Lampėdžiai
+2019-07-01,9,Kaunas,Lampėdžiai
+2019-08-01,7,Kaunas,Lampėdžiai
+2019-09-01,7,Kaunas,Lampėdžiai
+2019-10-01,8,Kaunas,Lampėdžiai
+2019-11-01,8,Kaunas,Lampėdžiai
+2019-12-01,7,Kaunas,Lampėdžiai
+2020-01-01,7,Kaunas,Lampėdžiai
+2020-02-01,8,Kaunas,Lampėdžiai
+2020-03-01,8,Kaunas,Lampėdžiai
+2020-04-01,10,Kaunas,Lampėdžiai
+2020-05-01,8,Kaunas,Lampėdžiai
+2020-06-01,7,Kaunas,Lampėdžiai
+2020-07-01,6,Kaunas,Lampėdžiai
+2020-08-01,5,Kaunas,Lampėdžiai
+2020-09-01,7,Kaunas,Lampėdžiai
+2020-10-01,7,Kaunas,Lampėdžiai
+2020-11-01,7,Kaunas,Lampėdžiai
+2020-12-01,7,Kaunas,Lampėdžiai
+2021-02-01,7,Kaunas,Lampėdžiai
+2021-03-01,7,Kaunas,Lampėdžiai
+2020-02-01,7,Kaunas,Marvelė
+2020-04-01,10,Kaunas,Marvelė
+2018-01-01,3,Kaunas,Palemonas
+2018-02-01,3,Kaunas,Palemonas
+2018-03-01,3,Kaunas,Palemonas
+2018-04-01,2,Kaunas,Palemonas
+2019-02-01,3,Kaunas,Palemonas
+2019-11-01,6,Kaunas,Palemonas
+2019-12-01,4,Kaunas,Palemonas
+2020-01-01,6,Kaunas,Palemonas
+2020-02-01,6,Kaunas,Palemonas
+2020-03-01,5,Kaunas,Palemonas
+2020-04-01,3,Kaunas,Palemonas
+2020-08-01,6,Kaunas,Palemonas
+2020-09-01,6,Kaunas,Palemonas
+2020-10-01,6,Kaunas,Palemonas
+2020-11-01,6,Kaunas,Palemonas
+2020-12-01,6,Kaunas,Palemonas
+2021-01-01,6,Kaunas,Palemonas
+2021-02-01,6,Kaunas,Palemonas
+2021-03-01,6,Kaunas,Palemonas
+2017-08-01,6,Kaunas,Panemunė
+2017-09-01,5,Kaunas,Panemunė
+2017-10-01,4,Kaunas,Panemunė
+2017-11-01,5,Kaunas,Panemunė
+2017-12-01,4,Kaunas,Panemunė
+2018-01-01,4,Kaunas,Panemunė
+2018-02-01,4,Kaunas,Panemunė
+2018-03-01,5,Kaunas,Panemunė
+2018-04-01,5,Kaunas,Panemunė
+2018-05-01,5,Kaunas,Panemunė
+2018-06-01,6,Kaunas,Panemunė
+2018-07-01,5,Kaunas,Panemunė
+2018-08-01,6,Kaunas,Panemunė
+2018-09-01,5,Kaunas,Panemunė
+2018-10-01,5,Kaunas,Panemunė
+2018-11-01,5,Kaunas,Panemunė
+2018-12-01,5,Kaunas,Panemunė
+2019-01-01,5,Kaunas,Panemunė
+2019-02-01,4,Kaunas,Panemunė
+2019-03-01,5,Kaunas,Panemunė
+2019-04-01,6,Kaunas,Panemunė
+2019-05-01,6,Kaunas,Panemunė
+2019-06-01,6,Kaunas,Panemunė
+2019-07-01,6,Kaunas,Panemunė
+2019-08-01,6,Kaunas,Panemunė
+2019-09-01,5,Kaunas,Panemunė
+2019-10-01,6,Kaunas,Panemunė
+2019-11-01,5,Kaunas,Panemunė
+2019-12-01,6,Kaunas,Panemunė
+2020-01-01,6,Kaunas,Panemunė
+2020-02-01,6,Kaunas,Panemunė
+2020-03-01,6,Kaunas,Panemunė
+2020-04-01,6,Kaunas,Panemunė
+2020-05-01,5,Kaunas,Panemunė
+2020-06-01,7,Kaunas,Panemunė
+2020-07-01,6,Kaunas,Panemunė
+2020-08-01,6,Kaunas,Panemunė
+2020-09-01,6,Kaunas,Panemunė
+2020-10-01,8,Kaunas,Panemunė
+2020-11-01,7,Kaunas,Panemunė
+2020-12-01,6,Kaunas,Panemunė
+2021-01-01,6,Kaunas,Panemunė
+2021-02-01,6,Kaunas,Panemunė
+2021-03-01,6,Kaunas,Panemunė
+2021-07-01,6,Kaunas,Panemunė
+2021-08-01,6,Kaunas,Panemunė
+2022-01-01,9,Kaunas,Panemunė
+2022-02-01,10,Kaunas,Panemunė
+2022-03-01,10,Kaunas,Panemunė
+2022-06-01,10,Kaunas,Panemunė
+2022-07-01,10,Kaunas,Panemunė
+2022-08-01,10,Kaunas,Panemunė
+2022-09-01,10,Kaunas,Panemunė
+2022-10-01,9,Kaunas,Panemunė
+2020-04-01,9,Kaunas,Panerys
+2020-10-01,9,Kaunas,Panerys
+2017-01-01,4,Kaunas,Petrašiūnai
+2017-08-01,6,Kaunas,Petrašiūnai
+2018-01-01,5,Kaunas,Petrašiūnai
+2018-02-01,4,Kaunas,Petrašiūnai
+2018-03-01,4,Kaunas,Petrašiūnai
+2018-04-01,4,Kaunas,Petrašiūnai
+2018-05-01,4,Kaunas,Petrašiūnai
+2018-06-01,5,Kaunas,Petrašiūnai
+2018-07-01,5,Kaunas,Petrašiūnai
+2018-08-01,5,Kaunas,Petrašiūnai
+2018-09-01,5,Kaunas,Petrašiūnai
+2018-10-01,4,Kaunas,Petrašiūnai
+2018-12-01,6,Kaunas,Petrašiūnai
+2019-01-01,5,Kaunas,Petrašiūnai
+2019-02-01,5,Kaunas,Petrašiūnai
+2019-03-01,6,Kaunas,Petrašiūnai
+2019-04-01,6,Kaunas,Petrašiūnai
+2019-05-01,5,Kaunas,Petrašiūnai
+2019-06-01,5,Kaunas,Petrašiūnai
+2019-07-01,6,Kaunas,Petrašiūnai
+2019-08-01,5,Kaunas,Petrašiūnai
+2019-09-01,5,Kaunas,Petrašiūnai
+2019-10-01,5,Kaunas,Petrašiūnai
+2019-11-01,5,Kaunas,Petrašiūnai
+2019-12-01,5,Kaunas,Petrašiūnai
+2020-01-01,6,Kaunas,Petrašiūnai
+2020-02-01,6,Kaunas,Petrašiūnai
+2020-03-01,6,Kaunas,Petrašiūnai
+2020-04-01,6,Kaunas,Petrašiūnai
+2020-05-01,6,Kaunas,Petrašiūnai
+2020-06-01,8,Kaunas,Petrašiūnai
+2020-07-01,8,Kaunas,Petrašiūnai
+2020-08-01,6,Kaunas,Petrašiūnai
+2020-09-01,6,Kaunas,Petrašiūnai
+2020-10-01,5,Kaunas,Petrašiūnai
+2020-11-01,5,Kaunas,Petrašiūnai
+2020-12-01,5,Kaunas,Petrašiūnai
+2021-01-01,5,Kaunas,Petrašiūnai
+2021-02-01,6,Kaunas,Petrašiūnai
+2021-03-01,8,Kaunas,Petrašiūnai
+2021-06-01,8,Kaunas,Petrašiūnai
+2021-09-01,7,Kaunas,Petrašiūnai
+2021-10-01,6,Kaunas,Petrašiūnai
+2021-11-01,6,Kaunas,Petrašiūnai
+2022-02-01,7,Kaunas,Petrašiūnai
+2022-03-01,10,Kaunas,Petrašiūnai
+2022-04-01,9,Kaunas,Petrašiūnai
+2022-05-01,9,Kaunas,Petrašiūnai
+2022-06-01,9,Kaunas,Petrašiūnai
+2022-08-01,9,Kaunas,Petrašiūnai
+2022-09-01,7,Kaunas,Petrašiūnai
+2022-10-01,6,Kaunas,Petrašiūnai
+2019-06-01,4,Kaunas,Rokai
+2019-10-01,4,Kaunas,Rokai
+2019-11-01,3,Kaunas,Rokai
+2020-02-01,4,Kaunas,Rokai
+2020-04-01,3,Kaunas,Rokai
+2020-07-01,3,Kaunas,Rokai
+2017-12-01,5,Kaunas,Romainiai
+2018-01-01,4,Kaunas,Romainiai
+2018-02-01,4,Kaunas,Romainiai
+2018-03-01,5,Kaunas,Romainiai
+2018-04-01,5,Kaunas,Romainiai
+2018-05-01,5,Kaunas,Romainiai
+2018-06-01,6,Kaunas,Romainiai
+2018-07-01,6,Kaunas,Romainiai
+2018-08-01,5,Kaunas,Romainiai
+2018-09-01,6,Kaunas,Romainiai
+2018-10-01,6,Kaunas,Romainiai
+2018-11-01,6,Kaunas,Romainiai
+2018-12-01,6,Kaunas,Romainiai
+2019-01-01,6,Kaunas,Romainiai
+2019-02-01,6,Kaunas,Romainiai
+2019-03-01,6,Kaunas,Romainiai
+2019-04-01,9,Kaunas,Romainiai
+2019-05-01,8,Kaunas,Romainiai
+2019-06-01,7,Kaunas,Romainiai
+2019-07-01,7,Kaunas,Romainiai
+2019-08-01,6,Kaunas,Romainiai
+2019-09-01,5,Kaunas,Romainiai
+2019-10-01,6,Kaunas,Romainiai
+2019-11-01,7,Kaunas,Romainiai
+2019-12-01,6,Kaunas,Romainiai
+2020-01-01,7,Kaunas,Romainiai
+2020-02-01,6,Kaunas,Romainiai
+2020-03-01,5,Kaunas,Romainiai
+2020-04-01,5,Kaunas,Romainiai
+2020-05-01,6,Kaunas,Romainiai
+2020-06-01,6,Kaunas,Romainiai
+2020-07-01,6,Kaunas,Romainiai
+2020-08-01,7,Kaunas,Romainiai
+2020-09-01,7,Kaunas,Romainiai
+2020-10-01,8,Kaunas,Romainiai
+2020-11-01,8,Kaunas,Romainiai
+2020-12-01,9,Kaunas,Romainiai
+2021-01-01,9,Kaunas,Romainiai
+2021-02-01,8,Kaunas,Romainiai
+2021-03-01,5,Kaunas,Romainiai
+2021-04-01,4,Kaunas,Romainiai
+2021-05-01,5,Kaunas,Romainiai
+2021-10-01,9,Kaunas,Romainiai
+2021-11-01,8,Kaunas,Romainiai
+2022-09-01,10,Kaunas,Romainiai
+2022-10-01,10,Kaunas,Romainiai
+2017-12-01,5,Kaunas,Sargėnai
+2018-01-01,5,Kaunas,Sargėnai
+2018-02-01,4,Kaunas,Sargėnai
+2018-03-01,3,Kaunas,Sargėnai
+2018-05-01,6,Kaunas,Sargėnai
+2018-06-01,3,Kaunas,Sargėnai
+2018-07-01,1,Kaunas,Sargėnai
+2018-08-01,3,Kaunas,Sargėnai
+2018-09-01,4,Kaunas,Sargėnai
+2018-10-01,6,Kaunas,Sargėnai
+2018-11-01,6,Kaunas,Sargėnai
+2018-12-01,5,Kaunas,Sargėnai
+2019-01-01,6,Kaunas,Sargėnai
+2019-02-01,5,Kaunas,Sargėnai
+2019-03-01,5,Kaunas,Sargėnai
+2019-04-01,6,Kaunas,Sargėnai
+2019-05-01,5,Kaunas,Sargėnai
+2019-06-01,4,Kaunas,Sargėnai
+2019-07-01,5,Kaunas,Sargėnai
+2019-08-01,3,Kaunas,Sargėnai
+2019-09-01,3,Kaunas,Sargėnai
+2019-10-01,5,Kaunas,Sargėnai
+2019-11-01,4,Kaunas,Sargėnai
+2019-12-01,4,Kaunas,Sargėnai
+2020-01-01,3,Kaunas,Sargėnai
+2020-02-01,6,Kaunas,Sargėnai
+2020-03-01,7,Kaunas,Sargėnai
+2020-04-01,7,Kaunas,Sargėnai
+2020-05-01,8,Kaunas,Sargėnai
+2020-06-01,6,Kaunas,Sargėnai
+2020-07-01,7,Kaunas,Sargėnai
+2020-08-01,8,Kaunas,Sargėnai
+2020-09-01,4,Kaunas,Sargėnai
+2020-10-01,4,Kaunas,Sargėnai
+2020-11-01,6,Kaunas,Sargėnai
+2020-12-01,7,Kaunas,Sargėnai
+2021-02-01,6,Kaunas,Sargėnai
+2021-03-01,9,Kaunas,Sargėnai
+2022-03-01,7,Kaunas,Sargėnai
+2017-01-01,8,Kaunas,Senamiestis
+2017-02-01,8,Kaunas,Senamiestis
+2017-03-01,8,Kaunas,Senamiestis
+2017-04-01,8,Kaunas,Senamiestis
+2017-05-01,8,Kaunas,Senamiestis
+2017-06-01,8,Kaunas,Senamiestis
+2017-07-01,8,Kaunas,Senamiestis
+2017-08-01,8,Kaunas,Senamiestis
+2017-09-01,9,Kaunas,Senamiestis
+2017-10-01,8,Kaunas,Senamiestis
+2017-11-01,7,Kaunas,Senamiestis
+2017-12-01,8,Kaunas,Senamiestis
+2018-01-01,8,Kaunas,Senamiestis
+2018-02-01,8,Kaunas,Senamiestis
+2018-03-01,8,Kaunas,Senamiestis
+2018-04-01,9,Kaunas,Senamiestis
+2018-05-01,8,Kaunas,Senamiestis
+2018-06-01,8,Kaunas,Senamiestis
+2018-07-01,8,Kaunas,Senamiestis
+2018-08-01,9,Kaunas,Senamiestis
+2018-09-01,9,Kaunas,Senamiestis
+2018-10-01,9,Kaunas,Senamiestis
+2018-11-01,9,Kaunas,Senamiestis
+2018-12-01,8,Kaunas,Senamiestis
+2019-01-01,8,Kaunas,Senamiestis
+2019-02-01,8,Kaunas,Senamiestis
+2019-03-01,8,Kaunas,Senamiestis
+2019-04-01,9,Kaunas,Senamiestis
+2019-05-01,9,Kaunas,Senamiestis
+2019-06-01,9,Kaunas,Senamiestis
+2019-07-01,9,Kaunas,Senamiestis
+2019-08-01,9,Kaunas,Senamiestis
+2019-09-01,8,Kaunas,Senamiestis
+2019-10-01,8,Kaunas,Senamiestis
+2019-11-01,9,Kaunas,Senamiestis
+2019-12-01,9,Kaunas,Senamiestis
+2020-01-01,9,Kaunas,Senamiestis
+2020-02-01,9,Kaunas,Senamiestis
+2020-03-01,9,Kaunas,Senamiestis
+2020-04-01,9,Kaunas,Senamiestis
+2020-05-01,9,Kaunas,Senamiestis
+2020-06-01,9,Kaunas,Senamiestis
+2020-07-01,9,Kaunas,Senamiestis
+2020-08-01,9,Kaunas,Senamiestis
+2020-09-01,9,Kaunas,Senamiestis
+2020-10-01,10,Kaunas,Senamiestis
+2020-11-01,10,Kaunas,Senamiestis
+2020-12-01,9,Kaunas,Senamiestis
+2021-01-01,9,Kaunas,Senamiestis
+2021-02-01,9,Kaunas,Senamiestis
+2021-03-01,9,Kaunas,Senamiestis
+2021-04-01,9,Kaunas,Senamiestis
+2021-05-01,10,Kaunas,Senamiestis
+2021-06-01,9,Kaunas,Senamiestis
+2021-07-01,10,Kaunas,Senamiestis
+2021-08-01,10,Kaunas,Senamiestis
+2021-09-01,11,Kaunas,Senamiestis
+2021-10-01,11,Kaunas,Senamiestis
+2021-11-01,11,Kaunas,Senamiestis
+2021-12-01,12,Kaunas,Senamiestis
+2022-01-01,11,Kaunas,Senamiestis
+2022-02-01,10,Kaunas,Senamiestis
+2022-03-01,10,Kaunas,Senamiestis
+2022-04-01,13,Kaunas,Senamiestis
+2022-05-01,13,Kaunas,Senamiestis
+2022-06-01,12,Kaunas,Senamiestis
+2022-07-01,12,Kaunas,Senamiestis
+2022-08-01,12,Kaunas,Senamiestis
+2022-09-01,12,Kaunas,Senamiestis
+2022-10-01,13,Kaunas,Senamiestis
+2017-01-01,5,Kaunas,Šilainiai
+2017-02-01,5,Kaunas,Šilainiai
+2017-03-01,5,Kaunas,Šilainiai
+2017-04-01,5,Kaunas,Šilainiai
+2017-05-01,5,Kaunas,Šilainiai
+2017-06-01,6,Kaunas,Šilainiai
+2017-07-01,6,Kaunas,Šilainiai
+2017-08-01,6,Kaunas,Šilainiai
+2017-09-01,5,Kaunas,Šilainiai
+2017-10-01,6,Kaunas,Šilainiai
+2017-11-01,6,Kaunas,Šilainiai
+2017-12-01,6,Kaunas,Šilainiai
+2018-01-01,5,Kaunas,Šilainiai
+2018-02-01,6,Kaunas,Šilainiai
+2018-03-01,6,Kaunas,Šilainiai
+2018-04-01,6,Kaunas,Šilainiai
+2018-05-01,6,Kaunas,Šilainiai
+2018-06-01,6,Kaunas,Šilainiai
+2018-07-01,6,Kaunas,Šilainiai
+2018-08-01,6,Kaunas,Šilainiai
+2018-09-01,5,Kaunas,Šilainiai
+2018-10-01,6,Kaunas,Šilainiai
+2018-11-01,6,Kaunas,Šilainiai
+2018-12-01,6,Kaunas,Šilainiai
+2019-01-01,6,Kaunas,Šilainiai
+2019-02-01,5,Kaunas,Šilainiai
+2019-03-01,5,Kaunas,Šilainiai
+2019-04-01,6,Kaunas,Šilainiai
+2019-05-01,6,Kaunas,Šilainiai
+2019-06-01,6,Kaunas,Šilainiai
+2019-07-01,6,Kaunas,Šilainiai
+2019-08-01,6,Kaunas,Šilainiai
+2019-09-01,6,Kaunas,Šilainiai
+2019-10-01,6,Kaunas,Šilainiai
+2019-11-01,5,Kaunas,Šilainiai
+2019-12-01,6,Kaunas,Šilainiai
+2020-01-01,6,Kaunas,Šilainiai
+2020-02-01,6,Kaunas,Šilainiai
+2020-03-01,6,Kaunas,Šilainiai
+2020-04-01,6,Kaunas,Šilainiai
+2020-05-01,5,Kaunas,Šilainiai
+2020-06-01,5,Kaunas,Šilainiai
+2020-07-01,5,Kaunas,Šilainiai
+2020-08-01,6,Kaunas,Šilainiai
+2020-09-01,6,Kaunas,Šilainiai
+2020-10-01,6,Kaunas,Šilainiai
+2020-11-01,6,Kaunas,Šilainiai
+2020-12-01,6,Kaunas,Šilainiai
+2021-01-01,5,Kaunas,Šilainiai
+2021-02-01,6,Kaunas,Šilainiai
+2021-03-01,7,Kaunas,Šilainiai
+2021-04-01,7,Kaunas,Šilainiai
+2021-05-01,7,Kaunas,Šilainiai
+2021-06-01,7,Kaunas,Šilainiai
+2021-07-01,7,Kaunas,Šilainiai
+2021-08-01,7,Kaunas,Šilainiai
+2021-09-01,7,Kaunas,Šilainiai
+2021-10-01,7,Kaunas,Šilainiai
+2021-11-01,7,Kaunas,Šilainiai
+2021-12-01,7,Kaunas,Šilainiai
+2022-01-01,8,Kaunas,Šilainiai
+2022-02-01,8,Kaunas,Šilainiai
+2022-03-01,7,Kaunas,Šilainiai
+2022-04-01,8,Kaunas,Šilainiai
+2022-05-01,8,Kaunas,Šilainiai
+2022-06-01,8,Kaunas,Šilainiai
+2022-07-01,8,Kaunas,Šilainiai
+2022-08-01,8,Kaunas,Šilainiai
+2022-09-01,8,Kaunas,Šilainiai
+2022-10-01,8,Kaunas,Šilainiai
+2018-01-01,2,Kaunas,Vaišvydava
+2018-02-01,3,Kaunas,Vaišvydava
+2018-07-01,4,Kaunas,Vaišvydava
+2018-08-01,4,Kaunas,Vaišvydava
+2018-09-01,4,Kaunas,Vaišvydava
+2018-10-01,4,Kaunas,Vaišvydava
+2018-11-01,4,Kaunas,Vaišvydava
+2018-12-01,4,Kaunas,Vaišvydava
+2020-10-01,7,Kaunas,Vaišvydava
+2018-01-01,8,Kaunas,Vičiūnai
+2018-04-01,6,Kaunas,Vičiūnai
+2019-01-01,7,Kaunas,Vičiūnai
+2019-02-01,6,Kaunas,Vičiūnai
+2019-03-01,6,Kaunas,Vičiūnai
+2019-05-01,7,Kaunas,Vičiūnai
+2019-09-01,6,Kaunas,Vičiūnai
+2020-07-01,7,Kaunas,Vičiūnai
+2020-08-01,7,Kaunas,Vičiūnai
+2020-09-01,6,Kaunas,Vičiūnai
+2020-10-01,7,Kaunas,Vičiūnai
+2020-11-01,6,Kaunas,Vičiūnai
+2020-12-01,8,Kaunas,Vičiūnai
+2021-01-01,7,Kaunas,Vičiūnai
+2021-02-01,7,Kaunas,Vičiūnai
+2021-03-01,7,Kaunas,Vičiūnai
+2017-01-01,4,Kaunas,Vilijampolė
+2017-02-01,5,Kaunas,Vilijampolė
+2017-03-01,5,Kaunas,Vilijampolė
+2017-04-01,5,Kaunas,Vilijampolė
+2017-05-01,6,Kaunas,Vilijampolė
+2017-06-01,6,Kaunas,Vilijampolė
+2017-07-01,6,Kaunas,Vilijampolė
+2017-08-01,6,Kaunas,Vilijampolė
+2017-09-01,5,Kaunas,Vilijampolė
+2017-10-01,5,Kaunas,Vilijampolė
+2017-11-01,6,Kaunas,Vilijampolė
+2017-12-01,6,Kaunas,Vilijampolė
+2018-01-01,6,Kaunas,Vilijampolė
+2018-02-01,5,Kaunas,Vilijampolė
+2018-03-01,6,Kaunas,Vilijampolė
+2018-04-01,5,Kaunas,Vilijampolė
+2018-05-01,5,Kaunas,Vilijampolė
+2018-06-01,5,Kaunas,Vilijampolė
+2018-07-01,6,Kaunas,Vilijampolė
+2018-08-01,7,Kaunas,Vilijampolė
+2018-09-01,6,Kaunas,Vilijampolė
+2018-10-01,7,Kaunas,Vilijampolė
+2018-11-01,6,Kaunas,Vilijampolė
+2018-12-01,5,Kaunas,Vilijampolė
+2019-01-01,4,Kaunas,Vilijampolė
+2019-02-01,5,Kaunas,Vilijampolė
+2019-03-01,6,Kaunas,Vilijampolė
+2019-04-01,6,Kaunas,Vilijampolė
+2019-05-01,6,Kaunas,Vilijampolė
+2019-06-01,6,Kaunas,Vilijampolė
+2019-07-01,6,Kaunas,Vilijampolė
+2019-08-01,6,Kaunas,Vilijampolė
+2019-09-01,7,Kaunas,Vilijampolė
+2019-10-01,7,Kaunas,Vilijampolė
+2019-11-01,6,Kaunas,Vilijampolė
+2019-12-01,7,Kaunas,Vilijampolė
+2020-01-01,7,Kaunas,Vilijampolė
+2020-02-01,6,Kaunas,Vilijampolė
+2020-03-01,7,Kaunas,Vilijampolė
+2020-04-01,6,Kaunas,Vilijampolė
+2020-05-01,6,Kaunas,Vilijampolė
+2020-06-01,5,Kaunas,Vilijampolė
+2020-07-01,6,Kaunas,Vilijampolė
+2020-08-01,6,Kaunas,Vilijampolė
+2020-09-01,7,Kaunas,Vilijampolė
+2020-10-01,6,Kaunas,Vilijampolė
+2020-11-01,6,Kaunas,Vilijampolė
+2020-12-01,7,Kaunas,Vilijampolė
+2021-01-01,7,Kaunas,Vilijampolė
+2021-02-01,7,Kaunas,Vilijampolė
+2021-03-01,7,Kaunas,Vilijampolė
+2021-04-01,6,Kaunas,Vilijampolė
+2021-05-01,7,Kaunas,Vilijampolė
+2021-06-01,8,Kaunas,Vilijampolė
+2021-07-01,8,Kaunas,Vilijampolė
+2021-08-01,8,Kaunas,Vilijampolė
+2021-09-01,8,Kaunas,Vilijampolė
+2021-10-01,8,Kaunas,Vilijampolė
+2021-11-01,7,Kaunas,Vilijampolė
+2021-12-01,7,Kaunas,Vilijampolė
+2022-01-01,10,Kaunas,Vilijampolė
+2022-02-01,10,Kaunas,Vilijampolė
+2022-03-01,10,Kaunas,Vilijampolė
+2022-04-01,10,Kaunas,Vilijampolė
+2022-05-01,10,Kaunas,Vilijampolė
+2022-06-01,9,Kaunas,Vilijampolė
+2022-07-01,9,Kaunas,Vilijampolė
+2022-08-01,11,Kaunas,Vilijampolė
+2022-09-01,11,Kaunas,Vilijampolė
+2022-10-01,10,Kaunas,Vilijampolė
+2017-12-01,7,Kaunas,Vytėnai
+2018-01-01,7,Kaunas,Vytėnai
+2018-02-01,7,Kaunas,Vytėnai
+2018-03-01,7,Kaunas,Vytėnai
+2018-04-01,7,Kaunas,Vytėnai
+2018-05-01,7,Kaunas,Vytėnai
+2018-06-01,7,Kaunas,Vytėnai
+2018-07-01,7,Kaunas,Vytėnai
+2018-08-01,6,Kaunas,Vytėnai
+2018-09-01,6,Kaunas,Vytėnai
+2018-10-01,6,Kaunas,Vytėnai
+2018-11-01,5,Kaunas,Vytėnai
+2018-12-01,8,Kaunas,Vytėnai
+2019-01-01,6,Kaunas,Vytėnai
+2019-02-01,7,Kaunas,Vytėnai
+2019-03-01,7,Kaunas,Vytėnai
+2019-04-01,7,Kaunas,Vytėnai
+2019-05-01,8,Kaunas,Vytėnai
+2019-06-01,8,Kaunas,Vytėnai
+2019-07-01,7,Kaunas,Vytėnai
+2019-08-01,7,Kaunas,Vytėnai
+2019-09-01,7,Kaunas,Vytėnai
+2019-10-01,7,Kaunas,Vytėnai
+2019-11-01,8,Kaunas,Vytėnai
+2019-12-01,8,Kaunas,Vytėnai
+2020-01-01,8,Kaunas,Vytėnai
+2020-02-01,8,Kaunas,Vytėnai
+2020-03-01,7,Kaunas,Vytėnai
+2020-04-01,7,Kaunas,Vytėnai
+2020-05-01,7,Kaunas,Vytėnai
+2020-06-01,7,Kaunas,Vytėnai
+2020-07-01,7,Kaunas,Vytėnai
+2020-08-01,8,Kaunas,Vytėnai
+2020-09-01,8,Kaunas,Vytėnai
+2020-10-01,7,Kaunas,Vytėnai
+2020-11-01,7,Kaunas,Vytėnai
+2020-12-01,6,Kaunas,Vytėnai
+2021-01-01,6,Kaunas,Vytėnai
+2021-02-01,6,Kaunas,Vytėnai
+2021-03-01,5,Kaunas,Vytėnai
+2017-01-01,6,Kaunas,Žaliakalnis
+2017-02-01,6,Kaunas,Žaliakalnis
+2017-03-01,6,Kaunas,Žaliakalnis
+2017-04-01,6,Kaunas,Žaliakalnis
+2017-05-01,6,Kaunas,Žaliakalnis
+2017-06-01,7,Kaunas,Žaliakalnis
+2017-07-01,7,Kaunas,Žaliakalnis
+2017-08-01,6,Kaunas,Žaliakalnis
+2017-09-01,6,Kaunas,Žaliakalnis
+2017-10-01,6,Kaunas,Žaliakalnis
+2017-11-01,6,Kaunas,Žaliakalnis
+2017-12-01,6,Kaunas,Žaliakalnis
+2018-01-01,7,Kaunas,Žaliakalnis
+2018-02-01,6,Kaunas,Žaliakalnis
+2018-03-01,7,Kaunas,Žaliakalnis
+2018-04-01,7,Kaunas,Žaliakalnis
+2018-05-01,7,Kaunas,Žaliakalnis
+2018-06-01,7,Kaunas,Žaliakalnis
+2018-07-01,7,Kaunas,Žaliakalnis
+2018-08-01,7,Kaunas,Žaliakalnis
+2018-09-01,7,Kaunas,Žaliakalnis
+2018-10-01,7,Kaunas,Žaliakalnis
+2018-11-01,7,Kaunas,Žaliakalnis
+2018-12-01,7,Kaunas,Žaliakalnis
+2019-01-01,7,Kaunas,Žaliakalnis
+2019-02-01,7,Kaunas,Žaliakalnis
+2019-03-01,7,Kaunas,Žaliakalnis
+2019-04-01,6,Kaunas,Žaliakalnis
+2019-05-01,7,Kaunas,Žaliakalnis
+2019-06-01,7,Kaunas,Žaliakalnis
+2019-07-01,7,Kaunas,Žaliakalnis
+2019-08-01,7,Kaunas,Žaliakalnis
+2019-09-01,7,Kaunas,Žaliakalnis
+2019-10-01,7,Kaunas,Žaliakalnis
+2019-11-01,7,Kaunas,Žaliakalnis
+2019-12-01,7,Kaunas,Žaliakalnis
+2020-01-01,7,Kaunas,Žaliakalnis
+2020-02-01,7,Kaunas,Žaliakalnis
+2020-03-01,6,Kaunas,Žaliakalnis
+2020-04-01,6,Kaunas,Žaliakalnis
+2020-05-01,7,Kaunas,Žaliakalnis
+2020-06-01,7,Kaunas,Žaliakalnis
+2020-07-01,8,Kaunas,Žaliakalnis
+2020-08-01,8,Kaunas,Žaliakalnis
+2020-09-01,7,Kaunas,Žaliakalnis
+2020-10-01,7,Kaunas,Žaliakalnis
+2020-11-01,8,Kaunas,Žaliakalnis
+2020-12-01,8,Kaunas,Žaliakalnis
+2021-01-01,8,Kaunas,Žaliakalnis
+2021-02-01,9,Kaunas,Žaliakalnis
+2021-03-01,9,Kaunas,Žaliakalnis
+2021-04-01,8,Kaunas,Žaliakalnis
+2021-05-01,8,Kaunas,Žaliakalnis
+2021-06-01,8,Kaunas,Žaliakalnis
+2021-07-01,8,Kaunas,Žaliakalnis
+2021-08-01,8,Kaunas,Žaliakalnis
+2021-09-01,8,Kaunas,Žaliakalnis
+2021-10-01,8,Kaunas,Žaliakalnis
+2021-11-01,8,Kaunas,Žaliakalnis
+2021-12-01,9,Kaunas,Žaliakalnis
+2022-01-01,9,Kaunas,Žaliakalnis
+2022-02-01,8,Kaunas,Žaliakalnis
+2022-03-01,9,Kaunas,Žaliakalnis
+2022-04-01,10,Kaunas,Žaliakalnis
+2022-05-01,10,Kaunas,Žaliakalnis
+2022-06-01,10,Kaunas,Žaliakalnis
+2022-07-01,9,Kaunas,Žaliakalnis
+2022-08-01,10,Kaunas,Žaliakalnis
+2022-09-01,10,Kaunas,Žaliakalnis
+2022-10-01,9,Kaunas,Žaliakalnis
+2017-01-01,6,Kaunas,Žemieji Šančiai
+2017-02-01,7,Kaunas,Žemieji Šančiai
+2017-03-01,6,Kaunas,Žemieji Šančiai
+2017-05-01,7,Kaunas,Žemieji Šančiai
+2017-06-01,7,Kaunas,Žemieji Šančiai
+2017-07-01,6,Kaunas,Žemieji Šančiai
+2017-08-01,6,Kaunas,Žemieji Šančiai
+2017-09-01,7,Kaunas,Žemieji Šančiai
+2017-10-01,7,Kaunas,Žemieji Šančiai
+2017-11-01,6,Kaunas,Žemieji Šančiai
+2017-12-01,7,Kaunas,Žemieji Šančiai
+2018-01-01,7,Kaunas,Žemieji Šančiai
+2018-02-01,7,Kaunas,Žemieji Šančiai
+2018-03-01,6,Kaunas,Žemieji Šančiai
+2018-04-01,7,Kaunas,Žemieji Šančiai
+2018-05-01,6,Kaunas,Žemieji Šančiai
+2018-06-01,6,Kaunas,Žemieji Šančiai
+2018-07-01,7,Kaunas,Žemieji Šančiai
+2018-08-01,8,Kaunas,Žemieji Šančiai
+2018-09-01,8,Kaunas,Žemieji Šančiai
+2018-10-01,8,Kaunas,Žemieji Šančiai
+2018-11-01,6,Kaunas,Žemieji Šančiai
+2018-12-01,7,Kaunas,Žemieji Šančiai
+2019-01-01,7,Kaunas,Žemieji Šančiai
+2019-02-01,7,Kaunas,Žemieji Šančiai
+2019-03-01,7,Kaunas,Žemieji Šančiai
+2019-04-01,8,Kaunas,Žemieji Šančiai
+2019-05-01,7,Kaunas,Žemieji Šančiai
+2019-06-01,8,Kaunas,Žemieji Šančiai
+2019-07-01,7,Kaunas,Žemieji Šančiai
+2019-08-01,8,Kaunas,Žemieji Šančiai
+2019-09-01,8,Kaunas,Žemieji Šančiai
+2019-10-01,8,Kaunas,Žemieji Šančiai
+2019-11-01,8,Kaunas,Žemieji Šančiai
+2019-12-01,8,Kaunas,Žemieji Šančiai
+2020-01-01,8,Kaunas,Žemieji Šančiai
+2020-02-01,9,Kaunas,Žemieji Šančiai
+2020-03-01,8,Kaunas,Žemieji Šančiai
+2020-04-01,7,Kaunas,Žemieji Šančiai
+2020-05-01,7,Kaunas,Žemieji Šančiai
+2020-06-01,7,Kaunas,Žemieji Šančiai
+2020-07-01,8,Kaunas,Žemieji Šančiai
+2020-08-01,9,Kaunas,Žemieji Šančiai
+2020-09-01,8,Kaunas,Žemieji Šančiai
+2020-10-01,8,Kaunas,Žemieji Šančiai
+2020-11-01,8,Kaunas,Žemieji Šančiai
+2020-12-01,8,Kaunas,Žemieji Šančiai
+2021-01-01,8,Kaunas,Žemieji Šančiai
+2021-02-01,8,Kaunas,Žemieji Šančiai
+2021-03-01,8,Kaunas,Žemieji Šančiai
+2021-04-01,9,Kaunas,Žemieji Šančiai
+2021-05-01,8,Kaunas,Žemieji Šančiai
+2021-06-01,8,Kaunas,Žemieji Šančiai
+2021-07-01,8,Kaunas,Žemieji Šančiai
+2021-08-01,8,Kaunas,Žemieji Šančiai
+2021-09-01,9,Kaunas,Žemieji Šančiai
+2021-10-01,9,Kaunas,Žemieji Šančiai
+2021-11-01,9,Kaunas,Žemieji Šančiai
+2021-12-01,9,Kaunas,Žemieji Šančiai
+2022-01-01,9,Kaunas,Žemieji Šančiai
+2022-02-01,9,Kaunas,Žemieji Šančiai
+2022-03-01,9,Kaunas,Žemieji Šančiai
+2022-04-01,10,Kaunas,Žemieji Šančiai
+2022-05-01,10,Kaunas,Žemieji Šančiai
+2022-06-01,11,Kaunas,Žemieji Šančiai
+2022-07-01,11,Kaunas,Žemieji Šančiai
+2022-08-01,12,Kaunas,Žemieji Šančiai
+2022-09-01,11,Kaunas,Žemieji Šančiai
+2022-10-01,10,Kaunas,Žemieji Šančiai
+2018-01-01,6,Kaunas,Žemutiniai Kaniūkai
+2018-02-01,5,Kaunas,Žemutiniai Kaniūkai
+2018-03-01,5,Kaunas,Žemutiniai Kaniūkai
+2018-07-01,6,Kaunas,Žemutiniai Kaniūkai
+2018-08-01,6,Kaunas,Žemutiniai Kaniūkai
+2018-09-01,7,Kaunas,Žemutiniai Kaniūkai
+2018-10-01,7,Kaunas,Žemutiniai Kaniūkai
+2018-11-01,5,Kaunas,Žemutiniai Kaniūkai
+2018-12-01,5,Kaunas,Žemutiniai Kaniūkai
+2019-01-01,5,Kaunas,Žemutiniai Kaniūkai
+2019-02-01,7,Kaunas,Žemutiniai Kaniūkai
+2019-03-01,6,Kaunas,Žemutiniai Kaniūkai
+2019-04-01,6,Kaunas,Žemutiniai Kaniūkai
+2019-05-01,5,Kaunas,Žemutiniai Kaniūkai
+2019-06-01,6,Kaunas,Žemutiniai Kaniūkai
+2019-07-01,7,Kaunas,Žemutiniai Kaniūkai
+2019-08-01,6,Kaunas,Žemutiniai Kaniūkai
+2019-09-01,7,Kaunas,Žemutiniai Kaniūkai
+2019-10-01,7,Kaunas,Žemutiniai Kaniūkai
+2019-11-01,7,Kaunas,Žemutiniai Kaniūkai
+2020-01-01,7,Kaunas,Žemutiniai Kaniūkai
+2020-02-01,6,Kaunas,Žemutiniai Kaniūkai
+2020-04-01,6,Kaunas,Žemutiniai Kaniūkai
+2020-06-01,5,Kaunas,Žemutiniai Kaniūkai
+2020-07-01,4,Kaunas,Žemutiniai Kaniūkai
+2020-08-01,6,Kaunas,Žemutiniai Kaniūkai
+2020-09-01,8,Kaunas,Žemutiniai Kaniūkai
+2020-10-01,9,Kaunas,Žemutiniai Kaniūkai
+2020-11-01,7,Kaunas,Žemutiniai Kaniūkai
+2021-01-01,9,Kaunas,Žemutiniai Kaniūkai
+2021-02-01,9,Kaunas,Žemutiniai Kaniūkai
+2021-03-01,8,Kaunas,Žemutiniai Kaniūkai
+2021-09-01,8,Kaunas,Žemutiniai Kaniūkai
+2022-08-01,10,Kaunas,Žemutiniai Kaniūkai
+2022-09-01,8,Kaunas,Žemutiniai Kaniūkai
+2017-01-01,5,Klaipėda,Alksnynė
+2017-02-01,5,Klaipėda,Alksnynė
+2017-03-01,5,Klaipėda,Alksnynė
+2017-04-01,5,Klaipėda,Alksnynė
+2017-05-01,5,Klaipėda,Alksnynė
+2017-06-01,5,Klaipėda,Alksnynė
+2017-08-01,5,Klaipėda,Alksnynė
+2017-10-01,5,Klaipėda,Alksnynė
+2017-11-01,4,Klaipėda,Alksnynė
+2017-12-01,4,Klaipėda,Alksnynė
+2018-01-01,5,Klaipėda,Alksnynė
+2018-02-01,5,Klaipėda,Alksnynė
+2018-03-01,5,Klaipėda,Alksnynė
+2018-04-01,5,Klaipėda,Alksnynė
+2018-05-01,6,Klaipėda,Alksnynė
+2018-06-01,5,Klaipėda,Alksnynė
+2018-07-01,4,Klaipėda,Alksnynė
+2018-08-01,4,Klaipėda,Alksnynė
+2018-09-01,5,Klaipėda,Alksnynė
+2018-10-01,5,Klaipėda,Alksnynė
+2018-11-01,5,Klaipėda,Alksnynė
+2018-12-01,5,Klaipėda,Alksnynė
+2019-01-01,5,Klaipėda,Alksnynė
+2019-02-01,5,Klaipėda,Alksnynė
+2019-03-01,5,Klaipėda,Alksnynė
+2019-04-01,5,Klaipėda,Alksnynė
+2019-05-01,5,Klaipėda,Alksnynė
+2019-06-01,4,Klaipėda,Alksnynė
+2019-07-01,6,Klaipėda,Alksnynė
+2019-08-01,6,Klaipėda,Alksnynė
+2019-09-01,5,Klaipėda,Alksnynė
+2019-10-01,6,Klaipėda,Alksnynė
+2019-11-01,4,Klaipėda,Alksnynė
+2019-12-01,4,Klaipėda,Alksnynė
+2020-01-01,4,Klaipėda,Alksnynė
+2020-02-01,4,Klaipėda,Alksnynė
+2020-03-01,5,Klaipėda,Alksnynė
+2020-04-01,4,Klaipėda,Alksnynė
+2020-05-01,4,Klaipėda,Alksnynė
+2020-06-01,5,Klaipėda,Alksnynė
+2020-07-01,5,Klaipėda,Alksnynė
+2020-08-01,6,Klaipėda,Alksnynė
+2020-09-01,5,Klaipėda,Alksnynė
+2020-10-01,5,Klaipėda,Alksnynė
+2020-11-01,7,Klaipėda,Alksnynė
+2020-12-01,6,Klaipėda,Alksnynė
+2021-01-01,6,Klaipėda,Alksnynė
+2021-02-01,5,Klaipėda,Alksnynė
+2021-03-01,6,Klaipėda,Alksnynė
+2021-04-01,5,Klaipėda,Alksnynė
+2021-05-01,5,Klaipėda,Alksnynė
+2021-09-01,6,Klaipėda,Alksnynė
+2021-10-01,6,Klaipėda,Alksnynė
+2021-12-01,6,Klaipėda,Alksnynė
+2022-02-01,6,Klaipėda,Alksnynė
+2022-08-01,8,Klaipėda,Alksnynė
+2022-09-01,8,Klaipėda,Alksnynė
+2022-10-01,8,Klaipėda,Alksnynė
+2017-01-01,5,Klaipėda,Baltija
+2017-02-01,5,Klaipėda,Baltija
+2017-03-01,5,Klaipėda,Baltija
+2017-04-01,8,Klaipėda,Baltija
+2017-05-01,4,Klaipėda,Baltija
+2017-08-01,3,Klaipėda,Baltija
+2017-09-01,4,Klaipėda,Baltija
+2017-10-01,4,Klaipėda,Baltija
+2017-11-01,4,Klaipėda,Baltija
+2017-12-01,5,Klaipėda,Baltija
+2018-01-01,5,Klaipėda,Baltija
+2018-02-01,5,Klaipėda,Baltija
+2018-03-01,5,Klaipėda,Baltija
+2018-04-01,5,Klaipėda,Baltija
+2018-05-01,4,Klaipėda,Baltija
+2018-06-01,5,Klaipėda,Baltija
+2018-07-01,5,Klaipėda,Baltija
+2018-08-01,5,Klaipėda,Baltija
+2018-09-01,5,Klaipėda,Baltija
+2018-10-01,4,Klaipėda,Baltija
+2018-11-01,4,Klaipėda,Baltija
+2018-12-01,5,Klaipėda,Baltija
+2019-01-01,6,Klaipėda,Baltija
+2019-02-01,6,Klaipėda,Baltija
+2019-03-01,5,Klaipėda,Baltija
+2019-04-01,5,Klaipėda,Baltija
+2019-05-01,6,Klaipėda,Baltija
+2019-06-01,5,Klaipėda,Baltija
+2019-07-01,5,Klaipėda,Baltija
+2019-08-01,7,Klaipėda,Baltija
+2019-09-01,6,Klaipėda,Baltija
+2019-10-01,5,Klaipėda,Baltija
+2019-11-01,5,Klaipėda,Baltija
+2019-12-01,5,Klaipėda,Baltija
+2020-01-01,5,Klaipėda,Baltija
+2020-02-01,5,Klaipėda,Baltija
+2020-03-01,5,Klaipėda,Baltija
+2020-04-01,5,Klaipėda,Baltija
+2020-05-01,5,Klaipėda,Baltija
+2020-06-01,6,Klaipėda,Baltija
+2020-07-01,5,Klaipėda,Baltija
+2020-08-01,5,Klaipėda,Baltija
+2020-09-01,5,Klaipėda,Baltija
+2020-10-01,5,Klaipėda,Baltija
+2020-11-01,5,Klaipėda,Baltija
+2020-12-01,5,Klaipėda,Baltija
+2021-01-01,5,Klaipėda,Baltija
+2021-02-01,6,Klaipėda,Baltija
+2021-03-01,5,Klaipėda,Baltija
+2021-04-01,5,Klaipėda,Baltija
+2021-09-01,7,Klaipėda,Baltija
+2021-10-01,7,Klaipėda,Baltija
+2021-11-01,6,Klaipėda,Baltija
+2022-01-01,5,Klaipėda,Baltija
+2022-02-01,6,Klaipėda,Baltija
+2022-08-01,8,Klaipėda,Baltija
+2022-09-01,8,Klaipėda,Baltija
+2022-10-01,9,Klaipėda,Baltija
+2017-01-01,3,Klaipėda,Bandužiai
+2017-02-01,3,Klaipėda,Bandužiai
+2017-03-01,4,Klaipėda,Bandužiai
+2017-10-01,3,Klaipėda,Bandužiai
+2017-11-01,3,Klaipėda,Bandužiai
+2017-12-01,3,Klaipėda,Bandužiai
+2018-01-01,3,Klaipėda,Bandužiai
+2018-02-01,3,Klaipėda,Bandužiai
+2018-03-01,3,Klaipėda,Bandužiai
+2018-04-01,3,Klaipėda,Bandužiai
+2018-05-01,3,Klaipėda,Bandužiai
+2018-06-01,4,Klaipėda,Bandužiai
+2018-07-01,3,Klaipėda,Bandužiai
+2018-08-01,4,Klaipėda,Bandužiai
+2018-09-01,3,Klaipėda,Bandužiai
+2018-10-01,3,Klaipėda,Bandužiai
+2018-11-01,4,Klaipėda,Bandužiai
+2018-12-01,3,Klaipėda,Bandužiai
+2019-01-01,4,Klaipėda,Bandužiai
+2019-02-01,4,Klaipėda,Bandužiai
+2019-03-01,4,Klaipėda,Bandužiai
+2019-04-01,4,Klaipėda,Bandužiai
+2019-05-01,4,Klaipėda,Bandužiai
+2019-06-01,4,Klaipėda,Bandužiai
+2019-07-01,4,Klaipėda,Bandužiai
+2019-08-01,5,Klaipėda,Bandužiai
+2019-09-01,4,Klaipėda,Bandužiai
+2019-10-01,3,Klaipėda,Bandužiai
+2019-11-01,4,Klaipėda,Bandužiai
+2019-12-01,3,Klaipėda,Bandužiai
+2020-01-01,3,Klaipėda,Bandužiai
+2020-02-01,4,Klaipėda,Bandužiai
+2020-03-01,3,Klaipėda,Bandužiai
+2020-04-01,3,Klaipėda,Bandužiai
+2020-05-01,3,Klaipėda,Bandužiai
+2020-06-01,3,Klaipėda,Bandužiai
+2020-07-01,4,Klaipėda,Bandužiai
+2020-08-01,4,Klaipėda,Bandužiai
+2020-09-01,5,Klaipėda,Bandužiai
+2020-10-01,4,Klaipėda,Bandužiai
+2020-11-01,3,Klaipėda,Bandužiai
+2020-12-01,4,Klaipėda,Bandužiai
+2021-01-01,4,Klaipėda,Bandužiai
+2021-02-01,4,Klaipėda,Bandužiai
+2021-03-01,5,Klaipėda,Bandužiai
+2021-11-01,4,Klaipėda,Bandužiai
+2021-12-01,4,Klaipėda,Bandužiai
+2022-09-01,6,Klaipėda,Bandužiai
+2022-10-01,6,Klaipėda,Bandužiai
+2017-01-01,6,Klaipėda,Centras
+2017-02-01,6,Klaipėda,Centras
+2017-03-01,6,Klaipėda,Centras
+2017-04-01,6,Klaipėda,Centras
+2017-05-01,6,Klaipėda,Centras
+2017-06-01,6,Klaipėda,Centras
+2017-07-01,6,Klaipėda,Centras
+2017-08-01,7,Klaipėda,Centras
+2017-09-01,6,Klaipėda,Centras
+2017-10-01,6,Klaipėda,Centras
+2017-11-01,6,Klaipėda,Centras
+2017-12-01,6,Klaipėda,Centras
+2018-01-01,6,Klaipėda,Centras
+2018-02-01,6,Klaipėda,Centras
+2018-03-01,6,Klaipėda,Centras
+2018-04-01,6,Klaipėda,Centras
+2018-05-01,7,Klaipėda,Centras
+2018-06-01,7,Klaipėda,Centras
+2018-07-01,7,Klaipėda,Centras
+2018-08-01,7,Klaipėda,Centras
+2018-09-01,7,Klaipėda,Centras
+2018-10-01,7,Klaipėda,Centras
+2018-11-01,7,Klaipėda,Centras
+2018-12-01,7,Klaipėda,Centras
+2019-01-01,7,Klaipėda,Centras
+2019-02-01,7,Klaipėda,Centras
+2019-03-01,7,Klaipėda,Centras
+2019-04-01,7,Klaipėda,Centras
+2019-05-01,7,Klaipėda,Centras
+2019-06-01,7,Klaipėda,Centras
+2019-07-01,7,Klaipėda,Centras
+2019-08-01,8,Klaipėda,Centras
+2019-09-01,8,Klaipėda,Centras
+2019-10-01,7,Klaipėda,Centras
+2019-11-01,7,Klaipėda,Centras
+2019-12-01,7,Klaipėda,Centras
+2020-01-01,7,Klaipėda,Centras
+2020-02-01,7,Klaipėda,Centras
+2020-03-01,8,Klaipėda,Centras
+2020-04-01,7,Klaipėda,Centras
+2020-05-01,7,Klaipėda,Centras
+2020-06-01,8,Klaipėda,Centras
+2020-07-01,9,Klaipėda,Centras
+2020-08-01,9,Klaipėda,Centras
+2020-09-01,8,Klaipėda,Centras
+2020-10-01,8,Klaipėda,Centras
+2020-11-01,8,Klaipėda,Centras
+2020-12-01,9,Klaipėda,Centras
+2021-01-01,8,Klaipėda,Centras
+2021-02-01,8,Klaipėda,Centras
+2021-03-01,7,Klaipėda,Centras
+2021-04-01,8,Klaipėda,Centras
+2021-05-01,8,Klaipėda,Centras
+2021-06-01,8,Klaipėda,Centras
+2021-07-01,8,Klaipėda,Centras
+2021-08-01,8,Klaipėda,Centras
+2021-09-01,9,Klaipėda,Centras
+2021-10-01,8,Klaipėda,Centras
+2021-11-01,8,Klaipėda,Centras
+2021-12-01,8,Klaipėda,Centras
+2022-01-01,8,Klaipėda,Centras
+2022-02-01,8,Klaipėda,Centras
+2022-03-01,8,Klaipėda,Centras
+2022-04-01,11,Klaipėda,Centras
+2022-05-01,10,Klaipėda,Centras
+2022-06-01,10,Klaipėda,Centras
+2022-07-01,10,Klaipėda,Centras
+2022-08-01,10,Klaipėda,Centras
+2022-09-01,10,Klaipėda,Centras
+2022-10-01,10,Klaipėda,Centras
+2017-01-01,4,Klaipėda,Debrecenas
+2017-02-01,4,Klaipėda,Debrecenas
+2017-03-01,4,Klaipėda,Debrecenas
+2017-04-01,5,Klaipėda,Debrecenas
+2017-10-01,5,Klaipėda,Debrecenas
+2017-11-01,4,Klaipėda,Debrecenas
+2017-12-01,4,Klaipėda,Debrecenas
+2018-01-01,4,Klaipėda,Debrecenas
+2018-02-01,4,Klaipėda,Debrecenas
+2018-03-01,4,Klaipėda,Debrecenas
+2018-04-01,5,Klaipėda,Debrecenas
+2018-05-01,5,Klaipėda,Debrecenas
+2018-06-01,6,Klaipėda,Debrecenas
+2018-07-01,7,Klaipėda,Debrecenas
+2018-08-01,7,Klaipėda,Debrecenas
+2018-09-01,6,Klaipėda,Debrecenas
+2018-10-01,6,Klaipėda,Debrecenas
+2018-11-01,6,Klaipėda,Debrecenas
+2018-12-01,5,Klaipėda,Debrecenas
+2019-01-01,5,Klaipėda,Debrecenas
+2019-02-01,5,Klaipėda,Debrecenas
+2019-03-01,5,Klaipėda,Debrecenas
+2019-04-01,5,Klaipėda,Debrecenas
+2019-05-01,5,Klaipėda,Debrecenas
+2019-06-01,5,Klaipėda,Debrecenas
+2019-07-01,5,Klaipėda,Debrecenas
+2019-08-01,5,Klaipėda,Debrecenas
+2019-09-01,5,Klaipėda,Debrecenas
+2019-10-01,5,Klaipėda,Debrecenas
+2019-11-01,5,Klaipėda,Debrecenas
+2019-12-01,3,Klaipėda,Debrecenas
+2020-01-01,4,Klaipėda,Debrecenas
+2020-02-01,5,Klaipėda,Debrecenas
+2020-03-01,5,Klaipėda,Debrecenas
+2020-04-01,5,Klaipėda,Debrecenas
+2020-05-01,4,Klaipėda,Debrecenas
+2020-06-01,5,Klaipėda,Debrecenas
+2020-07-01,6,Klaipėda,Debrecenas
+2020-08-01,6,Klaipėda,Debrecenas
+2020-09-01,6,Klaipėda,Debrecenas
+2020-10-01,5,Klaipėda,Debrecenas
+2020-11-01,5,Klaipėda,Debrecenas
+2020-12-01,5,Klaipėda,Debrecenas
+2021-01-01,5,Klaipėda,Debrecenas
+2021-02-01,5,Klaipėda,Debrecenas
+2021-03-01,5,Klaipėda,Debrecenas
+2021-04-01,5,Klaipėda,Debrecenas
+2021-11-01,7,Klaipėda,Debrecenas
+2021-12-01,6,Klaipėda,Debrecenas
+2022-01-01,6,Klaipėda,Debrecenas
+2022-02-01,5,Klaipėda,Debrecenas
+2022-03-01,4,Klaipėda,Debrecenas
+2022-09-01,8,Klaipėda,Debrecenas
+2022-10-01,7,Klaipėda,Debrecenas
+2017-01-01,6,Klaipėda,Giruliai
+2017-02-01,7,Klaipėda,Giruliai
+2017-03-01,7,Klaipėda,Giruliai
+2017-04-01,7,Klaipėda,Giruliai
+2017-05-01,7,Klaipėda,Giruliai
+2017-11-01,6,Klaipėda,Giruliai
+2017-12-01,7,Klaipėda,Giruliai
+2018-01-01,7,Klaipėda,Giruliai
+2018-02-01,6,Klaipėda,Giruliai
+2018-03-01,6,Klaipėda,Giruliai
+2018-04-01,6,Klaipėda,Giruliai
+2018-05-01,5,Klaipėda,Giruliai
+2018-06-01,5,Klaipėda,Giruliai
+2018-08-01,6,Klaipėda,Giruliai
+2018-09-01,6,Klaipėda,Giruliai
+2018-10-01,6,Klaipėda,Giruliai
+2018-11-01,6,Klaipėda,Giruliai
+2018-12-01,7,Klaipėda,Giruliai
+2019-02-01,6,Klaipėda,Giruliai
+2019-03-01,9,Klaipėda,Giruliai
+2019-05-01,7,Klaipėda,Giruliai
+2019-06-01,8,Klaipėda,Giruliai
+2019-07-01,6,Klaipėda,Giruliai
+2019-08-01,8,Klaipėda,Giruliai
+2019-09-01,7,Klaipėda,Giruliai
+2019-10-01,7,Klaipėda,Giruliai
+2019-11-01,9,Klaipėda,Giruliai
+2019-12-01,10,Klaipėda,Giruliai
+2020-03-01,6,Klaipėda,Giruliai
+2020-08-01,9,Klaipėda,Giruliai
+2020-09-01,9,Klaipėda,Giruliai
+2020-10-01,8,Klaipėda,Giruliai
+2020-11-01,8,Klaipėda,Giruliai
+2021-03-01,11,Klaipėda,Giruliai
+2017-01-01,5,Klaipėda,Kaunas
+2017-02-01,5,Klaipėda,Kaunas
+2017-03-01,5,Klaipėda,Kaunas
+2017-04-01,5,Klaipėda,Kaunas
+2017-05-01,5,Klaipėda,Kaunas
+2017-06-01,5,Klaipėda,Kaunas
+2017-07-01,5,Klaipėda,Kaunas
+2017-08-01,6,Klaipėda,Kaunas
+2017-09-01,5,Klaipėda,Kaunas
+2017-10-01,4,Klaipėda,Kaunas
+2017-11-01,4,Klaipėda,Kaunas
+2017-12-01,5,Klaipėda,Kaunas
+2018-01-01,5,Klaipėda,Kaunas
+2018-02-01,5,Klaipėda,Kaunas
+2018-03-01,5,Klaipėda,Kaunas
+2018-04-01,5,Klaipėda,Kaunas
+2018-05-01,6,Klaipėda,Kaunas
+2018-06-01,5,Klaipėda,Kaunas
+2018-07-01,5,Klaipėda,Kaunas
+2018-08-01,5,Klaipėda,Kaunas
+2018-09-01,5,Klaipėda,Kaunas
+2018-10-01,5,Klaipėda,Kaunas
+2018-11-01,5,Klaipėda,Kaunas
+2018-12-01,5,Klaipėda,Kaunas
+2019-01-01,5,Klaipėda,Kaunas
+2019-02-01,4,Klaipėda,Kaunas
+2019-03-01,4,Klaipėda,Kaunas
+2019-04-01,7,Klaipėda,Kaunas
+2019-05-01,8,Klaipėda,Kaunas
+2019-06-01,6,Klaipėda,Kaunas
+2019-07-01,5,Klaipėda,Kaunas
+2019-08-01,6,Klaipėda,Kaunas
+2019-09-01,6,Klaipėda,Kaunas
+2019-10-01,7,Klaipėda,Kaunas
+2019-11-01,7,Klaipėda,Kaunas
+2019-12-01,6,Klaipėda,Kaunas
+2020-01-01,5,Klaipėda,Kaunas
+2020-02-01,4,Klaipėda,Kaunas
+2020-03-01,5,Klaipėda,Kaunas
+2020-04-01,6,Klaipėda,Kaunas
+2020-05-01,5,Klaipėda,Kaunas
+2020-06-01,5,Klaipėda,Kaunas
+2020-07-01,6,Klaipėda,Kaunas
+2020-08-01,5,Klaipėda,Kaunas
+2020-09-01,6,Klaipėda,Kaunas
+2020-10-01,6,Klaipėda,Kaunas
+2020-11-01,6,Klaipėda,Kaunas
+2020-12-01,5,Klaipėda,Kaunas
+2021-01-01,5,Klaipėda,Kaunas
+2021-02-01,5,Klaipėda,Kaunas
+2021-03-01,5,Klaipėda,Kaunas
+2021-04-01,6,Klaipėda,Kaunas
+2021-08-01,7,Klaipėda,Kaunas
+2021-09-01,7,Klaipėda,Kaunas
+2021-10-01,7,Klaipėda,Kaunas
+2021-11-01,7,Klaipėda,Kaunas
+2021-12-01,7,Klaipėda,Kaunas
+2022-02-01,7,Klaipėda,Kaunas
+2022-03-01,7,Klaipėda,Kaunas
+2022-08-01,10,Klaipėda,Kaunas
+2022-09-01,7,Klaipėda,Kaunas
+2022-10-01,7,Klaipėda,Kaunas
+2018-03-01,4,Klaipėda,Labrenciškės
+2018-10-01,4,Klaipėda,Labrenciškės
+2019-02-01,3,Klaipėda,Labrenciškės
+2019-05-01,6,Klaipėda,Labrenciškės
+2020-03-01,5,Klaipėda,Labrenciškės
+2020-05-01,1,Klaipėda,Labrenciškės
+2020-06-01,4,Klaipėda,Labrenciškės
+2020-07-01,2,Klaipėda,Labrenciškės
+2020-08-01,1,Klaipėda,Labrenciškės
+2020-09-01,1,Klaipėda,Labrenciškės
+2020-10-01,2,Klaipėda,Labrenciškės
+2021-01-01,1,Klaipėda,Labrenciškės
+2021-02-01,1,Klaipėda,Labrenciškės
+2021-03-01,1,Klaipėda,Labrenciškės
+2017-12-01,3,Klaipėda,Laukininkai
+2018-01-01,4,Klaipėda,Laukininkai
+2018-02-01,3,Klaipėda,Laukininkai
+2018-03-01,3,Klaipėda,Laukininkai
+2018-04-01,4,Klaipėda,Laukininkai
+2018-05-01,3,Klaipėda,Laukininkai
+2018-08-01,4,Klaipėda,Laukininkai
+2018-09-01,4,Klaipėda,Laukininkai
+2018-10-01,4,Klaipėda,Laukininkai
+2018-11-01,3,Klaipėda,Laukininkai
+2018-12-01,3,Klaipėda,Laukininkai
+2019-01-01,4,Klaipėda,Laukininkai
+2019-03-01,4,Klaipėda,Laukininkai
+2019-04-01,5,Klaipėda,Laukininkai
+2019-05-01,5,Klaipėda,Laukininkai
+2019-06-01,3,Klaipėda,Laukininkai
+2019-07-01,4,Klaipėda,Laukininkai
+2019-08-01,4,Klaipėda,Laukininkai
+2019-09-01,4,Klaipėda,Laukininkai
+2019-10-01,4,Klaipėda,Laukininkai
+2019-11-01,4,Klaipėda,Laukininkai
+2019-12-01,4,Klaipėda,Laukininkai
+2020-01-01,4,Klaipėda,Laukininkai
+2020-02-01,4,Klaipėda,Laukininkai
+2020-03-01,4,Klaipėda,Laukininkai
+2020-04-01,3,Klaipėda,Laukininkai
+2020-05-01,3,Klaipėda,Laukininkai
+2020-06-01,4,Klaipėda,Laukininkai
+2020-07-01,3,Klaipėda,Laukininkai
+2020-08-01,5,Klaipėda,Laukininkai
+2020-09-01,5,Klaipėda,Laukininkai
+2020-10-01,3,Klaipėda,Laukininkai
+2020-11-01,3,Klaipėda,Laukininkai
+2020-12-01,3,Klaipėda,Laukininkai
+2021-01-01,4,Klaipėda,Laukininkai
+2021-02-01,4,Klaipėda,Laukininkai
+2021-03-01,4,Klaipėda,Laukininkai
+2021-04-01,5,Klaipėda,Laukininkai
+2021-12-01,4,Klaipėda,Laukininkai
+2022-09-01,7,Klaipėda,Laukininkai
+2022-10-01,7,Klaipėda,Laukininkai
+2017-01-01,5,Klaipėda,Mažasis kaimelis
+2017-02-01,5,Klaipėda,Mažasis kaimelis
+2017-03-01,5,Klaipėda,Mažasis kaimelis
+2017-04-01,6,Klaipėda,Mažasis kaimelis
+2017-05-01,6,Klaipėda,Mažasis kaimelis
+2017-06-01,5,Klaipėda,Mažasis kaimelis
+2017-07-01,5,Klaipėda,Mažasis kaimelis
+2017-08-01,6,Klaipėda,Mažasis kaimelis
+2017-09-01,6,Klaipėda,Mažasis kaimelis
+2017-10-01,6,Klaipėda,Mažasis kaimelis
+2017-11-01,5,Klaipėda,Mažasis kaimelis
+2017-12-01,5,Klaipėda,Mažasis kaimelis
+2018-01-01,5,Klaipėda,Mažasis kaimelis
+2018-02-01,5,Klaipėda,Mažasis kaimelis
+2018-03-01,5,Klaipėda,Mažasis kaimelis
+2018-04-01,5,Klaipėda,Mažasis kaimelis
+2018-05-01,5,Klaipėda,Mažasis kaimelis
+2018-06-01,6,Klaipėda,Mažasis kaimelis
+2018-07-01,6,Klaipėda,Mažasis kaimelis
+2018-08-01,5,Klaipėda,Mažasis kaimelis
+2018-09-01,5,Klaipėda,Mažasis kaimelis
+2018-10-01,4,Klaipėda,Mažasis kaimelis
+2018-11-01,5,Klaipėda,Mažasis kaimelis
+2018-12-01,5,Klaipėda,Mažasis kaimelis
+2019-01-01,5,Klaipėda,Mažasis kaimelis
+2019-02-01,5,Klaipėda,Mažasis kaimelis
+2019-03-01,5,Klaipėda,Mažasis kaimelis
+2019-04-01,5,Klaipėda,Mažasis kaimelis
+2019-05-01,5,Klaipėda,Mažasis kaimelis
+2019-06-01,5,Klaipėda,Mažasis kaimelis
+2019-07-01,5,Klaipėda,Mažasis kaimelis
+2019-08-01,5,Klaipėda,Mažasis kaimelis
+2019-09-01,6,Klaipėda,Mažasis kaimelis
+2019-10-01,5,Klaipėda,Mažasis kaimelis
+2019-11-01,6,Klaipėda,Mažasis kaimelis
+2019-12-01,6,Klaipėda,Mažasis kaimelis
+2020-01-01,5,Klaipėda,Mažasis kaimelis
+2020-02-01,6,Klaipėda,Mažasis kaimelis
+2020-03-01,5,Klaipėda,Mažasis kaimelis
+2020-04-01,6,Klaipėda,Mažasis kaimelis
+2020-05-01,5,Klaipėda,Mažasis kaimelis
+2020-06-01,5,Klaipėda,Mažasis kaimelis
+2020-07-01,6,Klaipėda,Mažasis kaimelis
+2020-08-01,6,Klaipėda,Mažasis kaimelis
+2020-09-01,6,Klaipėda,Mažasis kaimelis
+2020-10-01,5,Klaipėda,Mažasis kaimelis
+2020-11-01,5,Klaipėda,Mažasis kaimelis
+2020-12-01,5,Klaipėda,Mažasis kaimelis
+2021-01-01,7,Klaipėda,Mažasis kaimelis
+2021-02-01,6,Klaipėda,Mažasis kaimelis
+2021-03-01,5,Klaipėda,Mažasis kaimelis
+2021-05-01,6,Klaipėda,Mažasis kaimelis
+2021-08-01,6,Klaipėda,Mažasis kaimelis
+2021-09-01,6,Klaipėda,Mažasis kaimelis
+2021-10-01,6,Klaipėda,Mažasis kaimelis
+2021-11-01,7,Klaipėda,Mažasis kaimelis
+2021-12-01,7,Klaipėda,Mažasis kaimelis
+2022-01-01,7,Klaipėda,Mažasis kaimelis
+2022-02-01,7,Klaipėda,Mažasis kaimelis
+2022-08-01,8,Klaipėda,Mažasis kaimelis
+2022-09-01,8,Klaipėda,Mažasis kaimelis
+2022-10-01,8,Klaipėda,Mažasis kaimelis
+2017-03-01,9,Klaipėda,Melnragė
+2017-05-01,9,Klaipėda,Melnragė
+2017-06-01,9,Klaipėda,Melnragė
+2017-10-01,7,Klaipėda,Melnragė
+2017-11-01,8,Klaipėda,Melnragė
+2017-12-01,9,Klaipėda,Melnragė
+2018-01-01,9,Klaipėda,Melnragė
+2018-02-01,8,Klaipėda,Melnragė
+2018-03-01,9,Klaipėda,Melnragė
+2018-04-01,9,Klaipėda,Melnragė
+2018-05-01,8,Klaipėda,Melnragė
+2018-06-01,7,Klaipėda,Melnragė
+2018-07-01,8,Klaipėda,Melnragė
+2018-08-01,8,Klaipėda,Melnragė
+2018-09-01,6,Klaipėda,Melnragė
+2018-10-01,6,Klaipėda,Melnragė
+2018-11-01,5,Klaipėda,Melnragė
+2018-12-01,4,Klaipėda,Melnragė
+2019-01-01,8,Klaipėda,Melnragė
+2019-02-01,7,Klaipėda,Melnragė
+2019-03-01,8,Klaipėda,Melnragė
+2019-04-01,6,Klaipėda,Melnragė
+2019-05-01,6,Klaipėda,Melnragė
+2019-06-01,5,Klaipėda,Melnragė
+2019-07-01,5,Klaipėda,Melnragė
+2019-08-01,5,Klaipėda,Melnragė
+2019-09-01,5,Klaipėda,Melnragė
+2019-10-01,6,Klaipėda,Melnragė
+2019-11-01,6,Klaipėda,Melnragė
+2019-12-01,6,Klaipėda,Melnragė
+2020-01-01,6,Klaipėda,Melnragė
+2020-02-01,7,Klaipėda,Melnragė
+2020-03-01,7,Klaipėda,Melnragė
+2020-04-01,7,Klaipėda,Melnragė
+2020-05-01,8,Klaipėda,Melnragė
+2020-06-01,7,Klaipėda,Melnragė
+2020-07-01,7,Klaipėda,Melnragė
+2020-08-01,7,Klaipėda,Melnragė
+2020-09-01,7,Klaipėda,Melnragė
+2020-10-01,5,Klaipėda,Melnragė
+2020-11-01,4,Klaipėda,Melnragė
+2020-12-01,5,Klaipėda,Melnragė
+2021-01-01,5,Klaipėda,Melnragė
+2021-02-01,6,Klaipėda,Melnragė
+2021-03-01,8,Klaipėda,Melnragė
+2021-10-01,6,Klaipėda,Melnragė
+2017-01-01,5,Klaipėda,Miškas
+2017-02-01,5,Klaipėda,Miškas
+2017-03-01,4,Klaipėda,Miškas
+2017-04-01,5,Klaipėda,Miškas
+2017-05-01,5,Klaipėda,Miškas
+2017-07-01,5,Klaipėda,Miškas
+2017-08-01,5,Klaipėda,Miškas
+2017-09-01,5,Klaipėda,Miškas
+2017-10-01,5,Klaipėda,Miškas
+2017-11-01,4,Klaipėda,Miškas
+2017-12-01,5,Klaipėda,Miškas
+2018-01-01,5,Klaipėda,Miškas
+2018-02-01,5,Klaipėda,Miškas
+2018-03-01,4,Klaipėda,Miškas
+2018-04-01,5,Klaipėda,Miškas
+2018-05-01,6,Klaipėda,Miškas
+2018-06-01,6,Klaipėda,Miškas
+2018-07-01,5,Klaipėda,Miškas
+2018-08-01,5,Klaipėda,Miškas
+2018-09-01,6,Klaipėda,Miškas
+2018-10-01,5,Klaipėda,Miškas
+2018-11-01,5,Klaipėda,Miškas
+2018-12-01,5,Klaipėda,Miškas
+2019-01-01,5,Klaipėda,Miškas
+2019-02-01,6,Klaipėda,Miškas
+2019-03-01,6,Klaipėda,Miškas
+2019-04-01,6,Klaipėda,Miškas
+2019-05-01,7,Klaipėda,Miškas
+2019-06-01,7,Klaipėda,Miškas
+2019-07-01,6,Klaipėda,Miškas
+2019-08-01,6,Klaipėda,Miškas
+2019-09-01,5,Klaipėda,Miškas
+2019-10-01,5,Klaipėda,Miškas
+2019-11-01,6,Klaipėda,Miškas
+2019-12-01,6,Klaipėda,Miškas
+2020-01-01,6,Klaipėda,Miškas
+2020-02-01,6,Klaipėda,Miškas
+2020-03-01,6,Klaipėda,Miškas
+2020-04-01,6,Klaipėda,Miškas
+2020-05-01,6,Klaipėda,Miškas
+2020-06-01,6,Klaipėda,Miškas
+2020-07-01,6,Klaipėda,Miškas
+2020-08-01,6,Klaipėda,Miškas
+2020-09-01,6,Klaipėda,Miškas
+2020-10-01,6,Klaipėda,Miškas
+2020-11-01,6,Klaipėda,Miškas
+2020-12-01,6,Klaipėda,Miškas
+2021-01-01,6,Klaipėda,Miškas
+2021-02-01,6,Klaipėda,Miškas
+2021-03-01,7,Klaipėda,Miškas
+2021-07-01,7,Klaipėda,Miškas
+2021-08-01,7,Klaipėda,Miškas
+2021-09-01,8,Klaipėda,Miškas
+2021-10-01,7,Klaipėda,Miškas
+2021-11-01,7,Klaipėda,Miškas
+2021-12-01,8,Klaipėda,Miškas
+2022-01-01,7,Klaipėda,Miškas
+2022-02-01,7,Klaipėda,Miškas
+2022-03-01,8,Klaipėda,Miškas
+2022-08-01,10,Klaipėda,Miškas
+2022-09-01,9,Klaipėda,Miškas
+2022-10-01,9,Klaipėda,Miškas
+2017-12-01,2,Klaipėda,Mokykla
+2018-01-01,3,Klaipėda,Mokykla
+2018-02-01,2,Klaipėda,Mokykla
+2018-03-01,3,Klaipėda,Mokykla
+2018-04-01,4,Klaipėda,Mokykla
+2018-07-01,5,Klaipėda,Mokykla
+2018-08-01,4,Klaipėda,Mokykla
+2018-09-01,5,Klaipėda,Mokykla
+2018-10-01,2,Klaipėda,Mokykla
+2018-12-01,1,Klaipėda,Mokykla
+2019-01-01,3,Klaipėda,Mokykla
+2019-02-01,7,Klaipėda,Mokykla
+2019-03-01,3,Klaipėda,Mokykla
+2019-04-01,1,Klaipėda,Mokykla
+2019-05-01,2,Klaipėda,Mokykla
+2019-06-01,1,Klaipėda,Mokykla
+2019-07-01,1,Klaipėda,Mokykla
+2019-08-01,2,Klaipėda,Mokykla
+2019-09-01,6,Klaipėda,Mokykla
+2019-10-01,5,Klaipėda,Mokykla
+2019-12-01,7,Klaipėda,Mokykla
+2020-01-01,6,Klaipėda,Mokykla
+2020-02-01,6,Klaipėda,Mokykla
+2020-06-01,6,Klaipėda,Mokykla
+2020-07-01,5,Klaipėda,Mokykla
+2020-08-01,7,Klaipėda,Mokykla
+2020-09-01,7,Klaipėda,Mokykla
+2020-10-01,6,Klaipėda,Mokykla
+2020-11-01,6,Klaipėda,Mokykla
+2021-02-01,5,Klaipėda,Mokykla
+2021-03-01,6,Klaipėda,Mokykla
+2021-12-01,5,Klaipėda,Mokykla
+2018-01-01,3,Klaipėda,Naujakiemis
+2018-02-01,4,Klaipėda,Naujakiemis
+2018-03-01,4,Klaipėda,Naujakiemis
+2018-04-01,4,Klaipėda,Naujakiemis
+2018-05-01,4,Klaipėda,Naujakiemis
+2018-06-01,5,Klaipėda,Naujakiemis
+2018-07-01,4,Klaipėda,Naujakiemis
+2018-08-01,5,Klaipėda,Naujakiemis
+2018-09-01,5,Klaipėda,Naujakiemis
+2018-10-01,6,Klaipėda,Naujakiemis
+2018-11-01,5,Klaipėda,Naujakiemis
+2018-12-01,4,Klaipėda,Naujakiemis
+2019-01-01,4,Klaipėda,Naujakiemis
+2019-02-01,4,Klaipėda,Naujakiemis
+2019-03-01,4,Klaipėda,Naujakiemis
+2019-04-01,4,Klaipėda,Naujakiemis
+2019-05-01,4,Klaipėda,Naujakiemis
+2019-07-01,6,Klaipėda,Naujakiemis
+2019-08-01,4,Klaipėda,Naujakiemis
+2019-09-01,5,Klaipėda,Naujakiemis
+2019-10-01,5,Klaipėda,Naujakiemis
+2019-11-01,5,Klaipėda,Naujakiemis
+2019-12-01,5,Klaipėda,Naujakiemis
+2020-01-01,4,Klaipėda,Naujakiemis
+2020-02-01,4,Klaipėda,Naujakiemis
+2020-03-01,5,Klaipėda,Naujakiemis
+2020-04-01,5,Klaipėda,Naujakiemis
+2020-05-01,4,Klaipėda,Naujakiemis
+2020-06-01,6,Klaipėda,Naujakiemis
+2020-07-01,5,Klaipėda,Naujakiemis
+2020-08-01,5,Klaipėda,Naujakiemis
+2020-09-01,4,Klaipėda,Naujakiemis
+2020-10-01,4,Klaipėda,Naujakiemis
+2020-11-01,5,Klaipėda,Naujakiemis
+2020-12-01,5,Klaipėda,Naujakiemis
+2021-01-01,5,Klaipėda,Naujakiemis
+2021-02-01,4,Klaipėda,Naujakiemis
+2021-03-01,4,Klaipėda,Naujakiemis
+2022-10-01,8,Klaipėda,Naujakiemis
+2018-01-01,6,Klaipėda,Paupiai
+2018-02-01,7,Klaipėda,Paupiai
+2018-03-01,4,Klaipėda,Paupiai
+2018-04-01,2,Klaipėda,Paupiai
+2018-05-01,3,Klaipėda,Paupiai
+2018-06-01,2,Klaipėda,Paupiai
+2018-07-01,2,Klaipėda,Paupiai
+2018-08-01,2,Klaipėda,Paupiai
+2018-09-01,3,Klaipėda,Paupiai
+2018-10-01,4,Klaipėda,Paupiai
+2018-11-01,4,Klaipėda,Paupiai
+2018-12-01,6,Klaipėda,Paupiai
+2019-01-01,6,Klaipėda,Paupiai
+2019-02-01,5,Klaipėda,Paupiai
+2019-03-01,5,Klaipėda,Paupiai
+2019-04-01,7,Klaipėda,Paupiai
+2019-05-01,3,Klaipėda,Paupiai
+2019-06-01,2,Klaipėda,Paupiai
+2019-07-01,2,Klaipėda,Paupiai
+2019-08-01,3,Klaipėda,Paupiai
+2019-09-01,5,Klaipėda,Paupiai
+2019-10-01,5,Klaipėda,Paupiai
+2019-11-01,7,Klaipėda,Paupiai
+2019-12-01,7,Klaipėda,Paupiai
+2020-01-01,6,Klaipėda,Paupiai
+2020-02-01,7,Klaipėda,Paupiai
+2020-04-01,3,Klaipėda,Paupiai
+2020-05-01,3,Klaipėda,Paupiai
+2020-06-01,1,Klaipėda,Paupiai
+2020-07-01,2,Klaipėda,Paupiai
+2020-08-01,3,Klaipėda,Paupiai
+2020-09-01,4,Klaipėda,Paupiai
+2020-10-01,7,Klaipėda,Paupiai
+2020-11-01,6,Klaipėda,Paupiai
+2020-12-01,6,Klaipėda,Paupiai
+2021-01-01,5,Klaipėda,Paupiai
+2021-03-01,8,Klaipėda,Paupiai
+2018-04-01,3,Klaipėda,Plytinė
+2018-05-01,3,Klaipėda,Plytinė
+2019-03-01,3,Klaipėda,Plytinė
+2019-04-01,3,Klaipėda,Plytinė
+2019-10-01,5,Klaipėda,Plytinė
+2020-08-01,4,Klaipėda,Plytinė
+2020-09-01,4,Klaipėda,Plytinė
+2021-02-01,4,Klaipėda,Plytinė
+2017-12-01,4,Klaipėda,Poilsis
+2018-01-01,5,Klaipėda,Poilsis
+2018-03-01,4,Klaipėda,Poilsis
+2018-04-01,4,Klaipėda,Poilsis
+2018-10-01,7,Klaipėda,Poilsis
+2018-11-01,6,Klaipėda,Poilsis
+2018-12-01,4,Klaipėda,Poilsis
+2019-01-01,4,Klaipėda,Poilsis
+2019-02-01,4,Klaipėda,Poilsis
+2019-03-01,4,Klaipėda,Poilsis
+2019-04-01,5,Klaipėda,Poilsis
+2019-05-01,5,Klaipėda,Poilsis
+2019-07-01,6,Klaipėda,Poilsis
+2019-09-01,5,Klaipėda,Poilsis
+2019-10-01,6,Klaipėda,Poilsis
+2019-11-01,5,Klaipėda,Poilsis
+2019-12-01,4,Klaipėda,Poilsis
+2020-01-01,5,Klaipėda,Poilsis
+2020-02-01,5,Klaipėda,Poilsis
+2020-03-01,6,Klaipėda,Poilsis
+2020-04-01,8,Klaipėda,Poilsis
+2020-05-01,7,Klaipėda,Poilsis
+2020-06-01,6,Klaipėda,Poilsis
+2020-07-01,5,Klaipėda,Poilsis
+2020-08-01,5,Klaipėda,Poilsis
+2020-09-01,5,Klaipėda,Poilsis
+2020-10-01,5,Klaipėda,Poilsis
+2020-11-01,6,Klaipėda,Poilsis
+2020-12-01,5,Klaipėda,Poilsis
+2021-01-01,5,Klaipėda,Poilsis
+2021-02-01,5,Klaipėda,Poilsis
+2021-03-01,5,Klaipėda,Poilsis
+2022-02-01,6,Klaipėda,Poilsis
+2022-09-01,7,Klaipėda,Poilsis
+2017-03-01,5,Klaipėda,Rumpiškės
+2017-09-01,4,Klaipėda,Rumpiškės
+2017-12-01,5,Klaipėda,Rumpiškės
+2018-01-01,5,Klaipėda,Rumpiškės
+2018-02-01,5,Klaipėda,Rumpiškės
+2018-04-01,6,Klaipėda,Rumpiškės
+2018-05-01,6,Klaipėda,Rumpiškės
+2018-06-01,5,Klaipėda,Rumpiškės
+2018-09-01,4,Klaipėda,Rumpiškės
+2018-10-01,4,Klaipėda,Rumpiškės
+2018-11-01,5,Klaipėda,Rumpiškės
+2018-12-01,4,Klaipėda,Rumpiškės
+2019-01-01,4,Klaipėda,Rumpiškės
+2019-02-01,4,Klaipėda,Rumpiškės
+2019-03-01,6,Klaipėda,Rumpiškės
+2019-04-01,6,Klaipėda,Rumpiškės
+2019-05-01,6,Klaipėda,Rumpiškės
+2019-06-01,5,Klaipėda,Rumpiškės
+2019-07-01,7,Klaipėda,Rumpiškės
+2019-08-01,7,Klaipėda,Rumpiškės
+2019-09-01,5,Klaipėda,Rumpiškės
+2019-10-01,4,Klaipėda,Rumpiškės
+2019-11-01,6,Klaipėda,Rumpiškės
+2019-12-01,5,Klaipėda,Rumpiškės
+2020-01-01,5,Klaipėda,Rumpiškės
+2020-02-01,6,Klaipėda,Rumpiškės
+2020-03-01,5,Klaipėda,Rumpiškės
+2020-04-01,4,Klaipėda,Rumpiškės
+2020-05-01,4,Klaipėda,Rumpiškės
+2020-06-01,5,Klaipėda,Rumpiškės
+2020-07-01,6,Klaipėda,Rumpiškės
+2020-08-01,5,Klaipėda,Rumpiškės
+2020-09-01,6,Klaipėda,Rumpiškės
+2020-10-01,5,Klaipėda,Rumpiškės
+2020-11-01,5,Klaipėda,Rumpiškės
+2020-12-01,5,Klaipėda,Rumpiškės
+2021-01-01,6,Klaipėda,Rumpiškės
+2021-02-01,8,Klaipėda,Rumpiškės
+2021-03-01,6,Klaipėda,Rumpiškės
+2021-12-01,7,Klaipėda,Rumpiškės
+2017-01-01,6,Klaipėda,Senamiestis
+2017-02-01,6,Klaipėda,Senamiestis
+2017-03-01,7,Klaipėda,Senamiestis
+2017-04-01,7,Klaipėda,Senamiestis
+2017-05-01,7,Klaipėda,Senamiestis
+2017-06-01,7,Klaipėda,Senamiestis
+2017-07-01,8,Klaipėda,Senamiestis
+2017-08-01,8,Klaipėda,Senamiestis
+2017-09-01,6,Klaipėda,Senamiestis
+2017-10-01,7,Klaipėda,Senamiestis
+2017-11-01,7,Klaipėda,Senamiestis
+2017-12-01,7,Klaipėda,Senamiestis
+2018-01-01,7,Klaipėda,Senamiestis
+2018-02-01,7,Klaipėda,Senamiestis
+2018-03-01,6,Klaipėda,Senamiestis
+2018-04-01,6,Klaipėda,Senamiestis
+2018-05-01,7,Klaipėda,Senamiestis
+2018-06-01,6,Klaipėda,Senamiestis
+2018-07-01,7,Klaipėda,Senamiestis
+2018-08-01,7,Klaipėda,Senamiestis
+2018-09-01,7,Klaipėda,Senamiestis
+2018-10-01,7,Klaipėda,Senamiestis
+2018-11-01,7,Klaipėda,Senamiestis
+2018-12-01,6,Klaipėda,Senamiestis
+2019-01-01,7,Klaipėda,Senamiestis
+2019-02-01,7,Klaipėda,Senamiestis
+2019-03-01,8,Klaipėda,Senamiestis
+2019-04-01,7,Klaipėda,Senamiestis
+2019-05-01,8,Klaipėda,Senamiestis
+2019-06-01,8,Klaipėda,Senamiestis
+2019-07-01,8,Klaipėda,Senamiestis
+2019-08-01,9,Klaipėda,Senamiestis
+2019-09-01,8,Klaipėda,Senamiestis
+2019-10-01,8,Klaipėda,Senamiestis
+2019-11-01,8,Klaipėda,Senamiestis
+2019-12-01,9,Klaipėda,Senamiestis
+2020-01-01,8,Klaipėda,Senamiestis
+2020-02-01,9,Klaipėda,Senamiestis
+2020-03-01,9,Klaipėda,Senamiestis
+2020-04-01,9,Klaipėda,Senamiestis
+2020-05-01,9,Klaipėda,Senamiestis
+2020-06-01,8,Klaipėda,Senamiestis
+2020-07-01,8,Klaipėda,Senamiestis
+2020-08-01,8,Klaipėda,Senamiestis
+2020-09-01,8,Klaipėda,Senamiestis
+2020-10-01,8,Klaipėda,Senamiestis
+2020-11-01,9,Klaipėda,Senamiestis
+2020-12-01,9,Klaipėda,Senamiestis
+2021-01-01,8,Klaipėda,Senamiestis
+2021-02-01,8,Klaipėda,Senamiestis
+2021-03-01,9,Klaipėda,Senamiestis
+2021-04-01,9,Klaipėda,Senamiestis
+2021-05-01,9,Klaipėda,Senamiestis
+2021-06-01,10,Klaipėda,Senamiestis
+2021-08-01,10,Klaipėda,Senamiestis
+2021-09-01,9,Klaipėda,Senamiestis
+2021-10-01,9,Klaipėda,Senamiestis
+2021-11-01,8,Klaipėda,Senamiestis
+2021-12-01,8,Klaipėda,Senamiestis
+2022-01-01,9,Klaipėda,Senamiestis
+2022-02-01,9,Klaipėda,Senamiestis
+2022-03-01,11,Klaipėda,Senamiestis
+2022-04-01,14,Klaipėda,Senamiestis
+2022-05-01,14,Klaipėda,Senamiestis
+2022-06-01,14,Klaipėda,Senamiestis
+2022-07-01,12,Klaipėda,Senamiestis
+2022-08-01,12,Klaipėda,Senamiestis
+2022-09-01,11,Klaipėda,Senamiestis
+2022-10-01,10,Klaipėda,Senamiestis
+2018-01-01,5,Klaipėda,Smeltė
+2018-02-01,4,Klaipėda,Smeltė
+2018-03-01,5,Klaipėda,Smeltė
+2018-06-01,2,Klaipėda,Smeltė
+2018-07-01,2,Klaipėda,Smeltė
+2018-08-01,1,Klaipėda,Smeltė
+2018-12-01,6,Klaipėda,Smeltė
+2019-01-01,4,Klaipėda,Smeltė
+2019-02-01,1,Klaipėda,Smeltė
+2019-03-01,1,Klaipėda,Smeltė
+2019-06-01,3,Klaipėda,Smeltė
+2019-07-01,5,Klaipėda,Smeltė
+2019-08-01,13,Klaipėda,Smeltė
+2019-10-01,5,Klaipėda,Smeltė
+2020-02-01,1,Klaipėda,Smeltė
+2020-05-01,4,Klaipėda,Smeltė
+2020-06-01,5,Klaipėda,Smeltė
+2020-07-01,6,Klaipėda,Smeltė
+2020-08-01,6,Klaipėda,Smeltė
+2020-09-01,6,Klaipėda,Smeltė
+2020-10-01,6,Klaipėda,Smeltė
+2020-11-01,6,Klaipėda,Smeltė
+2020-12-01,6,Klaipėda,Smeltė
+2021-01-01,6,Klaipėda,Smeltė
+2021-02-01,4,Klaipėda,Smeltė
+2021-03-01,2,Klaipėda,Smeltė
+2018-09-01,7,Klaipėda,Smiltynė
+2018-10-01,7,Klaipėda,Smiltynė
+2017-11-01,2,Klaipėda,Sportininkai
+2017-12-01,3,Klaipėda,Sportininkai
+2018-01-01,3,Klaipėda,Sportininkai
+2018-02-01,5,Klaipėda,Sportininkai
+2018-03-01,7,Klaipėda,Sportininkai
+2018-04-01,8,Klaipėda,Sportininkai
+2018-05-01,7,Klaipėda,Sportininkai
+2018-06-01,6,Klaipėda,Sportininkai
+2018-07-01,7,Klaipėda,Sportininkai
+2018-08-01,6,Klaipėda,Sportininkai
+2018-09-01,6,Klaipėda,Sportininkai
+2018-10-01,9,Klaipėda,Sportininkai
+2018-11-01,8,Klaipėda,Sportininkai
+2018-12-01,6,Klaipėda,Sportininkai
+2019-01-01,6,Klaipėda,Sportininkai
+2019-02-01,6,Klaipėda,Sportininkai
+2019-03-01,6,Klaipėda,Sportininkai
+2019-04-01,6,Klaipėda,Sportininkai
+2019-05-01,6,Klaipėda,Sportininkai
+2019-06-01,6,Klaipėda,Sportininkai
+2019-07-01,5,Klaipėda,Sportininkai
+2019-08-01,6,Klaipėda,Sportininkai
+2019-09-01,4,Klaipėda,Sportininkai
+2019-10-01,6,Klaipėda,Sportininkai
+2019-11-01,6,Klaipėda,Sportininkai
+2019-12-01,6,Klaipėda,Sportininkai
+2020-01-01,6,Klaipėda,Sportininkai
+2020-02-01,7,Klaipėda,Sportininkai
+2020-03-01,7,Klaipėda,Sportininkai
+2020-04-01,6,Klaipėda,Sportininkai
+2020-05-01,6,Klaipėda,Sportininkai
+2020-06-01,6,Klaipėda,Sportininkai
+2020-07-01,6,Klaipėda,Sportininkai
+2020-08-01,4,Klaipėda,Sportininkai
+2020-09-01,5,Klaipėda,Sportininkai
+2020-10-01,5,Klaipėda,Sportininkai
+2020-11-01,5,Klaipėda,Sportininkai
+2020-12-01,6,Klaipėda,Sportininkai
+2021-01-01,7,Klaipėda,Sportininkai
+2021-02-01,6,Klaipėda,Sportininkai
+2021-03-01,7,Klaipėda,Sportininkai
+2021-11-01,7,Klaipėda,Sportininkai
+2021-12-01,7,Klaipėda,Sportininkai
+2022-01-01,6,Klaipėda,Sportininkai
+2022-02-01,7,Klaipėda,Sportininkai
+2022-08-01,8,Klaipėda,Sportininkai
+2022-09-01,10,Klaipėda,Sportininkai
+2022-10-01,8,Klaipėda,Sportininkai
+2019-12-01,9,Klaipėda,Šauliai
+2020-01-01,9,Klaipėda,Šauliai
+2020-02-01,8,Klaipėda,Šauliai
+2020-03-01,7,Klaipėda,Šauliai
+2020-04-01,7,Klaipėda,Šauliai
+2020-07-01,9,Klaipėda,Šauliai
+2020-08-01,9,Klaipėda,Šauliai
+2020-10-01,11,Klaipėda,Šauliai
+2021-01-01,3,Klaipėda,Šauliai
+2017-07-01,5,Klaipėda,Tauralaukis
+2017-11-01,4,Klaipėda,Tauralaukis
+2017-12-01,4,Klaipėda,Tauralaukis
+2018-01-01,3,Klaipėda,Tauralaukis
+2018-02-01,3,Klaipėda,Tauralaukis
+2018-03-01,4,Klaipėda,Tauralaukis
+2018-04-01,3,Klaipėda,Tauralaukis
+2018-05-01,5,Klaipėda,Tauralaukis
+2018-06-01,3,Klaipėda,Tauralaukis
+2018-07-01,3,Klaipėda,Tauralaukis
+2018-08-01,4,Klaipėda,Tauralaukis
+2018-09-01,2,Klaipėda,Tauralaukis
+2018-10-01,4,Klaipėda,Tauralaukis
+2018-11-01,5,Klaipėda,Tauralaukis
+2018-12-01,5,Klaipėda,Tauralaukis
+2019-01-01,7,Klaipėda,Tauralaukis
+2019-02-01,7,Klaipėda,Tauralaukis
+2019-03-01,6,Klaipėda,Tauralaukis
+2019-04-01,6,Klaipėda,Tauralaukis
+2019-05-01,7,Klaipėda,Tauralaukis
+2019-06-01,6,Klaipėda,Tauralaukis
+2019-07-01,8,Klaipėda,Tauralaukis
+2019-08-01,10,Klaipėda,Tauralaukis
+2019-09-01,8,Klaipėda,Tauralaukis
+2019-10-01,6,Klaipėda,Tauralaukis
+2019-11-01,6,Klaipėda,Tauralaukis
+2019-12-01,6,Klaipėda,Tauralaukis
+2020-01-01,7,Klaipėda,Tauralaukis
+2020-02-01,5,Klaipėda,Tauralaukis
+2020-03-01,6,Klaipėda,Tauralaukis
+2020-04-01,4,Klaipėda,Tauralaukis
+2020-05-01,6,Klaipėda,Tauralaukis
+2020-06-01,7,Klaipėda,Tauralaukis
+2020-07-01,5,Klaipėda,Tauralaukis
+2020-08-01,8,Klaipėda,Tauralaukis
+2020-09-01,7,Klaipėda,Tauralaukis
+2020-10-01,7,Klaipėda,Tauralaukis
+2020-11-01,9,Klaipėda,Tauralaukis
+2020-12-01,7,Klaipėda,Tauralaukis
+2021-01-01,6,Klaipėda,Tauralaukis
+2021-02-01,7,Klaipėda,Tauralaukis
+2021-03-01,7,Klaipėda,Tauralaukis
+2021-10-01,8,Klaipėda,Tauralaukis
+2022-09-01,10,Klaipėda,Tauralaukis
+2018-03-01,6,Klaipėda,Trekas
+2018-04-01,5,Klaipėda,Trekas
+2018-05-01,7,Klaipėda,Trekas
+2018-06-01,5,Klaipėda,Trekas
+2018-07-01,5,Klaipėda,Trekas
+2018-09-01,11,Klaipėda,Trekas
+2018-10-01,6,Klaipėda,Trekas
+2018-11-01,4,Klaipėda,Trekas
+2018-12-01,5,Klaipėda,Trekas
+2019-01-01,4,Klaipėda,Trekas
+2019-09-01,8,Klaipėda,Trekas
+2019-10-01,8,Klaipėda,Trekas
+2019-11-01,8,Klaipėda,Trekas
+2019-12-01,7,Klaipėda,Trekas
+2020-01-01,7,Klaipėda,Trekas
+2020-02-01,10,Klaipėda,Trekas
+2020-03-01,9,Klaipėda,Trekas
+2020-04-01,9,Klaipėda,Trekas
+2020-08-01,7,Klaipėda,Trekas
+2020-10-01,8,Klaipėda,Trekas
+2020-11-01,10,Klaipėda,Trekas
+2018-01-01,4,Klaipėda,Varpai
+2018-08-01,3,Klaipėda,Varpai
+2018-09-01,3,Klaipėda,Varpai
+2018-10-01,2,Klaipėda,Varpai
+2018-11-01,3,Klaipėda,Varpai
+2018-12-01,3,Klaipėda,Varpai
+2019-01-01,3,Klaipėda,Varpai
+2019-03-01,5,Klaipėda,Varpai
+2019-04-01,6,Klaipėda,Varpai
+2019-05-01,4,Klaipėda,Varpai
+2019-06-01,4,Klaipėda,Varpai
+2019-07-01,5,Klaipėda,Varpai
+2019-08-01,4,Klaipėda,Varpai
+2019-09-01,4,Klaipėda,Varpai
+2019-12-01,5,Klaipėda,Varpai
+2020-01-01,4,Klaipėda,Varpai
+2020-02-01,5,Klaipėda,Varpai
+2020-03-01,6,Klaipėda,Varpai
+2020-04-01,5,Klaipėda,Varpai
+2020-05-01,5,Klaipėda,Varpai
+2020-06-01,6,Klaipėda,Varpai
+2020-07-01,5,Klaipėda,Varpai
+2020-08-01,6,Klaipėda,Varpai
+2020-09-01,6,Klaipėda,Varpai
+2020-10-01,5,Klaipėda,Varpai
+2020-11-01,7,Klaipėda,Varpai
+2020-12-01,5,Klaipėda,Varpai
+2021-01-01,5,Klaipėda,Varpai
+2021-02-01,5,Klaipėda,Varpai
+2021-03-01,6,Klaipėda,Varpai
+2017-01-01,5,Klaipėda,Vėtrungė
+2017-02-01,5,Klaipėda,Vėtrungė
+2017-03-01,5,Klaipėda,Vėtrungė
+2017-04-01,6,Klaipėda,Vėtrungė
+2017-05-01,6,Klaipėda,Vėtrungė
+2017-06-01,6,Klaipėda,Vėtrungė
+2017-08-01,7,Klaipėda,Vėtrungė
+2017-09-01,7,Klaipėda,Vėtrungė
+2017-10-01,5,Klaipėda,Vėtrungė
+2017-11-01,6,Klaipėda,Vėtrungė
+2017-12-01,6,Klaipėda,Vėtrungė
+2018-01-01,6,Klaipėda,Vėtrungė
+2018-02-01,6,Klaipėda,Vėtrungė
+2018-03-01,5,Klaipėda,Vėtrungė
+2018-04-01,5,Klaipėda,Vėtrungė
+2018-05-01,5,Klaipėda,Vėtrungė
+2018-06-01,5,Klaipėda,Vėtrungė
+2018-07-01,6,Klaipėda,Vėtrungė
+2018-08-01,4,Klaipėda,Vėtrungė
+2018-09-01,5,Klaipėda,Vėtrungė
+2018-10-01,6,Klaipėda,Vėtrungė
+2018-11-01,6,Klaipėda,Vėtrungė
+2018-12-01,6,Klaipėda,Vėtrungė
+2019-01-01,6,Klaipėda,Vėtrungė
+2019-02-01,6,Klaipėda,Vėtrungė
+2019-03-01,6,Klaipėda,Vėtrungė
+2019-04-01,6,Klaipėda,Vėtrungė
+2019-05-01,5,Klaipėda,Vėtrungė
+2019-06-01,5,Klaipėda,Vėtrungė
+2019-07-01,5,Klaipėda,Vėtrungė
+2019-08-01,6,Klaipėda,Vėtrungė
+2019-09-01,7,Klaipėda,Vėtrungė
+2019-10-01,7,Klaipėda,Vėtrungė
+2019-11-01,6,Klaipėda,Vėtrungė
+2019-12-01,6,Klaipėda,Vėtrungė
+2020-01-01,6,Klaipėda,Vėtrungė
+2020-02-01,7,Klaipėda,Vėtrungė
+2020-03-01,6,Klaipėda,Vėtrungė
+2020-04-01,6,Klaipėda,Vėtrungė
+2020-05-01,7,Klaipėda,Vėtrungė
+2020-06-01,6,Klaipėda,Vėtrungė
+2020-07-01,5,Klaipėda,Vėtrungė
+2020-08-01,6,Klaipėda,Vėtrungė
+2020-09-01,7,Klaipėda,Vėtrungė
+2020-10-01,5,Klaipėda,Vėtrungė
+2020-11-01,5,Klaipėda,Vėtrungė
+2020-12-01,5,Klaipėda,Vėtrungė
+2021-01-01,6,Klaipėda,Vėtrungė
+2021-02-01,7,Klaipėda,Vėtrungė
+2021-03-01,7,Klaipėda,Vėtrungė
+2021-04-01,7,Klaipėda,Vėtrungė
+2021-08-01,8,Klaipėda,Vėtrungė
+2021-09-01,8,Klaipėda,Vėtrungė
+2021-10-01,8,Klaipėda,Vėtrungė
+2021-11-01,8,Klaipėda,Vėtrungė
+2021-12-01,8,Klaipėda,Vėtrungė
+2022-01-01,8,Klaipėda,Vėtrungė
+2022-02-01,7,Klaipėda,Vėtrungė
+2022-08-01,10,Klaipėda,Vėtrungė
+2022-09-01,10,Klaipėda,Vėtrungė
+2022-10-01,10,Klaipėda,Vėtrungė
+2017-03-01,3,Klaipėda,Vingis
+2017-05-01,3,Klaipėda,Vingis
+2017-08-01,3,Klaipėda,Vingis
+2017-11-01,4,Klaipėda,Vingis
+2017-12-01,3,Klaipėda,Vingis
+2018-01-01,3,Klaipėda,Vingis
+2018-02-01,3,Klaipėda,Vingis
+2018-03-01,4,Klaipėda,Vingis
+2018-04-01,4,Klaipėda,Vingis
+2018-05-01,4,Klaipėda,Vingis
+2018-06-01,4,Klaipėda,Vingis
+2018-07-01,4,Klaipėda,Vingis
+2018-08-01,4,Klaipėda,Vingis
+2018-09-01,4,Klaipėda,Vingis
+2018-10-01,4,Klaipėda,Vingis
+2018-11-01,4,Klaipėda,Vingis
+2018-12-01,4,Klaipėda,Vingis
+2019-01-01,4,Klaipėda,Vingis
+2019-02-01,5,Klaipėda,Vingis
+2019-03-01,4,Klaipėda,Vingis
+2019-04-01,3,Klaipėda,Vingis
+2019-05-01,4,Klaipėda,Vingis
+2019-06-01,4,Klaipėda,Vingis
+2019-07-01,4,Klaipėda,Vingis
+2019-08-01,5,Klaipėda,Vingis
+2019-09-01,6,Klaipėda,Vingis
+2019-10-01,4,Klaipėda,Vingis
+2019-11-01,4,Klaipėda,Vingis
+2019-12-01,4,Klaipėda,Vingis
+2020-01-01,4,Klaipėda,Vingis
+2020-02-01,4,Klaipėda,Vingis
+2020-03-01,4,Klaipėda,Vingis
+2020-04-01,4,Klaipėda,Vingis
+2020-05-01,4,Klaipėda,Vingis
+2020-06-01,5,Klaipėda,Vingis
+2020-07-01,4,Klaipėda,Vingis
+2020-08-01,5,Klaipėda,Vingis
+2020-09-01,5,Klaipėda,Vingis
+2020-10-01,5,Klaipėda,Vingis
+2020-11-01,4,Klaipėda,Vingis
+2020-12-01,4,Klaipėda,Vingis
+2021-01-01,4,Klaipėda,Vingis
+2021-02-01,4,Klaipėda,Vingis
+2021-03-01,5,Klaipėda,Vingis
+2021-09-01,6,Klaipėda,Vingis
+2021-10-01,5,Klaipėda,Vingis
+2021-12-01,6,Klaipėda,Vingis
+2022-10-01,7,Klaipėda,Vingis
+2017-12-01,5,Klaipėda,Žardininkai
+2018-01-01,5,Klaipėda,Žardininkai
+2018-02-01,4,Klaipėda,Žardininkai
+2018-03-01,4,Klaipėda,Žardininkai
+2018-04-01,4,Klaipėda,Žardininkai
+2018-05-01,4,Klaipėda,Žardininkai
+2018-06-01,4,Klaipėda,Žardininkai
+2018-07-01,4,Klaipėda,Žardininkai
+2018-08-01,5,Klaipėda,Žardininkai
+2018-09-01,5,Klaipėda,Žardininkai
+2018-10-01,4,Klaipėda,Žardininkai
+2018-11-01,4,Klaipėda,Žardininkai
+2018-12-01,4,Klaipėda,Žardininkai
+2019-01-01,4,Klaipėda,Žardininkai
+2019-02-01,5,Klaipėda,Žardininkai
+2019-03-01,5,Klaipėda,Žardininkai
+2019-04-01,4,Klaipėda,Žardininkai
+2019-05-01,5,Klaipėda,Žardininkai
+2019-06-01,4,Klaipėda,Žardininkai
+2019-07-01,5,Klaipėda,Žardininkai
+2019-08-01,4,Klaipėda,Žardininkai
+2019-09-01,5,Klaipėda,Žardininkai
+2019-10-01,4,Klaipėda,Žardininkai
+2019-11-01,4,Klaipėda,Žardininkai
+2019-12-01,5,Klaipėda,Žardininkai
+2020-01-01,5,Klaipėda,Žardininkai
+2020-02-01,5,Klaipėda,Žardininkai
+2020-03-01,5,Klaipėda,Žardininkai
+2020-04-01,5,Klaipėda,Žardininkai
+2020-05-01,5,Klaipėda,Žardininkai
+2020-06-01,5,Klaipėda,Žardininkai
+2020-07-01,6,Klaipėda,Žardininkai
+2020-08-01,5,Klaipėda,Žardininkai
+2020-09-01,5,Klaipėda,Žardininkai
+2020-10-01,5,Klaipėda,Žardininkai
+2020-11-01,5,Klaipėda,Žardininkai
+2020-12-01,4,Klaipėda,Žardininkai
+2021-01-01,4,Klaipėda,Žardininkai
+2021-02-01,4,Klaipėda,Žardininkai
+2021-03-01,5,Klaipėda,Žardininkai
+2021-12-01,5,Klaipėda,Žardininkai
+2022-01-01,4,Klaipėda,Žardininkai
+2022-02-01,4,Klaipėda,Žardininkai
+2022-09-01,8,Klaipėda,Žardininkai
+2022-10-01,7,Klaipėda,Žardininkai
+2017-01-01,3,Klaipėda,Žvejybos uostas
+2017-02-01,3,Klaipėda,Žvejybos uostas
+2017-03-01,4,Klaipėda,Žvejybos uostas
+2017-04-01,4,Klaipėda,Žvejybos uostas
+2017-05-01,4,Klaipėda,Žvejybos uostas
+2017-10-01,4,Klaipėda,Žvejybos uostas
+2017-11-01,4,Klaipėda,Žvejybos uostas
+2017-12-01,4,Klaipėda,Žvejybos uostas
+2018-01-01,4,Klaipėda,Žvejybos uostas
+2018-02-01,4,Klaipėda,Žvejybos uostas
+2018-03-01,4,Klaipėda,Žvejybos uostas
+2018-04-01,3,Klaipėda,Žvejybos uostas
+2018-05-01,4,Klaipėda,Žvejybos uostas
+2018-06-01,4,Klaipėda,Žvejybos uostas
+2018-07-01,5,Klaipėda,Žvejybos uostas
+2018-08-01,4,Klaipėda,Žvejybos uostas
+2018-09-01,5,Klaipėda,Žvejybos uostas
+2018-10-01,4,Klaipėda,Žvejybos uostas
+2018-11-01,4,Klaipėda,Žvejybos uostas
+2018-12-01,5,Klaipėda,Žvejybos uostas
+2019-01-01,5,Klaipėda,Žvejybos uostas
+2019-02-01,5,Klaipėda,Žvejybos uostas
+2019-03-01,5,Klaipėda,Žvejybos uostas
+2019-04-01,5,Klaipėda,Žvejybos uostas
+2019-05-01,5,Klaipėda,Žvejybos uostas
+2019-06-01,5,Klaipėda,Žvejybos uostas
+2019-07-01,5,Klaipėda,Žvejybos uostas
+2019-08-01,4,Klaipėda,Žvejybos uostas
+2019-09-01,5,Klaipėda,Žvejybos uostas
+2019-10-01,5,Klaipėda,Žvejybos uostas
+2019-11-01,5,Klaipėda,Žvejybos uostas
+2019-12-01,5,Klaipėda,Žvejybos uostas
+2020-01-01,6,Klaipėda,Žvejybos uostas
+2020-02-01,5,Klaipėda,Žvejybos uostas
+2020-03-01,5,Klaipėda,Žvejybos uostas
+2020-04-01,5,Klaipėda,Žvejybos uostas
+2020-05-01,5,Klaipėda,Žvejybos uostas
+2020-06-01,5,Klaipėda,Žvejybos uostas
+2020-07-01,5,Klaipėda,Žvejybos uostas
+2020-08-01,5,Klaipėda,Žvejybos uostas
+2020-09-01,4,Klaipėda,Žvejybos uostas
+2020-10-01,5,Klaipėda,Žvejybos uostas
+2020-11-01,5,Klaipėda,Žvejybos uostas
+2020-12-01,5,Klaipėda,Žvejybos uostas
+2021-01-01,6,Klaipėda,Žvejybos uostas
+2021-02-01,6,Klaipėda,Žvejybos uostas
+2021-03-01,6,Klaipėda,Žvejybos uostas
+2021-04-01,7,Klaipėda,Žvejybos uostas
+2021-05-01,8,Klaipėda,Žvejybos uostas
+2021-09-01,7,Klaipėda,Žvejybos uostas
+2021-10-01,7,Klaipėda,Žvejybos uostas
+2021-11-01,7,Klaipėda,Žvejybos uostas
+2021-12-01,8,Klaipėda,Žvejybos uostas
+2022-01-01,8,Klaipėda,Žvejybos uostas
+2022-03-01,9,Klaipėda,Žvejybos uostas
+2022-09-01,9,Klaipėda,Žvejybos uostas
+2022-10-01,8,Klaipėda,Žvejybos uostas
+2017-01-01,4,Šiauliai,Centras
+2017-02-01,4,Šiauliai,Centras
+2017-03-01,4,Šiauliai,Centras
+2017-04-01,4,Šiauliai,Centras
+2017-05-01,5,Šiauliai,Centras
+2017-06-01,4,Šiauliai,Centras
+2017-07-01,4,Šiauliai,Centras
+2017-08-01,4,Šiauliai,Centras
+2017-09-01,4,Šiauliai,Centras
+2017-10-01,4,Šiauliai,Centras
+2017-11-01,5,Šiauliai,Centras
+2017-12-01,5,Šiauliai,Centras
+2018-01-01,5,Šiauliai,Centras
+2018-02-01,5,Šiauliai,Centras
+2018-03-01,5,Šiauliai,Centras
+2018-04-01,5,Šiauliai,Centras
+2018-05-01,5,Šiauliai,Centras
+2018-06-01,5,Šiauliai,Centras
+2018-07-01,5,Šiauliai,Centras
+2018-08-01,5,Šiauliai,Centras
+2018-09-01,5,Šiauliai,Centras
+2018-10-01,5,Šiauliai,Centras
+2018-11-01,5,Šiauliai,Centras
+2018-12-01,5,Šiauliai,Centras
+2019-01-01,5,Šiauliai,Centras
+2019-02-01,6,Šiauliai,Centras
+2019-03-01,6,Šiauliai,Centras
+2019-04-01,5,Šiauliai,Centras
+2019-05-01,6,Šiauliai,Centras
+2019-06-01,6,Šiauliai,Centras
+2019-07-01,5,Šiauliai,Centras
+2019-08-01,5,Šiauliai,Centras
+2019-09-01,5,Šiauliai,Centras
+2019-10-01,5,Šiauliai,Centras
+2019-11-01,5,Šiauliai,Centras
+2019-12-01,5,Šiauliai,Centras
+2020-01-01,5,Šiauliai,Centras
+2020-02-01,5,Šiauliai,Centras
+2020-03-01,5,Šiauliai,Centras
+2020-04-01,5,Šiauliai,Centras
+2020-05-01,5,Šiauliai,Centras
+2020-06-01,6,Šiauliai,Centras
+2020-07-01,5,Šiauliai,Centras
+2020-08-01,6,Šiauliai,Centras
+2020-09-01,6,Šiauliai,Centras
+2020-10-01,5,Šiauliai,Centras
+2020-11-01,6,Šiauliai,Centras
+2020-12-01,6,Šiauliai,Centras
+2021-01-01,6,Šiauliai,Centras
+2021-02-01,6,Šiauliai,Centras
+2021-03-01,6,Šiauliai,Centras
+2021-04-01,7,Šiauliai,Centras
+2021-05-01,7,Šiauliai,Centras
+2021-06-01,7,Šiauliai,Centras
+2021-07-01,7,Šiauliai,Centras
+2021-08-01,7,Šiauliai,Centras
+2021-09-01,6,Šiauliai,Centras
+2021-10-01,6,Šiauliai,Centras
+2021-11-01,6,Šiauliai,Centras
+2021-12-01,6,Šiauliai,Centras
+2022-01-01,6,Šiauliai,Centras
+2022-02-01,6,Šiauliai,Centras
+2022-03-01,7,Šiauliai,Centras
+2022-04-01,9,Šiauliai,Centras
+2022-05-01,9,Šiauliai,Centras
+2022-06-01,8,Šiauliai,Centras
+2022-07-01,8,Šiauliai,Centras
+2022-08-01,8,Šiauliai,Centras
+2022-09-01,8,Šiauliai,Centras
+2022-10-01,7,Šiauliai,Centras
+2017-01-01,4,Šiauliai,Dainiai
+2017-02-01,4,Šiauliai,Dainiai
+2017-03-01,4,Šiauliai,Dainiai
+2017-04-01,3,Šiauliai,Dainiai
+2017-05-01,3,Šiauliai,Dainiai
+2017-06-01,3,Šiauliai,Dainiai
+2017-07-01,3,Šiauliai,Dainiai
+2017-08-01,3,Šiauliai,Dainiai
+2017-09-01,3,Šiauliai,Dainiai
+2017-10-01,3,Šiauliai,Dainiai
+2017-11-01,3,Šiauliai,Dainiai
+2017-12-01,3,Šiauliai,Dainiai
+2018-01-01,3,Šiauliai,Dainiai
+2018-02-01,4,Šiauliai,Dainiai
+2018-03-01,4,Šiauliai,Dainiai
+2018-04-01,3,Šiauliai,Dainiai
+2018-05-01,3,Šiauliai,Dainiai
+2018-06-01,3,Šiauliai,Dainiai
+2018-07-01,4,Šiauliai,Dainiai
+2018-08-01,4,Šiauliai,Dainiai
+2018-09-01,3,Šiauliai,Dainiai
+2018-10-01,3,Šiauliai,Dainiai
+2018-11-01,3,Šiauliai,Dainiai
+2018-12-01,3,Šiauliai,Dainiai
+2019-01-01,4,Šiauliai,Dainiai
+2019-02-01,4,Šiauliai,Dainiai
+2019-03-01,4,Šiauliai,Dainiai
+2019-04-01,4,Šiauliai,Dainiai
+2019-05-01,5,Šiauliai,Dainiai
+2019-06-01,4,Šiauliai,Dainiai
+2019-07-01,4,Šiauliai,Dainiai
+2019-08-01,4,Šiauliai,Dainiai
+2019-09-01,4,Šiauliai,Dainiai
+2019-10-01,4,Šiauliai,Dainiai
+2019-11-01,4,Šiauliai,Dainiai
+2019-12-01,4,Šiauliai,Dainiai
+2020-01-01,4,Šiauliai,Dainiai
+2020-02-01,4,Šiauliai,Dainiai
+2020-03-01,4,Šiauliai,Dainiai
+2020-04-01,5,Šiauliai,Dainiai
+2020-05-01,5,Šiauliai,Dainiai
+2020-06-01,5,Šiauliai,Dainiai
+2020-07-01,4,Šiauliai,Dainiai
+2020-08-01,4,Šiauliai,Dainiai
+2020-09-01,5,Šiauliai,Dainiai
+2020-10-01,5,Šiauliai,Dainiai
+2020-11-01,5,Šiauliai,Dainiai
+2020-12-01,5,Šiauliai,Dainiai
+2021-01-01,5,Šiauliai,Dainiai
+2021-02-01,5,Šiauliai,Dainiai
+2021-03-01,5,Šiauliai,Dainiai
+2021-04-01,5,Šiauliai,Dainiai
+2021-05-01,4,Šiauliai,Dainiai
+2021-06-01,5,Šiauliai,Dainiai
+2021-07-01,5,Šiauliai,Dainiai
+2021-09-01,6,Šiauliai,Dainiai
+2021-10-01,5,Šiauliai,Dainiai
+2021-11-01,5,Šiauliai,Dainiai
+2021-12-01,5,Šiauliai,Dainiai
+2022-01-01,5,Šiauliai,Dainiai
+2022-02-01,5,Šiauliai,Dainiai
+2022-03-01,5,Šiauliai,Dainiai
+2022-06-01,6,Šiauliai,Dainiai
+2022-07-01,6,Šiauliai,Dainiai
+2022-08-01,7,Šiauliai,Dainiai
+2022-09-01,7,Šiauliai,Dainiai
+2022-10-01,6,Šiauliai,Dainiai
+2018-01-01,3,Šiauliai,Gytariai
+2018-02-01,3,Šiauliai,Gytariai
+2018-03-01,4,Šiauliai,Gytariai
+2018-04-01,4,Šiauliai,Gytariai
+2018-05-01,3,Šiauliai,Gytariai
+2018-06-01,4,Šiauliai,Gytariai
+2018-07-01,4,Šiauliai,Gytariai
+2018-08-01,4,Šiauliai,Gytariai
+2018-09-01,4,Šiauliai,Gytariai
+2018-10-01,4,Šiauliai,Gytariai
+2018-11-01,3,Šiauliai,Gytariai
+2018-12-01,4,Šiauliai,Gytariai
+2019-01-01,4,Šiauliai,Gytariai
+2019-02-01,4,Šiauliai,Gytariai
+2019-03-01,4,Šiauliai,Gytariai
+2019-04-01,4,Šiauliai,Gytariai
+2019-05-01,3,Šiauliai,Gytariai
+2019-06-01,4,Šiauliai,Gytariai
+2019-07-01,3,Šiauliai,Gytariai
+2019-08-01,4,Šiauliai,Gytariai
+2019-09-01,3,Šiauliai,Gytariai
+2019-10-01,4,Šiauliai,Gytariai
+2019-11-01,5,Šiauliai,Gytariai
+2019-12-01,4,Šiauliai,Gytariai
+2020-01-01,4,Šiauliai,Gytariai
+2020-02-01,4,Šiauliai,Gytariai
+2020-03-01,4,Šiauliai,Gytariai
+2020-04-01,3,Šiauliai,Gytariai
+2020-05-01,4,Šiauliai,Gytariai
+2020-06-01,4,Šiauliai,Gytariai
+2020-07-01,4,Šiauliai,Gytariai
+2020-08-01,3,Šiauliai,Gytariai
+2020-09-01,4,Šiauliai,Gytariai
+2020-10-01,5,Šiauliai,Gytariai
+2020-11-01,4,Šiauliai,Gytariai
+2020-12-01,4,Šiauliai,Gytariai
+2021-01-01,4,Šiauliai,Gytariai
+2021-02-01,4,Šiauliai,Gytariai
+2021-09-01,5,Šiauliai,Gytariai
+2021-10-01,5,Šiauliai,Gytariai
+2021-12-01,5,Šiauliai,Gytariai
+2022-02-01,5,Šiauliai,Gytariai
+2022-08-01,6,Šiauliai,Gytariai
+2022-09-01,5,Šiauliai,Gytariai
+2022-10-01,6,Šiauliai,Gytariai
+2018-01-01,3,Šiauliai,Gubernija
+2018-02-01,3,Šiauliai,Gubernija
+2018-05-01,4,Šiauliai,Gubernija
+2018-11-01,2,Šiauliai,Gubernija
+2018-12-01,1,Šiauliai,Gubernija
+2019-02-01,4,Šiauliai,Gubernija
+2019-03-01,3,Šiauliai,Gubernija
+2019-04-01,3,Šiauliai,Gubernija
+2019-06-01,4,Šiauliai,Gubernija
+2019-07-01,4,Šiauliai,Gubernija
+2019-08-01,3,Šiauliai,Gubernija
+2019-09-01,3,Šiauliai,Gubernija
+2019-10-01,4,Šiauliai,Gubernija
+2019-11-01,4,Šiauliai,Gubernija
+2020-01-01,3,Šiauliai,Gubernija
+2020-02-01,3,Šiauliai,Gubernija
+2020-03-01,3,Šiauliai,Gubernija
+2021-02-01,3,Šiauliai,Gubernija
+2021-03-01,3,Šiauliai,Gubernija
+2017-01-01,3,Šiauliai,Lieporiai
+2017-02-01,3,Šiauliai,Lieporiai
+2017-03-01,3,Šiauliai,Lieporiai
+2017-04-01,4,Šiauliai,Lieporiai
+2017-05-01,4,Šiauliai,Lieporiai
+2017-07-01,4,Šiauliai,Lieporiai
+2017-08-01,3,Šiauliai,Lieporiai
+2017-09-01,4,Šiauliai,Lieporiai
+2017-10-01,4,Šiauliai,Lieporiai
+2017-11-01,4,Šiauliai,Lieporiai
+2017-12-01,4,Šiauliai,Lieporiai
+2018-01-01,3,Šiauliai,Lieporiai
+2018-02-01,3,Šiauliai,Lieporiai
+2018-03-01,3,Šiauliai,Lieporiai
+2018-04-01,3,Šiauliai,Lieporiai
+2018-05-01,3,Šiauliai,Lieporiai
+2018-06-01,3,Šiauliai,Lieporiai
+2018-07-01,4,Šiauliai,Lieporiai
+2018-08-01,4,Šiauliai,Lieporiai
+2018-09-01,4,Šiauliai,Lieporiai
+2018-10-01,5,Šiauliai,Lieporiai
+2018-11-01,5,Šiauliai,Lieporiai
+2019-01-01,3,Šiauliai,Lieporiai
+2019-02-01,4,Šiauliai,Lieporiai
+2019-03-01,4,Šiauliai,Lieporiai
+2019-04-01,5,Šiauliai,Lieporiai
+2019-05-01,4,Šiauliai,Lieporiai
+2019-06-01,4,Šiauliai,Lieporiai
+2019-07-01,4,Šiauliai,Lieporiai
+2019-08-01,4,Šiauliai,Lieporiai
+2019-09-01,4,Šiauliai,Lieporiai
+2019-10-01,4,Šiauliai,Lieporiai
+2019-11-01,4,Šiauliai,Lieporiai
+2019-12-01,4,Šiauliai,Lieporiai
+2020-01-01,4,Šiauliai,Lieporiai
+2020-02-01,4,Šiauliai,Lieporiai
+2020-03-01,4,Šiauliai,Lieporiai
+2020-04-01,4,Šiauliai,Lieporiai
+2020-05-01,4,Šiauliai,Lieporiai
+2020-06-01,4,Šiauliai,Lieporiai
+2020-07-01,4,Šiauliai,Lieporiai
+2020-08-01,5,Šiauliai,Lieporiai
+2020-09-01,4,Šiauliai,Lieporiai
+2020-10-01,4,Šiauliai,Lieporiai
+2020-11-01,5,Šiauliai,Lieporiai
+2020-12-01,5,Šiauliai,Lieporiai
+2021-01-01,5,Šiauliai,Lieporiai
+2021-02-01,5,Šiauliai,Lieporiai
+2021-03-01,5,Šiauliai,Lieporiai
+2021-09-01,5,Šiauliai,Lieporiai
+2021-10-01,5,Šiauliai,Lieporiai
+2021-11-01,5,Šiauliai,Lieporiai
+2021-12-01,6,Šiauliai,Lieporiai
+2022-01-01,5,Šiauliai,Lieporiai
+2022-02-01,5,Šiauliai,Lieporiai
+2022-03-01,5,Šiauliai,Lieporiai
+2022-06-01,6,Šiauliai,Lieporiai
+2022-08-01,6,Šiauliai,Lieporiai
+2022-09-01,5,Šiauliai,Lieporiai
+2022-10-01,6,Šiauliai,Lieporiai
+2018-06-01,3,Šiauliai,Medelynas
+2018-09-01,3,Šiauliai,Medelynas
+2019-10-01,4,Šiauliai,Medelynas
+2020-07-01,2,Šiauliai,Medelynas
+2020-08-01,2,Šiauliai,Medelynas
+2018-01-01,4,Šiauliai,Šimšė
+2018-02-01,4,Šiauliai,Šimšė
+2018-05-01,5,Šiauliai,Šimšė
+2018-06-01,2,Šiauliai,Šimšė
+2018-08-01,3,Šiauliai,Šimšė
+2018-09-01,3,Šiauliai,Šimšė
+2018-11-01,4,Šiauliai,Šimšė
+2019-01-01,4,Šiauliai,Šimšė
+2019-03-01,4,Šiauliai,Šimšė
+2019-05-01,5,Šiauliai,Šimšė
+2019-06-01,5,Šiauliai,Šimšė
+2019-09-01,3,Šiauliai,Šimšė
+2019-10-01,4,Šiauliai,Šimšė
+2019-11-01,3,Šiauliai,Šimšė
+2019-12-01,3,Šiauliai,Šimšė
+2020-01-01,4,Šiauliai,Šimšė
+2020-03-01,5,Šiauliai,Šimšė
+2020-04-01,5,Šiauliai,Šimšė
+2020-07-01,4,Šiauliai,Šimšė
+2020-09-01,5,Šiauliai,Šimšė
+2020-12-01,4,Šiauliai,Šimšė
+2021-01-01,5,Šiauliai,Šimšė
+2018-11-01,3,Šiauliai,Zokniai
+2018-12-01,5,Šiauliai,Zokniai
+2019-01-01,4,Šiauliai,Zokniai
+2019-02-01,3,Šiauliai,Zokniai
+2019-03-01,3,Šiauliai,Zokniai
+2019-04-01,3,Šiauliai,Zokniai
+2019-11-01,5,Šiauliai,Zokniai
+2019-12-01,5,Šiauliai,Zokniai
+2021-02-01,5,Šiauliai,Zokniai
+2017-08-01,3,Šiauliai,Žaliūkiai
+2017-12-01,3,Šiauliai,Žaliūkiai
+2018-01-01,2,Šiauliai,Žaliūkiai
+2018-02-01,4,Šiauliai,Žaliūkiai
+2018-03-01,4,Šiauliai,Žaliūkiai
+2018-05-01,4,Šiauliai,Žaliūkiai
+2018-06-01,5,Šiauliai,Žaliūkiai
+2018-07-01,5,Šiauliai,Žaliūkiai
+2018-09-01,3,Šiauliai,Žaliūkiai
+2018-10-01,3,Šiauliai,Žaliūkiai
+2018-11-01,3,Šiauliai,Žaliūkiai
+2018-12-01,3,Šiauliai,Žaliūkiai
+2019-01-01,3,Šiauliai,Žaliūkiai
+2019-02-01,3,Šiauliai,Žaliūkiai
+2019-03-01,5,Šiauliai,Žaliūkiai
+2019-04-01,6,Šiauliai,Žaliūkiai
+2019-05-01,7,Šiauliai,Žaliūkiai
+2019-06-01,9,Šiauliai,Žaliūkiai
+2019-07-01,5,Šiauliai,Žaliūkiai
+2019-08-01,4,Šiauliai,Žaliūkiai
+2019-09-01,3,Šiauliai,Žaliūkiai
+2019-10-01,4,Šiauliai,Žaliūkiai
+2019-11-01,4,Šiauliai,Žaliūkiai
+2020-02-01,3,Šiauliai,Žaliūkiai
+2020-03-01,5,Šiauliai,Žaliūkiai
+2020-04-01,5,Šiauliai,Žaliūkiai
+2020-05-01,6,Šiauliai,Žaliūkiai
+2020-06-01,3,Šiauliai,Žaliūkiai
+2020-07-01,3,Šiauliai,Žaliūkiai
+2020-08-01,6,Šiauliai,Žaliūkiai
+2020-09-01,5,Šiauliai,Žaliūkiai
+2020-10-01,5,Šiauliai,Žaliūkiai
+2020-11-01,5,Šiauliai,Žaliūkiai
+2020-12-01,5,Šiauliai,Žaliūkiai
+2021-02-01,4,Šiauliai,Žaliūkiai
+2021-08-01,6,Šiauliai,Žaliūkiai
+2021-11-01,4,Šiauliai,Žaliūkiai
+2022-09-01,8,Šiauliai,Žaliūkiai
+2022-10-01,8,Šiauliai,Žaliūkiai
+2017-01-01,5,Panevėžys,Centras
+2017-02-01,5,Panevėžys,Centras
+2017-03-01,5,Panevėžys,Centras
+2017-04-01,5,Panevėžys,Centras
+2017-05-01,6,Panevėžys,Centras
+2017-06-01,5,Panevėžys,Centras
+2017-07-01,5,Panevėžys,Centras
+2017-08-01,6,Panevėžys,Centras
+2017-09-01,6,Panevėžys,Centras
+2017-10-01,6,Panevėžys,Centras
+2017-11-01,6,Panevėžys,Centras
+2017-12-01,6,Panevėžys,Centras
+2018-01-01,6,Panevėžys,Centras
+2018-02-01,6,Panevėžys,Centras
+2018-03-01,6,Panevėžys,Centras
+2018-04-01,6,Panevėžys,Centras
+2018-05-01,6,Panevėžys,Centras
+2018-06-01,7,Panevėžys,Centras
+2018-07-01,7,Panevėžys,Centras
+2018-08-01,6,Panevėžys,Centras
+2018-09-01,6,Panevėžys,Centras
+2018-10-01,5,Panevėžys,Centras
+2018-11-01,5,Panevėžys,Centras
+2018-12-01,5,Panevėžys,Centras
+2019-01-01,6,Panevėžys,Centras
+2019-02-01,6,Panevėžys,Centras
+2019-03-01,6,Panevėžys,Centras
+2019-04-01,6,Panevėžys,Centras
+2019-05-01,6,Panevėžys,Centras
+2019-06-01,7,Panevėžys,Centras
+2019-07-01,6,Panevėžys,Centras
+2019-08-01,6,Panevėžys,Centras
+2019-09-01,6,Panevėžys,Centras
+2019-10-01,5,Panevėžys,Centras
+2019-11-01,6,Panevėžys,Centras
+2019-12-01,5,Panevėžys,Centras
+2020-01-01,6,Panevėžys,Centras
+2020-02-01,6,Panevėžys,Centras
+2020-03-01,6,Panevėžys,Centras
+2020-04-01,5,Panevėžys,Centras
+2020-05-01,5,Panevėžys,Centras
+2020-06-01,5,Panevėžys,Centras
+2020-07-01,6,Panevėžys,Centras
+2020-08-01,6,Panevėžys,Centras
+2020-09-01,5,Panevėžys,Centras
+2020-10-01,5,Panevėžys,Centras
+2020-11-01,6,Panevėžys,Centras
+2020-12-01,6,Panevėžys,Centras
+2021-01-01,6,Panevėžys,Centras
+2021-02-01,5,Panevėžys,Centras
+2021-03-01,5,Panevėžys,Centras
+2021-04-01,6,Panevėžys,Centras
+2021-05-01,6,Panevėžys,Centras
+2021-06-01,6,Panevėžys,Centras
+2021-07-01,7,Panevėžys,Centras
+2021-08-01,6,Panevėžys,Centras
+2021-09-01,6,Panevėžys,Centras
+2021-10-01,6,Panevėžys,Centras
+2021-11-01,6,Panevėžys,Centras
+2021-12-01,6,Panevėžys,Centras
+2022-01-01,6,Panevėžys,Centras
+2022-02-01,5,Panevėžys,Centras
+2022-03-01,6,Panevėžys,Centras
+2022-04-01,5,Panevėžys,Centras
+2022-06-01,7,Panevėžys,Centras
+2022-07-01,7,Panevėžys,Centras
+2022-08-01,8,Panevėžys,Centras
+2022-09-01,7,Panevėžys,Centras
+2022-10-01,7,Panevėžys,Centras
+2018-01-01,4,Panevėžys,Klaipėdos
+2018-02-01,5,Panevėžys,Klaipėdos
+2018-03-01,4,Panevėžys,Klaipėdos
+2018-04-01,4,Panevėžys,Klaipėdos
+2018-05-01,4,Panevėžys,Klaipėdos
+2018-06-01,4,Panevėžys,Klaipėdos
+2018-07-01,4,Panevėžys,Klaipėdos
+2018-08-01,5,Panevėžys,Klaipėdos
+2018-09-01,4,Panevėžys,Klaipėdos
+2018-10-01,4,Panevėžys,Klaipėdos
+2018-11-01,4,Panevėžys,Klaipėdos
+2018-12-01,4,Panevėžys,Klaipėdos
+2019-01-01,4,Panevėžys,Klaipėdos
+2019-02-01,4,Panevėžys,Klaipėdos
+2019-03-01,3,Panevėžys,Klaipėdos
+2019-04-01,3,Panevėžys,Klaipėdos
+2019-05-01,4,Panevėžys,Klaipėdos
+2019-06-01,5,Panevėžys,Klaipėdos
+2019-07-01,5,Panevėžys,Klaipėdos
+2019-08-01,5,Panevėžys,Klaipėdos
+2019-09-01,3,Panevėžys,Klaipėdos
+2019-10-01,4,Panevėžys,Klaipėdos
+2019-11-01,3,Panevėžys,Klaipėdos
+2019-12-01,4,Panevėžys,Klaipėdos
+2020-01-01,4,Panevėžys,Klaipėdos
+2020-02-01,4,Panevėžys,Klaipėdos
+2020-03-01,4,Panevėžys,Klaipėdos
+2020-04-01,4,Panevėžys,Klaipėdos
+2020-05-01,4,Panevėžys,Klaipėdos
+2020-06-01,4,Panevėžys,Klaipėdos
+2020-07-01,4,Panevėžys,Klaipėdos
+2020-08-01,4,Panevėžys,Klaipėdos
+2020-09-01,3,Panevėžys,Klaipėdos
+2020-10-01,4,Panevėžys,Klaipėdos
+2020-11-01,3,Panevėžys,Klaipėdos
+2020-12-01,4,Panevėžys,Klaipėdos
+2021-01-01,4,Panevėžys,Klaipėdos
+2021-02-01,5,Panevėžys,Klaipėdos
+2021-03-01,5,Panevėžys,Klaipėdos
+2021-06-01,6,Panevėžys,Klaipėdos
+2021-09-01,4,Panevėžys,Klaipėdos
+2021-10-01,4,Panevėžys,Klaipėdos
+2021-12-01,4,Panevėžys,Klaipėdos
+2022-01-01,4,Panevėžys,Klaipėdos
+2022-02-01,4,Panevėžys,Klaipėdos
+2022-03-01,5,Panevėžys,Klaipėdos
+2022-08-01,6,Panevėžys,Klaipėdos
+2022-09-01,6,Panevėžys,Klaipėdos
+2022-10-01,6,Panevėžys,Klaipėdos
+2017-12-01,2,Panevėžys,Kniaudiškiai
+2018-02-01,5,Panevėžys,Kniaudiškiai
+2018-03-01,4,Panevėžys,Kniaudiškiai
+2018-04-01,4,Panevėžys,Kniaudiškiai
+2018-05-01,4,Panevėžys,Kniaudiškiai
+2018-06-01,3,Panevėžys,Kniaudiškiai
+2018-07-01,3,Panevėžys,Kniaudiškiai
+2018-08-01,4,Panevėžys,Kniaudiškiai
+2018-09-01,4,Panevėžys,Kniaudiškiai
+2018-10-01,4,Panevėžys,Kniaudiškiai
+2018-11-01,3,Panevėžys,Kniaudiškiai
+2018-12-01,3,Panevėžys,Kniaudiškiai
+2019-01-01,3,Panevėžys,Kniaudiškiai
+2019-02-01,3,Panevėžys,Kniaudiškiai
+2019-03-01,3,Panevėžys,Kniaudiškiai
+2019-04-01,4,Panevėžys,Kniaudiškiai
+2019-05-01,4,Panevėžys,Kniaudiškiai
+2019-06-01,4,Panevėžys,Kniaudiškiai
+2019-07-01,4,Panevėžys,Kniaudiškiai
+2019-08-01,4,Panevėžys,Kniaudiškiai
+2019-09-01,4,Panevėžys,Kniaudiškiai
+2019-10-01,4,Panevėžys,Kniaudiškiai
+2019-11-01,4,Panevėžys,Kniaudiškiai
+2019-12-01,4,Panevėžys,Kniaudiškiai
+2020-01-01,4,Panevėžys,Kniaudiškiai
+2020-02-01,4,Panevėžys,Kniaudiškiai
+2020-03-01,4,Panevėžys,Kniaudiškiai
+2020-04-01,4,Panevėžys,Kniaudiškiai
+2020-05-01,4,Panevėžys,Kniaudiškiai
+2020-06-01,4,Panevėžys,Kniaudiškiai
+2020-07-01,5,Panevėžys,Kniaudiškiai
+2020-08-01,4,Panevėžys,Kniaudiškiai
+2020-09-01,4,Panevėžys,Kniaudiškiai
+2020-10-01,4,Panevėžys,Kniaudiškiai
+2020-11-01,4,Panevėžys,Kniaudiškiai
+2020-12-01,4,Panevėžys,Kniaudiškiai
+2021-01-01,5,Panevėžys,Kniaudiškiai
+2021-02-01,4,Panevėžys,Kniaudiškiai
+2021-03-01,5,Panevėžys,Kniaudiškiai
+2021-04-01,4,Panevėžys,Kniaudiškiai
+2021-09-01,6,Panevėžys,Kniaudiškiai
+2022-02-01,4,Panevėžys,Kniaudiškiai
+2022-10-01,6,Panevėžys,Kniaudiškiai
+2018-01-01,3,Panevėžys,Molainiai
+2018-02-01,4,Panevėžys,Molainiai
+2018-03-01,4,Panevėžys,Molainiai
+2018-04-01,3,Panevėžys,Molainiai
+2018-05-01,3,Panevėžys,Molainiai
+2018-07-01,5,Panevėžys,Molainiai
+2018-08-01,5,Panevėžys,Molainiai
+2018-09-01,4,Panevėžys,Molainiai
+2018-10-01,4,Panevėžys,Molainiai
+2018-11-01,4,Panevėžys,Molainiai
+2018-12-01,5,Panevėžys,Molainiai
+2019-01-01,4,Panevėžys,Molainiai
+2019-02-01,4,Panevėžys,Molainiai
+2019-03-01,4,Panevėžys,Molainiai
+2019-04-01,4,Panevėžys,Molainiai
+2019-06-01,4,Panevėžys,Molainiai
+2019-07-01,4,Panevėžys,Molainiai
+2019-08-01,4,Panevėžys,Molainiai
+2019-10-01,2,Panevėžys,Molainiai
+2019-11-01,3,Panevėžys,Molainiai
+2020-01-01,3,Panevėžys,Molainiai
+2020-02-01,3,Panevėžys,Molainiai
+2020-04-01,3,Panevėžys,Molainiai
+2020-05-01,4,Panevėžys,Molainiai
+2020-06-01,4,Panevėžys,Molainiai
+2020-07-01,4,Panevėžys,Molainiai
+2020-11-01,4,Panevėžys,Molainiai
+2020-12-01,3,Panevėžys,Molainiai
+2021-03-01,4,Panevėžys,Molainiai
+2022-10-01,5,Panevėžys,Molainiai
+2017-12-01,7,Panevėžys,Pilėnai
+2018-01-01,7,Panevėžys,Pilėnai
+2018-02-01,5,Panevėžys,Pilėnai
+2018-05-01,4,Panevėžys,Pilėnai
+2018-06-01,4,Panevėžys,Pilėnai
+2018-07-01,4,Panevėžys,Pilėnai
+2018-08-01,4,Panevėžys,Pilėnai
+2018-10-01,4,Panevėžys,Pilėnai
+2018-11-01,3,Panevėžys,Pilėnai
+2018-12-01,3,Panevėžys,Pilėnai
+2019-01-01,4,Panevėžys,Pilėnai
+2019-06-01,4,Panevėžys,Pilėnai
+2019-07-01,4,Panevėžys,Pilėnai
+2019-08-01,4,Panevėžys,Pilėnai
+2019-10-01,6,Panevėžys,Pilėnai
+2019-11-01,6,Panevėžys,Pilėnai
+2019-12-01,5,Panevėžys,Pilėnai
+2020-01-01,4,Panevėžys,Pilėnai
+2020-02-01,4,Panevėžys,Pilėnai
+2020-03-01,4,Panevėžys,Pilėnai
+2020-05-01,3,Panevėžys,Pilėnai
+2020-06-01,5,Panevėžys,Pilėnai
+2020-07-01,5,Panevėžys,Pilėnai
+2020-08-01,5,Panevėžys,Pilėnai
+2020-09-01,5,Panevėžys,Pilėnai
+2020-10-01,4,Panevėžys,Pilėnai
+2020-11-01,3,Panevėžys,Pilėnai
+2020-12-01,4,Panevėžys,Pilėnai
+2021-01-01,5,Panevėžys,Pilėnai
+2021-02-01,5,Panevėžys,Pilėnai
+2021-03-01,4,Panevėžys,Pilėnai
+2021-11-01,4,Panevėžys,Pilėnai
+2021-12-01,4,Panevėžys,Pilėnai
+2020-01-01,3,Panevėžys,Rožės
+2020-12-01,6,Panevėžys,Rožės
+2018-03-01,7,Panevėžys,Skaistakalnis
+2018-08-01,5,Panevėžys,Skaistakalnis
+2018-09-01,5,Panevėžys,Skaistakalnis
+2018-10-01,7,Panevėžys,Skaistakalnis
+2018-11-01,7,Panevėžys,Skaistakalnis
+2018-12-01,5,Panevėžys,Skaistakalnis
+2019-05-01,5,Panevėžys,Skaistakalnis
+2019-06-01,6,Panevėžys,Skaistakalnis
+2019-07-01,6,Panevėžys,Skaistakalnis
+2019-11-01,4,Panevėžys,Skaistakalnis
+2020-04-01,5,Panevėžys,Skaistakalnis
+2020-05-01,6,Panevėžys,Skaistakalnis
+2020-06-01,4,Panevėžys,Skaistakalnis
+2020-07-01,6,Panevėžys,Skaistakalnis
+2020-08-01,6,Panevėžys,Skaistakalnis
+2020-09-01,7,Panevėžys,Skaistakalnis
+2020-10-01,5,Panevėžys,Skaistakalnis
+2020-11-01,4,Panevėžys,Skaistakalnis
+2020-12-01,3,Panevėžys,Skaistakalnis
+2021-01-01,3,Panevėžys,Skaistakalnis
+2021-02-01,4,Panevėžys,Skaistakalnis
+2021-03-01,5,Panevėžys,Skaistakalnis
+2018-03-01,4,Panevėžys,Tulpės
+2018-09-01,3,Panevėžys,Tulpės
+2018-10-01,3,Panevėžys,Tulpės
+2018-11-01,4,Panevėžys,Tulpės
+2018-12-01,5,Panevėžys,Tulpės
+2019-01-01,3,Panevėžys,Tulpės
+2019-07-01,4,Panevėžys,Tulpės
+2019-09-01,4,Panevėžys,Tulpės
+2019-12-01,4,Panevėžys,Tulpės
+2020-01-01,4,Panevėžys,Tulpės
+2020-02-01,6,Panevėžys,Tulpės
+2020-03-01,5,Panevėžys,Tulpės
+2020-04-01,5,Panevėžys,Tulpės
+2020-05-01,7,Panevėžys,Tulpės
+2020-06-01,5,Panevėžys,Tulpės
+2020-07-01,6,Panevėžys,Tulpės
+2020-08-01,5,Panevėžys,Tulpės
+2020-12-01,7,Panevėžys,Tulpės
+2021-02-01,2,Panevėžys,Tulpės
+2018-01-01,2,Panevėžys,Žemaičiai
+2018-05-01,4,Panevėžys,Žemaičiai
+2018-06-01,3,Panevėžys,Žemaičiai
+2018-08-01,3,Panevėžys,Žemaičiai
+2018-09-01,5,Panevėžys,Žemaičiai
+2019-01-01,3,Panevėžys,Žemaičiai
+2019-02-01,4,Panevėžys,Žemaičiai
+2019-03-01,3,Panevėžys,Žemaičiai
+2019-05-01,5,Panevėžys,Žemaičiai
+2019-06-01,4,Panevėžys,Žemaičiai
+2019-08-01,4,Panevėžys,Žemaičiai
+2019-09-01,3,Panevėžys,Žemaičiai
+2019-10-01,4,Panevėžys,Žemaičiai
+2019-11-01,4,Panevėžys,Žemaičiai
+2019-12-01,4,Panevėžys,Žemaičiai
+2020-01-01,4,Panevėžys,Žemaičiai
+2020-03-01,4,Panevėžys,Žemaičiai
+2020-04-01,4,Panevėžys,Žemaičiai
+2020-05-01,4,Panevėžys,Žemaičiai
+2020-06-01,3,Panevėžys,Žemaičiai
+2020-07-01,6,Panevėžys,Žemaičiai
+2020-08-01,5,Panevėžys,Žemaičiai
+2020-09-01,4,Panevėžys,Žemaičiai
+2020-10-01,4,Panevėžys,Žemaičiai
+2020-11-01,3,Panevėžys,Žemaičiai
+2020-12-01,4,Panevėžys,Žemaičiai
+2021-03-01,3,Panevėžys,Žemaičiai
+2021-11-01,5,Panevėžys,Žemaičiai
+2022-02-01,4,Panevėžys,Žemaičiai
+2018-06-01,5,Alytus,Dainava
+2018-10-01,6,Alytus,Dainava
+2019-09-01,10,Alytus,Dainava
+2019-10-01,10,Alytus,Dainava
+2019-11-01,6,Alytus,Dainava
+2019-12-01,8,Alytus,Dainava
+2020-01-01,6,Alytus,Dainava
+2020-02-01,5,Alytus,Dainava
+2020-06-01,4,Alytus,Dainava
+2020-07-01,4,Alytus,Dainava
+2020-08-01,7,Alytus,Dainava
+2020-09-01,5,Alytus,Dainava
+2021-01-01,9,Alytus,Dainava
+2021-02-01,6,Alytus,Dainava
+2021-03-01,7,Alytus,Dainava
+2018-03-01,4,Alytus,Pirmas Alytus
+2018-04-01,3,Alytus,Pirmas Alytus
+2018-05-01,3,Alytus,Pirmas Alytus
+2018-06-01,4,Alytus,Pirmas Alytus
+2018-11-01,4,Alytus,Pirmas Alytus
+2018-12-01,4,Alytus,Pirmas Alytus
+2019-01-01,3,Alytus,Pirmas Alytus
+2019-03-01,4,Alytus,Pirmas Alytus
+2019-11-01,4,Alytus,Pirmas Alytus
+2020-06-01,5,Alytus,Pirmas Alytus
+2020-07-01,5,Alytus,Pirmas Alytus
+2020-08-01,4,Alytus,Pirmas Alytus
+2020-09-01,4,Alytus,Pirmas Alytus
+2021-02-01,4,Alytus,Pirmas Alytus
+2021-03-01,4,Alytus,Pirmas Alytus
+2018-01-01,3,Alytus,Putinai
+2018-03-01,3,Alytus,Putinai
+2018-07-01,4,Alytus,Putinai
+2018-08-01,4,Alytus,Putinai
+2018-09-01,3,Alytus,Putinai
+2018-10-01,2,Alytus,Putinai
+2018-11-01,2,Alytus,Putinai
+2019-04-01,5,Alytus,Putinai
+2019-05-01,4,Alytus,Putinai
+2019-08-01,4,Alytus,Putinai
+2019-09-01,6,Alytus,Putinai
+2019-10-01,6,Alytus,Putinai
+2020-02-01,5,Alytus,Putinai
+2020-03-01,4,Alytus,Putinai
+2020-04-01,6,Alytus,Putinai
+2020-05-01,6,Alytus,Putinai
+2020-06-01,6,Alytus,Putinai
+2020-07-01,6,Alytus,Putinai
+2020-10-01,5,Alytus,Putinai
+2020-11-01,3,Alytus,Putinai
+2020-12-01,5,Alytus,Putinai
+2021-01-01,5,Alytus,Putinai
+2021-03-01,7,Alytus,Putinai
+2022-10-01,5,Alytus,Putinai
+2018-01-01,6,Alytus,Senamiestis
+2018-02-01,5,Alytus,Senamiestis
+2018-03-01,4,Alytus,Senamiestis
+2018-04-01,5,Alytus,Senamiestis
+2018-05-01,3,Alytus,Senamiestis
+2018-06-01,3,Alytus,Senamiestis
+2018-07-01,4,Alytus,Senamiestis
+2018-08-01,3,Alytus,Senamiestis
+2018-09-01,3,Alytus,Senamiestis
+2018-10-01,4,Alytus,Senamiestis
+2018-11-01,4,Alytus,Senamiestis
+2018-12-01,4,Alytus,Senamiestis
+2019-06-01,4,Alytus,Senamiestis
+2019-07-01,3,Alytus,Senamiestis
+2019-08-01,5,Alytus,Senamiestis
+2019-09-01,4,Alytus,Senamiestis
+2019-10-01,4,Alytus,Senamiestis
+2019-11-01,6,Alytus,Senamiestis
+2019-12-01,5,Alytus,Senamiestis
+2020-01-01,4,Alytus,Senamiestis
+2020-02-01,4,Alytus,Senamiestis
+2020-03-01,4,Alytus,Senamiestis
+2020-04-01,4,Alytus,Senamiestis
+2020-05-01,4,Alytus,Senamiestis
+2020-06-01,4,Alytus,Senamiestis
+2020-08-01,6,Alytus,Senamiestis
+2020-09-01,5,Alytus,Senamiestis
+2020-10-01,5,Alytus,Senamiestis
+2020-11-01,6,Alytus,Senamiestis
+2020-12-01,6,Alytus,Senamiestis
+2018-02-01,4,Alytus,Vidzgiris
+2018-03-01,3,Alytus,Vidzgiris
+2018-05-01,4,Alytus,Vidzgiris
+2018-06-01,6,Alytus,Vidzgiris
+2018-07-01,6,Alytus,Vidzgiris
+2018-11-01,5,Alytus,Vidzgiris
+2018-12-01,4,Alytus,Vidzgiris
+2019-01-01,3,Alytus,Vidzgiris
+2019-02-01,6,Alytus,Vidzgiris
+2019-03-01,5,Alytus,Vidzgiris
+2019-04-01,5,Alytus,Vidzgiris
+2019-06-01,2,Alytus,Vidzgiris
+2019-07-01,4,Alytus,Vidzgiris
+2019-08-01,4,Alytus,Vidzgiris
+2019-10-01,4,Alytus,Vidzgiris
+2019-11-01,4,Alytus,Vidzgiris
+2019-12-01,6,Alytus,Vidzgiris
+2020-01-01,6,Alytus,Vidzgiris
+2020-02-01,5,Alytus,Vidzgiris
+2020-03-01,5,Alytus,Vidzgiris
+2020-04-01,5,Alytus,Vidzgiris
+2020-05-01,6,Alytus,Vidzgiris
+2020-06-01,5,Alytus,Vidzgiris
+2020-07-01,4,Alytus,Vidzgiris
+2020-08-01,4,Alytus,Vidzgiris
+2020-09-01,4,Alytus,Vidzgiris
+2020-10-01,3,Alytus,Vidzgiris
+2020-11-01,5,Alytus,Vidzgiris
+2020-12-01,5,Alytus,Vidzgiris
+2021-01-01,5,Alytus,Vidzgiris
+2021-02-01,5,Alytus,Vidzgiris
+2021-10-01,4,Alytus,Vidzgiris
+2021-12-01,5,Alytus,Vidzgiris
+2022-09-01,6,Alytus,Vidzgiris
+2022-10-01,7,Alytus,Vidzgiris
 2020-10-01,6,Palanga,Palanga
 2020-11-01,6,Palanga,Palanga
 2020-12-01,5,Palanga,Palanga

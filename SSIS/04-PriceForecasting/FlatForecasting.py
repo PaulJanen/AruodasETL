@@ -17,6 +17,9 @@ from keras.layers import Dense
 import datetime as dt
 from datetime import datetime
 import os
+import sys
+
+
 
 def CreateOutput(fileName, model):
     pricePrediction = data
@@ -29,20 +32,29 @@ def CreateOutput(fileName, model):
     pricePrediction["PredictedPrice"] = predictedPrice
     pricePrediction = pricePrediction.sort_values(by=['Losses'])
     pricePrediction["Year Built"] = pricePrediction["Built year"].apply(lambda x: datetime.fromordinal(x).strftime('%Y-%m-%d'))
-    pricePrediction.drop("Built year", axis = 1).head()
+    pricePrediction = pricePrediction.drop("Built year", axis = 1)
+    pricePrediction["ScrapingDate"] = sys.argv[1]
     pricePrediction.to_csv('./Output/'+ fileName, index=False, encoding='utf-8-sig')
+
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path)
 
-data = pd.read_csv('../03-ScarpingEligibleFlats/Output/AllEligibleListings.csv')
+filepaths = ["Input/"+f for f in os.listdir("Input") if f.endswith('.csv')]
+data = pd.concat(map(pd.read_csv, filepaths))
 data["Built year"] = pd.to_datetime(data["Built year"]).map(dt.datetime.toordinal)
 
-train=data.sample(frac=0.8,random_state=200) #random state is a seed value
+train=data.sample(frac=1,random_state=200) #random state is a seed value
 test=data.drop(train.index)
 quantitative = [f for f in train.columns if train.dtypes[f] != 'object']
 quantitative.remove('Price')
 quantitative.remove('PricePerM2')
+quantitative.remove('NearestKindergarten')
+quantitative.remove('NearestEducational')
+quantitative.remove('NearestShop')
+quantitative.remove('NearestStop')
+quantitative.remove('CrimeRate')
+
 qualitative = [f for f in train.columns if train.dtypes[f] == 'object']
 qualitative.remove('href')
 
@@ -58,8 +70,6 @@ model = LinearRegression().fit(x, y)
 r_sq = model.score(x, y)
 
 CreateOutput('FlatForecastLinearRegression.csv', model)
-
-
 
 
 modelNN = Sequential()
@@ -83,4 +93,4 @@ modelNN.fit(
     epochs=10000
 );
 
-CreateOutput('FlatForecastNN.csv', model)
+CreateOutput('FlatForecastNN.csv', modelNN)

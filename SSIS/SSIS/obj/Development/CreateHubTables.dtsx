@@ -12,7 +12,7 @@
   DTS:ObjectName="CreateHubTables"
   DTS:PackageType="5"
   DTS:VersionBuild="41"
-  DTS:VersionGUID="{29851C75-F61A-4ACF-86B5-CCAA4479FB78}">
+  DTS:VersionGUID="{A010AE7B-625F-4018-B789-45FB0F574491}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>

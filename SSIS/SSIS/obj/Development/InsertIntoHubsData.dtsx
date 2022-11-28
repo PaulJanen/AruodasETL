@@ -12,7 +12,7 @@
   DTS:ObjectName="InsertIntoHubsData"
   DTS:PackageType="5"
   DTS:VersionBuild="18"
-  DTS:VersionGUID="{E272BBBC-8E77-46D9-B673-9C55A5E43B77}">
+  DTS:VersionGUID="{E1809632-4D8E-43F0-ACA9-664AA4ADD9EF}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>

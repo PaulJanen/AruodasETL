@@ -2,68 +2,78 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>RealEstatePriceTimeSeries</Name>
-    <LastWriteTime>2022-11-14T08:21:33.9477718Z</LastWriteTime>
+    <LastWriteTime>2022-11-28T11:51:30.5051131Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>01_SaveFlatTimeseriesData.dtsx</Name>
-      <LastWriteTime>2022-11-02T09:33:16.925276Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:06.2489487Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateHubTables.dtsx</Name>
-      <LastWriteTime>2022-11-10T08:17:25.6024934Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.4429455Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>02_FindMostProfitableDistricts.dtsx</Name>
-      <LastWriteTime>2022-11-03T06:32:38.3572666Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.2799339Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertIntoHubsData.dtsx</Name>
-      <LastWriteTime>2022-11-11T12:25:26.7232528Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.649946Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateSatelliteTables.dtsx</Name>
-      <LastWriteTime>2022-11-11T06:25:33.8602037Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.5029466Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateLinkTables.dtsx</Name>
-      <LastWriteTime>2022-11-10T08:22:19.5028989Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.473946Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>03_ScrappeAllEligibleFlats.dtsx</Name>
-      <LastWriteTime>2022-11-14T08:21:33.8498541Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.3003003Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertIntoLinksData.dtsx</Name>
-      <LastWriteTime>2022-11-09T08:03:17.48969Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.678472Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertIntoSatData.dtsx</Name>
-      <LastWriteTime>2022-11-09T08:03:15.5106541Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.7255962Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CreateAllTables.dtsx</Name>
-      <LastWriteTime>2022-11-10T05:17:51.6890316Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.3859458Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>InsertAllData.dtsx</Name>
-      <LastWriteTime>2022-11-09T08:10:52.3368362Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T07:56:08.591946Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>04_FlatForecasting.dtsx</Name>
-      <LastWriteTime>2022-11-14T08:21:32.589893Z</LastWriteTime>
+      <LastWriteTime>2022-11-28T11:51:59.3134718Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>05_ImportingDataToStage.dtsx</Name>
+      <LastWriteTime>2022-11-28T07:56:08.3719448Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CreateViewsTables.dtsx</Name>
+      <LastWriteTime>2022-11-28T07:56:08.5789459Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

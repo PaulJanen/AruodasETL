@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/9/2022 9:27:05 AM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="InsertIntoSatData"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{A023F41C-F12B-480A-B63F-2CE2E166F316}">
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{FF271526-4F05-492E-BB55-826401B2F867}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -143,9 +143,17 @@
           Id="Package\Sat_Flat"
           TopLeft="839,430" />
         <NodeLayout
+          Size="187,42"
+          Id="Package\Sat_FlatHeatingValidity"
+          TopLeft="801,619" />
+        <NodeLayout
           Size="175,42"
           Id="Package\UpdateLoadEndDate"
           TopLeft="809,523" />
+        <NodeLayout
+          Size="147,42"
+          Id="Package\UpdateValidity"
+          TopLeft="826,714" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="897,472">
@@ -168,10 +176,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="187,42"
-          Id="Package\Sat_FlatHeatingValidity"
-          TopLeft="801,619" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
           TopLeft="895.5,565">
@@ -194,10 +198,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="147,42"
-          Id="Package\UpdateValidity"
-          TopLeft="826,714" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="897,661">

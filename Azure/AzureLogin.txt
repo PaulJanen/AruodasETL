@@ -1,0 +1,40 @@
+docker build . -t aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City
+
+az login
+
+docker push aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City
+
+aruodastest
+9aISe9JvhUNTCEfd+1AX7eSLH+B8ek3/
+
+az container create `
+--resource-group "AruodasEtl" `
+--name "srappecityvilnius" `
+--image "aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City" `
+--cpu 1 `
+--memory 3 `
+--ip-address "Private" `
+--os-type "Linux" `
+--restart-policy "Never" `
+--environment-variables public1="public_value1" public2="public_value2" City="Vilnius"`
+--secure-environment-variables private1="private_value1" private2="private_valulue2" `
+--assign-identity
+
+--location "swedencentral" `
+
+az container create `
+--resource-group "AruodasEtl" `
+--name "SrappeCityPalanga" `
+--image "aruodastest.azurecr.io/pauliusjanenas/aruodasetl:City" `
+--cpu 1 `
+--memory 1.5 `
+--ip-address "Private" `
+--os-type "Linux" `
+--restart-policy "Never" `
+--environment-variables public1="public_value1" public2="public_value2" City="Palanga"`
+--secure-environment-variables private1="private_value1" private2="private_valulue2" `
+--azure-file-volume-share-name "testfileshare" `
+--azure-file-volume-account-name "acounta" `
+--azure-file-volume-mount-path "/app/mnt" `
+--azure-file-volume-account-key "o3T4o82GMmNOMJBba3CblaIO6LKB8SPNCwKazM2YADYy+GtCAocnJ2dX/q2HNyRVA8ofFVWyPgJK+AStaED3Mg==" `
+--assign-identity

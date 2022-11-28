@@ -1,4 +1,5761 @@
 Date,Price,Region,District
+2017-01,8.12,Vilnius,Antakalnis
+2017-02,8.05,Vilnius,Antakalnis
+2017-03,7.9,Vilnius,Antakalnis
+2017-04,7.87,Vilnius,Antakalnis
+2017-05,8.29,Vilnius,Antakalnis
+2017-06,8.68,Vilnius,Antakalnis
+2017-07,8.53,Vilnius,Antakalnis
+2017-08,8.28,Vilnius,Antakalnis
+2017-09,7.94,Vilnius,Antakalnis
+2017-10,7.72,Vilnius,Antakalnis
+2017-11,7.67,Vilnius,Antakalnis
+2017-12,7.67,Vilnius,Antakalnis
+2018-01,7.86,Vilnius,Antakalnis
+2018-02,8.22,Vilnius,Antakalnis
+2018-03,8.53,Vilnius,Antakalnis
+2018-04,8.18,Vilnius,Antakalnis
+2018-05,8.36,Vilnius,Antakalnis
+2018-06,8.3,Vilnius,Antakalnis
+2018-07,8.54,Vilnius,Antakalnis
+2018-08,8.44,Vilnius,Antakalnis
+2018-09,8.38,Vilnius,Antakalnis
+2018-10,8.14,Vilnius,Antakalnis
+2018-11,7.92,Vilnius,Antakalnis
+2018-12,8.02,Vilnius,Antakalnis
+2019-01,8.31,Vilnius,Antakalnis
+2019-02,8.62,Vilnius,Antakalnis
+2019-03,7.98,Vilnius,Antakalnis
+2019-04,8.08,Vilnius,Antakalnis
+2019-05,8.41,Vilnius,Antakalnis
+2019-06,8.35,Vilnius,Antakalnis
+2019-07,8.76,Vilnius,Antakalnis
+2019-08,9.04,Vilnius,Antakalnis
+2019-09,8.94,Vilnius,Antakalnis
+2019-10,8.86,Vilnius,Antakalnis
+2019-11,8.67,Vilnius,Antakalnis
+2019-12,8.94,Vilnius,Antakalnis
+2020-01,9.24,Vilnius,Antakalnis
+2020-02,9.45,Vilnius,Antakalnis
+2020-03,9.56,Vilnius,Antakalnis
+2020-04,9.27,Vilnius,Antakalnis
+2020-05,8.8,Vilnius,Antakalnis
+2020-06,8.83,Vilnius,Antakalnis
+2020-07,9.28,Vilnius,Antakalnis
+2020-08,9.38,Vilnius,Antakalnis
+2020-09,9.33,Vilnius,Antakalnis
+2020-10,9.6,Vilnius,Antakalnis
+2020-11,9.2,Vilnius,Antakalnis
+2020-12,9.13,Vilnius,Antakalnis
+2021-01,9.83,Vilnius,Antakalnis
+2021-02,9.81,Vilnius,Antakalnis
+2021-03,9.78,Vilnius,Antakalnis
+2021-04,9.83,Vilnius,Antakalnis
+2021-05,10.13,Vilnius,Antakalnis
+2021-06,10.51,Vilnius,Antakalnis
+2021-07,10.22,Vilnius,Antakalnis
+2021-08,10.6,Vilnius,Antakalnis
+2021-09,10.48,Vilnius,Antakalnis
+2021-10,10.54,Vilnius,Antakalnis
+2021-11,10.24,Vilnius,Antakalnis
+2021-12,10.98,Vilnius,Antakalnis
+2022-01,10.87,Vilnius,Antakalnis
+2022-02,10.75,Vilnius,Antakalnis
+2022-03,11.56,Vilnius,Antakalnis
+2022-04,12.01,Vilnius,Antakalnis
+2022-05,12.99,Vilnius,Antakalnis
+2022-06,14.1,Vilnius,Antakalnis
+2022-07,14.47,Vilnius,Antakalnis
+2022-08,14.2,Vilnius,Antakalnis
+2022-09,12.98,Vilnius,Antakalnis
+2022-10,12.19,Vilnius,Antakalnis
+2019-11,4.62,Vilnius,Antavilis
+2019-12,4.54,Vilnius,Antavilis
+2020-04,8.65,Vilnius,Antavilis
+2020-05,8.33,Vilnius,Antavilis
+2021-02,9.67,Vilnius,Antavilis
+2021-03,9.63,Vilnius,Antavilis
+2017-12,7,Vilnius,Aukštieji Paneriai
+2018-01,6.85,Vilnius,Aukštieji Paneriai
+2018-07,5.8,Vilnius,Aukštieji Paneriai
+2018-08,4.86,Vilnius,Aukštieji Paneriai
+2018-09,7.25,Vilnius,Aukštieji Paneriai
+2018-10,7.52,Vilnius,Aukštieji Paneriai
+2018-11,4.05,Vilnius,Aukštieji Paneriai
+2018-12,5.5,Vilnius,Aukštieji Paneriai
+2019-02,3.72,Vilnius,Aukštieji Paneriai
+2019-05,8.58,Vilnius,Aukštieji Paneriai
+2019-06,6.96,Vilnius,Aukštieji Paneriai
+2019-07,8.83,Vilnius,Aukštieji Paneriai
+2019-08,8.89,Vilnius,Aukštieji Paneriai
+2019-10,9.17,Vilnius,Aukštieji Paneriai
+2019-11,9.8,Vilnius,Aukštieji Paneriai
+2019-12,8.04,Vilnius,Aukštieji Paneriai
+2020-01,7.85,Vilnius,Aukštieji Paneriai
+2020-02,6.73,Vilnius,Aukštieji Paneriai
+2020-03,5.74,Vilnius,Aukštieji Paneriai
+2020-04,5.83,Vilnius,Aukštieji Paneriai
+2020-05,5.13,Vilnius,Aukštieji Paneriai
+2020-06,5.13,Vilnius,Aukštieji Paneriai
+2020-07,4.48,Vilnius,Aukštieji Paneriai
+2020-08,5.44,Vilnius,Aukštieji Paneriai
+2020-09,5.51,Vilnius,Aukštieji Paneriai
+2020-10,6.18,Vilnius,Aukštieji Paneriai
+2020-11,6.32,Vilnius,Aukštieji Paneriai
+2020-12,5.5,Vilnius,Aukštieji Paneriai
+2021-01,9.22,Vilnius,Aukštieji Paneriai
+2021-02,9.54,Vilnius,Aukštieji Paneriai
+2017-01,6.99,Vilnius,Bajorai
+2017-02,7.65,Vilnius,Bajorai
+2017-03,6.78,Vilnius,Bajorai
+2017-04,7.04,Vilnius,Bajorai
+2017-05,7.61,Vilnius,Bajorai
+2017-06,8.19,Vilnius,Bajorai
+2017-07,7.77,Vilnius,Bajorai
+2017-08,8.08,Vilnius,Bajorai
+2017-09,7.72,Vilnius,Bajorai
+2017-10,6.08,Vilnius,Bajorai
+2017-11,6.9,Vilnius,Bajorai
+2017-12,6.71,Vilnius,Bajorai
+2018-01,6.75,Vilnius,Bajorai
+2018-02,6.72,Vilnius,Bajorai
+2018-03,6.49,Vilnius,Bajorai
+2018-04,7.08,Vilnius,Bajorai
+2018-05,7.34,Vilnius,Bajorai
+2018-06,6.86,Vilnius,Bajorai
+2018-07,7.76,Vilnius,Bajorai
+2018-08,8.1,Vilnius,Bajorai
+2018-09,8.13,Vilnius,Bajorai
+2018-10,7.94,Vilnius,Bajorai
+2018-11,8.55,Vilnius,Bajorai
+2018-12,9.09,Vilnius,Bajorai
+2019-01,8.47,Vilnius,Bajorai
+2019-02,7.96,Vilnius,Bajorai
+2019-03,7.09,Vilnius,Bajorai
+2019-04,7.77,Vilnius,Bajorai
+2019-05,7.34,Vilnius,Bajorai
+2019-06,7.97,Vilnius,Bajorai
+2019-07,8.03,Vilnius,Bajorai
+2019-08,8.16,Vilnius,Bajorai
+2019-09,8.05,Vilnius,Bajorai
+2019-10,7.4,Vilnius,Bajorai
+2019-11,8.87,Vilnius,Bajorai
+2019-12,8.98,Vilnius,Bajorai
+2020-01,7.9,Vilnius,Bajorai
+2020-02,7.91,Vilnius,Bajorai
+2020-03,8.17,Vilnius,Bajorai
+2020-04,7.65,Vilnius,Bajorai
+2020-05,8.19,Vilnius,Bajorai
+2020-06,8.26,Vilnius,Bajorai
+2020-07,7.76,Vilnius,Bajorai
+2020-08,8.05,Vilnius,Bajorai
+2020-09,8.77,Vilnius,Bajorai
+2020-10,8.69,Vilnius,Bajorai
+2020-11,8.42,Vilnius,Bajorai
+2020-12,9.15,Vilnius,Bajorai
+2021-01,9.33,Vilnius,Bajorai
+2021-02,10.41,Vilnius,Bajorai
+2021-03,9.62,Vilnius,Bajorai
+2021-04,8.76,Vilnius,Bajorai
+2021-05,8.64,Vilnius,Bajorai
+2021-06,8.51,Vilnius,Bajorai
+2021-08,9.35,Vilnius,Bajorai
+2021-12,10.22,Vilnius,Bajorai
+2022-01,10.15,Vilnius,Bajorai
+2022-02,9.96,Vilnius,Bajorai
+2022-03,12.14,Vilnius,Bajorai
+2022-04,12.14,Vilnius,Bajorai
+2022-06,14.06,Vilnius,Bajorai
+2022-07,13.37,Vilnius,Bajorai
+2022-08,13.61,Vilnius,Bajorai
+2022-09,11.85,Vilnius,Bajorai
+2022-10,5.62,Vilnius,Bajorai
+2018-02,6.99,Vilnius,Balsiai
+2018-03,6.29,Vilnius,Balsiai
+2018-04,4.89,Vilnius,Balsiai
+2018-05,4.25,Vilnius,Balsiai
+2018-06,4.61,Vilnius,Balsiai
+2018-07,6.55,Vilnius,Balsiai
+2018-08,6.29,Vilnius,Balsiai
+2018-11,5.6,Vilnius,Balsiai
+2018-12,7.23,Vilnius,Balsiai
+2019-03,6.8,Vilnius,Balsiai
+2019-04,7.18,Vilnius,Balsiai
+2019-05,6.6,Vilnius,Balsiai
+2019-06,7.13,Vilnius,Balsiai
+2019-07,7.81,Vilnius,Balsiai
+2019-08,5.9,Vilnius,Balsiai
+2019-09,6.44,Vilnius,Balsiai
+2019-10,9,Vilnius,Balsiai
+2019-11,7.37,Vilnius,Balsiai
+2019-12,6.93,Vilnius,Balsiai
+2020-01,7.68,Vilnius,Balsiai
+2020-02,7.37,Vilnius,Balsiai
+2020-03,6.43,Vilnius,Balsiai
+2020-05,6.95,Vilnius,Balsiai
+2020-06,9.51,Vilnius,Balsiai
+2020-07,7.87,Vilnius,Balsiai
+2020-08,7.82,Vilnius,Balsiai
+2020-09,8.25,Vilnius,Balsiai
+2020-10,7.08,Vilnius,Balsiai
+2020-11,7.41,Vilnius,Balsiai
+2021-02,5.66,Vilnius,Balsiai
+2021-03,3.32,Vilnius,Balsiai
+2022-08,10.04,Vilnius,Balsiai
+2017-01,7.27,Vilnius,Baltupiai
+2017-02,7.39,Vilnius,Baltupiai
+2017-03,7.03,Vilnius,Baltupiai
+2017-04,7.15,Vilnius,Baltupiai
+2017-05,7.49,Vilnius,Baltupiai
+2017-06,6.88,Vilnius,Baltupiai
+2017-07,7.15,Vilnius,Baltupiai
+2017-08,7.15,Vilnius,Baltupiai
+2017-09,7.14,Vilnius,Baltupiai
+2017-10,7.17,Vilnius,Baltupiai
+2017-11,7.11,Vilnius,Baltupiai
+2017-12,7.02,Vilnius,Baltupiai
+2018-01,7.45,Vilnius,Baltupiai
+2018-02,7.58,Vilnius,Baltupiai
+2018-03,8.23,Vilnius,Baltupiai
+2018-04,7.55,Vilnius,Baltupiai
+2018-05,8.09,Vilnius,Baltupiai
+2018-06,7.99,Vilnius,Baltupiai
+2018-07,7.77,Vilnius,Baltupiai
+2018-08,7.24,Vilnius,Baltupiai
+2018-09,6.91,Vilnius,Baltupiai
+2018-10,8.49,Vilnius,Baltupiai
+2018-11,8.17,Vilnius,Baltupiai
+2018-12,7.69,Vilnius,Baltupiai
+2019-01,8.35,Vilnius,Baltupiai
+2019-02,8.7,Vilnius,Baltupiai
+2019-03,9.11,Vilnius,Baltupiai
+2019-04,8.87,Vilnius,Baltupiai
+2019-05,8.64,Vilnius,Baltupiai
+2019-06,8.5,Vilnius,Baltupiai
+2019-07,8.36,Vilnius,Baltupiai
+2019-08,9.13,Vilnius,Baltupiai
+2019-09,8.29,Vilnius,Baltupiai
+2019-10,8.26,Vilnius,Baltupiai
+2019-11,8.24,Vilnius,Baltupiai
+2019-12,8.17,Vilnius,Baltupiai
+2020-01,8.41,Vilnius,Baltupiai
+2020-02,8.97,Vilnius,Baltupiai
+2020-03,10.19,Vilnius,Baltupiai
+2020-04,9.06,Vilnius,Baltupiai
+2020-05,8.85,Vilnius,Baltupiai
+2020-06,9.03,Vilnius,Baltupiai
+2020-07,9.54,Vilnius,Baltupiai
+2020-08,9.59,Vilnius,Baltupiai
+2020-09,9.6,Vilnius,Baltupiai
+2020-10,9.5,Vilnius,Baltupiai
+2020-11,9.62,Vilnius,Baltupiai
+2020-12,9.6,Vilnius,Baltupiai
+2021-01,9.59,Vilnius,Baltupiai
+2021-02,9.6,Vilnius,Baltupiai
+2021-03,9.73,Vilnius,Baltupiai
+2021-04,10.12,Vilnius,Baltupiai
+2021-05,9.9,Vilnius,Baltupiai
+2021-06,11.25,Vilnius,Baltupiai
+2021-07,11.54,Vilnius,Baltupiai
+2021-08,10.97,Vilnius,Baltupiai
+2021-09,10.24,Vilnius,Baltupiai
+2021-10,9.97,Vilnius,Baltupiai
+2021-11,10.28,Vilnius,Baltupiai
+2021-12,10.48,Vilnius,Baltupiai
+2022-01,10.68,Vilnius,Baltupiai
+2022-02,10.53,Vilnius,Baltupiai
+2022-03,11.66,Vilnius,Baltupiai
+2022-04,11.85,Vilnius,Baltupiai
+2022-05,13.94,Vilnius,Baltupiai
+2022-06,14.99,Vilnius,Baltupiai
+2022-07,14.06,Vilnius,Baltupiai
+2022-08,13.76,Vilnius,Baltupiai
+2022-09,13.32,Vilnius,Baltupiai
+2022-10,12.73,Vilnius,Baltupiai
+2018-01,4.8,Vilnius,Buivydiškės
+2018-02,5,Vilnius,Buivydiškės
+2019-03,5.16,Vilnius,Buivydiškės
+2019-04,5.63,Vilnius,Buivydiškės
+2019-12,6.6,Vilnius,Buivydiškės
+2020-06,5.36,Vilnius,Buivydiškės
+2020-07,7.59,Vilnius,Buivydiškės
+2020-10,5.55,Vilnius,Buivydiškės
+2020-11,7.63,Vilnius,Buivydiškės
+2019-09,17.14,Vilnius,Bukčiai
+2019-10,8.27,Vilnius,Bukčiai
+2019-11,6.02,Vilnius,Bukčiai
+2020-11,7.35,Vilnius,Bukčiai
+2017-12,8.23,Vilnius,Burbiškės
+2018-01,8.58,Vilnius,Burbiškės
+2018-05,8.87,Vilnius,Burbiškės
+2018-06,8.74,Vilnius,Burbiškės
+2018-08,12.4,Vilnius,Burbiškės
+2018-09,9.97,Vilnius,Burbiškės
+2018-10,8.34,Vilnius,Burbiškės
+2019-01,10.56,Vilnius,Burbiškės
+2019-03,10.4,Vilnius,Burbiškės
+2019-04,10.25,Vilnius,Burbiškės
+2019-05,9.32,Vilnius,Burbiškės
+2019-06,10.31,Vilnius,Burbiškės
+2019-07,9.88,Vilnius,Burbiškės
+2019-08,8.88,Vilnius,Burbiškės
+2019-09,7.55,Vilnius,Burbiškės
+2019-10,7.96,Vilnius,Burbiškės
+2019-11,10.27,Vilnius,Burbiškės
+2020-01,13.75,Vilnius,Burbiškės
+2020-02,10.4,Vilnius,Burbiškės
+2020-03,11.09,Vilnius,Burbiškės
+2020-04,8.66,Vilnius,Burbiškės
+2020-05,10.77,Vilnius,Burbiškės
+2020-06,10.96,Vilnius,Burbiškės
+2020-07,10.72,Vilnius,Burbiškės
+2020-08,9.72,Vilnius,Burbiškės
+2020-09,9.57,Vilnius,Burbiškės
+2020-10,11.29,Vilnius,Burbiškės
+2020-11,12.28,Vilnius,Burbiškės
+2020-12,10.87,Vilnius,Burbiškės
+2021-01,9.74,Vilnius,Burbiškės
+2021-02,9.15,Vilnius,Burbiškės
+2021-03,9.8,Vilnius,Burbiškės
+2018-02,8.13,Vilnius,Didieji Gulbinai
+2018-05,8.13,Vilnius,Didieji Gulbinai
+2020-06,8.82,Vilnius,Didieji Gulbinai
+2017-12,6.44,Vilnius,Dvarčionys
+2018-01,4.78,Vilnius,Dvarčionys
+2018-02,5.06,Vilnius,Dvarčionys
+2018-06,7.63,Vilnius,Dvarčionys
+2018-07,5.12,Vilnius,Dvarčionys
+2018-08,4.78,Vilnius,Dvarčionys
+2018-09,3.9,Vilnius,Dvarčionys
+2018-10,5.19,Vilnius,Dvarčionys
+2018-11,7.14,Vilnius,Dvarčionys
+2018-12,6.93,Vilnius,Dvarčionys
+2019-01,6.78,Vilnius,Dvarčionys
+2019-02,6.48,Vilnius,Dvarčionys
+2019-03,7.55,Vilnius,Dvarčionys
+2019-04,8.57,Vilnius,Dvarčionys
+2019-05,7.91,Vilnius,Dvarčionys
+2019-06,7.51,Vilnius,Dvarčionys
+2019-08,4.62,Vilnius,Dvarčionys
+2019-09,4.32,Vilnius,Dvarčionys
+2019-11,6.92,Vilnius,Dvarčionys
+2019-12,5.76,Vilnius,Dvarčionys
+2020-01,5.27,Vilnius,Dvarčionys
+2020-02,5.21,Vilnius,Dvarčionys
+2020-03,6.74,Vilnius,Dvarčionys
+2020-04,6.35,Vilnius,Dvarčionys
+2020-05,6.08,Vilnius,Dvarčionys
+2020-06,7.32,Vilnius,Dvarčionys
+2020-07,7.18,Vilnius,Dvarčionys
+2020-08,7.74,Vilnius,Dvarčionys
+2020-09,7.61,Vilnius,Dvarčionys
+2020-10,7.23,Vilnius,Dvarčionys
+2020-11,7.17,Vilnius,Dvarčionys
+2021-03,8.99,Vilnius,Dvarčionys
+2017-01,6.13,Vilnius,Fabijoniškės
+2017-02,6.23,Vilnius,Fabijoniškės
+2017-03,6.16,Vilnius,Fabijoniškės
+2017-04,6.41,Vilnius,Fabijoniškės
+2017-05,6.66,Vilnius,Fabijoniškės
+2017-06,6.77,Vilnius,Fabijoniškės
+2017-07,6.73,Vilnius,Fabijoniškės
+2017-08,6.47,Vilnius,Fabijoniškės
+2017-09,6.49,Vilnius,Fabijoniškės
+2017-10,6.6,Vilnius,Fabijoniškės
+2017-11,6.45,Vilnius,Fabijoniškės
+2017-12,6.09,Vilnius,Fabijoniškės
+2018-01,6.51,Vilnius,Fabijoniškės
+2018-02,6.9,Vilnius,Fabijoniškės
+2018-03,7.28,Vilnius,Fabijoniškės
+2018-04,7.3,Vilnius,Fabijoniškės
+2018-05,7.1,Vilnius,Fabijoniškės
+2018-06,6.99,Vilnius,Fabijoniškės
+2018-07,7.17,Vilnius,Fabijoniškės
+2018-08,7.08,Vilnius,Fabijoniškės
+2018-09,6.85,Vilnius,Fabijoniškės
+2018-10,6.89,Vilnius,Fabijoniškės
+2018-11,6.87,Vilnius,Fabijoniškės
+2018-12,6.8,Vilnius,Fabijoniškės
+2019-01,6.58,Vilnius,Fabijoniškės
+2019-02,6.84,Vilnius,Fabijoniškės
+2019-03,6.99,Vilnius,Fabijoniškės
+2019-04,7,Vilnius,Fabijoniškės
+2019-05,7.25,Vilnius,Fabijoniškės
+2019-06,7.56,Vilnius,Fabijoniškės
+2019-07,7.81,Vilnius,Fabijoniškės
+2019-08,7.96,Vilnius,Fabijoniškės
+2019-09,7.64,Vilnius,Fabijoniškės
+2019-10,7.59,Vilnius,Fabijoniškės
+2019-11,7.61,Vilnius,Fabijoniškės
+2019-12,7.04,Vilnius,Fabijoniškės
+2020-01,8.16,Vilnius,Fabijoniškės
+2020-02,7.77,Vilnius,Fabijoniškės
+2020-03,7.98,Vilnius,Fabijoniškės
+2020-04,7.62,Vilnius,Fabijoniškės
+2020-05,7.32,Vilnius,Fabijoniškės
+2020-06,7.79,Vilnius,Fabijoniškės
+2020-07,7.91,Vilnius,Fabijoniškės
+2020-08,7.83,Vilnius,Fabijoniškės
+2020-09,7.54,Vilnius,Fabijoniškės
+2020-10,7.77,Vilnius,Fabijoniškės
+2020-11,7.77,Vilnius,Fabijoniškės
+2020-12,7.54,Vilnius,Fabijoniškės
+2021-01,7.6,Vilnius,Fabijoniškės
+2021-02,8.02,Vilnius,Fabijoniškės
+2021-03,8.04,Vilnius,Fabijoniškės
+2021-04,8.27,Vilnius,Fabijoniškės
+2021-05,8.26,Vilnius,Fabijoniškės
+2021-06,8.39,Vilnius,Fabijoniškės
+2021-07,8.34,Vilnius,Fabijoniškės
+2021-08,8.75,Vilnius,Fabijoniškės
+2021-09,8.61,Vilnius,Fabijoniškės
+2021-10,9.23,Vilnius,Fabijoniškės
+2021-11,8.91,Vilnius,Fabijoniškės
+2021-12,8.87,Vilnius,Fabijoniškės
+2022-01,9.03,Vilnius,Fabijoniškės
+2022-02,8.92,Vilnius,Fabijoniškės
+2022-03,8.71,Vilnius,Fabijoniškės
+2022-04,9.37,Vilnius,Fabijoniškės
+2022-05,10.25,Vilnius,Fabijoniškės
+2022-06,11.41,Vilnius,Fabijoniškės
+2022-07,12.05,Vilnius,Fabijoniškės
+2022-08,11.87,Vilnius,Fabijoniškės
+2022-09,10.78,Vilnius,Fabijoniškės
+2022-10,10.06,Vilnius,Fabijoniškės
+2017-02,6.73,Vilnius,Filaretai
+2017-12,5.77,Vilnius,Filaretai
+2018-01,7.23,Vilnius,Filaretai
+2018-02,8.75,Vilnius,Filaretai
+2018-03,7.59,Vilnius,Filaretai
+2018-04,7.01,Vilnius,Filaretai
+2018-05,7.85,Vilnius,Filaretai
+2018-06,7.22,Vilnius,Filaretai
+2018-07,6.98,Vilnius,Filaretai
+2018-08,8.18,Vilnius,Filaretai
+2018-09,8.38,Vilnius,Filaretai
+2018-10,5.8,Vilnius,Filaretai
+2018-11,9.37,Vilnius,Filaretai
+2018-12,7.12,Vilnius,Filaretai
+2019-01,7.19,Vilnius,Filaretai
+2019-02,6.06,Vilnius,Filaretai
+2019-03,4.86,Vilnius,Filaretai
+2019-06,7.51,Vilnius,Filaretai
+2019-08,8.13,Vilnius,Filaretai
+2019-09,8.79,Vilnius,Filaretai
+2019-10,8.33,Vilnius,Filaretai
+2019-11,9.09,Vilnius,Filaretai
+2019-12,8.79,Vilnius,Filaretai
+2020-01,8.6,Vilnius,Filaretai
+2020-02,8.54,Vilnius,Filaretai
+2020-04,8.9,Vilnius,Filaretai
+2020-05,9.22,Vilnius,Filaretai
+2020-06,9.28,Vilnius,Filaretai
+2020-07,10.57,Vilnius,Filaretai
+2020-08,8.92,Vilnius,Filaretai
+2020-09,8.31,Vilnius,Filaretai
+2020-10,9.96,Vilnius,Filaretai
+2020-11,12.05,Vilnius,Filaretai
+2020-12,12.35,Vilnius,Filaretai
+2021-01,11.53,Vilnius,Filaretai
+2021-02,9.95,Vilnius,Filaretai
+2021-03,9.03,Vilnius,Filaretai
+2022-06,12.93,Vilnius,Filaretai
+2018-02,7.17,Vilnius,Galgiai
+2019-04,6,Vilnius,Galgiai
+2020-06,10.86,Vilnius,Galgiai
+2020-07,11.3,Vilnius,Galgiai
+2020-10,11.18,Vilnius,Galgiai
+2019-11,6.78,Vilnius,Gariūnai
+2019-12,6.68,Vilnius,Gariūnai
+2020-01,8.73,Vilnius,Gariūnai
+2018-04,3.64,Vilnius,Gineitiškės
+2018-05,3.64,Vilnius,Gineitiškės
+2018-07,4,Vilnius,Gineitiškės
+2018-09,4,Vilnius,Gineitiškės
+2018-10,4,Vilnius,Gineitiškės
+2018-11,4.06,Vilnius,Gineitiškės
+2018-12,4,Vilnius,Gineitiškės
+2019-05,8.19,Vilnius,Gineitiškės
+2019-06,7.1,Vilnius,Gineitiškės
+2019-07,5.57,Vilnius,Gineitiškės
+2019-08,5.15,Vilnius,Gineitiškės
+2020-04,12.57,Vilnius,Gineitiškės
+2020-08,10.06,Vilnius,Gineitiškės
+2020-09,8.91,Vilnius,Gineitiškės
+2020-10,9.11,Vilnius,Gineitiškės
+2020-11,8.47,Vilnius,Gineitiškės
+2020-12,8.28,Vilnius,Gineitiškės
+2017-01,4.56,Vilnius,Grigiškės
+2017-02,4.85,Vilnius,Grigiškės
+2017-03,4.92,Vilnius,Grigiškės
+2017-09,5.28,Vilnius,Grigiškės
+2017-10,5.69,Vilnius,Grigiškės
+2017-11,5.79,Vilnius,Grigiškės
+2017-12,6.24,Vilnius,Grigiškės
+2018-01,6.06,Vilnius,Grigiškės
+2018-02,5.32,Vilnius,Grigiškės
+2018-03,5.27,Vilnius,Grigiškės
+2018-04,4.35,Vilnius,Grigiškės
+2018-06,5.34,Vilnius,Grigiškės
+2018-07,7.4,Vilnius,Grigiškės
+2018-08,6.47,Vilnius,Grigiškės
+2018-09,6.12,Vilnius,Grigiškės
+2018-10,7.57,Vilnius,Grigiškės
+2018-11,7.41,Vilnius,Grigiškės
+2018-12,7.87,Vilnius,Grigiškės
+2019-01,6.67,Vilnius,Grigiškės
+2019-02,5.43,Vilnius,Grigiškės
+2019-03,5.78,Vilnius,Grigiškės
+2019-04,6.54,Vilnius,Grigiškės
+2019-05,6.22,Vilnius,Grigiškės
+2019-06,5.85,Vilnius,Grigiškės
+2019-07,5.89,Vilnius,Grigiškės
+2019-08,6.12,Vilnius,Grigiškės
+2019-09,7.08,Vilnius,Grigiškės
+2019-10,7.48,Vilnius,Grigiškės
+2019-11,7.46,Vilnius,Grigiškės
+2019-12,7.95,Vilnius,Grigiškės
+2020-01,8.13,Vilnius,Grigiškės
+2020-02,8.06,Vilnius,Grigiškės
+2020-03,7.6,Vilnius,Grigiškės
+2020-04,7.91,Vilnius,Grigiškės
+2020-05,6.62,Vilnius,Grigiškės
+2020-06,6.15,Vilnius,Grigiškės
+2020-07,5.72,Vilnius,Grigiškės
+2020-08,6.43,Vilnius,Grigiškės
+2020-09,7.22,Vilnius,Grigiškės
+2020-10,7.15,Vilnius,Grigiškės
+2020-11,6.31,Vilnius,Grigiškės
+2020-12,6.74,Vilnius,Grigiškės
+2021-01,6.74,Vilnius,Grigiškės
+2021-02,5.98,Vilnius,Grigiškės
+2021-03,6.87,Vilnius,Grigiškės
+2021-06,6.66,Vilnius,Grigiškės
+2021-07,7.02,Vilnius,Grigiškės
+2021-08,7.07,Vilnius,Grigiškės
+2021-09,7.13,Vilnius,Grigiškės
+2021-10,7.72,Vilnius,Grigiškės
+2021-11,7.62,Vilnius,Grigiškės
+2021-12,7.86,Vilnius,Grigiškės
+2022-01,7.73,Vilnius,Grigiškės
+2022-09,11.35,Vilnius,Grigiškės
+2022-10,9.85,Vilnius,Grigiškės
+2019-12,10,Vilnius,Gudeliai
+2020-01,9.67,Vilnius,Gudeliai
+2017-01,5.98,Vilnius,Jeruzalė
+2017-02,5.82,Vilnius,Jeruzalė
+2017-03,6,Vilnius,Jeruzalė
+2017-04,6.12,Vilnius,Jeruzalė
+2017-05,6.5,Vilnius,Jeruzalė
+2017-06,6.81,Vilnius,Jeruzalė
+2017-07,6.63,Vilnius,Jeruzalė
+2017-08,6.92,Vilnius,Jeruzalė
+2017-09,7.08,Vilnius,Jeruzalė
+2017-10,6.94,Vilnius,Jeruzalė
+2017-11,6.76,Vilnius,Jeruzalė
+2017-12,6.32,Vilnius,Jeruzalė
+2018-01,6.79,Vilnius,Jeruzalė
+2018-02,6.86,Vilnius,Jeruzalė
+2018-03,7,Vilnius,Jeruzalė
+2018-04,6.61,Vilnius,Jeruzalė
+2018-05,6.76,Vilnius,Jeruzalė
+2018-06,6.95,Vilnius,Jeruzalė
+2018-07,7.1,Vilnius,Jeruzalė
+2018-08,6.39,Vilnius,Jeruzalė
+2018-09,5.9,Vilnius,Jeruzalė
+2018-10,6.99,Vilnius,Jeruzalė
+2018-11,6.81,Vilnius,Jeruzalė
+2018-12,6.4,Vilnius,Jeruzalė
+2019-01,6.27,Vilnius,Jeruzalė
+2019-02,7.08,Vilnius,Jeruzalė
+2019-03,6.78,Vilnius,Jeruzalė
+2019-04,7.41,Vilnius,Jeruzalė
+2019-05,7.5,Vilnius,Jeruzalė
+2019-06,7.12,Vilnius,Jeruzalė
+2019-07,7.65,Vilnius,Jeruzalė
+2019-08,7.35,Vilnius,Jeruzalė
+2019-09,7.83,Vilnius,Jeruzalė
+2019-10,7.71,Vilnius,Jeruzalė
+2019-11,7.72,Vilnius,Jeruzalė
+2019-12,8.26,Vilnius,Jeruzalė
+2020-01,8.33,Vilnius,Jeruzalė
+2020-02,8.08,Vilnius,Jeruzalė
+2020-03,7.01,Vilnius,Jeruzalė
+2020-04,6.53,Vilnius,Jeruzalė
+2020-05,6.23,Vilnius,Jeruzalė
+2020-06,7.06,Vilnius,Jeruzalė
+2020-07,7.71,Vilnius,Jeruzalė
+2020-08,7.52,Vilnius,Jeruzalė
+2020-09,7.33,Vilnius,Jeruzalė
+2020-10,7.89,Vilnius,Jeruzalė
+2020-11,7.98,Vilnius,Jeruzalė
+2020-12,8.13,Vilnius,Jeruzalė
+2021-01,7.71,Vilnius,Jeruzalė
+2021-02,7.94,Vilnius,Jeruzalė
+2021-03,8.89,Vilnius,Jeruzalė
+2021-04,8.2,Vilnius,Jeruzalė
+2021-05,7.8,Vilnius,Jeruzalė
+2021-06,7.62,Vilnius,Jeruzalė
+2021-07,8.36,Vilnius,Jeruzalė
+2021-08,8.79,Vilnius,Jeruzalė
+2021-09,8.36,Vilnius,Jeruzalė
+2021-10,8.48,Vilnius,Jeruzalė
+2021-11,9.02,Vilnius,Jeruzalė
+2021-12,9.37,Vilnius,Jeruzalė
+2022-01,9.48,Vilnius,Jeruzalė
+2022-02,8.92,Vilnius,Jeruzalė
+2022-03,8.45,Vilnius,Jeruzalė
+2022-04,9.78,Vilnius,Jeruzalė
+2022-05,10.24,Vilnius,Jeruzalė
+2022-06,11.08,Vilnius,Jeruzalė
+2022-07,11.97,Vilnius,Jeruzalė
+2022-08,11.76,Vilnius,Jeruzalė
+2022-09,10.82,Vilnius,Jeruzalė
+2022-10,9.94,Vilnius,Jeruzalė
+2017-01,5.25,Vilnius,Justiniškės
+2017-02,5.39,Vilnius,Justiniškės
+2017-03,5.96,Vilnius,Justiniškės
+2017-04,6.28,Vilnius,Justiniškės
+2017-05,6.03,Vilnius,Justiniškės
+2017-06,6.25,Vilnius,Justiniškės
+2017-07,6.29,Vilnius,Justiniškės
+2017-08,6.2,Vilnius,Justiniškės
+2017-09,5.75,Vilnius,Justiniškės
+2017-10,5.71,Vilnius,Justiniškės
+2017-11,5.95,Vilnius,Justiniškės
+2017-12,6.01,Vilnius,Justiniškės
+2018-01,6.24,Vilnius,Justiniškės
+2018-02,6.28,Vilnius,Justiniškės
+2018-03,6.21,Vilnius,Justiniškės
+2018-04,6.26,Vilnius,Justiniškės
+2018-05,6.6,Vilnius,Justiniškės
+2018-06,6.44,Vilnius,Justiniškės
+2018-07,6.64,Vilnius,Justiniškės
+2018-08,6.19,Vilnius,Justiniškės
+2018-09,6.19,Vilnius,Justiniškės
+2018-10,6.57,Vilnius,Justiniškės
+2018-11,6.62,Vilnius,Justiniškės
+2018-12,6.46,Vilnius,Justiniškės
+2019-01,5.98,Vilnius,Justiniškės
+2019-02,6.3,Vilnius,Justiniškės
+2019-03,6.72,Vilnius,Justiniškės
+2019-04,7.46,Vilnius,Justiniškės
+2019-05,7.59,Vilnius,Justiniškės
+2019-06,7.51,Vilnius,Justiniškės
+2019-07,7.57,Vilnius,Justiniškės
+2019-08,7.49,Vilnius,Justiniškės
+2019-09,7.45,Vilnius,Justiniškės
+2019-10,7.32,Vilnius,Justiniškės
+2019-11,7.34,Vilnius,Justiniškės
+2019-12,7.91,Vilnius,Justiniškės
+2020-01,8.15,Vilnius,Justiniškės
+2020-02,7.83,Vilnius,Justiniškės
+2020-03,8.55,Vilnius,Justiniškės
+2020-04,8.09,Vilnius,Justiniškės
+2020-05,7.08,Vilnius,Justiniškės
+2020-06,6.65,Vilnius,Justiniškės
+2020-07,7.01,Vilnius,Justiniškės
+2020-08,7.09,Vilnius,Justiniškės
+2020-09,7.4,Vilnius,Justiniškės
+2020-10,7.61,Vilnius,Justiniškės
+2020-11,7.43,Vilnius,Justiniškės
+2020-12,7.28,Vilnius,Justiniškės
+2021-01,7.29,Vilnius,Justiniškės
+2021-02,7.71,Vilnius,Justiniškės
+2021-03,7.97,Vilnius,Justiniškės
+2021-04,7.84,Vilnius,Justiniškės
+2021-05,8.17,Vilnius,Justiniškės
+2021-06,8.59,Vilnius,Justiniškės
+2021-07,8.23,Vilnius,Justiniškės
+2021-08,8.21,Vilnius,Justiniškės
+2021-09,9.21,Vilnius,Justiniškės
+2021-10,10.04,Vilnius,Justiniškės
+2021-11,9.88,Vilnius,Justiniškės
+2021-12,8.84,Vilnius,Justiniškės
+2022-01,8.38,Vilnius,Justiniškės
+2022-02,8.98,Vilnius,Justiniškės
+2022-03,9.48,Vilnius,Justiniškės
+2022-04,10.8,Vilnius,Justiniškės
+2022-05,10.55,Vilnius,Justiniškės
+2022-06,11.31,Vilnius,Justiniškės
+2022-07,11.65,Vilnius,Justiniškės
+2022-08,11.72,Vilnius,Justiniškės
+2022-09,11.34,Vilnius,Justiniškės
+2022-10,10.76,Vilnius,Justiniškės
+2018-03,6.7,Vilnius,Kairėnai
+2018-08,6,Vilnius,Kairėnai
+2019-04,5.88,Vilnius,Kairėnai
+2019-06,7.65,Vilnius,Kairėnai
+2019-09,8.15,Vilnius,Kairėnai
+2020-06,7.37,Vilnius,Kairėnai
+2020-10,3.44,Vilnius,Kairėnai
+2020-11,4.37,Vilnius,Kairėnai
+2021-01,6.26,Vilnius,Kairėnai
+2017-02,8.76,Vilnius,Kalnėnai
+2017-03,9.99,Vilnius,Kalnėnai
+2017-04,9.53,Vilnius,Kalnėnai
+2017-05,9.07,Vilnius,Kalnėnai
+2017-06,10.63,Vilnius,Kalnėnai
+2017-07,10.89,Vilnius,Kalnėnai
+2017-08,10.58,Vilnius,Kalnėnai
+2017-10,10.01,Vilnius,Kalnėnai
+2017-11,10.04,Vilnius,Kalnėnai
+2017-12,11.65,Vilnius,Kalnėnai
+2018-01,11.12,Vilnius,Kalnėnai
+2018-02,9.59,Vilnius,Kalnėnai
+2018-03,9.17,Vilnius,Kalnėnai
+2018-04,9.15,Vilnius,Kalnėnai
+2018-05,8.08,Vilnius,Kalnėnai
+2018-08,8.46,Vilnius,Kalnėnai
+2018-09,8.56,Vilnius,Kalnėnai
+2018-10,9.14,Vilnius,Kalnėnai
+2018-11,7.92,Vilnius,Kalnėnai
+2018-12,7.71,Vilnius,Kalnėnai
+2019-01,7.85,Vilnius,Kalnėnai
+2019-02,8.59,Vilnius,Kalnėnai
+2019-03,8.87,Vilnius,Kalnėnai
+2019-04,8.07,Vilnius,Kalnėnai
+2019-06,9.04,Vilnius,Kalnėnai
+2019-07,9.21,Vilnius,Kalnėnai
+2019-09,9.79,Vilnius,Kalnėnai
+2019-10,8.36,Vilnius,Kalnėnai
+2019-11,7.78,Vilnius,Kalnėnai
+2019-12,8.85,Vilnius,Kalnėnai
+2020-01,9.1,Vilnius,Kalnėnai
+2020-02,9.3,Vilnius,Kalnėnai
+2020-03,9.4,Vilnius,Kalnėnai
+2020-05,7.77,Vilnius,Kalnėnai
+2020-06,7.72,Vilnius,Kalnėnai
+2020-07,7.69,Vilnius,Kalnėnai
+2020-08,7.71,Vilnius,Kalnėnai
+2021-02,13.59,Vilnius,Kalnėnai
+2021-03,12.18,Vilnius,Kalnėnai
+2021-11,9.82,Vilnius,Kalnėnai
+2017-01,6.7,Vilnius,Karoliniškės
+2017-02,6.88,Vilnius,Karoliniškės
+2017-03,8.38,Vilnius,Karoliniškės
+2017-04,9.41,Vilnius,Karoliniškės
+2017-05,10.35,Vilnius,Karoliniškės
+2017-06,11.42,Vilnius,Karoliniškės
+2017-07,10.69,Vilnius,Karoliniškės
+2017-08,7.11,Vilnius,Karoliniškės
+2017-09,9.86,Vilnius,Karoliniškės
+2017-10,9.55,Vilnius,Karoliniškės
+2017-11,9.16,Vilnius,Karoliniškės
+2017-12,10.28,Vilnius,Karoliniškės
+2018-01,10.37,Vilnius,Karoliniškės
+2018-02,8.71,Vilnius,Karoliniškės
+2018-03,8.35,Vilnius,Karoliniškės
+2018-04,9.31,Vilnius,Karoliniškės
+2018-05,9.38,Vilnius,Karoliniškės
+2018-06,9.55,Vilnius,Karoliniškės
+2018-07,10.07,Vilnius,Karoliniškės
+2018-08,9.55,Vilnius,Karoliniškės
+2018-09,8.89,Vilnius,Karoliniškės
+2018-10,9.23,Vilnius,Karoliniškės
+2018-11,9.24,Vilnius,Karoliniškės
+2018-12,9.47,Vilnius,Karoliniškės
+2019-01,8.82,Vilnius,Karoliniškės
+2019-02,7.33,Vilnius,Karoliniškės
+2019-03,8.16,Vilnius,Karoliniškės
+2019-04,8.17,Vilnius,Karoliniškės
+2019-05,7.85,Vilnius,Karoliniškės
+2019-06,7.94,Vilnius,Karoliniškės
+2019-07,8.09,Vilnius,Karoliniškės
+2019-08,7.94,Vilnius,Karoliniškės
+2019-09,7.96,Vilnius,Karoliniškės
+2019-10,8.7,Vilnius,Karoliniškės
+2019-11,9.34,Vilnius,Karoliniškės
+2019-12,8.71,Vilnius,Karoliniškės
+2020-01,9.19,Vilnius,Karoliniškės
+2020-02,8.39,Vilnius,Karoliniškės
+2020-03,8.18,Vilnius,Karoliniškės
+2020-04,7.86,Vilnius,Karoliniškės
+2020-05,7.59,Vilnius,Karoliniškės
+2020-06,7.36,Vilnius,Karoliniškės
+2020-07,7.33,Vilnius,Karoliniškės
+2020-08,7.33,Vilnius,Karoliniškės
+2020-09,7.54,Vilnius,Karoliniškės
+2020-10,8.13,Vilnius,Karoliniškės
+2020-11,8.09,Vilnius,Karoliniškės
+2020-12,7.82,Vilnius,Karoliniškės
+2021-01,8.37,Vilnius,Karoliniškės
+2021-02,8.4,Vilnius,Karoliniškės
+2021-03,8.3,Vilnius,Karoliniškės
+2021-04,8.34,Vilnius,Karoliniškės
+2021-05,8.45,Vilnius,Karoliniškės
+2021-06,8.96,Vilnius,Karoliniškės
+2021-07,9.46,Vilnius,Karoliniškės
+2021-08,8.78,Vilnius,Karoliniškės
+2021-09,8.8,Vilnius,Karoliniškės
+2021-10,9.08,Vilnius,Karoliniškės
+2021-11,9.79,Vilnius,Karoliniškės
+2021-12,9.16,Vilnius,Karoliniškės
+2022-01,9.36,Vilnius,Karoliniškės
+2022-02,8.93,Vilnius,Karoliniškės
+2022-03,9.81,Vilnius,Karoliniškės
+2022-04,9.94,Vilnius,Karoliniškės
+2022-05,12.2,Vilnius,Karoliniškės
+2022-06,12.68,Vilnius,Karoliniškės
+2022-07,11.89,Vilnius,Karoliniškės
+2022-08,11.93,Vilnius,Karoliniškės
+2022-09,11.59,Vilnius,Karoliniškės
+2022-10,11.04,Vilnius,Karoliniškės
+2017-12,5.08,Vilnius,Kirtimai
+2018-01,4.94,Vilnius,Kirtimai
+2018-04,6.28,Vilnius,Kirtimai
+2018-05,6.66,Vilnius,Kirtimai
+2018-06,8.07,Vilnius,Kirtimai
+2018-07,6.38,Vilnius,Kirtimai
+2018-08,7.56,Vilnius,Kirtimai
+2018-09,7.5,Vilnius,Kirtimai
+2018-10,6.35,Vilnius,Kirtimai
+2020-04,11.25,Vilnius,Kirtimai
+2020-11,8.17,Vilnius,Kirtimai
+2020-12,7.67,Vilnius,Kirtimai
+2017-01,5.81,Vilnius,Lazdynai
+2017-02,5.93,Vilnius,Lazdynai
+2017-03,6.2,Vilnius,Lazdynai
+2017-04,6.24,Vilnius,Lazdynai
+2017-05,6.3,Vilnius,Lazdynai
+2017-06,6.39,Vilnius,Lazdynai
+2017-07,6.88,Vilnius,Lazdynai
+2017-08,6.24,Vilnius,Lazdynai
+2017-09,6.62,Vilnius,Lazdynai
+2017-10,6.65,Vilnius,Lazdynai
+2017-11,6.19,Vilnius,Lazdynai
+2017-12,5.9,Vilnius,Lazdynai
+2018-01,6.04,Vilnius,Lazdynai
+2018-02,6.68,Vilnius,Lazdynai
+2018-03,6.53,Vilnius,Lazdynai
+2018-04,6.65,Vilnius,Lazdynai
+2018-05,7.02,Vilnius,Lazdynai
+2018-06,6.87,Vilnius,Lazdynai
+2018-07,6.49,Vilnius,Lazdynai
+2018-08,6.54,Vilnius,Lazdynai
+2018-09,6.96,Vilnius,Lazdynai
+2018-10,6.62,Vilnius,Lazdynai
+2018-11,6.63,Vilnius,Lazdynai
+2018-12,6.37,Vilnius,Lazdynai
+2019-01,6.38,Vilnius,Lazdynai
+2019-02,7.2,Vilnius,Lazdynai
+2019-03,6.97,Vilnius,Lazdynai
+2019-04,7.25,Vilnius,Lazdynai
+2019-05,7.5,Vilnius,Lazdynai
+2019-06,7.68,Vilnius,Lazdynai
+2019-07,8.07,Vilnius,Lazdynai
+2019-08,6.83,Vilnius,Lazdynai
+2019-09,7.08,Vilnius,Lazdynai
+2019-10,7.53,Vilnius,Lazdynai
+2019-11,7.17,Vilnius,Lazdynai
+2019-12,7.05,Vilnius,Lazdynai
+2020-01,7.46,Vilnius,Lazdynai
+2020-02,7.81,Vilnius,Lazdynai
+2020-03,7.61,Vilnius,Lazdynai
+2020-04,7.09,Vilnius,Lazdynai
+2020-05,7.33,Vilnius,Lazdynai
+2020-06,6.87,Vilnius,Lazdynai
+2020-07,7.2,Vilnius,Lazdynai
+2020-08,7.6,Vilnius,Lazdynai
+2020-09,7.54,Vilnius,Lazdynai
+2020-10,7.84,Vilnius,Lazdynai
+2020-11,7.57,Vilnius,Lazdynai
+2020-12,7.38,Vilnius,Lazdynai
+2021-01,7.69,Vilnius,Lazdynai
+2021-02,8.17,Vilnius,Lazdynai
+2021-03,8.47,Vilnius,Lazdynai
+2021-04,8.63,Vilnius,Lazdynai
+2021-05,8.12,Vilnius,Lazdynai
+2021-06,9,Vilnius,Lazdynai
+2021-07,8.25,Vilnius,Lazdynai
+2021-08,8.34,Vilnius,Lazdynai
+2021-09,8.04,Vilnius,Lazdynai
+2021-10,8.33,Vilnius,Lazdynai
+2021-11,9.29,Vilnius,Lazdynai
+2021-12,9.17,Vilnius,Lazdynai
+2022-01,8.81,Vilnius,Lazdynai
+2022-02,9.01,Vilnius,Lazdynai
+2022-03,9.86,Vilnius,Lazdynai
+2022-04,10.93,Vilnius,Lazdynai
+2022-05,11.28,Vilnius,Lazdynai
+2022-06,11.86,Vilnius,Lazdynai
+2022-07,11.37,Vilnius,Lazdynai
+2022-08,12.47,Vilnius,Lazdynai
+2022-09,11.09,Vilnius,Lazdynai
+2022-10,10.61,Vilnius,Lazdynai
+2017-01,6.7,Vilnius,Lazdynėliai
+2017-02,7.1,Vilnius,Lazdynėliai
+2017-03,6.97,Vilnius,Lazdynėliai
+2017-04,6.86,Vilnius,Lazdynėliai
+2017-05,6.43,Vilnius,Lazdynėliai
+2017-06,6.75,Vilnius,Lazdynėliai
+2017-07,6.72,Vilnius,Lazdynėliai
+2017-08,6.83,Vilnius,Lazdynėliai
+2017-09,6.74,Vilnius,Lazdynėliai
+2017-10,6.42,Vilnius,Lazdynėliai
+2017-11,5.57,Vilnius,Lazdynėliai
+2017-12,5.78,Vilnius,Lazdynėliai
+2018-01,6.17,Vilnius,Lazdynėliai
+2018-02,6.38,Vilnius,Lazdynėliai
+2018-03,7.06,Vilnius,Lazdynėliai
+2018-04,7.62,Vilnius,Lazdynėliai
+2018-05,7.59,Vilnius,Lazdynėliai
+2018-06,6.3,Vilnius,Lazdynėliai
+2018-07,6.83,Vilnius,Lazdynėliai
+2018-08,7.14,Vilnius,Lazdynėliai
+2018-09,6.96,Vilnius,Lazdynėliai
+2018-10,7.17,Vilnius,Lazdynėliai
+2018-11,7.27,Vilnius,Lazdynėliai
+2018-12,7.12,Vilnius,Lazdynėliai
+2019-01,7.65,Vilnius,Lazdynėliai
+2019-02,8.23,Vilnius,Lazdynėliai
+2019-03,7.87,Vilnius,Lazdynėliai
+2019-04,7.91,Vilnius,Lazdynėliai
+2019-05,8.37,Vilnius,Lazdynėliai
+2019-06,7.97,Vilnius,Lazdynėliai
+2019-07,8.34,Vilnius,Lazdynėliai
+2019-08,8.38,Vilnius,Lazdynėliai
+2019-09,8.55,Vilnius,Lazdynėliai
+2019-10,8.19,Vilnius,Lazdynėliai
+2019-11,8.74,Vilnius,Lazdynėliai
+2019-12,8.11,Vilnius,Lazdynėliai
+2020-01,7.78,Vilnius,Lazdynėliai
+2020-02,7.3,Vilnius,Lazdynėliai
+2020-03,8.15,Vilnius,Lazdynėliai
+2020-04,8.62,Vilnius,Lazdynėliai
+2020-05,9.03,Vilnius,Lazdynėliai
+2020-06,8.76,Vilnius,Lazdynėliai
+2020-07,8.52,Vilnius,Lazdynėliai
+2020-08,8.77,Vilnius,Lazdynėliai
+2020-09,8.59,Vilnius,Lazdynėliai
+2020-10,8.51,Vilnius,Lazdynėliai
+2020-11,8.5,Vilnius,Lazdynėliai
+2020-12,8.99,Vilnius,Lazdynėliai
+2021-01,9.08,Vilnius,Lazdynėliai
+2021-02,9.1,Vilnius,Lazdynėliai
+2021-03,9.69,Vilnius,Lazdynėliai
+2021-04,9.25,Vilnius,Lazdynėliai
+2021-05,8.92,Vilnius,Lazdynėliai
+2021-06,10.31,Vilnius,Lazdynėliai
+2021-07,9.79,Vilnius,Lazdynėliai
+2021-08,10.9,Vilnius,Lazdynėliai
+2021-09,10.74,Vilnius,Lazdynėliai
+2021-10,11.09,Vilnius,Lazdynėliai
+2021-11,10.87,Vilnius,Lazdynėliai
+2021-12,11.16,Vilnius,Lazdynėliai
+2022-01,11.06,Vilnius,Lazdynėliai
+2022-02,10.62,Vilnius,Lazdynėliai
+2022-03,10.17,Vilnius,Lazdynėliai
+2022-04,10.15,Vilnius,Lazdynėliai
+2022-05,13.62,Vilnius,Lazdynėliai
+2022-06,15.74,Vilnius,Lazdynėliai
+2022-07,14.17,Vilnius,Lazdynėliai
+2022-08,15.57,Vilnius,Lazdynėliai
+2022-09,14.47,Vilnius,Lazdynėliai
+2022-10,12.59,Vilnius,Lazdynėliai
+2019-02,5.85,Vilnius,Liepkalnis
+2019-03,7.08,Vilnius,Liepkalnis
+2019-06,9.34,Vilnius,Liepkalnis
+2019-07,14.16,Vilnius,Liepkalnis
+2019-08,8.94,Vilnius,Liepkalnis
+2020-08,10.95,Vilnius,Liepkalnis
+2020-09,10.21,Vilnius,Liepkalnis
+2020-10,10.85,Vilnius,Liepkalnis
+2020-11,11.85,Vilnius,Liepkalnis
+2021-03,9.18,Vilnius,Liepkalnis
+2018-01,7.65,Vilnius,Markučiai
+2018-02,8.3,Vilnius,Markučiai
+2018-03,6.57,Vilnius,Markučiai
+2018-04,7.09,Vilnius,Markučiai
+2018-05,7.04,Vilnius,Markučiai
+2018-06,8.13,Vilnius,Markučiai
+2018-07,7.5,Vilnius,Markučiai
+2018-08,9.74,Vilnius,Markučiai
+2018-09,6.59,Vilnius,Markučiai
+2018-10,7.66,Vilnius,Markučiai
+2018-11,9.33,Vilnius,Markučiai
+2018-12,8.31,Vilnius,Markučiai
+2019-01,8.38,Vilnius,Markučiai
+2019-02,8.73,Vilnius,Markučiai
+2019-03,9.14,Vilnius,Markučiai
+2019-04,8.74,Vilnius,Markučiai
+2019-05,7.1,Vilnius,Markučiai
+2019-06,8.61,Vilnius,Markučiai
+2019-07,9.68,Vilnius,Markučiai
+2019-08,8.8,Vilnius,Markučiai
+2019-09,11.28,Vilnius,Markučiai
+2019-10,12.04,Vilnius,Markučiai
+2019-11,10.98,Vilnius,Markučiai
+2019-12,9.13,Vilnius,Markučiai
+2020-01,8.39,Vilnius,Markučiai
+2020-02,9.14,Vilnius,Markučiai
+2020-03,9.01,Vilnius,Markučiai
+2020-04,8.7,Vilnius,Markučiai
+2020-05,9.01,Vilnius,Markučiai
+2020-06,9.03,Vilnius,Markučiai
+2020-07,9.53,Vilnius,Markučiai
+2020-08,8.74,Vilnius,Markučiai
+2020-09,10.77,Vilnius,Markučiai
+2020-10,11.77,Vilnius,Markučiai
+2020-11,12.51,Vilnius,Markučiai
+2020-12,10.07,Vilnius,Markučiai
+2021-01,11.24,Vilnius,Markučiai
+2021-02,12.01,Vilnius,Markučiai
+2021-03,11.45,Vilnius,Markučiai
+2021-04,12.42,Vilnius,Markučiai
+2021-05,12.64,Vilnius,Markučiai
+2021-06,11.88,Vilnius,Markučiai
+2021-09,13.41,Vilnius,Markučiai
+2021-10,10.92,Vilnius,Markučiai
+2021-11,11.27,Vilnius,Markučiai
+2021-12,13.75,Vilnius,Markučiai
+2022-01,14.32,Vilnius,Markučiai
+2022-02,14.44,Vilnius,Markučiai
+2022-03,14.19,Vilnius,Markučiai
+2022-06,18.94,Vilnius,Markučiai
+2022-07,20.85,Vilnius,Markučiai
+2022-08,19.79,Vilnius,Markučiai
+2022-09,16.96,Vilnius,Markučiai
+2022-10,17.23,Vilnius,Markučiai
+2017-01,9.45,Vilnius,Naujamiestis
+2017-02,9.47,Vilnius,Naujamiestis
+2017-03,9.51,Vilnius,Naujamiestis
+2017-04,9.56,Vilnius,Naujamiestis
+2017-05,9.36,Vilnius,Naujamiestis
+2017-06,9.39,Vilnius,Naujamiestis
+2017-07,9.35,Vilnius,Naujamiestis
+2017-08,9.39,Vilnius,Naujamiestis
+2017-09,9.48,Vilnius,Naujamiestis
+2017-10,9.69,Vilnius,Naujamiestis
+2017-11,10.05,Vilnius,Naujamiestis
+2017-12,10.24,Vilnius,Naujamiestis
+2018-01,10.18,Vilnius,Naujamiestis
+2018-02,10.29,Vilnius,Naujamiestis
+2018-03,10.09,Vilnius,Naujamiestis
+2018-04,9.97,Vilnius,Naujamiestis
+2018-05,10,Vilnius,Naujamiestis
+2018-06,9.88,Vilnius,Naujamiestis
+2018-07,9.99,Vilnius,Naujamiestis
+2018-08,10.21,Vilnius,Naujamiestis
+2018-09,10.38,Vilnius,Naujamiestis
+2018-10,10.74,Vilnius,Naujamiestis
+2018-11,10.44,Vilnius,Naujamiestis
+2018-12,10.52,Vilnius,Naujamiestis
+2019-01,10.36,Vilnius,Naujamiestis
+2019-02,10.57,Vilnius,Naujamiestis
+2019-03,10.68,Vilnius,Naujamiestis
+2019-04,10.9,Vilnius,Naujamiestis
+2019-05,10.81,Vilnius,Naujamiestis
+2019-06,10.55,Vilnius,Naujamiestis
+2019-07,10.96,Vilnius,Naujamiestis
+2019-08,10.05,Vilnius,Naujamiestis
+2019-09,7.1,Vilnius,Naujamiestis
+2019-10,11.19,Vilnius,Naujamiestis
+2019-11,11.21,Vilnius,Naujamiestis
+2019-12,11.32,Vilnius,Naujamiestis
+2020-01,11.4,Vilnius,Naujamiestis
+2020-02,11.39,Vilnius,Naujamiestis
+2020-03,11.1,Vilnius,Naujamiestis
+2020-04,10.73,Vilnius,Naujamiestis
+2020-05,10.38,Vilnius,Naujamiestis
+2020-06,10.41,Vilnius,Naujamiestis
+2020-07,10.92,Vilnius,Naujamiestis
+2020-08,11.14,Vilnius,Naujamiestis
+2020-09,11.31,Vilnius,Naujamiestis
+2020-10,11.34,Vilnius,Naujamiestis
+2020-11,11.01,Vilnius,Naujamiestis
+2020-12,10.84,Vilnius,Naujamiestis
+2021-01,11,Vilnius,Naujamiestis
+2021-02,11.33,Vilnius,Naujamiestis
+2021-03,11.6,Vilnius,Naujamiestis
+2021-04,11.56,Vilnius,Naujamiestis
+2021-05,11.21,Vilnius,Naujamiestis
+2021-06,11.58,Vilnius,Naujamiestis
+2021-07,11.89,Vilnius,Naujamiestis
+2021-08,12.1,Vilnius,Naujamiestis
+2021-09,12.72,Vilnius,Naujamiestis
+2021-10,12.76,Vilnius,Naujamiestis
+2021-11,12.81,Vilnius,Naujamiestis
+2021-12,13.08,Vilnius,Naujamiestis
+2022-01,13.18,Vilnius,Naujamiestis
+2022-02,13.08,Vilnius,Naujamiestis
+2022-03,13.08,Vilnius,Naujamiestis
+2022-04,14.24,Vilnius,Naujamiestis
+2022-05,15.9,Vilnius,Naujamiestis
+2022-06,16.01,Vilnius,Naujamiestis
+2022-07,16.19,Vilnius,Naujamiestis
+2022-08,16.4,Vilnius,Naujamiestis
+2022-09,15.65,Vilnius,Naujamiestis
+2022-10,14.85,Vilnius,Naujamiestis
+2017-01,6.49,Vilnius,Naujininkai
+2017-02,6.22,Vilnius,Naujininkai
+2017-03,6.42,Vilnius,Naujininkai
+2017-04,6.27,Vilnius,Naujininkai
+2017-05,6.13,Vilnius,Naujininkai
+2017-06,6.89,Vilnius,Naujininkai
+2017-07,6.94,Vilnius,Naujininkai
+2017-08,7.1,Vilnius,Naujininkai
+2017-09,6.56,Vilnius,Naujininkai
+2017-10,6.65,Vilnius,Naujininkai
+2017-11,6.02,Vilnius,Naujininkai
+2017-12,5.81,Vilnius,Naujininkai
+2018-01,6.53,Vilnius,Naujininkai
+2018-02,6.88,Vilnius,Naujininkai
+2018-03,7.45,Vilnius,Naujininkai
+2018-04,7.5,Vilnius,Naujininkai
+2018-05,7.89,Vilnius,Naujininkai
+2018-06,7.83,Vilnius,Naujininkai
+2018-07,7.67,Vilnius,Naujininkai
+2018-08,7.64,Vilnius,Naujininkai
+2018-09,7.44,Vilnius,Naujininkai
+2018-10,7.29,Vilnius,Naujininkai
+2018-11,7.67,Vilnius,Naujininkai
+2018-12,8.38,Vilnius,Naujininkai
+2019-01,7.94,Vilnius,Naujininkai
+2019-02,7.58,Vilnius,Naujininkai
+2019-03,8.07,Vilnius,Naujininkai
+2019-04,7.76,Vilnius,Naujininkai
+2019-05,7.87,Vilnius,Naujininkai
+2019-06,8.18,Vilnius,Naujininkai
+2019-07,8.71,Vilnius,Naujininkai
+2019-08,8.88,Vilnius,Naujininkai
+2019-09,9.11,Vilnius,Naujininkai
+2019-10,10.13,Vilnius,Naujininkai
+2019-11,9.62,Vilnius,Naujininkai
+2019-12,9.59,Vilnius,Naujininkai
+2020-01,8.39,Vilnius,Naujininkai
+2020-02,9.18,Vilnius,Naujininkai
+2020-03,9.63,Vilnius,Naujininkai
+2020-04,9.12,Vilnius,Naujininkai
+2020-05,8.24,Vilnius,Naujininkai
+2020-06,8.84,Vilnius,Naujininkai
+2020-07,8.44,Vilnius,Naujininkai
+2020-08,8.05,Vilnius,Naujininkai
+2020-09,8.8,Vilnius,Naujininkai
+2020-10,8.79,Vilnius,Naujininkai
+2020-11,9.26,Vilnius,Naujininkai
+2020-12,9.99,Vilnius,Naujininkai
+2021-01,10.21,Vilnius,Naujininkai
+2021-02,9.42,Vilnius,Naujininkai
+2021-03,9.81,Vilnius,Naujininkai
+2021-04,9.41,Vilnius,Naujininkai
+2021-05,9.63,Vilnius,Naujininkai
+2021-06,9.83,Vilnius,Naujininkai
+2021-07,9.47,Vilnius,Naujininkai
+2021-08,8.79,Vilnius,Naujininkai
+2021-09,9.49,Vilnius,Naujininkai
+2021-10,9.97,Vilnius,Naujininkai
+2021-11,9.59,Vilnius,Naujininkai
+2021-12,9.12,Vilnius,Naujininkai
+2022-01,9.8,Vilnius,Naujininkai
+2022-02,11.02,Vilnius,Naujininkai
+2022-03,11.75,Vilnius,Naujininkai
+2022-04,11.39,Vilnius,Naujininkai
+2022-05,13.29,Vilnius,Naujininkai
+2022-06,12.3,Vilnius,Naujininkai
+2022-07,13.05,Vilnius,Naujininkai
+2022-08,13.65,Vilnius,Naujininkai
+2022-09,12.58,Vilnius,Naujininkai
+2022-10,11.71,Vilnius,Naujininkai
+2017-01,4.49,Vilnius,Naujoji Vilnia
+2017-03,5.04,Vilnius,Naujoji Vilnia
+2017-04,5.04,Vilnius,Naujoji Vilnia
+2017-05,5.35,Vilnius,Naujoji Vilnia
+2017-06,5.19,Vilnius,Naujoji Vilnia
+2017-08,6.06,Vilnius,Naujoji Vilnia
+2017-09,5.66,Vilnius,Naujoji Vilnia
+2017-10,5.31,Vilnius,Naujoji Vilnia
+2017-11,5.77,Vilnius,Naujoji Vilnia
+2017-12,5.38,Vilnius,Naujoji Vilnia
+2018-01,5.75,Vilnius,Naujoji Vilnia
+2018-02,5.74,Vilnius,Naujoji Vilnia
+2018-03,5.82,Vilnius,Naujoji Vilnia
+2018-04,5.89,Vilnius,Naujoji Vilnia
+2018-05,6.55,Vilnius,Naujoji Vilnia
+2018-06,6.4,Vilnius,Naujoji Vilnia
+2018-07,5.85,Vilnius,Naujoji Vilnia
+2018-08,5.66,Vilnius,Naujoji Vilnia
+2018-09,6.29,Vilnius,Naujoji Vilnia
+2018-10,5.95,Vilnius,Naujoji Vilnia
+2018-11,6.65,Vilnius,Naujoji Vilnia
+2018-12,7.25,Vilnius,Naujoji Vilnia
+2019-01,7.24,Vilnius,Naujoji Vilnia
+2019-02,6.65,Vilnius,Naujoji Vilnia
+2019-03,6.91,Vilnius,Naujoji Vilnia
+2019-04,6.8,Vilnius,Naujoji Vilnia
+2019-05,7.09,Vilnius,Naujoji Vilnia
+2019-06,7.64,Vilnius,Naujoji Vilnia
+2019-07,6.6,Vilnius,Naujoji Vilnia
+2019-08,6.03,Vilnius,Naujoji Vilnia
+2019-09,6.9,Vilnius,Naujoji Vilnia
+2019-10,8.66,Vilnius,Naujoji Vilnia
+2019-11,7.77,Vilnius,Naujoji Vilnia
+2019-12,7.71,Vilnius,Naujoji Vilnia
+2020-01,7.22,Vilnius,Naujoji Vilnia
+2020-02,7.81,Vilnius,Naujoji Vilnia
+2020-03,7.59,Vilnius,Naujoji Vilnia
+2020-04,7.49,Vilnius,Naujoji Vilnia
+2020-05,7.21,Vilnius,Naujoji Vilnia
+2020-06,7.47,Vilnius,Naujoji Vilnia
+2020-07,7.87,Vilnius,Naujoji Vilnia
+2020-08,7.62,Vilnius,Naujoji Vilnia
+2020-09,7.63,Vilnius,Naujoji Vilnia
+2020-10,7.16,Vilnius,Naujoji Vilnia
+2020-11,7.56,Vilnius,Naujoji Vilnia
+2020-12,7.11,Vilnius,Naujoji Vilnia
+2021-01,6.72,Vilnius,Naujoji Vilnia
+2021-02,7.08,Vilnius,Naujoji Vilnia
+2021-03,7.38,Vilnius,Naujoji Vilnia
+2021-04,7.36,Vilnius,Naujoji Vilnia
+2021-05,7.7,Vilnius,Naujoji Vilnia
+2021-06,7.67,Vilnius,Naujoji Vilnia
+2021-07,7.08,Vilnius,Naujoji Vilnia
+2021-08,8.54,Vilnius,Naujoji Vilnia
+2021-09,8.51,Vilnius,Naujoji Vilnia
+2021-10,8.77,Vilnius,Naujoji Vilnia
+2021-11,8.5,Vilnius,Naujoji Vilnia
+2021-12,8.22,Vilnius,Naujoji Vilnia
+2022-01,8.25,Vilnius,Naujoji Vilnia
+2022-02,8.55,Vilnius,Naujoji Vilnia
+2022-03,8.34,Vilnius,Naujoji Vilnia
+2022-04,9.77,Vilnius,Naujoji Vilnia
+2022-05,11.38,Vilnius,Naujoji Vilnia
+2022-06,11.19,Vilnius,Naujoji Vilnia
+2022-07,10.16,Vilnius,Naujoji Vilnia
+2022-08,13.31,Vilnius,Naujoji Vilnia
+2022-09,11.41,Vilnius,Naujoji Vilnia
+2022-10,10.71,Vilnius,Naujoji Vilnia
+2018-01,7.25,Vilnius,Pagiriai
+2018-02,5.28,Vilnius,Pagiriai
+2018-05,3.51,Vilnius,Pagiriai
+2018-06,3.89,Vilnius,Pagiriai
+2018-07,4.65,Vilnius,Pagiriai
+2018-08,4.58,Vilnius,Pagiriai
+2018-12,9.46,Vilnius,Pagiriai
+2019-02,4.15,Vilnius,Pagiriai
+2019-05,3.36,Vilnius,Pagiriai
+2019-06,4.3,Vilnius,Pagiriai
+2019-07,4.41,Vilnius,Pagiriai
+2020-04,6.15,Vilnius,Pagiriai
+2020-11,5.52,Vilnius,Pagiriai
+2017-12,6.33,Vilnius,Paneriai
+2018-01,5.43,Vilnius,Paneriai
+2018-02,4.62,Vilnius,Paneriai
+2018-10,6.25,Vilnius,Paneriai
+2019-05,5.51,Vilnius,Paneriai
+2019-06,8.83,Vilnius,Paneriai
+2020-07,7.24,Vilnius,Paneriai
+2020-08,6.62,Vilnius,Paneriai
+2020-09,6.52,Vilnius,Paneriai
+2020-10,6.91,Vilnius,Paneriai
+2020-11,9.44,Vilnius,Paneriai
+2020-12,9.93,Vilnius,Paneriai
+2021-01,10.37,Vilnius,Paneriai
+2017-01,6.36,Vilnius,Pašilaičiai
+2017-02,6.38,Vilnius,Pašilaičiai
+2017-03,6.19,Vilnius,Pašilaičiai
+2017-04,6.38,Vilnius,Pašilaičiai
+2017-05,6.78,Vilnius,Pašilaičiai
+2017-06,6.51,Vilnius,Pašilaičiai
+2017-07,6.49,Vilnius,Pašilaičiai
+2017-08,6.83,Vilnius,Pašilaičiai
+2017-09,6.66,Vilnius,Pašilaičiai
+2017-10,6.75,Vilnius,Pašilaičiai
+2017-11,6.45,Vilnius,Pašilaičiai
+2017-12,6.44,Vilnius,Pašilaičiai
+2018-01,6.28,Vilnius,Pašilaičiai
+2018-02,6.2,Vilnius,Pašilaičiai
+2018-03,6.86,Vilnius,Pašilaičiai
+2018-04,6.73,Vilnius,Pašilaičiai
+2018-05,6.74,Vilnius,Pašilaičiai
+2018-06,6.86,Vilnius,Pašilaičiai
+2018-07,6.91,Vilnius,Pašilaičiai
+2018-08,6.97,Vilnius,Pašilaičiai
+2018-09,6.73,Vilnius,Pašilaičiai
+2018-10,6.7,Vilnius,Pašilaičiai
+2018-11,6.75,Vilnius,Pašilaičiai
+2018-12,6.51,Vilnius,Pašilaičiai
+2019-01,6.71,Vilnius,Pašilaičiai
+2019-02,6.77,Vilnius,Pašilaičiai
+2019-03,6.94,Vilnius,Pašilaičiai
+2019-04,7.47,Vilnius,Pašilaičiai
+2019-05,7.52,Vilnius,Pašilaičiai
+2019-06,7.81,Vilnius,Pašilaičiai
+2019-07,7.53,Vilnius,Pašilaičiai
+2019-08,7.71,Vilnius,Pašilaičiai
+2019-09,7.73,Vilnius,Pašilaičiai
+2019-10,7.68,Vilnius,Pašilaičiai
+2019-11,7.93,Vilnius,Pašilaičiai
+2019-12,7.93,Vilnius,Pašilaičiai
+2020-01,7.6,Vilnius,Pašilaičiai
+2020-02,7.37,Vilnius,Pašilaičiai
+2020-03,7.98,Vilnius,Pašilaičiai
+2020-04,7.91,Vilnius,Pašilaičiai
+2020-05,7.33,Vilnius,Pašilaičiai
+2020-06,7.3,Vilnius,Pašilaičiai
+2020-07,7.52,Vilnius,Pašilaičiai
+2020-08,7.69,Vilnius,Pašilaičiai
+2020-09,8.19,Vilnius,Pašilaičiai
+2020-10,7.78,Vilnius,Pašilaičiai
+2020-11,8.06,Vilnius,Pašilaičiai
+2020-12,7.6,Vilnius,Pašilaičiai
+2021-01,7.89,Vilnius,Pašilaičiai
+2021-02,8.26,Vilnius,Pašilaičiai
+2021-03,7.88,Vilnius,Pašilaičiai
+2021-04,8.25,Vilnius,Pašilaičiai
+2021-05,8.34,Vilnius,Pašilaičiai
+2021-06,8.59,Vilnius,Pašilaičiai
+2021-07,9.01,Vilnius,Pašilaičiai
+2021-08,9.16,Vilnius,Pašilaičiai
+2021-09,9.59,Vilnius,Pašilaičiai
+2021-10,9.34,Vilnius,Pašilaičiai
+2021-11,9.56,Vilnius,Pašilaičiai
+2021-12,9.19,Vilnius,Pašilaičiai
+2022-01,9.33,Vilnius,Pašilaičiai
+2022-02,9.33,Vilnius,Pašilaičiai
+2022-03,9.86,Vilnius,Pašilaičiai
+2022-04,10.55,Vilnius,Pašilaičiai
+2022-05,11.03,Vilnius,Pašilaičiai
+2022-06,11.46,Vilnius,Pašilaičiai
+2022-07,11.8,Vilnius,Pašilaičiai
+2022-08,12.2,Vilnius,Pašilaičiai
+2022-09,11.95,Vilnius,Pašilaičiai
+2022-10,11.08,Vilnius,Pašilaičiai
+2020-12,20.76,Vilnius,Paupys
+2021-01,21.18,Vilnius,Paupys
+2021-02,21.13,Vilnius,Paupys
+2021-03,18.39,Vilnius,Paupys
+2021-06,18.38,Vilnius,Paupys
+2021-07,15.72,Vilnius,Paupys
+2021-08,18.18,Vilnius,Paupys
+2021-09,16.65,Vilnius,Paupys
+2021-10,16.01,Vilnius,Paupys
+2021-11,14.55,Vilnius,Paupys
+2021-12,16.63,Vilnius,Paupys
+2022-01,19.78,Vilnius,Paupys
+2022-02,18.72,Vilnius,Paupys
+2022-03,19.7,Vilnius,Paupys
+2022-05,24.67,Vilnius,Paupys
+2022-06,24.45,Vilnius,Paupys
+2022-07,25.75,Vilnius,Paupys
+2022-08,24.83,Vilnius,Paupys
+2022-09,21.94,Vilnius,Paupys
+2022-10,21.28,Vilnius,Paupys
+2017-11,7.22,Vilnius,Pavilnys
+2017-12,9.14,Vilnius,Pavilnys
+2018-01,7.11,Vilnius,Pavilnys
+2018-02,6.23,Vilnius,Pavilnys
+2018-03,6.67,Vilnius,Pavilnys
+2018-04,7.08,Vilnius,Pavilnys
+2018-05,6.76,Vilnius,Pavilnys
+2018-06,7.53,Vilnius,Pavilnys
+2018-07,7.02,Vilnius,Pavilnys
+2018-08,8.64,Vilnius,Pavilnys
+2018-09,9.41,Vilnius,Pavilnys
+2018-10,9.28,Vilnius,Pavilnys
+2018-11,8.8,Vilnius,Pavilnys
+2018-12,6.99,Vilnius,Pavilnys
+2019-01,6.69,Vilnius,Pavilnys
+2019-03,6.2,Vilnius,Pavilnys
+2019-04,8.99,Vilnius,Pavilnys
+2019-06,7.45,Vilnius,Pavilnys
+2019-07,8.25,Vilnius,Pavilnys
+2019-08,9.37,Vilnius,Pavilnys
+2019-09,8.33,Vilnius,Pavilnys
+2019-10,2.66,Vilnius,Pavilnys
+2019-11,3.26,Vilnius,Pavilnys
+2019-12,3.82,Vilnius,Pavilnys
+2020-01,7.43,Vilnius,Pavilnys
+2020-02,8.42,Vilnius,Pavilnys
+2020-03,8.97,Vilnius,Pavilnys
+2020-04,9.27,Vilnius,Pavilnys
+2020-05,8.85,Vilnius,Pavilnys
+2020-06,6.61,Vilnius,Pavilnys
+2020-07,8.41,Vilnius,Pavilnys
+2020-08,5.87,Vilnius,Pavilnys
+2020-09,2.24,Vilnius,Pavilnys
+2020-10,5.05,Vilnius,Pavilnys
+2020-11,7.44,Vilnius,Pavilnys
+2020-12,6.53,Vilnius,Pavilnys
+2021-03,8.24,Vilnius,Pavilnys
+2022-09,10.65,Vilnius,Pavilnys
+2022-10,10.5,Vilnius,Pavilnys
+2017-01,6.76,Vilnius,Pilaitė
+2017-02,6.71,Vilnius,Pilaitė
+2017-03,6.84,Vilnius,Pilaitė
+2017-04,7.41,Vilnius,Pilaitė
+2017-05,7.34,Vilnius,Pilaitė
+2017-06,7.18,Vilnius,Pilaitė
+2017-07,7.18,Vilnius,Pilaitė
+2017-08,6.96,Vilnius,Pilaitė
+2017-09,6.98,Vilnius,Pilaitė
+2017-10,6.85,Vilnius,Pilaitė
+2017-11,6.69,Vilnius,Pilaitė
+2017-12,6.79,Vilnius,Pilaitė
+2018-01,6.76,Vilnius,Pilaitė
+2018-02,6.95,Vilnius,Pilaitė
+2018-03,7.12,Vilnius,Pilaitė
+2018-04,7.29,Vilnius,Pilaitė
+2018-05,6.93,Vilnius,Pilaitė
+2018-06,6.85,Vilnius,Pilaitė
+2018-07,7.17,Vilnius,Pilaitė
+2018-08,6.75,Vilnius,Pilaitė
+2018-09,7.22,Vilnius,Pilaitė
+2018-10,7.14,Vilnius,Pilaitė
+2018-11,6.88,Vilnius,Pilaitė
+2018-12,6.77,Vilnius,Pilaitė
+2019-01,6.96,Vilnius,Pilaitė
+2019-02,7.58,Vilnius,Pilaitė
+2019-03,7.86,Vilnius,Pilaitė
+2019-04,7.84,Vilnius,Pilaitė
+2019-05,8.09,Vilnius,Pilaitė
+2019-06,8.14,Vilnius,Pilaitė
+2019-07,8.41,Vilnius,Pilaitė
+2019-08,8.17,Vilnius,Pilaitė
+2019-09,7.79,Vilnius,Pilaitė
+2019-10,7.82,Vilnius,Pilaitė
+2019-11,8.02,Vilnius,Pilaitė
+2019-12,8.01,Vilnius,Pilaitė
+2020-01,8.44,Vilnius,Pilaitė
+2020-02,8.16,Vilnius,Pilaitė
+2020-03,8.67,Vilnius,Pilaitė
+2020-04,8.13,Vilnius,Pilaitė
+2020-05,8.34,Vilnius,Pilaitė
+2020-06,8.08,Vilnius,Pilaitė
+2020-07,8.18,Vilnius,Pilaitė
+2020-08,8.11,Vilnius,Pilaitė
+2020-09,8.21,Vilnius,Pilaitė
+2020-10,8.05,Vilnius,Pilaitė
+2020-11,8.81,Vilnius,Pilaitė
+2020-12,8.93,Vilnius,Pilaitė
+2021-01,8.79,Vilnius,Pilaitė
+2021-02,8.61,Vilnius,Pilaitė
+2021-03,8.91,Vilnius,Pilaitė
+2021-04,8.98,Vilnius,Pilaitė
+2021-05,8.89,Vilnius,Pilaitė
+2021-06,9.26,Vilnius,Pilaitė
+2021-07,9.27,Vilnius,Pilaitė
+2021-08,8.86,Vilnius,Pilaitė
+2021-09,9.48,Vilnius,Pilaitė
+2021-10,9.46,Vilnius,Pilaitė
+2021-11,9.12,Vilnius,Pilaitė
+2021-12,9.74,Vilnius,Pilaitė
+2022-01,9.72,Vilnius,Pilaitė
+2022-02,10.04,Vilnius,Pilaitė
+2022-03,10.27,Vilnius,Pilaitė
+2022-04,10.96,Vilnius,Pilaitė
+2022-05,11.65,Vilnius,Pilaitė
+2022-06,12.58,Vilnius,Pilaitė
+2022-07,12,Vilnius,Pilaitė
+2022-08,12.71,Vilnius,Pilaitė
+2022-09,12.73,Vilnius,Pilaitė
+2022-10,11.97,Vilnius,Pilaitė
+2017-01,6.38,Vilnius,Rasos
+2017-03,7.31,Vilnius,Rasos
+2017-04,7.07,Vilnius,Rasos
+2017-05,7.74,Vilnius,Rasos
+2017-08,6.53,Vilnius,Rasos
+2017-11,6.99,Vilnius,Rasos
+2017-12,6.15,Vilnius,Rasos
+2018-01,7.73,Vilnius,Rasos
+2018-02,9.27,Vilnius,Rasos
+2018-03,8.44,Vilnius,Rasos
+2018-04,7.05,Vilnius,Rasos
+2018-05,8.27,Vilnius,Rasos
+2018-06,8.25,Vilnius,Rasos
+2018-07,7.83,Vilnius,Rasos
+2018-08,7.8,Vilnius,Rasos
+2018-09,8.21,Vilnius,Rasos
+2018-10,8.63,Vilnius,Rasos
+2018-11,8.87,Vilnius,Rasos
+2018-12,9.26,Vilnius,Rasos
+2019-01,8.66,Vilnius,Rasos
+2019-02,7.67,Vilnius,Rasos
+2019-03,8.37,Vilnius,Rasos
+2019-04,8.8,Vilnius,Rasos
+2019-05,9.12,Vilnius,Rasos
+2019-06,9.38,Vilnius,Rasos
+2019-07,7.4,Vilnius,Rasos
+2019-08,10.58,Vilnius,Rasos
+2019-09,10.65,Vilnius,Rasos
+2019-10,8.96,Vilnius,Rasos
+2019-11,9,Vilnius,Rasos
+2019-12,8.93,Vilnius,Rasos
+2020-01,8.67,Vilnius,Rasos
+2020-02,9.05,Vilnius,Rasos
+2020-03,9.75,Vilnius,Rasos
+2020-04,9.77,Vilnius,Rasos
+2020-05,9.07,Vilnius,Rasos
+2020-06,9.81,Vilnius,Rasos
+2020-07,8.63,Vilnius,Rasos
+2020-08,8.69,Vilnius,Rasos
+2020-09,10.6,Vilnius,Rasos
+2020-10,8.9,Vilnius,Rasos
+2020-11,6.62,Vilnius,Rasos
+2020-12,5.99,Vilnius,Rasos
+2021-01,9.35,Vilnius,Rasos
+2021-02,10.9,Vilnius,Rasos
+2021-03,13.4,Vilnius,Rasos
+2021-04,14.65,Vilnius,Rasos
+2021-05,12.37,Vilnius,Rasos
+2021-09,10.54,Vilnius,Rasos
+2022-01,9.51,Vilnius,Rasos
+2022-02,10.89,Vilnius,Rasos
+2022-03,13.88,Vilnius,Rasos
+2022-08,14.88,Vilnius,Rasos
+2022-09,13.64,Vilnius,Rasos
+2022-10,10.87,Vilnius,Rasos
+2018-05,5.38,Vilnius,Salininkai
+2018-07,5.32,Vilnius,Salininkai
+2018-08,5.36,Vilnius,Salininkai
+2018-09,5.36,Vilnius,Salininkai
+2018-10,5.27,Vilnius,Salininkai
+2018-11,5.81,Vilnius,Salininkai
+2018-12,7.69,Vilnius,Salininkai
+2019-01,6.99,Vilnius,Salininkai
+2019-02,5.42,Vilnius,Salininkai
+2019-03,5.44,Vilnius,Salininkai
+2019-06,5.36,Vilnius,Salininkai
+2019-07,5.73,Vilnius,Salininkai
+2019-08,6.36,Vilnius,Salininkai
+2019-10,6.39,Vilnius,Salininkai
+2019-11,6.03,Vilnius,Salininkai
+2020-01,6.21,Vilnius,Salininkai
+2020-02,7.35,Vilnius,Salininkai
+2020-03,8.29,Vilnius,Salininkai
+2020-04,6.21,Vilnius,Salininkai
+2020-05,5.61,Vilnius,Salininkai
+2020-06,6.81,Vilnius,Salininkai
+2020-09,4.95,Vilnius,Salininkai
+2020-10,4.75,Vilnius,Salininkai
+2021-01,5.9,Vilnius,Salininkai
+2021-02,6.79,Vilnius,Salininkai
+2021-03,6.28,Vilnius,Salininkai
+2017-01,7.42,Vilnius,Santariškės
+2017-02,7.67,Vilnius,Santariškės
+2017-03,7.28,Vilnius,Santariškės
+2017-04,7.49,Vilnius,Santariškės
+2017-05,7.22,Vilnius,Santariškės
+2017-06,7.35,Vilnius,Santariškės
+2017-07,7.49,Vilnius,Santariškės
+2017-08,7.86,Vilnius,Santariškės
+2017-09,6.97,Vilnius,Santariškės
+2017-10,6.88,Vilnius,Santariškės
+2017-11,7.51,Vilnius,Santariškės
+2017-12,7.06,Vilnius,Santariškės
+2018-01,6.84,Vilnius,Santariškės
+2018-02,6.88,Vilnius,Santariškės
+2018-03,6.79,Vilnius,Santariškės
+2018-04,7.04,Vilnius,Santariškės
+2018-05,6.95,Vilnius,Santariškės
+2018-06,6.67,Vilnius,Santariškės
+2018-07,6.49,Vilnius,Santariškės
+2018-08,7.43,Vilnius,Santariškės
+2018-09,8.03,Vilnius,Santariškės
+2018-10,7.85,Vilnius,Santariškės
+2018-11,7.39,Vilnius,Santariškės
+2018-12,7.5,Vilnius,Santariškės
+2019-01,7.4,Vilnius,Santariškės
+2019-02,7.13,Vilnius,Santariškės
+2019-03,8.33,Vilnius,Santariškės
+2019-04,8.39,Vilnius,Santariškės
+2019-05,7.63,Vilnius,Santariškės
+2019-06,8.07,Vilnius,Santariškės
+2019-07,7.75,Vilnius,Santariškės
+2019-08,7.66,Vilnius,Santariškės
+2019-09,7.55,Vilnius,Santariškės
+2019-10,7.14,Vilnius,Santariškės
+2019-11,7.27,Vilnius,Santariškės
+2019-12,7.15,Vilnius,Santariškės
+2020-01,8.15,Vilnius,Santariškės
+2020-02,7.75,Vilnius,Santariškės
+2020-03,7.62,Vilnius,Santariškės
+2020-04,8.48,Vilnius,Santariškės
+2020-05,8.01,Vilnius,Santariškės
+2020-06,8.27,Vilnius,Santariškės
+2020-07,8.83,Vilnius,Santariškės
+2020-08,8.29,Vilnius,Santariškės
+2020-09,8.4,Vilnius,Santariškės
+2020-10,9.11,Vilnius,Santariškės
+2020-11,8.61,Vilnius,Santariškės
+2020-12,8.34,Vilnius,Santariškės
+2021-01,8.89,Vilnius,Santariškės
+2021-02,8.84,Vilnius,Santariškės
+2021-03,9.15,Vilnius,Santariškės
+2021-04,8.58,Vilnius,Santariškės
+2021-05,8.65,Vilnius,Santariškės
+2021-06,9.1,Vilnius,Santariškės
+2021-07,9.79,Vilnius,Santariškės
+2021-08,9.39,Vilnius,Santariškės
+2021-09,9.21,Vilnius,Santariškės
+2021-10,9.51,Vilnius,Santariškės
+2021-11,9.93,Vilnius,Santariškės
+2021-12,9.64,Vilnius,Santariškės
+2022-01,9.89,Vilnius,Santariškės
+2022-02,10.13,Vilnius,Santariškės
+2022-03,10.58,Vilnius,Santariškės
+2022-06,14.01,Vilnius,Santariškės
+2022-07,13.27,Vilnius,Santariškės
+2022-08,12.74,Vilnius,Santariškės
+2022-09,12.53,Vilnius,Santariškės
+2022-10,11.75,Vilnius,Santariškės
+2017-06,5.27,Vilnius,Saulėtekis
+2017-07,7.74,Vilnius,Saulėtekis
+2017-08,6.62,Vilnius,Saulėtekis
+2017-12,8.37,Vilnius,Saulėtekis
+2018-01,6.77,Vilnius,Saulėtekis
+2018-02,8.46,Vilnius,Saulėtekis
+2018-03,7.78,Vilnius,Saulėtekis
+2018-04,6.1,Vilnius,Saulėtekis
+2018-05,3.03,Vilnius,Saulėtekis
+2018-06,5.82,Vilnius,Saulėtekis
+2018-07,7.39,Vilnius,Saulėtekis
+2018-08,8.89,Vilnius,Saulėtekis
+2018-09,10.89,Vilnius,Saulėtekis
+2018-10,8.48,Vilnius,Saulėtekis
+2018-11,7.01,Vilnius,Saulėtekis
+2018-12,5.71,Vilnius,Saulėtekis
+2019-01,5.74,Vilnius,Saulėtekis
+2019-02,7.81,Vilnius,Saulėtekis
+2019-03,7.35,Vilnius,Saulėtekis
+2019-04,7.14,Vilnius,Saulėtekis
+2019-05,6.68,Vilnius,Saulėtekis
+2019-07,5.43,Vilnius,Saulėtekis
+2019-08,4.89,Vilnius,Saulėtekis
+2019-09,4.25,Vilnius,Saulėtekis
+2019-10,6.87,Vilnius,Saulėtekis
+2019-11,7.28,Vilnius,Saulėtekis
+2019-12,7.35,Vilnius,Saulėtekis
+2020-01,4.78,Vilnius,Saulėtekis
+2020-02,4.75,Vilnius,Saulėtekis
+2020-03,4.4,Vilnius,Saulėtekis
+2020-04,6.69,Vilnius,Saulėtekis
+2020-05,7.38,Vilnius,Saulėtekis
+2020-06,5.98,Vilnius,Saulėtekis
+2020-07,6.18,Vilnius,Saulėtekis
+2020-08,7.23,Vilnius,Saulėtekis
+2020-09,7.95,Vilnius,Saulėtekis
+2020-10,7.14,Vilnius,Saulėtekis
+2020-11,7.03,Vilnius,Saulėtekis
+2020-12,6.59,Vilnius,Saulėtekis
+2021-01,6.73,Vilnius,Saulėtekis
+2021-02,6.03,Vilnius,Saulėtekis
+2021-03,6.53,Vilnius,Saulėtekis
+2021-12,9.6,Vilnius,Saulėtekis
+2017-01,10.72,Vilnius,Senamiestis
+2017-02,10.85,Vilnius,Senamiestis
+2017-03,10.98,Vilnius,Senamiestis
+2017-04,11.21,Vilnius,Senamiestis
+2017-05,11.39,Vilnius,Senamiestis
+2017-06,11.59,Vilnius,Senamiestis
+2017-07,11.4,Vilnius,Senamiestis
+2017-08,11.22,Vilnius,Senamiestis
+2017-09,11.24,Vilnius,Senamiestis
+2017-10,11.22,Vilnius,Senamiestis
+2017-11,11.29,Vilnius,Senamiestis
+2017-12,11.26,Vilnius,Senamiestis
+2018-01,11.28,Vilnius,Senamiestis
+2018-02,11.33,Vilnius,Senamiestis
+2018-03,11.33,Vilnius,Senamiestis
+2018-04,11.27,Vilnius,Senamiestis
+2018-05,10.97,Vilnius,Senamiestis
+2018-06,11.07,Vilnius,Senamiestis
+2018-07,11.42,Vilnius,Senamiestis
+2018-08,11.61,Vilnius,Senamiestis
+2018-09,12.07,Vilnius,Senamiestis
+2018-10,11.98,Vilnius,Senamiestis
+2018-11,11.8,Vilnius,Senamiestis
+2018-12,11.82,Vilnius,Senamiestis
+2019-01,11.92,Vilnius,Senamiestis
+2019-02,11.99,Vilnius,Senamiestis
+2019-03,12.32,Vilnius,Senamiestis
+2019-04,12.52,Vilnius,Senamiestis
+2019-05,12.67,Vilnius,Senamiestis
+2019-06,12.33,Vilnius,Senamiestis
+2019-07,12.49,Vilnius,Senamiestis
+2019-08,12.48,Vilnius,Senamiestis
+2019-09,12.77,Vilnius,Senamiestis
+2019-10,12.52,Vilnius,Senamiestis
+2019-11,12.28,Vilnius,Senamiestis
+2019-12,12.54,Vilnius,Senamiestis
+2020-01,12.39,Vilnius,Senamiestis
+2020-02,12.6,Vilnius,Senamiestis
+2020-03,12.42,Vilnius,Senamiestis
+2020-04,11.47,Vilnius,Senamiestis
+2020-05,11.08,Vilnius,Senamiestis
+2020-06,11.24,Vilnius,Senamiestis
+2020-07,11.66,Vilnius,Senamiestis
+2020-08,12.01,Vilnius,Senamiestis
+2020-09,12.32,Vilnius,Senamiestis
+2020-10,12.35,Vilnius,Senamiestis
+2020-11,12.55,Vilnius,Senamiestis
+2020-12,12.98,Vilnius,Senamiestis
+2021-01,13.05,Vilnius,Senamiestis
+2021-02,13.14,Vilnius,Senamiestis
+2021-03,13.35,Vilnius,Senamiestis
+2021-04,14,Vilnius,Senamiestis
+2021-05,13.88,Vilnius,Senamiestis
+2021-06,14.12,Vilnius,Senamiestis
+2021-07,14.59,Vilnius,Senamiestis
+2021-08,14.77,Vilnius,Senamiestis
+2021-09,15.43,Vilnius,Senamiestis
+2021-10,15.76,Vilnius,Senamiestis
+2021-11,15.47,Vilnius,Senamiestis
+2021-12,15.82,Vilnius,Senamiestis
+2022-01,15.74,Vilnius,Senamiestis
+2022-02,15.37,Vilnius,Senamiestis
+2022-03,15.36,Vilnius,Senamiestis
+2022-04,15.22,Vilnius,Senamiestis
+2022-05,16.28,Vilnius,Senamiestis
+2022-06,17.93,Vilnius,Senamiestis
+2022-07,18.53,Vilnius,Senamiestis
+2022-08,17.99,Vilnius,Senamiestis
+2022-09,17.28,Vilnius,Senamiestis
+2022-10,16.56,Vilnius,Senamiestis
+2017-01,5.88,Vilnius,Šeškinė
+2017-02,5.9,Vilnius,Šeškinė
+2017-03,5.95,Vilnius,Šeškinė
+2017-04,6.28,Vilnius,Šeškinė
+2017-05,6.29,Vilnius,Šeškinė
+2017-06,6.37,Vilnius,Šeškinė
+2017-07,6.27,Vilnius,Šeškinė
+2017-08,6.36,Vilnius,Šeškinė
+2017-09,6.58,Vilnius,Šeškinė
+2017-10,6.29,Vilnius,Šeškinė
+2017-11,6.04,Vilnius,Šeškinė
+2017-12,5.71,Vilnius,Šeškinė
+2018-01,5.72,Vilnius,Šeškinė
+2018-02,6.3,Vilnius,Šeškinė
+2018-03,6.63,Vilnius,Šeškinė
+2018-04,6.45,Vilnius,Šeškinė
+2018-05,6.62,Vilnius,Šeškinė
+2018-06,6.69,Vilnius,Šeškinė
+2018-07,6.7,Vilnius,Šeškinė
+2018-08,6.75,Vilnius,Šeškinė
+2018-09,6.24,Vilnius,Šeškinė
+2018-10,6.21,Vilnius,Šeškinė
+2018-11,6.26,Vilnius,Šeškinė
+2018-12,6.25,Vilnius,Šeškinė
+2019-01,6.14,Vilnius,Šeškinė
+2019-02,6.51,Vilnius,Šeškinė
+2019-03,6.59,Vilnius,Šeškinė
+2019-04,6.61,Vilnius,Šeškinė
+2019-05,6.59,Vilnius,Šeškinė
+2019-06,7,Vilnius,Šeškinė
+2019-07,7.08,Vilnius,Šeškinė
+2019-08,7.39,Vilnius,Šeškinė
+2019-09,7.37,Vilnius,Šeškinė
+2019-10,7.19,Vilnius,Šeškinė
+2019-11,7.51,Vilnius,Šeškinė
+2019-12,7.61,Vilnius,Šeškinė
+2020-01,7.14,Vilnius,Šeškinė
+2020-02,7.26,Vilnius,Šeškinė
+2020-03,7.75,Vilnius,Šeškinė
+2020-04,7.14,Vilnius,Šeškinė
+2020-05,7.33,Vilnius,Šeškinė
+2020-06,7.61,Vilnius,Šeškinė
+2020-07,7.67,Vilnius,Šeškinė
+2020-08,7.36,Vilnius,Šeškinė
+2020-09,7.43,Vilnius,Šeškinė
+2020-10,7.4,Vilnius,Šeškinė
+2020-11,7.39,Vilnius,Šeškinė
+2020-12,7.51,Vilnius,Šeškinė
+2021-01,8.34,Vilnius,Šeškinė
+2021-02,8.78,Vilnius,Šeškinė
+2021-03,8.53,Vilnius,Šeškinė
+2021-04,8.56,Vilnius,Šeškinė
+2021-05,8.18,Vilnius,Šeškinė
+2021-06,8.99,Vilnius,Šeškinė
+2021-07,8.87,Vilnius,Šeškinė
+2021-08,9.06,Vilnius,Šeškinė
+2021-09,9.72,Vilnius,Šeškinė
+2021-10,10.13,Vilnius,Šeškinė
+2021-11,9.35,Vilnius,Šeškinė
+2021-12,9.36,Vilnius,Šeškinė
+2022-01,9.09,Vilnius,Šeškinė
+2022-02,9.31,Vilnius,Šeškinė
+2022-03,9.58,Vilnius,Šeškinė
+2022-04,11.36,Vilnius,Šeškinė
+2022-05,11.41,Vilnius,Šeškinė
+2022-06,12.52,Vilnius,Šeškinė
+2022-07,12.64,Vilnius,Šeškinė
+2022-08,12.07,Vilnius,Šeškinė
+2022-09,11.5,Vilnius,Šeškinė
+2022-10,11.13,Vilnius,Šeškinė
+2017-01,7.87,Vilnius,Šiaurės miestelis
+2017-02,7.96,Vilnius,Šiaurės miestelis
+2017-03,8.01,Vilnius,Šiaurės miestelis
+2017-04,7.76,Vilnius,Šiaurės miestelis
+2017-05,7.87,Vilnius,Šiaurės miestelis
+2017-06,7.75,Vilnius,Šiaurės miestelis
+2017-07,7.99,Vilnius,Šiaurės miestelis
+2017-08,8.14,Vilnius,Šiaurės miestelis
+2017-09,7.86,Vilnius,Šiaurės miestelis
+2017-10,7.82,Vilnius,Šiaurės miestelis
+2017-11,8.26,Vilnius,Šiaurės miestelis
+2017-12,7.62,Vilnius,Šiaurės miestelis
+2018-01,7.73,Vilnius,Šiaurės miestelis
+2018-02,7.74,Vilnius,Šiaurės miestelis
+2018-03,7.85,Vilnius,Šiaurės miestelis
+2018-04,7.89,Vilnius,Šiaurės miestelis
+2018-05,7.97,Vilnius,Šiaurės miestelis
+2018-06,8.03,Vilnius,Šiaurės miestelis
+2018-07,8,Vilnius,Šiaurės miestelis
+2018-08,8.24,Vilnius,Šiaurės miestelis
+2018-09,8.33,Vilnius,Šiaurės miestelis
+2018-10,8.7,Vilnius,Šiaurės miestelis
+2018-11,9.23,Vilnius,Šiaurės miestelis
+2018-12,9.04,Vilnius,Šiaurės miestelis
+2019-01,8.68,Vilnius,Šiaurės miestelis
+2019-02,8.49,Vilnius,Šiaurės miestelis
+2019-03,8.37,Vilnius,Šiaurės miestelis
+2019-04,8.15,Vilnius,Šiaurės miestelis
+2019-05,8.49,Vilnius,Šiaurės miestelis
+2019-06,8.27,Vilnius,Šiaurės miestelis
+2019-07,8.43,Vilnius,Šiaurės miestelis
+2019-08,8.46,Vilnius,Šiaurės miestelis
+2019-09,8.74,Vilnius,Šiaurės miestelis
+2019-10,8.95,Vilnius,Šiaurės miestelis
+2019-11,9.89,Vilnius,Šiaurės miestelis
+2019-12,9.34,Vilnius,Šiaurės miestelis
+2020-01,8.89,Vilnius,Šiaurės miestelis
+2020-02,9.06,Vilnius,Šiaurės miestelis
+2020-03,9.27,Vilnius,Šiaurės miestelis
+2020-04,8.55,Vilnius,Šiaurės miestelis
+2020-05,8.42,Vilnius,Šiaurės miestelis
+2020-06,8.81,Vilnius,Šiaurės miestelis
+2020-07,8.76,Vilnius,Šiaurės miestelis
+2020-08,8.88,Vilnius,Šiaurės miestelis
+2020-09,8.52,Vilnius,Šiaurės miestelis
+2020-10,8.65,Vilnius,Šiaurės miestelis
+2020-11,9.29,Vilnius,Šiaurės miestelis
+2020-12,9.48,Vilnius,Šiaurės miestelis
+2021-01,9.41,Vilnius,Šiaurės miestelis
+2021-02,8.94,Vilnius,Šiaurės miestelis
+2021-03,8.91,Vilnius,Šiaurės miestelis
+2021-04,8.69,Vilnius,Šiaurės miestelis
+2021-05,9.67,Vilnius,Šiaurės miestelis
+2021-06,9.24,Vilnius,Šiaurės miestelis
+2021-07,9.33,Vilnius,Šiaurės miestelis
+2021-08,9.47,Vilnius,Šiaurės miestelis
+2021-09,9.37,Vilnius,Šiaurės miestelis
+2021-10,9.52,Vilnius,Šiaurės miestelis
+2021-11,10.23,Vilnius,Šiaurės miestelis
+2021-12,9.97,Vilnius,Šiaurės miestelis
+2022-01,10.32,Vilnius,Šiaurės miestelis
+2022-02,10.44,Vilnius,Šiaurės miestelis
+2022-03,10.62,Vilnius,Šiaurės miestelis
+2022-04,11.99,Vilnius,Šiaurės miestelis
+2022-05,11.86,Vilnius,Šiaurės miestelis
+2022-06,13.28,Vilnius,Šiaurės miestelis
+2022-07,12.55,Vilnius,Šiaurės miestelis
+2022-08,13.53,Vilnius,Šiaurės miestelis
+2022-09,12.69,Vilnius,Šiaurės miestelis
+2022-10,12.23,Vilnius,Šiaurės miestelis
+2017-01,8.4,Vilnius,Šnipiškės
+2017-02,9.04,Vilnius,Šnipiškės
+2017-03,8.76,Vilnius,Šnipiškės
+2017-04,8.55,Vilnius,Šnipiškės
+2017-05,8.83,Vilnius,Šnipiškės
+2017-06,8.99,Vilnius,Šnipiškės
+2017-07,9.45,Vilnius,Šnipiškės
+2017-08,9.53,Vilnius,Šnipiškės
+2017-09,9.09,Vilnius,Šnipiškės
+2017-10,8.76,Vilnius,Šnipiškės
+2017-11,8.98,Vilnius,Šnipiškės
+2017-12,9.08,Vilnius,Šnipiškės
+2018-01,9.28,Vilnius,Šnipiškės
+2018-02,8.89,Vilnius,Šnipiškės
+2018-03,9.26,Vilnius,Šnipiškės
+2018-04,9.08,Vilnius,Šnipiškės
+2018-05,9.23,Vilnius,Šnipiškės
+2018-06,9.51,Vilnius,Šnipiškės
+2018-07,9.7,Vilnius,Šnipiškės
+2018-08,10,Vilnius,Šnipiškės
+2018-09,9.79,Vilnius,Šnipiškės
+2018-10,9.83,Vilnius,Šnipiškės
+2018-11,10.18,Vilnius,Šnipiškės
+2018-12,10.36,Vilnius,Šnipiškės
+2019-01,10.46,Vilnius,Šnipiškės
+2019-02,10.39,Vilnius,Šnipiškės
+2019-03,10.03,Vilnius,Šnipiškės
+2019-04,10.32,Vilnius,Šnipiškės
+2019-05,10.43,Vilnius,Šnipiškės
+2019-06,10.71,Vilnius,Šnipiškės
+2019-07,11.08,Vilnius,Šnipiškės
+2019-08,10.75,Vilnius,Šnipiškės
+2019-09,10.7,Vilnius,Šnipiškės
+2019-10,10.61,Vilnius,Šnipiškės
+2019-11,10.8,Vilnius,Šnipiškės
+2019-12,11.67,Vilnius,Šnipiškės
+2020-01,11.52,Vilnius,Šnipiškės
+2020-02,11.06,Vilnius,Šnipiškės
+2020-03,11.2,Vilnius,Šnipiškės
+2020-04,10.83,Vilnius,Šnipiškės
+2020-05,10.43,Vilnius,Šnipiškės
+2020-06,10.51,Vilnius,Šnipiškės
+2020-07,10.23,Vilnius,Šnipiškės
+2020-08,10.75,Vilnius,Šnipiškės
+2020-09,11.67,Vilnius,Šnipiškės
+2020-10,11.97,Vilnius,Šnipiškės
+2020-11,12.01,Vilnius,Šnipiškės
+2020-12,11.8,Vilnius,Šnipiškės
+2021-01,12.12,Vilnius,Šnipiškės
+2021-02,11.93,Vilnius,Šnipiškės
+2021-03,11.85,Vilnius,Šnipiškės
+2021-04,12.16,Vilnius,Šnipiškės
+2021-05,12.22,Vilnius,Šnipiškės
+2021-06,12.61,Vilnius,Šnipiškės
+2021-07,13.04,Vilnius,Šnipiškės
+2021-08,12.9,Vilnius,Šnipiškės
+2021-09,13.45,Vilnius,Šnipiškės
+2021-10,13.3,Vilnius,Šnipiškės
+2021-11,13.6,Vilnius,Šnipiškės
+2021-12,13.66,Vilnius,Šnipiškės
+2022-01,13.79,Vilnius,Šnipiškės
+2022-02,13.7,Vilnius,Šnipiškės
+2022-03,14.53,Vilnius,Šnipiškės
+2022-04,15.19,Vilnius,Šnipiškės
+2022-05,16.07,Vilnius,Šnipiškės
+2022-06,16.53,Vilnius,Šnipiškės
+2022-07,16.53,Vilnius,Šnipiškės
+2022-08,16.22,Vilnius,Šnipiškės
+2022-09,15.76,Vilnius,Šnipiškės
+2022-10,15.19,Vilnius,Šnipiškės
+2017-12,6.94,Vilnius,Tarandė
+2018-01,7.37,Vilnius,Tarandė
+2018-10,4.1,Vilnius,Tarandė
+2018-12,6.15,Vilnius,Tarandė
+2019-01,5.7,Vilnius,Tarandė
+2019-04,6,Vilnius,Tarandė
+2019-09,7.69,Vilnius,Tarandė
+2019-10,8.21,Vilnius,Tarandė
+2019-12,8.62,Vilnius,Tarandė
+2020-01,11.03,Vilnius,Tarandė
+2020-03,6.65,Vilnius,Tarandė
+2020-05,7.3,Vilnius,Tarandė
+2020-06,8.28,Vilnius,Tarandė
+2020-10,6.93,Vilnius,Tarandė
+2020-11,8.33,Vilnius,Tarandė
+2017-12,5.75,Vilnius,Trakų Vokė
+2018-01,5.92,Vilnius,Trakų Vokė
+2018-02,5.74,Vilnius,Trakų Vokė
+2018-03,5.9,Vilnius,Trakų Vokė
+2018-04,6.6,Vilnius,Trakų Vokė
+2018-05,6.48,Vilnius,Trakų Vokė
+2018-06,5.82,Vilnius,Trakų Vokė
+2018-07,5.78,Vilnius,Trakų Vokė
+2018-08,5.75,Vilnius,Trakų Vokė
+2018-09,5.96,Vilnius,Trakų Vokė
+2018-10,5.84,Vilnius,Trakų Vokė
+2018-12,5.56,Vilnius,Trakų Vokė
+2019-01,5.56,Vilnius,Trakų Vokė
+2019-02,5.56,Vilnius,Trakų Vokė
+2019-03,5.56,Vilnius,Trakų Vokė
+2019-04,5.69,Vilnius,Trakų Vokė
+2019-05,5.65,Vilnius,Trakų Vokė
+2019-08,5.56,Vilnius,Trakų Vokė
+2019-09,5.58,Vilnius,Trakų Vokė
+2019-10,5.52,Vilnius,Trakų Vokė
+2019-11,5.61,Vilnius,Trakų Vokė
+2019-12,6.34,Vilnius,Trakų Vokė
+2020-01,6.88,Vilnius,Trakų Vokė
+2020-02,6.91,Vilnius,Trakų Vokė
+2020-03,8.08,Vilnius,Trakų Vokė
+2020-04,7.87,Vilnius,Trakų Vokė
+2020-11,7.6,Vilnius,Trakų Vokė
+2020-12,5.8,Vilnius,Trakų Vokė
+2021-01,5.77,Vilnius,Trakų Vokė
+2018-03,9.6,Vilnius,Turniškės
+2018-04,8.95,Vilnius,Turniškės
+2018-05,8.1,Vilnius,Turniškės
+2018-06,7.5,Vilnius,Turniškės
+2018-10,9.88,Vilnius,Turniškės
+2018-12,9.72,Vilnius,Turniškės
+2019-05,13.81,Vilnius,Turniškės
+2019-06,12.88,Vilnius,Turniškės
+2020-05,9.12,Vilnius,Turniškės
+2020-06,10.14,Vilnius,Turniškės
+2020-07,10.68,Vilnius,Turniškės
+2020-10,10.97,Vilnius,Turniškės
+2020-11,11.79,Vilnius,Turniškės
+2021-01,10.97,Vilnius,Turniškės
+2021-02,10.97,Vilnius,Turniškės
+2021-03,10.63,Vilnius,Turniškės
+2017-01,9.22,Vilnius,Užupis
+2017-02,9.33,Vilnius,Užupis
+2017-03,10.72,Vilnius,Užupis
+2017-04,11.52,Vilnius,Užupis
+2017-05,11.14,Vilnius,Užupis
+2017-06,10.9,Vilnius,Užupis
+2017-07,10.98,Vilnius,Užupis
+2017-08,11.81,Vilnius,Užupis
+2017-09,11.12,Vilnius,Užupis
+2017-10,11.86,Vilnius,Užupis
+2017-11,11.44,Vilnius,Užupis
+2017-12,11.1,Vilnius,Užupis
+2018-01,10.53,Vilnius,Užupis
+2018-02,10.13,Vilnius,Užupis
+2018-03,10.57,Vilnius,Užupis
+2018-04,11.04,Vilnius,Užupis
+2018-05,10.87,Vilnius,Užupis
+2018-06,10.3,Vilnius,Užupis
+2018-07,11.62,Vilnius,Užupis
+2018-08,11.95,Vilnius,Užupis
+2018-09,11.93,Vilnius,Užupis
+2018-10,11.94,Vilnius,Užupis
+2018-11,11.88,Vilnius,Užupis
+2018-12,11.66,Vilnius,Užupis
+2019-01,12.34,Vilnius,Užupis
+2019-02,13.18,Vilnius,Užupis
+2019-03,12.66,Vilnius,Užupis
+2019-04,13.05,Vilnius,Užupis
+2019-05,12.04,Vilnius,Užupis
+2019-06,11.24,Vilnius,Užupis
+2019-07,13.34,Vilnius,Užupis
+2019-08,13.83,Vilnius,Užupis
+2019-09,12.59,Vilnius,Užupis
+2019-10,12.39,Vilnius,Užupis
+2019-11,12.78,Vilnius,Užupis
+2019-12,12.29,Vilnius,Užupis
+2020-01,11.86,Vilnius,Užupis
+2020-02,11.86,Vilnius,Užupis
+2020-03,12.72,Vilnius,Užupis
+2020-04,12.24,Vilnius,Užupis
+2020-05,11.64,Vilnius,Užupis
+2020-06,12.51,Vilnius,Užupis
+2020-07,12.97,Vilnius,Užupis
+2020-08,13.52,Vilnius,Užupis
+2020-09,13.73,Vilnius,Užupis
+2020-10,13.71,Vilnius,Užupis
+2020-11,13.31,Vilnius,Užupis
+2020-12,13.02,Vilnius,Užupis
+2021-01,13.41,Vilnius,Užupis
+2021-02,13.12,Vilnius,Užupis
+2021-03,13.28,Vilnius,Užupis
+2021-04,13.5,Vilnius,Užupis
+2021-05,13.36,Vilnius,Užupis
+2021-06,14.14,Vilnius,Užupis
+2021-07,14.74,Vilnius,Užupis
+2021-08,15.28,Vilnius,Užupis
+2021-09,16.73,Vilnius,Užupis
+2021-10,16.76,Vilnius,Užupis
+2021-11,16.7,Vilnius,Užupis
+2021-12,16.56,Vilnius,Užupis
+2022-01,15.98,Vilnius,Užupis
+2022-02,16.12,Vilnius,Užupis
+2022-03,15.47,Vilnius,Užupis
+2022-04,16.52,Vilnius,Užupis
+2022-05,18.96,Vilnius,Užupis
+2022-06,19.58,Vilnius,Užupis
+2022-07,19.93,Vilnius,Užupis
+2022-08,19.66,Vilnius,Užupis
+2022-09,17.91,Vilnius,Užupis
+2022-10,16.5,Vilnius,Užupis
+2017-01,9.58,Vilnius,Valakampiai
+2017-02,9.34,Vilnius,Valakampiai
+2017-03,9.96,Vilnius,Valakampiai
+2017-04,10.34,Vilnius,Valakampiai
+2017-05,10.39,Vilnius,Valakampiai
+2017-12,7.66,Vilnius,Valakampiai
+2018-01,8.7,Vilnius,Valakampiai
+2018-02,9.11,Vilnius,Valakampiai
+2018-03,9.6,Vilnius,Valakampiai
+2018-04,9.52,Vilnius,Valakampiai
+2018-05,10.21,Vilnius,Valakampiai
+2018-06,10.17,Vilnius,Valakampiai
+2018-07,10.8,Vilnius,Valakampiai
+2018-08,10.56,Vilnius,Valakampiai
+2018-09,10.33,Vilnius,Valakampiai
+2018-10,9.37,Vilnius,Valakampiai
+2018-11,8.86,Vilnius,Valakampiai
+2018-12,10.3,Vilnius,Valakampiai
+2019-01,11.32,Vilnius,Valakampiai
+2019-03,9.96,Vilnius,Valakampiai
+2019-07,10.53,Vilnius,Valakampiai
+2019-08,11.44,Vilnius,Valakampiai
+2019-09,10.04,Vilnius,Valakampiai
+2019-10,10.97,Vilnius,Valakampiai
+2019-11,11.58,Vilnius,Valakampiai
+2019-12,10.23,Vilnius,Valakampiai
+2020-01,9.7,Vilnius,Valakampiai
+2020-02,9.78,Vilnius,Valakampiai
+2020-03,11.17,Vilnius,Valakampiai
+2020-04,9.23,Vilnius,Valakampiai
+2020-05,9.86,Vilnius,Valakampiai
+2020-06,9.08,Vilnius,Valakampiai
+2020-07,10.3,Vilnius,Valakampiai
+2020-08,10.13,Vilnius,Valakampiai
+2020-09,11.39,Vilnius,Valakampiai
+2020-10,10.69,Vilnius,Valakampiai
+2020-11,13.52,Vilnius,Valakampiai
+2020-12,13.3,Vilnius,Valakampiai
+2021-01,13.48,Vilnius,Valakampiai
+2021-02,14.92,Vilnius,Valakampiai
+2021-03,17.85,Vilnius,Valakampiai
+2022-09,15.55,Vilnius,Valakampiai
+2022-10,14.81,Vilnius,Valakampiai
+2017-01,9.51,Vilnius,Verkiai
+2017-03,12.86,Vilnius,Verkiai
+2017-04,10.98,Vilnius,Verkiai
+2017-05,11.32,Vilnius,Verkiai
+2017-06,18.4,Vilnius,Verkiai
+2017-07,10.82,Vilnius,Verkiai
+2017-08,9.91,Vilnius,Verkiai
+2017-09,11.16,Vilnius,Verkiai
+2017-10,11.85,Vilnius,Verkiai
+2017-11,10.96,Vilnius,Verkiai
+2017-12,9.74,Vilnius,Verkiai
+2018-01,9.67,Vilnius,Verkiai
+2018-02,10.81,Vilnius,Verkiai
+2018-03,11.28,Vilnius,Verkiai
+2018-04,11.36,Vilnius,Verkiai
+2018-05,10.02,Vilnius,Verkiai
+2018-06,9.85,Vilnius,Verkiai
+2018-07,9.64,Vilnius,Verkiai
+2018-08,10.37,Vilnius,Verkiai
+2018-09,10.03,Vilnius,Verkiai
+2018-10,10.54,Vilnius,Verkiai
+2018-11,11.64,Vilnius,Verkiai
+2018-12,10.74,Vilnius,Verkiai
+2019-01,13.25,Vilnius,Verkiai
+2019-02,12.72,Vilnius,Verkiai
+2019-03,11.8,Vilnius,Verkiai
+2019-04,10.91,Vilnius,Verkiai
+2019-05,10.72,Vilnius,Verkiai
+2019-06,12.2,Vilnius,Verkiai
+2019-07,13.02,Vilnius,Verkiai
+2019-08,11.92,Vilnius,Verkiai
+2019-09,11.58,Vilnius,Verkiai
+2019-10,10.19,Vilnius,Verkiai
+2019-11,8.38,Vilnius,Verkiai
+2019-12,8.35,Vilnius,Verkiai
+2020-01,7.59,Vilnius,Verkiai
+2020-02,6.79,Vilnius,Verkiai
+2020-03,10.42,Vilnius,Verkiai
+2020-04,10.01,Vilnius,Verkiai
+2020-05,8.91,Vilnius,Verkiai
+2020-07,7.89,Vilnius,Verkiai
+2020-08,11.05,Vilnius,Verkiai
+2020-09,10.22,Vilnius,Verkiai
+2020-10,10.46,Vilnius,Verkiai
+2020-11,9.67,Vilnius,Verkiai
+2020-12,9.17,Vilnius,Verkiai
+2021-01,12.14,Vilnius,Verkiai
+2021-03,11.24,Vilnius,Verkiai
+2022-07,16.02,Vilnius,Verkiai
+2022-08,17.16,Vilnius,Verkiai
+2022-09,16.51,Vilnius,Verkiai
+2022-10,15.97,Vilnius,Verkiai
+2017-03,9.27,Vilnius,Vilkpėdė
+2017-05,7.48,Vilnius,Vilkpėdė
+2017-06,8.45,Vilnius,Vilkpėdė
+2017-07,10.02,Vilnius,Vilkpėdė
+2017-08,9.97,Vilnius,Vilkpėdė
+2017-09,8.46,Vilnius,Vilkpėdė
+2017-10,9.48,Vilnius,Vilkpėdė
+2017-11,8.85,Vilnius,Vilkpėdė
+2017-12,8.11,Vilnius,Vilkpėdė
+2018-01,6.38,Vilnius,Vilkpėdė
+2018-02,7.54,Vilnius,Vilkpėdė
+2018-03,8.7,Vilnius,Vilkpėdė
+2018-04,10.2,Vilnius,Vilkpėdė
+2018-05,9.07,Vilnius,Vilkpėdė
+2018-06,8.27,Vilnius,Vilkpėdė
+2018-07,7.51,Vilnius,Vilkpėdė
+2018-08,5.08,Vilnius,Vilkpėdė
+2018-10,7.86,Vilnius,Vilkpėdė
+2018-11,8.63,Vilnius,Vilkpėdė
+2018-12,10.42,Vilnius,Vilkpėdė
+2019-01,9.51,Vilnius,Vilkpėdė
+2019-02,9.68,Vilnius,Vilkpėdė
+2019-03,8.03,Vilnius,Vilkpėdė
+2019-04,8.35,Vilnius,Vilkpėdė
+2019-05,9.84,Vilnius,Vilkpėdė
+2019-06,10.86,Vilnius,Vilkpėdė
+2019-07,9.74,Vilnius,Vilkpėdė
+2019-08,5.86,Vilnius,Vilkpėdė
+2019-09,6.23,Vilnius,Vilkpėdė
+2019-10,7.63,Vilnius,Vilkpėdė
+2019-11,9.3,Vilnius,Vilkpėdė
+2019-12,8.5,Vilnius,Vilkpėdė
+2020-01,10.07,Vilnius,Vilkpėdė
+2020-02,9.33,Vilnius,Vilkpėdė
+2020-04,8.35,Vilnius,Vilkpėdė
+2020-05,8.26,Vilnius,Vilkpėdė
+2020-06,7.34,Vilnius,Vilkpėdė
+2020-07,7.44,Vilnius,Vilkpėdė
+2020-08,6.9,Vilnius,Vilkpėdė
+2020-09,8.51,Vilnius,Vilkpėdė
+2020-10,9.1,Vilnius,Vilkpėdė
+2020-11,9.25,Vilnius,Vilkpėdė
+2020-12,9.47,Vilnius,Vilkpėdė
+2021-01,8.85,Vilnius,Vilkpėdė
+2021-02,8.58,Vilnius,Vilkpėdė
+2021-03,9.84,Vilnius,Vilkpėdė
+2021-04,9.7,Vilnius,Vilkpėdė
+2021-05,6.51,Vilnius,Vilkpėdė
+2021-09,10.43,Vilnius,Vilkpėdė
+2022-01,11.81,Vilnius,Vilkpėdė
+2022-02,11.98,Vilnius,Vilkpėdė
+2022-03,13.05,Vilnius,Vilkpėdė
+2022-06,13.1,Vilnius,Vilkpėdė
+2022-08,12.91,Vilnius,Vilkpėdė
+2022-09,14.71,Vilnius,Vilkpėdė
+2022-10,12.72,Vilnius,Vilkpėdė
+2017-01,5.66,Vilnius,Viršuliškės
+2017-02,5.95,Vilnius,Viršuliškės
+2017-03,6,Vilnius,Viršuliškės
+2017-04,6.22,Vilnius,Viršuliškės
+2017-05,6.25,Vilnius,Viršuliškės
+2017-06,6.43,Vilnius,Viršuliškės
+2017-07,6.98,Vilnius,Viršuliškės
+2017-08,7.04,Vilnius,Viršuliškės
+2017-09,7.28,Vilnius,Viršuliškės
+2017-10,6.65,Vilnius,Viršuliškės
+2017-11,6.33,Vilnius,Viršuliškės
+2017-12,6.67,Vilnius,Viršuliškės
+2018-01,6.99,Vilnius,Viršuliškės
+2018-02,6.54,Vilnius,Viršuliškės
+2018-03,6.59,Vilnius,Viršuliškės
+2018-04,6.12,Vilnius,Viršuliškės
+2018-05,6.1,Vilnius,Viršuliškės
+2018-06,6.26,Vilnius,Viršuliškės
+2018-07,6.75,Vilnius,Viršuliškės
+2018-08,6.73,Vilnius,Viršuliškės
+2018-09,6.39,Vilnius,Viršuliškės
+2018-10,6.6,Vilnius,Viršuliškės
+2018-11,6.34,Vilnius,Viršuliškės
+2018-12,6.71,Vilnius,Viršuliškės
+2019-01,6.32,Vilnius,Viršuliškės
+2019-02,6.29,Vilnius,Viršuliškės
+2019-03,7.19,Vilnius,Viršuliškės
+2019-04,6.75,Vilnius,Viršuliškės
+2019-05,6.88,Vilnius,Viršuliškės
+2019-06,6.96,Vilnius,Viršuliškės
+2019-07,6.86,Vilnius,Viršuliškės
+2019-08,7.55,Vilnius,Viršuliškės
+2019-09,7.69,Vilnius,Viršuliškės
+2019-10,7.92,Vilnius,Viršuliškės
+2019-11,8.67,Vilnius,Viršuliškės
+2019-12,6.9,Vilnius,Viršuliškės
+2020-01,7.25,Vilnius,Viršuliškės
+2020-02,7.99,Vilnius,Viršuliškės
+2020-03,7.94,Vilnius,Viršuliškės
+2020-04,7.26,Vilnius,Viršuliškės
+2020-05,7.04,Vilnius,Viršuliškės
+2020-06,7.58,Vilnius,Viršuliškės
+2020-07,7.95,Vilnius,Viršuliškės
+2020-08,7.55,Vilnius,Viršuliškės
+2020-09,7.3,Vilnius,Viršuliškės
+2020-10,8.3,Vilnius,Viršuliškės
+2020-11,8.34,Vilnius,Viršuliškės
+2020-12,8.65,Vilnius,Viršuliškės
+2021-01,8.19,Vilnius,Viršuliškės
+2021-02,8.29,Vilnius,Viršuliškės
+2021-03,8.91,Vilnius,Viršuliškės
+2021-04,8.32,Vilnius,Viršuliškės
+2021-05,7.85,Vilnius,Viršuliškės
+2021-06,8.55,Vilnius,Viršuliškės
+2021-07,9.22,Vilnius,Viršuliškės
+2021-08,8.85,Vilnius,Viršuliškės
+2021-09,8.68,Vilnius,Viršuliškės
+2021-10,8.86,Vilnius,Viršuliškės
+2021-11,8.79,Vilnius,Viršuliškės
+2021-12,9.67,Vilnius,Viršuliškės
+2022-01,9.62,Vilnius,Viršuliškės
+2022-02,9.72,Vilnius,Viršuliškės
+2022-03,9.91,Vilnius,Viršuliškės
+2022-04,10.78,Vilnius,Viršuliškės
+2022-05,11.87,Vilnius,Viršuliškės
+2022-06,13.23,Vilnius,Viršuliškės
+2022-07,12.77,Vilnius,Viršuliškės
+2022-08,12.36,Vilnius,Viršuliškės
+2022-09,11.81,Vilnius,Viršuliškės
+2022-10,11.01,Vilnius,Viršuliškės
+2017-05,6.53,Vilnius,Visoriai
+2017-06,7.41,Vilnius,Visoriai
+2017-08,5.08,Vilnius,Visoriai
+2017-09,5.98,Vilnius,Visoriai
+2017-10,5.79,Vilnius,Visoriai
+2017-11,6.17,Vilnius,Visoriai
+2017-12,5.78,Vilnius,Visoriai
+2018-01,5.79,Vilnius,Visoriai
+2018-02,6.28,Vilnius,Visoriai
+2018-03,6.17,Vilnius,Visoriai
+2018-04,6.9,Vilnius,Visoriai
+2018-05,7.37,Vilnius,Visoriai
+2018-06,7.29,Vilnius,Visoriai
+2018-07,8.81,Vilnius,Visoriai
+2018-08,8.59,Vilnius,Visoriai
+2018-09,8.98,Vilnius,Visoriai
+2018-10,8.74,Vilnius,Visoriai
+2018-11,8.5,Vilnius,Visoriai
+2018-12,7.63,Vilnius,Visoriai
+2019-01,7.53,Vilnius,Visoriai
+2019-02,6.66,Vilnius,Visoriai
+2019-03,7.43,Vilnius,Visoriai
+2019-04,7.2,Vilnius,Visoriai
+2019-05,7.75,Vilnius,Visoriai
+2019-06,8.06,Vilnius,Visoriai
+2019-07,7.32,Vilnius,Visoriai
+2019-08,6.83,Vilnius,Visoriai
+2019-09,7.67,Vilnius,Visoriai
+2019-10,7.5,Vilnius,Visoriai
+2019-11,9,Vilnius,Visoriai
+2019-12,11.12,Vilnius,Visoriai
+2020-02,6.24,Vilnius,Visoriai
+2020-03,6.92,Vilnius,Visoriai
+2020-04,8,Vilnius,Visoriai
+2020-05,7.81,Vilnius,Visoriai
+2020-06,8.72,Vilnius,Visoriai
+2020-07,8.29,Vilnius,Visoriai
+2020-08,7.62,Vilnius,Visoriai
+2020-09,8.03,Vilnius,Visoriai
+2020-10,8.79,Vilnius,Visoriai
+2020-11,9.63,Vilnius,Visoriai
+2020-12,9.46,Vilnius,Visoriai
+2021-01,8.44,Vilnius,Visoriai
+2021-02,9.58,Vilnius,Visoriai
+2021-03,9.47,Vilnius,Visoriai
+2021-04,8.86,Vilnius,Visoriai
+2021-08,9.41,Vilnius,Visoriai
+2022-08,12.7,Vilnius,Visoriai
+2022-09,13.66,Vilnius,Visoriai
+2018-01,4.7,Vilnius,Zujūnai
+2018-02,5.96,Vilnius,Zujūnai
+2018-12,6.8,Vilnius,Zujūnai
+2019-04,9.26,Vilnius,Zujūnai
+2019-07,5.69,Vilnius,Zujūnai
+2020-05,3.75,Vilnius,Zujūnai
+2020-06,3.75,Vilnius,Zujūnai
+2020-10,10.31,Vilnius,Zujūnai
+2020-11,8.65,Vilnius,Zujūnai
+2020-12,7.81,Vilnius,Zujūnai
+2021-02,8.61,Vilnius,Zujūnai
+2021-03,8.07,Vilnius,Zujūnai
+2017-03,4.92,Vilnius,Žemieji Paneriai
+2017-04,5.03,Vilnius,Žemieji Paneriai
+2017-06,4.93,Vilnius,Žemieji Paneriai
+2017-07,6.14,Vilnius,Žemieji Paneriai
+2017-08,5.71,Vilnius,Žemieji Paneriai
+2017-09,5.53,Vilnius,Žemieji Paneriai
+2017-11,4.94,Vilnius,Žemieji Paneriai
+2017-12,5.33,Vilnius,Žemieji Paneriai
+2018-01,4.94,Vilnius,Žemieji Paneriai
+2018-02,4.77,Vilnius,Žemieji Paneriai
+2018-03,5.13,Vilnius,Žemieji Paneriai
+2018-04,5.18,Vilnius,Žemieji Paneriai
+2018-05,5.12,Vilnius,Žemieji Paneriai
+2018-06,5.92,Vilnius,Žemieji Paneriai
+2018-07,5.67,Vilnius,Žemieji Paneriai
+2018-08,4.88,Vilnius,Žemieji Paneriai
+2018-09,5.89,Vilnius,Žemieji Paneriai
+2018-10,6.24,Vilnius,Žemieji Paneriai
+2018-11,6.5,Vilnius,Žemieji Paneriai
+2018-12,5.79,Vilnius,Žemieji Paneriai
+2019-01,5.34,Vilnius,Žemieji Paneriai
+2019-03,6.91,Vilnius,Žemieji Paneriai
+2019-04,8.2,Vilnius,Žemieji Paneriai
+2019-05,6.38,Vilnius,Žemieji Paneriai
+2019-06,6.86,Vilnius,Žemieji Paneriai
+2019-07,7.87,Vilnius,Žemieji Paneriai
+2019-08,7.13,Vilnius,Žemieji Paneriai
+2019-09,7.18,Vilnius,Žemieji Paneriai
+2019-10,6.66,Vilnius,Žemieji Paneriai
+2019-11,5.87,Vilnius,Žemieji Paneriai
+2019-12,5.61,Vilnius,Žemieji Paneriai
+2020-01,6.99,Vilnius,Žemieji Paneriai
+2020-02,6.81,Vilnius,Žemieji Paneriai
+2020-03,6.17,Vilnius,Žemieji Paneriai
+2020-04,6.68,Vilnius,Žemieji Paneriai
+2020-05,6.33,Vilnius,Žemieji Paneriai
+2020-06,5.85,Vilnius,Žemieji Paneriai
+2020-07,6.05,Vilnius,Žemieji Paneriai
+2020-08,6.4,Vilnius,Žemieji Paneriai
+2020-09,6.2,Vilnius,Žemieji Paneriai
+2020-10,6.68,Vilnius,Žemieji Paneriai
+2020-11,5.92,Vilnius,Žemieji Paneriai
+2020-12,6.3,Vilnius,Žemieji Paneriai
+2021-01,7.68,Vilnius,Žemieji Paneriai
+2021-02,10.2,Vilnius,Žemieji Paneriai
+2021-03,10.86,Vilnius,Žemieji Paneriai
+2021-09,9.14,Vilnius,Žemieji Paneriai
+2021-10,8.63,Vilnius,Žemieji Paneriai
+2021-11,9,Vilnius,Žemieji Paneriai
+2021-12,10.73,Vilnius,Žemieji Paneriai
+2022-01,9.38,Vilnius,Žemieji Paneriai
+2022-02,8.83,Vilnius,Žemieji Paneriai
+2022-03,9.58,Vilnius,Žemieji Paneriai
+2022-07,10.74,Vilnius,Žemieji Paneriai
+2022-08,11.67,Vilnius,Žemieji Paneriai
+2022-09,11.32,Vilnius,Žemieji Paneriai
+2022-10,11.17,Vilnius,Žemieji Paneriai
+2017-01,7.59,Vilnius,Žirmūnai
+2017-02,7.7,Vilnius,Žirmūnai
+2017-03,7.83,Vilnius,Žirmūnai
+2017-04,7.98,Vilnius,Žirmūnai
+2017-05,7.46,Vilnius,Žirmūnai
+2017-06,7.89,Vilnius,Žirmūnai
+2017-07,8,Vilnius,Žirmūnai
+2017-08,7.75,Vilnius,Žirmūnai
+2017-09,7.83,Vilnius,Žirmūnai
+2017-10,7.55,Vilnius,Žirmūnai
+2017-11,7.89,Vilnius,Žirmūnai
+2017-12,7.94,Vilnius,Žirmūnai
+2018-01,8.29,Vilnius,Žirmūnai
+2018-02,8.37,Vilnius,Žirmūnai
+2018-03,8.6,Vilnius,Žirmūnai
+2018-04,8.42,Vilnius,Žirmūnai
+2018-05,8.56,Vilnius,Žirmūnai
+2018-06,8.57,Vilnius,Žirmūnai
+2018-07,8.73,Vilnius,Žirmūnai
+2018-08,9.11,Vilnius,Žirmūnai
+2018-09,8.6,Vilnius,Žirmūnai
+2018-10,9.02,Vilnius,Žirmūnai
+2018-11,9.9,Vilnius,Žirmūnai
+2018-12,10.14,Vilnius,Žirmūnai
+2019-01,8.98,Vilnius,Žirmūnai
+2019-02,9.14,Vilnius,Žirmūnai
+2019-03,9.52,Vilnius,Žirmūnai
+2019-04,9.23,Vilnius,Žirmūnai
+2019-05,9.11,Vilnius,Žirmūnai
+2019-06,8.96,Vilnius,Žirmūnai
+2019-07,9.3,Vilnius,Žirmūnai
+2019-08,9.33,Vilnius,Žirmūnai
+2019-09,9.03,Vilnius,Žirmūnai
+2019-10,9.07,Vilnius,Žirmūnai
+2019-11,9.45,Vilnius,Žirmūnai
+2019-12,9.01,Vilnius,Žirmūnai
+2020-01,9.02,Vilnius,Žirmūnai
+2020-02,9.14,Vilnius,Žirmūnai
+2020-03,9.28,Vilnius,Žirmūnai
+2020-04,9.39,Vilnius,Žirmūnai
+2020-05,9.12,Vilnius,Žirmūnai
+2020-06,8.81,Vilnius,Žirmūnai
+2020-07,8.84,Vilnius,Žirmūnai
+2020-08,9.57,Vilnius,Žirmūnai
+2020-09,9.14,Vilnius,Žirmūnai
+2020-10,9.09,Vilnius,Žirmūnai
+2020-11,8.58,Vilnius,Žirmūnai
+2020-12,8.54,Vilnius,Žirmūnai
+2021-01,9.5,Vilnius,Žirmūnai
+2021-02,9.51,Vilnius,Žirmūnai
+2021-03,9.66,Vilnius,Žirmūnai
+2021-04,9.6,Vilnius,Žirmūnai
+2021-05,9.49,Vilnius,Žirmūnai
+2021-06,10.19,Vilnius,Žirmūnai
+2021-07,10.69,Vilnius,Žirmūnai
+2021-08,10.91,Vilnius,Žirmūnai
+2021-09,11,Vilnius,Žirmūnai
+2021-10,10.59,Vilnius,Žirmūnai
+2021-11,10.52,Vilnius,Žirmūnai
+2021-12,11.19,Vilnius,Žirmūnai
+2022-01,11.08,Vilnius,Žirmūnai
+2022-02,11.08,Vilnius,Žirmūnai
+2022-03,11.97,Vilnius,Žirmūnai
+2022-04,12.09,Vilnius,Žirmūnai
+2022-05,13.24,Vilnius,Žirmūnai
+2022-06,13.88,Vilnius,Žirmūnai
+2022-07,14.83,Vilnius,Žirmūnai
+2022-08,14.82,Vilnius,Žirmūnai
+2022-09,13.16,Vilnius,Žirmūnai
+2022-10,11.98,Vilnius,Žirmūnai
+2017-01,10.22,Vilnius,Žvėrynas
+2017-02,10.22,Vilnius,Žvėrynas
+2017-03,10.13,Vilnius,Žvėrynas
+2017-04,9.98,Vilnius,Žvėrynas
+2017-05,9.76,Vilnius,Žvėrynas
+2017-06,10.15,Vilnius,Žvėrynas
+2017-07,10.37,Vilnius,Žvėrynas
+2017-08,10.51,Vilnius,Žvėrynas
+2017-09,10.71,Vilnius,Žvėrynas
+2017-10,10.55,Vilnius,Žvėrynas
+2017-11,10.84,Vilnius,Žvėrynas
+2017-12,10.47,Vilnius,Žvėrynas
+2018-01,10.3,Vilnius,Žvėrynas
+2018-02,10.63,Vilnius,Žvėrynas
+2018-03,11.03,Vilnius,Žvėrynas
+2018-04,10.69,Vilnius,Žvėrynas
+2018-05,10.15,Vilnius,Žvėrynas
+2018-06,10.15,Vilnius,Žvėrynas
+2018-07,10.15,Vilnius,Žvėrynas
+2018-08,9.83,Vilnius,Žvėrynas
+2018-09,9.84,Vilnius,Žvėrynas
+2018-10,10.42,Vilnius,Žvėrynas
+2018-11,10.62,Vilnius,Žvėrynas
+2018-12,11.06,Vilnius,Žvėrynas
+2019-01,11.67,Vilnius,Žvėrynas
+2019-02,11.92,Vilnius,Žvėrynas
+2019-03,11.31,Vilnius,Žvėrynas
+2019-04,10.71,Vilnius,Žvėrynas
+2019-05,10.8,Vilnius,Žvėrynas
+2019-06,11.04,Vilnius,Žvėrynas
+2019-07,11.55,Vilnius,Žvėrynas
+2019-08,11.16,Vilnius,Žvėrynas
+2019-09,10.76,Vilnius,Žvėrynas
+2019-10,11.11,Vilnius,Žvėrynas
+2019-11,12.04,Vilnius,Žvėrynas
+2019-12,11.75,Vilnius,Žvėrynas
+2020-01,11.64,Vilnius,Žvėrynas
+2020-02,12.3,Vilnius,Žvėrynas
+2020-03,12.18,Vilnius,Žvėrynas
+2020-04,12.15,Vilnius,Žvėrynas
+2020-05,11.67,Vilnius,Žvėrynas
+2020-06,11.27,Vilnius,Žvėrynas
+2020-07,11.26,Vilnius,Žvėrynas
+2020-08,11.91,Vilnius,Žvėrynas
+2020-09,11.69,Vilnius,Žvėrynas
+2020-10,11.23,Vilnius,Žvėrynas
+2020-11,11.06,Vilnius,Žvėrynas
+2020-12,11.52,Vilnius,Žvėrynas
+2021-01,11.68,Vilnius,Žvėrynas
+2021-02,11.95,Vilnius,Žvėrynas
+2021-03,11.86,Vilnius,Žvėrynas
+2021-04,11.61,Vilnius,Žvėrynas
+2021-05,11.82,Vilnius,Žvėrynas
+2021-06,12.36,Vilnius,Žvėrynas
+2021-07,12.78,Vilnius,Žvėrynas
+2021-08,12.6,Vilnius,Žvėrynas
+2021-09,13.13,Vilnius,Žvėrynas
+2021-10,14.45,Vilnius,Žvėrynas
+2021-11,13.75,Vilnius,Žvėrynas
+2021-12,13.89,Vilnius,Žvėrynas
+2022-01,14.06,Vilnius,Žvėrynas
+2022-02,13.9,Vilnius,Žvėrynas
+2022-03,14.09,Vilnius,Žvėrynas
+2022-04,15,Vilnius,Žvėrynas
+2022-05,16.24,Vilnius,Žvėrynas
+2022-06,17.46,Vilnius,Žvėrynas
+2022-07,18.17,Vilnius,Žvėrynas
+2022-08,17.26,Vilnius,Žvėrynas
+2022-09,15.77,Vilnius,Žvėrynas
+2022-10,15.2,Vilnius,Žvėrynas
+2017-01,5.52,Kaunas,Aleksotas
+2017-02,5.32,Kaunas,Aleksotas
+2017-03,4.54,Kaunas,Aleksotas
+2017-08,5.35,Kaunas,Aleksotas
+2017-09,5.46,Kaunas,Aleksotas
+2017-10,6.21,Kaunas,Aleksotas
+2017-11,6.03,Kaunas,Aleksotas
+2017-12,5.98,Kaunas,Aleksotas
+2018-01,5.24,Kaunas,Aleksotas
+2018-02,5.93,Kaunas,Aleksotas
+2018-03,5.71,Kaunas,Aleksotas
+2018-04,7.9,Kaunas,Aleksotas
+2018-05,6.55,Kaunas,Aleksotas
+2018-06,7.64,Kaunas,Aleksotas
+2018-07,6.07,Kaunas,Aleksotas
+2018-08,6.04,Kaunas,Aleksotas
+2018-09,5.86,Kaunas,Aleksotas
+2018-10,6.01,Kaunas,Aleksotas
+2018-11,5.22,Kaunas,Aleksotas
+2018-12,8.56,Kaunas,Aleksotas
+2019-01,6.86,Kaunas,Aleksotas
+2019-02,7.54,Kaunas,Aleksotas
+2019-03,7.07,Kaunas,Aleksotas
+2019-04,7.88,Kaunas,Aleksotas
+2019-05,8.74,Kaunas,Aleksotas
+2019-06,8.23,Kaunas,Aleksotas
+2019-07,6.03,Kaunas,Aleksotas
+2019-08,7.07,Kaunas,Aleksotas
+2019-09,6.05,Kaunas,Aleksotas
+2019-10,6.34,Kaunas,Aleksotas
+2019-11,6.49,Kaunas,Aleksotas
+2019-12,6.26,Kaunas,Aleksotas
+2020-01,7,Kaunas,Aleksotas
+2020-02,7.91,Kaunas,Aleksotas
+2020-03,9.46,Kaunas,Aleksotas
+2020-04,9.36,Kaunas,Aleksotas
+2020-05,9.09,Kaunas,Aleksotas
+2020-06,8.48,Kaunas,Aleksotas
+2020-07,7.86,Kaunas,Aleksotas
+2020-08,8.42,Kaunas,Aleksotas
+2020-09,8.57,Kaunas,Aleksotas
+2020-10,7.78,Kaunas,Aleksotas
+2020-11,7.81,Kaunas,Aleksotas
+2020-12,8.56,Kaunas,Aleksotas
+2021-01,8.75,Kaunas,Aleksotas
+2021-02,8.16,Kaunas,Aleksotas
+2021-03,8.82,Kaunas,Aleksotas
+2021-04,8.66,Kaunas,Aleksotas
+2021-05,7.92,Kaunas,Aleksotas
+2021-06,6.66,Kaunas,Aleksotas
+2021-09,9.03,Kaunas,Aleksotas
+2021-12,10.82,Kaunas,Aleksotas
+2022-01,10.12,Kaunas,Aleksotas
+2022-02,10.39,Kaunas,Aleksotas
+2022-03,10.19,Kaunas,Aleksotas
+2022-04,11.41,Kaunas,Aleksotas
+2022-06,11.45,Kaunas,Aleksotas
+2022-07,10.87,Kaunas,Aleksotas
+2022-08,11.61,Kaunas,Aleksotas
+2022-09,10.56,Kaunas,Aleksotas
+2022-10,9.82,Kaunas,Aleksotas
+2018-08,5.57,Kaunas,Amaliai
+2018-11,3.9,Kaunas,Amaliai
+2018-12,4,Kaunas,Amaliai
+2019-04,5.13,Kaunas,Amaliai
+2019-06,5.57,Kaunas,Amaliai
+2019-08,5.24,Kaunas,Amaliai
+2019-11,4.8,Kaunas,Amaliai
+2020-12,6,Kaunas,Amaliai
+2017-01,4.92,Kaunas,Aukštieji Šančiai
+2017-02,4.55,Kaunas,Aukštieji Šančiai
+2017-03,5.06,Kaunas,Aukštieji Šančiai
+2017-04,6.22,Kaunas,Aukštieji Šančiai
+2017-05,5.58,Kaunas,Aukštieji Šančiai
+2017-06,5.64,Kaunas,Aukštieji Šančiai
+2017-07,5.55,Kaunas,Aukštieji Šančiai
+2017-08,5.87,Kaunas,Aukštieji Šančiai
+2017-09,5.51,Kaunas,Aukštieji Šančiai
+2017-10,5.44,Kaunas,Aukštieji Šančiai
+2017-11,5.46,Kaunas,Aukštieji Šančiai
+2017-12,5.88,Kaunas,Aukštieji Šančiai
+2018-01,5.86,Kaunas,Aukštieji Šančiai
+2018-02,5.7,Kaunas,Aukštieji Šančiai
+2018-03,6.63,Kaunas,Aukštieji Šančiai
+2018-04,6.06,Kaunas,Aukštieji Šančiai
+2018-05,6.38,Kaunas,Aukštieji Šančiai
+2018-06,5.84,Kaunas,Aukštieji Šančiai
+2018-07,6.15,Kaunas,Aukštieji Šančiai
+2018-08,6.99,Kaunas,Aukštieji Šančiai
+2018-09,6.77,Kaunas,Aukštieji Šančiai
+2018-10,6.21,Kaunas,Aukštieji Šančiai
+2018-11,6.42,Kaunas,Aukštieji Šančiai
+2018-12,6.58,Kaunas,Aukštieji Šančiai
+2019-01,6.72,Kaunas,Aukštieji Šančiai
+2019-02,7.28,Kaunas,Aukštieji Šančiai
+2019-03,6.54,Kaunas,Aukštieji Šančiai
+2019-04,6.9,Kaunas,Aukštieji Šančiai
+2019-05,7.68,Kaunas,Aukštieji Šančiai
+2019-06,7.31,Kaunas,Aukštieji Šančiai
+2019-07,7.27,Kaunas,Aukštieji Šančiai
+2019-08,6.71,Kaunas,Aukštieji Šančiai
+2019-09,6.52,Kaunas,Aukštieji Šančiai
+2019-10,6.8,Kaunas,Aukštieji Šančiai
+2019-11,7.31,Kaunas,Aukštieji Šančiai
+2019-12,6.26,Kaunas,Aukštieji Šančiai
+2020-01,6.61,Kaunas,Aukštieji Šančiai
+2020-02,6.82,Kaunas,Aukštieji Šančiai
+2020-03,7.44,Kaunas,Aukštieji Šančiai
+2020-04,7,Kaunas,Aukštieji Šančiai
+2020-05,7,Kaunas,Aukštieji Šančiai
+2020-06,6.55,Kaunas,Aukštieji Šančiai
+2020-07,6.31,Kaunas,Aukštieji Šančiai
+2020-08,7.05,Kaunas,Aukštieji Šančiai
+2020-09,7.17,Kaunas,Aukštieji Šančiai
+2020-10,7.04,Kaunas,Aukštieji Šančiai
+2020-11,6.61,Kaunas,Aukštieji Šančiai
+2020-12,7.35,Kaunas,Aukštieji Šančiai
+2021-01,7.96,Kaunas,Aukštieji Šančiai
+2021-02,8.87,Kaunas,Aukštieji Šančiai
+2021-03,8.64,Kaunas,Aukštieji Šančiai
+2021-04,7.75,Kaunas,Aukštieji Šančiai
+2021-05,9.09,Kaunas,Aukštieji Šančiai
+2021-06,7.95,Kaunas,Aukštieji Šančiai
+2021-07,9.17,Kaunas,Aukštieji Šančiai
+2021-08,7.38,Kaunas,Aukštieji Šančiai
+2021-09,7.73,Kaunas,Aukštieji Šančiai
+2021-12,7.47,Kaunas,Aukštieji Šančiai
+2022-01,8.58,Kaunas,Aukštieji Šančiai
+2022-02,8.69,Kaunas,Aukštieji Šančiai
+2022-03,8.98,Kaunas,Aukštieji Šančiai
+2022-04,11.03,Kaunas,Aukštieji Šančiai
+2022-05,9.62,Kaunas,Aukštieji Šančiai
+2022-06,8.67,Kaunas,Aukštieji Šančiai
+2022-07,9.16,Kaunas,Aukštieji Šančiai
+2022-08,10.42,Kaunas,Aukštieji Šančiai
+2022-09,10.26,Kaunas,Aukštieji Šančiai
+2022-10,9.57,Kaunas,Aukštieji Šančiai
+2018-04,6.15,Kaunas,Aukštutiniai Kaniūkai
+2018-05,6.06,Kaunas,Aukštutiniai Kaniūkai
+2018-06,7.27,Kaunas,Aukštutiniai Kaniūkai
+2018-07,6.97,Kaunas,Aukštutiniai Kaniūkai
+2018-08,6.6,Kaunas,Aukštutiniai Kaniūkai
+2018-09,6.62,Kaunas,Aukštutiniai Kaniūkai
+2019-01,7.35,Kaunas,Aukštutiniai Kaniūkai
+2019-02,7.46,Kaunas,Aukštutiniai Kaniūkai
+2019-03,8.21,Kaunas,Aukštutiniai Kaniūkai
+2019-04,8.21,Kaunas,Aukštutiniai Kaniūkai
+2019-05,8.21,Kaunas,Aukštutiniai Kaniūkai
+2019-07,4.01,Kaunas,Aukštutiniai Kaniūkai
+2019-08,4.36,Kaunas,Aukštutiniai Kaniūkai
+2019-09,7.32,Kaunas,Aukštutiniai Kaniūkai
+2019-10,5.54,Kaunas,Aukštutiniai Kaniūkai
+2019-11,5.27,Kaunas,Aukštutiniai Kaniūkai
+2019-12,5.2,Kaunas,Aukštutiniai Kaniūkai
+2020-01,6.49,Kaunas,Aukštutiniai Kaniūkai
+2020-02,5.89,Kaunas,Aukštutiniai Kaniūkai
+2020-03,6.43,Kaunas,Aukštutiniai Kaniūkai
+2020-04,6.16,Kaunas,Aukštutiniai Kaniūkai
+2020-05,4.85,Kaunas,Aukštutiniai Kaniūkai
+2020-06,8.94,Kaunas,Aukštutiniai Kaniūkai
+2021-03,9,Kaunas,Aukštutiniai Kaniūkai
+2017-01,7.23,Kaunas,Centras
+2017-02,7.62,Kaunas,Centras
+2017-03,7.45,Kaunas,Centras
+2017-04,7.32,Kaunas,Centras
+2017-05,7.73,Kaunas,Centras
+2017-06,7.89,Kaunas,Centras
+2017-07,7.83,Kaunas,Centras
+2017-08,8.1,Kaunas,Centras
+2017-09,8.19,Kaunas,Centras
+2017-10,8.25,Kaunas,Centras
+2017-11,7.61,Kaunas,Centras
+2017-12,7.21,Kaunas,Centras
+2018-01,7.35,Kaunas,Centras
+2018-02,8.46,Kaunas,Centras
+2018-03,7.96,Kaunas,Centras
+2018-04,8.01,Kaunas,Centras
+2018-05,7.58,Kaunas,Centras
+2018-06,7.93,Kaunas,Centras
+2018-07,8.3,Kaunas,Centras
+2018-08,8.08,Kaunas,Centras
+2018-09,7.89,Kaunas,Centras
+2018-10,8.11,Kaunas,Centras
+2018-11,8.18,Kaunas,Centras
+2018-12,7.82,Kaunas,Centras
+2019-01,7.67,Kaunas,Centras
+2019-02,7.62,Kaunas,Centras
+2019-03,7.89,Kaunas,Centras
+2019-04,8.4,Kaunas,Centras
+2019-05,8.37,Kaunas,Centras
+2019-06,8.38,Kaunas,Centras
+2019-07,8.63,Kaunas,Centras
+2019-08,8.56,Kaunas,Centras
+2019-09,8.63,Kaunas,Centras
+2019-10,8.6,Kaunas,Centras
+2019-11,8.21,Kaunas,Centras
+2019-12,8.43,Kaunas,Centras
+2020-01,8.72,Kaunas,Centras
+2020-02,9.09,Kaunas,Centras
+2020-03,9.07,Kaunas,Centras
+2020-04,8.99,Kaunas,Centras
+2020-05,8.95,Kaunas,Centras
+2020-06,9.1,Kaunas,Centras
+2020-07,9.28,Kaunas,Centras
+2020-08,9.47,Kaunas,Centras
+2020-09,9.06,Kaunas,Centras
+2020-10,9.13,Kaunas,Centras
+2020-11,8.93,Kaunas,Centras
+2020-12,8.86,Kaunas,Centras
+2021-01,9.21,Kaunas,Centras
+2021-02,9.35,Kaunas,Centras
+2021-03,10.05,Kaunas,Centras
+2021-04,9.76,Kaunas,Centras
+2021-05,9.94,Kaunas,Centras
+2021-06,9.94,Kaunas,Centras
+2021-07,9.52,Kaunas,Centras
+2021-08,10.15,Kaunas,Centras
+2021-09,10.49,Kaunas,Centras
+2021-10,11.64,Kaunas,Centras
+2021-11,11.82,Kaunas,Centras
+2021-12,10.61,Kaunas,Centras
+2022-01,10.67,Kaunas,Centras
+2022-02,10.75,Kaunas,Centras
+2022-03,10.25,Kaunas,Centras
+2022-04,11.39,Kaunas,Centras
+2022-05,11.89,Kaunas,Centras
+2022-06,12.13,Kaunas,Centras
+2022-07,11.91,Kaunas,Centras
+2022-08,12.71,Kaunas,Centras
+2022-09,12.08,Kaunas,Centras
+2022-10,11.58,Kaunas,Centras
+2017-01,5.08,Kaunas,Dainava
+2017-02,5.24,Kaunas,Dainava
+2017-03,5.5,Kaunas,Dainava
+2017-04,5.56,Kaunas,Dainava
+2017-05,5.57,Kaunas,Dainava
+2017-06,5.57,Kaunas,Dainava
+2017-07,5.75,Kaunas,Dainava
+2017-08,5.66,Kaunas,Dainava
+2017-09,5.67,Kaunas,Dainava
+2017-10,5.47,Kaunas,Dainava
+2017-11,5.77,Kaunas,Dainava
+2017-12,5.69,Kaunas,Dainava
+2018-01,5.89,Kaunas,Dainava
+2018-02,6.01,Kaunas,Dainava
+2018-03,5.92,Kaunas,Dainava
+2018-04,6.2,Kaunas,Dainava
+2018-05,6.2,Kaunas,Dainava
+2018-06,6.37,Kaunas,Dainava
+2018-07,6.37,Kaunas,Dainava
+2018-08,6.23,Kaunas,Dainava
+2018-09,6.43,Kaunas,Dainava
+2018-10,6.28,Kaunas,Dainava
+2018-11,6.23,Kaunas,Dainava
+2018-12,6.34,Kaunas,Dainava
+2019-01,6.19,Kaunas,Dainava
+2019-02,6.61,Kaunas,Dainava
+2019-03,6.68,Kaunas,Dainava
+2019-04,6.6,Kaunas,Dainava
+2019-05,6.86,Kaunas,Dainava
+2019-06,6.85,Kaunas,Dainava
+2019-07,6.96,Kaunas,Dainava
+2019-08,6.87,Kaunas,Dainava
+2019-09,6.79,Kaunas,Dainava
+2019-10,6.68,Kaunas,Dainava
+2019-11,6.9,Kaunas,Dainava
+2019-12,7.08,Kaunas,Dainava
+2020-01,6.93,Kaunas,Dainava
+2020-02,6.76,Kaunas,Dainava
+2020-03,7.11,Kaunas,Dainava
+2020-04,6.54,Kaunas,Dainava
+2020-05,6.69,Kaunas,Dainava
+2020-06,6.57,Kaunas,Dainava
+2020-07,7,Kaunas,Dainava
+2020-08,7.2,Kaunas,Dainava
+2020-09,7.16,Kaunas,Dainava
+2020-10,7.3,Kaunas,Dainava
+2020-11,7.09,Kaunas,Dainava
+2020-12,6.97,Kaunas,Dainava
+2021-01,7.19,Kaunas,Dainava
+2021-02,7.11,Kaunas,Dainava
+2021-03,7.52,Kaunas,Dainava
+2021-04,7.78,Kaunas,Dainava
+2021-05,7.64,Kaunas,Dainava
+2021-06,7.81,Kaunas,Dainava
+2021-07,8.37,Kaunas,Dainava
+2021-08,8.23,Kaunas,Dainava
+2021-09,8.19,Kaunas,Dainava
+2021-10,7.91,Kaunas,Dainava
+2021-11,8.35,Kaunas,Dainava
+2021-12,8.26,Kaunas,Dainava
+2022-01,8.21,Kaunas,Dainava
+2022-02,8.41,Kaunas,Dainava
+2022-03,8.34,Kaunas,Dainava
+2022-04,8.74,Kaunas,Dainava
+2022-05,9.42,Kaunas,Dainava
+2022-06,9.89,Kaunas,Dainava
+2022-07,9.63,Kaunas,Dainava
+2022-08,10.09,Kaunas,Dainava
+2022-09,9.8,Kaunas,Dainava
+2022-10,9.39,Kaunas,Dainava
+2017-01,4.71,Kaunas,Eiguliai
+2017-02,4.83,Kaunas,Eiguliai
+2017-03,4.62,Kaunas,Eiguliai
+2017-04,5.57,Kaunas,Eiguliai
+2017-05,5.3,Kaunas,Eiguliai
+2017-06,5.43,Kaunas,Eiguliai
+2017-07,5.73,Kaunas,Eiguliai
+2017-08,5.87,Kaunas,Eiguliai
+2017-09,5.67,Kaunas,Eiguliai
+2017-10,5.55,Kaunas,Eiguliai
+2017-11,5.26,Kaunas,Eiguliai
+2017-12,5.63,Kaunas,Eiguliai
+2018-01,5.58,Kaunas,Eiguliai
+2018-02,5.64,Kaunas,Eiguliai
+2018-03,5.79,Kaunas,Eiguliai
+2018-04,6.61,Kaunas,Eiguliai
+2018-05,6.64,Kaunas,Eiguliai
+2018-06,6.6,Kaunas,Eiguliai
+2018-07,5.9,Kaunas,Eiguliai
+2018-08,5.99,Kaunas,Eiguliai
+2018-09,5.82,Kaunas,Eiguliai
+2018-10,5.72,Kaunas,Eiguliai
+2018-11,6.55,Kaunas,Eiguliai
+2018-12,6.36,Kaunas,Eiguliai
+2019-01,6.1,Kaunas,Eiguliai
+2019-02,5.29,Kaunas,Eiguliai
+2019-03,6.38,Kaunas,Eiguliai
+2019-04,6.56,Kaunas,Eiguliai
+2019-05,6.33,Kaunas,Eiguliai
+2019-06,6.26,Kaunas,Eiguliai
+2019-07,6.26,Kaunas,Eiguliai
+2019-08,6.31,Kaunas,Eiguliai
+2019-09,6.15,Kaunas,Eiguliai
+2019-10,6.16,Kaunas,Eiguliai
+2019-11,6.08,Kaunas,Eiguliai
+2019-12,6.24,Kaunas,Eiguliai
+2020-01,6.54,Kaunas,Eiguliai
+2020-02,6.71,Kaunas,Eiguliai
+2020-03,6.45,Kaunas,Eiguliai
+2020-04,5.99,Kaunas,Eiguliai
+2020-05,5.64,Kaunas,Eiguliai
+2020-06,5.99,Kaunas,Eiguliai
+2020-07,6.35,Kaunas,Eiguliai
+2020-08,7.08,Kaunas,Eiguliai
+2020-09,6.91,Kaunas,Eiguliai
+2020-10,6.36,Kaunas,Eiguliai
+2020-11,6.3,Kaunas,Eiguliai
+2020-12,6.84,Kaunas,Eiguliai
+2021-01,7.01,Kaunas,Eiguliai
+2021-02,7.21,Kaunas,Eiguliai
+2021-03,7.32,Kaunas,Eiguliai
+2021-04,7.1,Kaunas,Eiguliai
+2021-05,7.34,Kaunas,Eiguliai
+2021-06,7.67,Kaunas,Eiguliai
+2021-07,7.71,Kaunas,Eiguliai
+2021-08,7.66,Kaunas,Eiguliai
+2021-09,7.53,Kaunas,Eiguliai
+2021-10,7.28,Kaunas,Eiguliai
+2021-11,7.58,Kaunas,Eiguliai
+2021-12,7.99,Kaunas,Eiguliai
+2022-01,7.98,Kaunas,Eiguliai
+2022-02,7.4,Kaunas,Eiguliai
+2022-03,7.5,Kaunas,Eiguliai
+2022-04,7.18,Kaunas,Eiguliai
+2022-05,8.13,Kaunas,Eiguliai
+2022-06,8.79,Kaunas,Eiguliai
+2022-07,9.01,Kaunas,Eiguliai
+2022-08,9.63,Kaunas,Eiguliai
+2022-09,8.97,Kaunas,Eiguliai
+2022-10,8.63,Kaunas,Eiguliai
+2017-01,7.49,Kaunas,Freda
+2017-02,7.32,Kaunas,Freda
+2017-03,6.45,Kaunas,Freda
+2017-05,7.51,Kaunas,Freda
+2017-06,9.12,Kaunas,Freda
+2017-07,8.33,Kaunas,Freda
+2017-08,8.2,Kaunas,Freda
+2017-09,8.17,Kaunas,Freda
+2017-10,7.2,Kaunas,Freda
+2017-11,7.51,Kaunas,Freda
+2017-12,7.72,Kaunas,Freda
+2018-01,7.33,Kaunas,Freda
+2018-02,8.58,Kaunas,Freda
+2018-03,7.58,Kaunas,Freda
+2018-04,7.22,Kaunas,Freda
+2018-05,7.11,Kaunas,Freda
+2018-06,6.62,Kaunas,Freda
+2018-07,8.37,Kaunas,Freda
+2018-08,8.69,Kaunas,Freda
+2018-09,8.73,Kaunas,Freda
+2018-10,7.78,Kaunas,Freda
+2018-11,7.79,Kaunas,Freda
+2018-12,8.96,Kaunas,Freda
+2019-01,7.93,Kaunas,Freda
+2019-02,8.42,Kaunas,Freda
+2019-03,8.47,Kaunas,Freda
+2019-04,8.95,Kaunas,Freda
+2019-05,9.22,Kaunas,Freda
+2019-06,8.26,Kaunas,Freda
+2019-07,9.09,Kaunas,Freda
+2019-08,8.84,Kaunas,Freda
+2019-09,8.36,Kaunas,Freda
+2019-10,7.56,Kaunas,Freda
+2019-11,7.16,Kaunas,Freda
+2019-12,8.28,Kaunas,Freda
+2020-01,7.6,Kaunas,Freda
+2020-02,7.19,Kaunas,Freda
+2020-03,8.63,Kaunas,Freda
+2020-04,7.9,Kaunas,Freda
+2020-05,8.11,Kaunas,Freda
+2020-06,7.64,Kaunas,Freda
+2020-07,8.3,Kaunas,Freda
+2020-08,8.72,Kaunas,Freda
+2020-09,8.07,Kaunas,Freda
+2020-10,8.09,Kaunas,Freda
+2020-11,7.65,Kaunas,Freda
+2020-12,7.76,Kaunas,Freda
+2021-01,7.44,Kaunas,Freda
+2021-02,7.41,Kaunas,Freda
+2021-03,8.61,Kaunas,Freda
+2021-04,8.97,Kaunas,Freda
+2021-05,9.13,Kaunas,Freda
+2021-07,8.53,Kaunas,Freda
+2021-11,6.68,Kaunas,Freda
+2021-12,7.03,Kaunas,Freda
+2022-02,9.83,Kaunas,Freda
+2022-06,8.58,Kaunas,Freda
+2022-07,11.93,Kaunas,Freda
+2022-08,11.49,Kaunas,Freda
+2022-09,9.27,Kaunas,Freda
+2022-10,8.89,Kaunas,Freda
+2017-01,4.94,Kaunas,Kalniečiai
+2017-02,5.4,Kaunas,Kalniečiai
+2017-03,5.8,Kaunas,Kalniečiai
+2017-04,5.79,Kaunas,Kalniečiai
+2017-05,5.77,Kaunas,Kalniečiai
+2017-06,6.14,Kaunas,Kalniečiai
+2017-07,5.92,Kaunas,Kalniečiai
+2017-08,6.55,Kaunas,Kalniečiai
+2017-09,5.81,Kaunas,Kalniečiai
+2017-10,5.28,Kaunas,Kalniečiai
+2017-11,4.98,Kaunas,Kalniečiai
+2017-12,5.34,Kaunas,Kalniečiai
+2018-01,5.64,Kaunas,Kalniečiai
+2018-02,5.73,Kaunas,Kalniečiai
+2018-03,5.83,Kaunas,Kalniečiai
+2018-04,5.98,Kaunas,Kalniečiai
+2018-05,5.6,Kaunas,Kalniečiai
+2018-06,5.54,Kaunas,Kalniečiai
+2018-07,6.08,Kaunas,Kalniečiai
+2018-08,6.5,Kaunas,Kalniečiai
+2018-09,5.82,Kaunas,Kalniečiai
+2018-10,6.1,Kaunas,Kalniečiai
+2018-11,6.66,Kaunas,Kalniečiai
+2018-12,6.18,Kaunas,Kalniečiai
+2019-01,5.89,Kaunas,Kalniečiai
+2019-02,6.59,Kaunas,Kalniečiai
+2019-03,6.64,Kaunas,Kalniečiai
+2019-04,5.92,Kaunas,Kalniečiai
+2019-05,7.12,Kaunas,Kalniečiai
+2019-06,6.65,Kaunas,Kalniečiai
+2019-07,7.03,Kaunas,Kalniečiai
+2019-08,6.61,Kaunas,Kalniečiai
+2019-09,6.03,Kaunas,Kalniečiai
+2019-10,5.9,Kaunas,Kalniečiai
+2019-11,6.25,Kaunas,Kalniečiai
+2019-12,6.48,Kaunas,Kalniečiai
+2020-01,6.5,Kaunas,Kalniečiai
+2020-02,5.71,Kaunas,Kalniečiai
+2020-03,6.92,Kaunas,Kalniečiai
+2020-04,6.12,Kaunas,Kalniečiai
+2020-05,5.68,Kaunas,Kalniečiai
+2020-06,6.09,Kaunas,Kalniečiai
+2020-07,6.25,Kaunas,Kalniečiai
+2020-08,6.61,Kaunas,Kalniečiai
+2020-09,6.95,Kaunas,Kalniečiai
+2020-10,7.2,Kaunas,Kalniečiai
+2020-11,6.49,Kaunas,Kalniečiai
+2020-12,6.56,Kaunas,Kalniečiai
+2021-01,6.4,Kaunas,Kalniečiai
+2021-02,6.66,Kaunas,Kalniečiai
+2021-03,6.88,Kaunas,Kalniečiai
+2021-04,7.42,Kaunas,Kalniečiai
+2021-05,7.41,Kaunas,Kalniečiai
+2021-06,7.32,Kaunas,Kalniečiai
+2021-07,6.64,Kaunas,Kalniečiai
+2021-08,7.27,Kaunas,Kalniečiai
+2021-09,7.33,Kaunas,Kalniečiai
+2021-10,8.85,Kaunas,Kalniečiai
+2021-11,7.09,Kaunas,Kalniečiai
+2021-12,6.99,Kaunas,Kalniečiai
+2022-01,7.3,Kaunas,Kalniečiai
+2022-02,7.5,Kaunas,Kalniečiai
+2022-03,5.77,Kaunas,Kalniečiai
+2022-04,8.53,Kaunas,Kalniečiai
+2022-05,8.75,Kaunas,Kalniečiai
+2022-06,7.92,Kaunas,Kalniečiai
+2022-07,8.59,Kaunas,Kalniečiai
+2022-08,9.95,Kaunas,Kalniečiai
+2022-09,9.2,Kaunas,Kalniečiai
+2022-10,9.02,Kaunas,Kalniečiai
+2018-03,5.47,Kaunas,Kleboniškis
+2018-04,5.43,Kaunas,Kleboniškis
+2018-12,7.52,Kaunas,Kleboniškis
+2020-05,7.74,Kaunas,Kleboniškis
+2020-06,7.74,Kaunas,Kleboniškis
+2017-03,5.95,Kaunas,Lampėdžiai
+2017-05,6.45,Kaunas,Lampėdžiai
+2017-07,7.06,Kaunas,Lampėdžiai
+2017-08,6.94,Kaunas,Lampėdžiai
+2018-01,8,Kaunas,Lampėdžiai
+2018-02,7.63,Kaunas,Lampėdžiai
+2018-03,6.57,Kaunas,Lampėdžiai
+2018-04,6.04,Kaunas,Lampėdžiai
+2018-05,6.45,Kaunas,Lampėdžiai
+2018-08,6.96,Kaunas,Lampėdžiai
+2018-09,7.1,Kaunas,Lampėdžiai
+2018-10,6.24,Kaunas,Lampėdžiai
+2018-11,6.68,Kaunas,Lampėdžiai
+2018-12,7.03,Kaunas,Lampėdžiai
+2019-01,8.36,Kaunas,Lampėdžiai
+2019-02,8.27,Kaunas,Lampėdžiai
+2019-03,7.92,Kaunas,Lampėdžiai
+2019-04,7.51,Kaunas,Lampėdžiai
+2019-07,9.33,Kaunas,Lampėdžiai
+2019-08,7.69,Kaunas,Lampėdžiai
+2019-09,7.6,Kaunas,Lampėdžiai
+2019-10,8.01,Kaunas,Lampėdžiai
+2019-11,8.36,Kaunas,Lampėdžiai
+2019-12,7.57,Kaunas,Lampėdžiai
+2020-01,7.12,Kaunas,Lampėdžiai
+2020-02,8.12,Kaunas,Lampėdžiai
+2020-03,8.66,Kaunas,Lampėdžiai
+2020-04,10.22,Kaunas,Lampėdžiai
+2020-05,8.48,Kaunas,Lampėdžiai
+2020-06,7.51,Kaunas,Lampėdžiai
+2020-07,6.61,Kaunas,Lampėdžiai
+2020-08,5.87,Kaunas,Lampėdžiai
+2020-09,7.93,Kaunas,Lampėdžiai
+2020-10,7.84,Kaunas,Lampėdžiai
+2020-11,7.61,Kaunas,Lampėdžiai
+2020-12,7.49,Kaunas,Lampėdžiai
+2021-02,7.94,Kaunas,Lampėdžiai
+2021-03,7.93,Kaunas,Lampėdžiai
+2020-02,7.5,Kaunas,Marvelė
+2020-04,10,Kaunas,Marvelė
+2018-01,3.33,Kaunas,Palemonas
+2018-02,3.57,Kaunas,Palemonas
+2018-03,3.33,Kaunas,Palemonas
+2018-04,2.82,Kaunas,Palemonas
+2019-02,3.64,Kaunas,Palemonas
+2019-11,6.36,Kaunas,Palemonas
+2019-12,4.93,Kaunas,Palemonas
+2020-01,6.34,Kaunas,Palemonas
+2020-02,6.2,Kaunas,Palemonas
+2020-03,5.26,Kaunas,Palemonas
+2020-04,3.95,Kaunas,Palemonas
+2020-08,6.75,Kaunas,Palemonas
+2020-09,6.75,Kaunas,Palemonas
+2020-10,6.26,Kaunas,Palemonas
+2020-11,6.35,Kaunas,Palemonas
+2020-12,6.73,Kaunas,Palemonas
+2021-01,6.73,Kaunas,Palemonas
+2021-02,6.46,Kaunas,Palemonas
+2021-03,6.02,Kaunas,Palemonas
+2017-08,6.12,Kaunas,Panemunė
+2017-09,5.45,Kaunas,Panemunė
+2017-10,4.36,Kaunas,Panemunė
+2017-11,5.28,Kaunas,Panemunė
+2017-12,4.39,Kaunas,Panemunė
+2018-01,4.38,Kaunas,Panemunė
+2018-02,4.64,Kaunas,Panemunė
+2018-03,5.34,Kaunas,Panemunė
+2018-04,5.81,Kaunas,Panemunė
+2018-05,5.62,Kaunas,Panemunė
+2018-06,6.8,Kaunas,Panemunė
+2018-07,5.84,Kaunas,Panemunė
+2018-08,6.2,Kaunas,Panemunė
+2018-09,5.33,Kaunas,Panemunė
+2018-10,5.41,Kaunas,Panemunė
+2018-11,5.22,Kaunas,Panemunė
+2018-12,5.47,Kaunas,Panemunė
+2019-01,5.44,Kaunas,Panemunė
+2019-02,4.94,Kaunas,Panemunė
+2019-03,5.36,Kaunas,Panemunė
+2019-04,6.71,Kaunas,Panemunė
+2019-05,6.74,Kaunas,Panemunė
+2019-06,6.26,Kaunas,Panemunė
+2019-07,6.81,Kaunas,Panemunė
+2019-08,6.18,Kaunas,Panemunė
+2019-09,5.82,Kaunas,Panemunė
+2019-10,6.25,Kaunas,Panemunė
+2019-11,5.74,Kaunas,Panemunė
+2019-12,6.53,Kaunas,Panemunė
+2020-01,6.57,Kaunas,Panemunė
+2020-02,6.62,Kaunas,Panemunė
+2020-03,6.22,Kaunas,Panemunė
+2020-04,6.86,Kaunas,Panemunė
+2020-05,5.87,Kaunas,Panemunė
+2020-06,7.48,Kaunas,Panemunė
+2020-07,6.76,Kaunas,Panemunė
+2020-08,6.47,Kaunas,Panemunė
+2020-09,6.9,Kaunas,Panemunė
+2020-10,8.21,Kaunas,Panemunė
+2020-11,7.84,Kaunas,Panemunė
+2020-12,6.52,Kaunas,Panemunė
+2021-01,6.1,Kaunas,Panemunė
+2021-02,6.84,Kaunas,Panemunė
+2021-03,6.84,Kaunas,Panemunė
+2021-07,6.14,Kaunas,Panemunė
+2021-08,6.83,Kaunas,Panemunė
+2022-01,9.22,Kaunas,Panemunė
+2022-02,10.92,Kaunas,Panemunė
+2022-03,10.52,Kaunas,Panemunė
+2022-06,10.31,Kaunas,Panemunė
+2022-07,10.47,Kaunas,Panemunė
+2022-08,10.88,Kaunas,Panemunė
+2022-09,10.27,Kaunas,Panemunė
+2022-10,9.46,Kaunas,Panemunė
+2020-04,9.56,Kaunas,Panerys
+2020-10,9.88,Kaunas,Panerys
+2017-01,4.64,Kaunas,Petrašiūnai
+2017-08,6.16,Kaunas,Petrašiūnai
+2018-01,5.24,Kaunas,Petrašiūnai
+2018-02,4.32,Kaunas,Petrašiūnai
+2018-03,4.61,Kaunas,Petrašiūnai
+2018-04,4.68,Kaunas,Petrašiūnai
+2018-05,4.8,Kaunas,Petrašiūnai
+2018-06,5.8,Kaunas,Petrašiūnai
+2018-07,5.68,Kaunas,Petrašiūnai
+2018-08,5.99,Kaunas,Petrašiūnai
+2018-09,5.57,Kaunas,Petrašiūnai
+2018-10,4.15,Kaunas,Petrašiūnai
+2018-12,6.6,Kaunas,Petrašiūnai
+2019-01,5.33,Kaunas,Petrašiūnai
+2019-02,5.65,Kaunas,Petrašiūnai
+2019-03,6.85,Kaunas,Petrašiūnai
+2019-04,6.94,Kaunas,Petrašiūnai
+2019-05,5.48,Kaunas,Petrašiūnai
+2019-06,5.55,Kaunas,Petrašiūnai
+2019-07,6.68,Kaunas,Petrašiūnai
+2019-08,5.73,Kaunas,Petrašiūnai
+2019-09,5.3,Kaunas,Petrašiūnai
+2019-10,5.29,Kaunas,Petrašiūnai
+2019-11,5.08,Kaunas,Petrašiūnai
+2019-12,5.98,Kaunas,Petrašiūnai
+2020-01,6.6,Kaunas,Petrašiūnai
+2020-02,6.8,Kaunas,Petrašiūnai
+2020-03,6.7,Kaunas,Petrašiūnai
+2020-04,6.91,Kaunas,Petrašiūnai
+2020-05,6.32,Kaunas,Petrašiūnai
+2020-06,8,Kaunas,Petrašiūnai
+2020-07,8.91,Kaunas,Petrašiūnai
+2020-08,6.69,Kaunas,Petrašiūnai
+2020-09,6,Kaunas,Petrašiūnai
+2020-10,5.45,Kaunas,Petrašiūnai
+2020-11,5.68,Kaunas,Petrašiūnai
+2020-12,5.96,Kaunas,Petrašiūnai
+2021-01,5.35,Kaunas,Petrašiūnai
+2021-02,6.79,Kaunas,Petrašiūnai
+2021-03,8.03,Kaunas,Petrašiūnai
+2021-06,8.99,Kaunas,Petrašiūnai
+2021-09,7.08,Kaunas,Petrašiūnai
+2021-10,6.77,Kaunas,Petrašiūnai
+2021-11,6.46,Kaunas,Petrašiūnai
+2022-02,7.71,Kaunas,Petrašiūnai
+2022-03,10.09,Kaunas,Petrašiūnai
+2022-04,9.58,Kaunas,Petrašiūnai
+2022-05,9.44,Kaunas,Petrašiūnai
+2022-06,9.03,Kaunas,Petrašiūnai
+2022-08,9.26,Kaunas,Petrašiūnai
+2022-09,7.56,Kaunas,Petrašiūnai
+2022-10,6.53,Kaunas,Petrašiūnai
+2019-06,4.81,Kaunas,Rokai
+2019-10,4.22,Kaunas,Rokai
+2019-11,3.96,Kaunas,Rokai
+2020-02,4.81,Kaunas,Rokai
+2020-04,3.85,Kaunas,Rokai
+2020-07,3.74,Kaunas,Rokai
+2017-12,5.45,Kaunas,Romainiai
+2018-01,4.82,Kaunas,Romainiai
+2018-02,4.82,Kaunas,Romainiai
+2018-03,5.49,Kaunas,Romainiai
+2018-04,5.17,Kaunas,Romainiai
+2018-05,5.46,Kaunas,Romainiai
+2018-06,6.93,Kaunas,Romainiai
+2018-07,6,Kaunas,Romainiai
+2018-08,5.99,Kaunas,Romainiai
+2018-09,6.6,Kaunas,Romainiai
+2018-10,6.38,Kaunas,Romainiai
+2018-11,6.92,Kaunas,Romainiai
+2018-12,6.53,Kaunas,Romainiai
+2019-01,6.24,Kaunas,Romainiai
+2019-02,6.9,Kaunas,Romainiai
+2019-03,6.04,Kaunas,Romainiai
+2019-04,9.19,Kaunas,Romainiai
+2019-05,8.38,Kaunas,Romainiai
+2019-06,7.51,Kaunas,Romainiai
+2019-07,7.52,Kaunas,Romainiai
+2019-08,6.15,Kaunas,Romainiai
+2019-09,5.91,Kaunas,Romainiai
+2019-10,6.88,Kaunas,Romainiai
+2019-11,7.25,Kaunas,Romainiai
+2019-12,6.81,Kaunas,Romainiai
+2020-01,7.68,Kaunas,Romainiai
+2020-02,6.32,Kaunas,Romainiai
+2020-03,5.34,Kaunas,Romainiai
+2020-04,5.16,Kaunas,Romainiai
+2020-05,6.53,Kaunas,Romainiai
+2020-06,6.41,Kaunas,Romainiai
+2020-07,6.37,Kaunas,Romainiai
+2020-08,7.27,Kaunas,Romainiai
+2020-09,7.22,Kaunas,Romainiai
+2020-10,8.98,Kaunas,Romainiai
+2020-11,8.83,Kaunas,Romainiai
+2020-12,9.33,Kaunas,Romainiai
+2021-01,9.21,Kaunas,Romainiai
+2021-02,8.32,Kaunas,Romainiai
+2021-03,5.52,Kaunas,Romainiai
+2021-04,4.69,Kaunas,Romainiai
+2021-05,5.85,Kaunas,Romainiai
+2021-10,9.44,Kaunas,Romainiai
+2021-11,8.59,Kaunas,Romainiai
+2022-09,10.09,Kaunas,Romainiai
+2022-10,10.98,Kaunas,Romainiai
+2017-12,5.25,Kaunas,Sargėnai
+2018-01,5.27,Kaunas,Sargėnai
+2018-02,4,Kaunas,Sargėnai
+2018-03,3.65,Kaunas,Sargėnai
+2018-05,6.04,Kaunas,Sargėnai
+2018-06,3.7,Kaunas,Sargėnai
+2018-07,1.9,Kaunas,Sargėnai
+2018-08,3.72,Kaunas,Sargėnai
+2018-09,4.37,Kaunas,Sargėnai
+2018-10,6.83,Kaunas,Sargėnai
+2018-11,6.32,Kaunas,Sargėnai
+2018-12,5.99,Kaunas,Sargėnai
+2019-01,6.62,Kaunas,Sargėnai
+2019-02,5.63,Kaunas,Sargėnai
+2019-03,5.79,Kaunas,Sargėnai
+2019-04,6.31,Kaunas,Sargėnai
+2019-05,5.13,Kaunas,Sargėnai
+2019-06,4.6,Kaunas,Sargėnai
+2019-07,5.49,Kaunas,Sargėnai
+2019-08,3,Kaunas,Sargėnai
+2019-09,3.16,Kaunas,Sargėnai
+2019-10,5.08,Kaunas,Sargėnai
+2019-11,4.58,Kaunas,Sargėnai
+2019-12,4.65,Kaunas,Sargėnai
+2020-01,3.35,Kaunas,Sargėnai
+2020-02,6.31,Kaunas,Sargėnai
+2020-03,7.31,Kaunas,Sargėnai
+2020-04,7.66,Kaunas,Sargėnai
+2020-05,8.48,Kaunas,Sargėnai
+2020-06,6.72,Kaunas,Sargėnai
+2020-07,7.63,Kaunas,Sargėnai
+2020-08,8.41,Kaunas,Sargėnai
+2020-09,4.11,Kaunas,Sargėnai
+2020-10,4.52,Kaunas,Sargėnai
+2020-11,6.64,Kaunas,Sargėnai
+2020-12,7.11,Kaunas,Sargėnai
+2021-02,6.5,Kaunas,Sargėnai
+2021-03,9.07,Kaunas,Sargėnai
+2022-03,7.59,Kaunas,Sargėnai
+2017-01,8.01,Kaunas,Senamiestis
+2017-02,8.3,Kaunas,Senamiestis
+2017-03,8.19,Kaunas,Senamiestis
+2017-04,8.61,Kaunas,Senamiestis
+2017-05,8.51,Kaunas,Senamiestis
+2017-06,8.31,Kaunas,Senamiestis
+2017-07,8.83,Kaunas,Senamiestis
+2017-08,8.76,Kaunas,Senamiestis
+2017-09,9.03,Kaunas,Senamiestis
+2017-10,8.47,Kaunas,Senamiestis
+2017-11,7.96,Kaunas,Senamiestis
+2017-12,8.06,Kaunas,Senamiestis
+2018-01,8.54,Kaunas,Senamiestis
+2018-02,8.63,Kaunas,Senamiestis
+2018-03,8.56,Kaunas,Senamiestis
+2018-04,9.25,Kaunas,Senamiestis
+2018-05,8.71,Kaunas,Senamiestis
+2018-06,8.45,Kaunas,Senamiestis
+2018-07,8.96,Kaunas,Senamiestis
+2018-08,9.25,Kaunas,Senamiestis
+2018-09,9.52,Kaunas,Senamiestis
+2018-10,9.76,Kaunas,Senamiestis
+2018-11,9.38,Kaunas,Senamiestis
+2018-12,8.79,Kaunas,Senamiestis
+2019-01,8.16,Kaunas,Senamiestis
+2019-02,8.58,Kaunas,Senamiestis
+2019-03,8.72,Kaunas,Senamiestis
+2019-04,9.35,Kaunas,Senamiestis
+2019-05,9.29,Kaunas,Senamiestis
+2019-06,9.6,Kaunas,Senamiestis
+2019-07,9.86,Kaunas,Senamiestis
+2019-08,9.85,Kaunas,Senamiestis
+2019-09,8.94,Kaunas,Senamiestis
+2019-10,8.66,Kaunas,Senamiestis
+2019-11,9,Kaunas,Senamiestis
+2019-12,9.51,Kaunas,Senamiestis
+2020-01,9.5,Kaunas,Senamiestis
+2020-02,9.73,Kaunas,Senamiestis
+2020-03,9.78,Kaunas,Senamiestis
+2020-04,9.61,Kaunas,Senamiestis
+2020-05,9.86,Kaunas,Senamiestis
+2020-06,9.98,Kaunas,Senamiestis
+2020-07,9.69,Kaunas,Senamiestis
+2020-08,9.77,Kaunas,Senamiestis
+2020-09,9.99,Kaunas,Senamiestis
+2020-10,10.11,Kaunas,Senamiestis
+2020-11,10.07,Kaunas,Senamiestis
+2020-12,9.42,Kaunas,Senamiestis
+2021-01,9.47,Kaunas,Senamiestis
+2021-02,9.82,Kaunas,Senamiestis
+2021-03,9.36,Kaunas,Senamiestis
+2021-04,9.28,Kaunas,Senamiestis
+2021-05,10,Kaunas,Senamiestis
+2021-06,9.89,Kaunas,Senamiestis
+2021-07,10.22,Kaunas,Senamiestis
+2021-08,10.21,Kaunas,Senamiestis
+2021-09,11.08,Kaunas,Senamiestis
+2021-10,11.27,Kaunas,Senamiestis
+2021-11,11.62,Kaunas,Senamiestis
+2021-12,12.16,Kaunas,Senamiestis
+2022-01,11.67,Kaunas,Senamiestis
+2022-02,10.03,Kaunas,Senamiestis
+2022-03,10.8,Kaunas,Senamiestis
+2022-04,13.14,Kaunas,Senamiestis
+2022-05,13.62,Kaunas,Senamiestis
+2022-06,12.23,Kaunas,Senamiestis
+2022-07,12.46,Kaunas,Senamiestis
+2022-08,12.95,Kaunas,Senamiestis
+2022-09,12.43,Kaunas,Senamiestis
+2022-10,13.11,Kaunas,Senamiestis
+2017-01,5.86,Kaunas,Šilainiai
+2017-02,5.74,Kaunas,Šilainiai
+2017-03,5.85,Kaunas,Šilainiai
+2017-04,5.84,Kaunas,Šilainiai
+2017-05,5.9,Kaunas,Šilainiai
+2017-06,6.18,Kaunas,Šilainiai
+2017-07,6.18,Kaunas,Šilainiai
+2017-08,6.01,Kaunas,Šilainiai
+2017-09,5.89,Kaunas,Šilainiai
+2017-10,6.2,Kaunas,Šilainiai
+2017-11,6.12,Kaunas,Šilainiai
+2017-12,6.1,Kaunas,Šilainiai
+2018-01,5.95,Kaunas,Šilainiai
+2018-02,6.16,Kaunas,Šilainiai
+2018-03,6.19,Kaunas,Šilainiai
+2018-04,6.75,Kaunas,Šilainiai
+2018-05,6.58,Kaunas,Šilainiai
+2018-06,6.63,Kaunas,Šilainiai
+2018-07,6.68,Kaunas,Šilainiai
+2018-08,6.22,Kaunas,Šilainiai
+2018-09,5.97,Kaunas,Šilainiai
+2018-10,6.27,Kaunas,Šilainiai
+2018-11,6.28,Kaunas,Šilainiai
+2018-12,6.15,Kaunas,Šilainiai
+2019-01,6.27,Kaunas,Šilainiai
+2019-02,5.91,Kaunas,Šilainiai
+2019-03,5.94,Kaunas,Šilainiai
+2019-04,6.33,Kaunas,Šilainiai
+2019-05,6.72,Kaunas,Šilainiai
+2019-06,6.28,Kaunas,Šilainiai
+2019-07,6.21,Kaunas,Šilainiai
+2019-08,6.7,Kaunas,Šilainiai
+2019-09,6.58,Kaunas,Šilainiai
+2019-10,6.33,Kaunas,Šilainiai
+2019-11,5.63,Kaunas,Šilainiai
+2019-12,6.16,Kaunas,Šilainiai
+2020-01,6.43,Kaunas,Šilainiai
+2020-02,6.39,Kaunas,Šilainiai
+2020-03,6.43,Kaunas,Šilainiai
+2020-04,6.06,Kaunas,Šilainiai
+2020-05,5.67,Kaunas,Šilainiai
+2020-06,5.87,Kaunas,Šilainiai
+2020-07,5.94,Kaunas,Šilainiai
+2020-08,6.29,Kaunas,Šilainiai
+2020-09,6.25,Kaunas,Šilainiai
+2020-10,6.47,Kaunas,Šilainiai
+2020-11,6.72,Kaunas,Šilainiai
+2020-12,6.24,Kaunas,Šilainiai
+2021-01,5.94,Kaunas,Šilainiai
+2021-02,6.25,Kaunas,Šilainiai
+2021-03,7.48,Kaunas,Šilainiai
+2021-04,7.26,Kaunas,Šilainiai
+2021-05,7.39,Kaunas,Šilainiai
+2021-06,7.69,Kaunas,Šilainiai
+2021-07,7.5,Kaunas,Šilainiai
+2021-08,7.62,Kaunas,Šilainiai
+2021-09,7.14,Kaunas,Šilainiai
+2021-10,7,Kaunas,Šilainiai
+2021-11,7.87,Kaunas,Šilainiai
+2021-12,7.93,Kaunas,Šilainiai
+2022-01,8.23,Kaunas,Šilainiai
+2022-02,8,Kaunas,Šilainiai
+2022-03,7.7,Kaunas,Šilainiai
+2022-04,8.46,Kaunas,Šilainiai
+2022-05,8.68,Kaunas,Šilainiai
+2022-06,8.72,Kaunas,Šilainiai
+2022-07,8.82,Kaunas,Šilainiai
+2022-08,8.84,Kaunas,Šilainiai
+2022-09,8.62,Kaunas,Šilainiai
+2022-10,8.6,Kaunas,Šilainiai
+2018-01,2.39,Kaunas,Vaišvydava
+2018-02,3.09,Kaunas,Vaišvydava
+2018-07,4.17,Kaunas,Vaišvydava
+2018-08,4.17,Kaunas,Vaišvydava
+2018-09,4.17,Kaunas,Vaišvydava
+2018-10,4.17,Kaunas,Vaišvydava
+2018-11,4.17,Kaunas,Vaišvydava
+2018-12,4.17,Kaunas,Vaišvydava
+2020-10,7.33,Kaunas,Vaišvydava
+2018-01,8.04,Kaunas,Vičiūnai
+2018-04,6.7,Kaunas,Vičiūnai
+2019-01,7.13,Kaunas,Vičiūnai
+2019-02,6.69,Kaunas,Vičiūnai
+2019-03,6.62,Kaunas,Vičiūnai
+2019-05,7.5,Kaunas,Vičiūnai
+2019-09,6.84,Kaunas,Vičiūnai
+2020-07,7.04,Kaunas,Vičiūnai
+2020-08,7.4,Kaunas,Vičiūnai
+2020-09,6.46,Kaunas,Vičiūnai
+2020-10,7.41,Kaunas,Vičiūnai
+2020-11,6.32,Kaunas,Vičiūnai
+2020-12,8.49,Kaunas,Vičiūnai
+2021-01,7.72,Kaunas,Vičiūnai
+2021-02,7.59,Kaunas,Vičiūnai
+2021-03,7.59,Kaunas,Vičiūnai
+2017-01,4.97,Kaunas,Vilijampolė
+2017-02,5.02,Kaunas,Vilijampolė
+2017-03,5.71,Kaunas,Vilijampolė
+2017-04,5.96,Kaunas,Vilijampolė
+2017-05,6.01,Kaunas,Vilijampolė
+2017-06,6.3,Kaunas,Vilijampolė
+2017-07,6.4,Kaunas,Vilijampolė
+2017-08,6.38,Kaunas,Vilijampolė
+2017-09,5.57,Kaunas,Vilijampolė
+2017-10,5.68,Kaunas,Vilijampolė
+2017-11,6.78,Kaunas,Vilijampolė
+2017-12,6.73,Kaunas,Vilijampolė
+2018-01,6.55,Kaunas,Vilijampolė
+2018-02,5.89,Kaunas,Vilijampolė
+2018-03,6.05,Kaunas,Vilijampolė
+2018-04,5.92,Kaunas,Vilijampolė
+2018-05,5.74,Kaunas,Vilijampolė
+2018-06,5.88,Kaunas,Vilijampolė
+2018-07,6.42,Kaunas,Vilijampolė
+2018-08,7,Kaunas,Vilijampolė
+2018-09,6.81,Kaunas,Vilijampolė
+2018-10,7.09,Kaunas,Vilijampolė
+2018-11,6.98,Kaunas,Vilijampolė
+2018-12,5.37,Kaunas,Vilijampolė
+2019-01,4.92,Kaunas,Vilijampolė
+2019-02,5.84,Kaunas,Vilijampolė
+2019-03,6.25,Kaunas,Vilijampolė
+2019-04,6.63,Kaunas,Vilijampolė
+2019-05,6.59,Kaunas,Vilijampolė
+2019-06,6.49,Kaunas,Vilijampolė
+2019-07,6.72,Kaunas,Vilijampolė
+2019-08,6.81,Kaunas,Vilijampolė
+2019-09,7.38,Kaunas,Vilijampolė
+2019-10,7.32,Kaunas,Vilijampolė
+2019-11,6.93,Kaunas,Vilijampolė
+2019-12,7.61,Kaunas,Vilijampolė
+2020-01,7.48,Kaunas,Vilijampolė
+2020-02,6.9,Kaunas,Vilijampolė
+2020-03,7.15,Kaunas,Vilijampolė
+2020-04,6.97,Kaunas,Vilijampolė
+2020-05,6.7,Kaunas,Vilijampolė
+2020-06,5.97,Kaunas,Vilijampolė
+2020-07,6.54,Kaunas,Vilijampolė
+2020-08,6.68,Kaunas,Vilijampolė
+2020-09,7.43,Kaunas,Vilijampolė
+2020-10,6.93,Kaunas,Vilijampolė
+2020-11,6.99,Kaunas,Vilijampolė
+2020-12,7.23,Kaunas,Vilijampolė
+2021-01,7.37,Kaunas,Vilijampolė
+2021-02,7.59,Kaunas,Vilijampolė
+2021-03,7.77,Kaunas,Vilijampolė
+2021-04,6.83,Kaunas,Vilijampolė
+2021-05,7.68,Kaunas,Vilijampolė
+2021-06,8.39,Kaunas,Vilijampolė
+2021-07,8.68,Kaunas,Vilijampolė
+2021-08,8.34,Kaunas,Vilijampolė
+2021-09,8.7,Kaunas,Vilijampolė
+2021-10,8.48,Kaunas,Vilijampolė
+2021-11,7.6,Kaunas,Vilijampolė
+2021-12,7.91,Kaunas,Vilijampolė
+2022-01,10.98,Kaunas,Vilijampolė
+2022-02,10.6,Kaunas,Vilijampolė
+2022-03,10.73,Kaunas,Vilijampolė
+2022-04,10.74,Kaunas,Vilijampolė
+2022-05,10.49,Kaunas,Vilijampolė
+2022-06,9.59,Kaunas,Vilijampolė
+2022-07,9.76,Kaunas,Vilijampolė
+2022-08,11.61,Kaunas,Vilijampolė
+2022-09,11.55,Kaunas,Vilijampolė
+2022-10,10.79,Kaunas,Vilijampolė
+2017-12,7,Kaunas,Vytėnai
+2018-01,7.33,Kaunas,Vytėnai
+2018-02,7.27,Kaunas,Vytėnai
+2018-03,7.36,Kaunas,Vytėnai
+2018-04,7.5,Kaunas,Vytėnai
+2018-05,7.68,Kaunas,Vytėnai
+2018-06,7.9,Kaunas,Vytėnai
+2018-07,7.41,Kaunas,Vytėnai
+2018-08,6.7,Kaunas,Vytėnai
+2018-09,6.63,Kaunas,Vytėnai
+2018-10,6.19,Kaunas,Vytėnai
+2018-11,5.03,Kaunas,Vytėnai
+2018-12,8.3,Kaunas,Vytėnai
+2019-01,6.42,Kaunas,Vytėnai
+2019-02,7.14,Kaunas,Vytėnai
+2019-03,7.51,Kaunas,Vytėnai
+2019-04,7.37,Kaunas,Vytėnai
+2019-05,8.1,Kaunas,Vytėnai
+2019-06,8.38,Kaunas,Vytėnai
+2019-07,7.97,Kaunas,Vytėnai
+2019-08,7.53,Kaunas,Vytėnai
+2019-09,7.32,Kaunas,Vytėnai
+2019-10,7.75,Kaunas,Vytėnai
+2019-11,8.18,Kaunas,Vytėnai
+2019-12,8.07,Kaunas,Vytėnai
+2020-01,8.42,Kaunas,Vytėnai
+2020-02,8.44,Kaunas,Vytėnai
+2020-03,7.78,Kaunas,Vytėnai
+2020-04,7.87,Kaunas,Vytėnai
+2020-05,7.73,Kaunas,Vytėnai
+2020-06,7.72,Kaunas,Vytėnai
+2020-07,7.79,Kaunas,Vytėnai
+2020-08,8.3,Kaunas,Vytėnai
+2020-09,8.14,Kaunas,Vytėnai
+2020-10,7.26,Kaunas,Vytėnai
+2020-11,7.79,Kaunas,Vytėnai
+2020-12,6.81,Kaunas,Vytėnai
+2021-01,6.08,Kaunas,Vytėnai
+2021-02,6.51,Kaunas,Vytėnai
+2021-03,5.63,Kaunas,Vytėnai
+2017-01,6.3,Kaunas,Žaliakalnis
+2017-02,6.41,Kaunas,Žaliakalnis
+2017-03,6.7,Kaunas,Žaliakalnis
+2017-04,6.34,Kaunas,Žaliakalnis
+2017-05,6.79,Kaunas,Žaliakalnis
+2017-06,7.37,Kaunas,Žaliakalnis
+2017-07,7.1,Kaunas,Žaliakalnis
+2017-08,6.73,Kaunas,Žaliakalnis
+2017-09,6.52,Kaunas,Žaliakalnis
+2017-10,6.51,Kaunas,Žaliakalnis
+2017-11,6.61,Kaunas,Žaliakalnis
+2017-12,6.77,Kaunas,Žaliakalnis
+2018-01,7.2,Kaunas,Žaliakalnis
+2018-02,6.94,Kaunas,Žaliakalnis
+2018-03,7.06,Kaunas,Žaliakalnis
+2018-04,7.23,Kaunas,Žaliakalnis
+2018-05,7.71,Kaunas,Žaliakalnis
+2018-06,7.36,Kaunas,Žaliakalnis
+2018-07,7.22,Kaunas,Žaliakalnis
+2018-08,7.19,Kaunas,Žaliakalnis
+2018-09,7.35,Kaunas,Žaliakalnis
+2018-10,7.44,Kaunas,Žaliakalnis
+2018-11,7.29,Kaunas,Žaliakalnis
+2018-12,7.58,Kaunas,Žaliakalnis
+2019-01,7.51,Kaunas,Žaliakalnis
+2019-02,7.31,Kaunas,Žaliakalnis
+2019-03,7.12,Kaunas,Žaliakalnis
+2019-04,6.64,Kaunas,Žaliakalnis
+2019-05,7.18,Kaunas,Žaliakalnis
+2019-06,7.64,Kaunas,Žaliakalnis
+2019-07,7.43,Kaunas,Žaliakalnis
+2019-08,7.32,Kaunas,Žaliakalnis
+2019-09,7.27,Kaunas,Žaliakalnis
+2019-10,7.24,Kaunas,Žaliakalnis
+2019-11,7.34,Kaunas,Žaliakalnis
+2019-12,7.94,Kaunas,Žaliakalnis
+2020-01,7.53,Kaunas,Žaliakalnis
+2020-02,7.22,Kaunas,Žaliakalnis
+2020-03,6.94,Kaunas,Žaliakalnis
+2020-04,6.99,Kaunas,Žaliakalnis
+2020-05,7.12,Kaunas,Žaliakalnis
+2020-06,7.74,Kaunas,Žaliakalnis
+2020-07,8.03,Kaunas,Žaliakalnis
+2020-08,8.15,Kaunas,Žaliakalnis
+2020-09,7.65,Kaunas,Žaliakalnis
+2020-10,7.85,Kaunas,Žaliakalnis
+2020-11,8.14,Kaunas,Žaliakalnis
+2020-12,8.59,Kaunas,Žaliakalnis
+2021-01,8.52,Kaunas,Žaliakalnis
+2021-02,9.19,Kaunas,Žaliakalnis
+2021-03,9.24,Kaunas,Žaliakalnis
+2021-04,8.6,Kaunas,Žaliakalnis
+2021-05,8.45,Kaunas,Žaliakalnis
+2021-06,8.45,Kaunas,Žaliakalnis
+2021-07,8.38,Kaunas,Žaliakalnis
+2021-08,8.59,Kaunas,Žaliakalnis
+2021-09,8.43,Kaunas,Žaliakalnis
+2021-10,8.8,Kaunas,Žaliakalnis
+2021-11,8.72,Kaunas,Žaliakalnis
+2021-12,9.38,Kaunas,Žaliakalnis
+2022-01,9.11,Kaunas,Žaliakalnis
+2022-02,8.96,Kaunas,Žaliakalnis
+2022-03,9.3,Kaunas,Žaliakalnis
+2022-04,10.35,Kaunas,Žaliakalnis
+2022-05,10.31,Kaunas,Žaliakalnis
+2022-06,10.18,Kaunas,Žaliakalnis
+2022-07,9.92,Kaunas,Žaliakalnis
+2022-08,10.4,Kaunas,Žaliakalnis
+2022-09,10.08,Kaunas,Žaliakalnis
+2022-10,9.81,Kaunas,Žaliakalnis
+2017-01,6.06,Kaunas,Žemieji Šančiai
+2017-02,7.11,Kaunas,Žemieji Šančiai
+2017-03,6.67,Kaunas,Žemieji Šančiai
+2017-05,7.24,Kaunas,Žemieji Šančiai
+2017-06,7.27,Kaunas,Žemieji Šančiai
+2017-07,6.29,Kaunas,Žemieji Šančiai
+2017-08,6.63,Kaunas,Žemieji Šančiai
+2017-09,7.63,Kaunas,Žemieji Šančiai
+2017-10,7.4,Kaunas,Žemieji Šančiai
+2017-11,6.31,Kaunas,Žemieji Šančiai
+2017-12,7.48,Kaunas,Žemieji Šančiai
+2018-01,7.6,Kaunas,Žemieji Šančiai
+2018-02,7.25,Kaunas,Žemieji Šančiai
+2018-03,6.87,Kaunas,Žemieji Šančiai
+2018-04,7.62,Kaunas,Žemieji Šančiai
+2018-05,6.85,Kaunas,Žemieji Šančiai
+2018-06,6.91,Kaunas,Žemieji Šančiai
+2018-07,7.47,Kaunas,Žemieji Šančiai
+2018-08,8.05,Kaunas,Žemieji Šančiai
+2018-09,8.15,Kaunas,Žemieji Šančiai
+2018-10,8.03,Kaunas,Žemieji Šančiai
+2018-11,6.77,Kaunas,Žemieji Šančiai
+2018-12,7.78,Kaunas,Žemieji Šančiai
+2019-01,7.37,Kaunas,Žemieji Šančiai
+2019-02,7.4,Kaunas,Žemieji Šančiai
+2019-03,7.43,Kaunas,Žemieji Šančiai
+2019-04,8.14,Kaunas,Žemieji Šančiai
+2019-05,7.76,Kaunas,Žemieji Šančiai
+2019-06,8.21,Kaunas,Žemieji Šančiai
+2019-07,7.93,Kaunas,Žemieji Šančiai
+2019-08,8.37,Kaunas,Žemieji Šančiai
+2019-09,8.19,Kaunas,Žemieji Šančiai
+2019-10,8.56,Kaunas,Žemieji Šančiai
+2019-11,8.41,Kaunas,Žemieji Šančiai
+2019-12,8.59,Kaunas,Žemieji Šančiai
+2020-01,8.87,Kaunas,Žemieji Šančiai
+2020-02,9.04,Kaunas,Žemieji Šančiai
+2020-03,8.31,Kaunas,Žemieji Šančiai
+2020-04,7.81,Kaunas,Žemieji Šančiai
+2020-05,7.6,Kaunas,Žemieji Šančiai
+2020-06,7.5,Kaunas,Žemieji Šančiai
+2020-07,8.21,Kaunas,Žemieji Šančiai
+2020-08,9.21,Kaunas,Žemieji Šančiai
+2020-09,8.93,Kaunas,Žemieji Šančiai
+2020-10,8.11,Kaunas,Žemieji Šančiai
+2020-11,8.13,Kaunas,Žemieji Šančiai
+2020-12,8.83,Kaunas,Žemieji Šančiai
+2021-01,8.44,Kaunas,Žemieji Šančiai
+2021-02,8.95,Kaunas,Žemieji Šančiai
+2021-03,8.57,Kaunas,Žemieji Šančiai
+2021-04,9.56,Kaunas,Žemieji Šančiai
+2021-05,8.91,Kaunas,Žemieji Šančiai
+2021-06,8.29,Kaunas,Žemieji Šančiai
+2021-07,8.3,Kaunas,Žemieji Šančiai
+2021-08,8.9,Kaunas,Žemieji Šančiai
+2021-09,9.89,Kaunas,Žemieji Šančiai
+2021-10,9.77,Kaunas,Žemieji Šančiai
+2021-11,9.69,Kaunas,Žemieji Šančiai
+2021-12,9.65,Kaunas,Žemieji Šančiai
+2022-01,9.25,Kaunas,Žemieji Šančiai
+2022-02,9.95,Kaunas,Žemieji Šančiai
+2022-03,9.72,Kaunas,Žemieji Šančiai
+2022-04,10.76,Kaunas,Žemieji Šančiai
+2022-05,10.82,Kaunas,Žemieji Šančiai
+2022-06,11.47,Kaunas,Žemieji Šančiai
+2022-07,11.57,Kaunas,Žemieji Šančiai
+2022-08,12.3,Kaunas,Žemieji Šančiai
+2022-09,11.28,Kaunas,Žemieji Šančiai
+2022-10,10.81,Kaunas,Žemieji Šančiai
+2018-01,6.46,Kaunas,Žemutiniai Kaniūkai
+2018-02,5.93,Kaunas,Žemutiniai Kaniūkai
+2018-03,5.87,Kaunas,Žemutiniai Kaniūkai
+2018-07,6.21,Kaunas,Žemutiniai Kaniūkai
+2018-08,6.58,Kaunas,Žemutiniai Kaniūkai
+2018-09,7.1,Kaunas,Žemutiniai Kaniūkai
+2018-10,7.04,Kaunas,Žemutiniai Kaniūkai
+2018-11,5.69,Kaunas,Žemutiniai Kaniūkai
+2018-12,5.76,Kaunas,Žemutiniai Kaniūkai
+2019-01,5.74,Kaunas,Žemutiniai Kaniūkai
+2019-02,7.06,Kaunas,Žemutiniai Kaniūkai
+2019-03,6.42,Kaunas,Žemutiniai Kaniūkai
+2019-04,6.36,Kaunas,Žemutiniai Kaniūkai
+2019-05,5.49,Kaunas,Žemutiniai Kaniūkai
+2019-06,6,Kaunas,Žemutiniai Kaniūkai
+2019-07,7,Kaunas,Žemutiniai Kaniūkai
+2019-08,6.66,Kaunas,Žemutiniai Kaniūkai
+2019-09,7.73,Kaunas,Žemutiniai Kaniūkai
+2019-10,7.5,Kaunas,Žemutiniai Kaniūkai
+2019-11,7.31,Kaunas,Žemutiniai Kaniūkai
+2020-01,7.89,Kaunas,Žemutiniai Kaniūkai
+2020-02,6.84,Kaunas,Žemutiniai Kaniūkai
+2020-04,6.59,Kaunas,Žemutiniai Kaniūkai
+2020-06,5.69,Kaunas,Žemutiniai Kaniūkai
+2020-07,4.64,Kaunas,Žemutiniai Kaniūkai
+2020-08,6.01,Kaunas,Žemutiniai Kaniūkai
+2020-09,8.55,Kaunas,Žemutiniai Kaniūkai
+2020-10,9.1,Kaunas,Žemutiniai Kaniūkai
+2020-11,7.12,Kaunas,Žemutiniai Kaniūkai
+2021-01,9.02,Kaunas,Žemutiniai Kaniūkai
+2021-02,9.6,Kaunas,Žemutiniai Kaniūkai
+2021-03,8.81,Kaunas,Žemutiniai Kaniūkai
+2021-09,8.03,Kaunas,Žemutiniai Kaniūkai
+2022-08,10.8,Kaunas,Žemutiniai Kaniūkai
+2022-09,8.86,Kaunas,Žemutiniai Kaniūkai
+2017-01,5.04,Klaipėda,Alksnynė
+2017-02,5.05,Klaipėda,Alksnynė
+2017-03,5.16,Klaipėda,Alksnynė
+2017-04,5.32,Klaipėda,Alksnynė
+2017-05,5.2,Klaipėda,Alksnynė
+2017-06,5.59,Klaipėda,Alksnynė
+2017-08,5.54,Klaipėda,Alksnynė
+2017-10,5.08,Klaipėda,Alksnynė
+2017-11,4.53,Klaipėda,Alksnynė
+2017-12,4.9,Klaipėda,Alksnynė
+2018-01,5.51,Klaipėda,Alksnynė
+2018-02,5.67,Klaipėda,Alksnynė
+2018-03,5.97,Klaipėda,Alksnynė
+2018-04,5.3,Klaipėda,Alksnynė
+2018-05,6.42,Klaipėda,Alksnynė
+2018-06,5.56,Klaipėda,Alksnynė
+2018-07,4.94,Klaipėda,Alksnynė
+2018-08,4.9,Klaipėda,Alksnynė
+2018-09,5.38,Klaipėda,Alksnynė
+2018-10,5.45,Klaipėda,Alksnynė
+2018-11,5.43,Klaipėda,Alksnynė
+2018-12,5.33,Klaipėda,Alksnynė
+2019-01,5.05,Klaipėda,Alksnynė
+2019-02,5.11,Klaipėda,Alksnynė
+2019-03,5.61,Klaipėda,Alksnynė
+2019-04,5.19,Klaipėda,Alksnynė
+2019-05,5.77,Klaipėda,Alksnynė
+2019-06,4.75,Klaipėda,Alksnynė
+2019-07,6.07,Klaipėda,Alksnynė
+2019-08,6.08,Klaipėda,Alksnynė
+2019-09,5.69,Klaipėda,Alksnynė
+2019-10,6.37,Klaipėda,Alksnynė
+2019-11,4.32,Klaipėda,Alksnynė
+2019-12,4.83,Klaipėda,Alksnynė
+2020-01,4.84,Klaipėda,Alksnynė
+2020-02,4.42,Klaipėda,Alksnynė
+2020-03,5.4,Klaipėda,Alksnynė
+2020-04,4.43,Klaipėda,Alksnynė
+2020-05,4.73,Klaipėda,Alksnynė
+2020-06,5.22,Klaipėda,Alksnynė
+2020-07,5.37,Klaipėda,Alksnynė
+2020-08,6.23,Klaipėda,Alksnynė
+2020-09,5.62,Klaipėda,Alksnynė
+2020-10,5.27,Klaipėda,Alksnynė
+2020-11,7.53,Klaipėda,Alksnynė
+2020-12,6.91,Klaipėda,Alksnynė
+2021-01,6.04,Klaipėda,Alksnynė
+2021-02,5.67,Klaipėda,Alksnynė
+2021-03,6.06,Klaipėda,Alksnynė
+2021-04,5.84,Klaipėda,Alksnynė
+2021-05,5.83,Klaipėda,Alksnynė
+2021-09,6.89,Klaipėda,Alksnynė
+2021-10,6.56,Klaipėda,Alksnynė
+2021-12,6.64,Klaipėda,Alksnynė
+2022-02,6.69,Klaipėda,Alksnynė
+2022-08,8.15,Klaipėda,Alksnynė
+2022-09,8.52,Klaipėda,Alksnynė
+2022-10,8.45,Klaipėda,Alksnynė
+2017-01,5.16,Klaipėda,Baltija
+2017-02,5.08,Klaipėda,Baltija
+2017-03,5.38,Klaipėda,Baltija
+2017-04,8.11,Klaipėda,Baltija
+2017-05,4.94,Klaipėda,Baltija
+2017-08,3.39,Klaipėda,Baltija
+2017-09,4.49,Klaipėda,Baltija
+2017-10,4.78,Klaipėda,Baltija
+2017-11,4.54,Klaipėda,Baltija
+2017-12,5.65,Klaipėda,Baltija
+2018-01,5.9,Klaipėda,Baltija
+2018-02,5.22,Klaipėda,Baltija
+2018-03,5.25,Klaipėda,Baltija
+2018-04,5.51,Klaipėda,Baltija
+2018-05,4.01,Klaipėda,Baltija
+2018-06,5.95,Klaipėda,Baltija
+2018-07,5.37,Klaipėda,Baltija
+2018-08,5.96,Klaipėda,Baltija
+2018-09,5.23,Klaipėda,Baltija
+2018-10,4.66,Klaipėda,Baltija
+2018-11,4.81,Klaipėda,Baltija
+2018-12,5.68,Klaipėda,Baltija
+2019-01,6.36,Klaipėda,Baltija
+2019-02,6.2,Klaipėda,Baltija
+2019-03,5.94,Klaipėda,Baltija
+2019-04,5.54,Klaipėda,Baltija
+2019-05,6.06,Klaipėda,Baltija
+2019-06,5.74,Klaipėda,Baltija
+2019-07,5.66,Klaipėda,Baltija
+2019-08,7.1,Klaipėda,Baltija
+2019-09,6.47,Klaipėda,Baltija
+2019-10,5.61,Klaipėda,Baltija
+2019-11,5.69,Klaipėda,Baltija
+2019-12,5.68,Klaipėda,Baltija
+2020-01,5.3,Klaipėda,Baltija
+2020-02,5.73,Klaipėda,Baltija
+2020-03,5.79,Klaipėda,Baltija
+2020-04,5.99,Klaipėda,Baltija
+2020-05,5.01,Klaipėda,Baltija
+2020-06,6.11,Klaipėda,Baltija
+2020-07,5.83,Klaipėda,Baltija
+2020-08,5.64,Klaipėda,Baltija
+2020-09,5.85,Klaipėda,Baltija
+2020-10,5.42,Klaipėda,Baltija
+2020-11,5.47,Klaipėda,Baltija
+2020-12,5.82,Klaipėda,Baltija
+2021-01,5.77,Klaipėda,Baltija
+2021-02,6.1,Klaipėda,Baltija
+2021-03,5.77,Klaipėda,Baltija
+2021-04,5.74,Klaipėda,Baltija
+2021-09,7.27,Klaipėda,Baltija
+2021-10,7.36,Klaipėda,Baltija
+2021-11,6.97,Klaipėda,Baltija
+2022-01,5.67,Klaipėda,Baltija
+2022-02,6.12,Klaipėda,Baltija
+2022-08,8.81,Klaipėda,Baltija
+2022-09,8.43,Klaipėda,Baltija
+2022-10,9.02,Klaipėda,Baltija
+2017-01,3.58,Klaipėda,Bandužiai
+2017-02,3.85,Klaipėda,Bandužiai
+2017-03,4.08,Klaipėda,Bandužiai
+2017-10,3.75,Klaipėda,Bandužiai
+2017-11,3.17,Klaipėda,Bandužiai
+2017-12,3.67,Klaipėda,Bandužiai
+2018-01,3.23,Klaipėda,Bandužiai
+2018-02,3.24,Klaipėda,Bandužiai
+2018-03,3.59,Klaipėda,Bandužiai
+2018-04,3.92,Klaipėda,Bandužiai
+2018-05,3.87,Klaipėda,Bandužiai
+2018-06,4.11,Klaipėda,Bandužiai
+2018-07,3.88,Klaipėda,Bandužiai
+2018-08,4.37,Klaipėda,Bandužiai
+2018-09,3.51,Klaipėda,Bandužiai
+2018-10,3.91,Klaipėda,Bandužiai
+2018-11,4.11,Klaipėda,Bandužiai
+2018-12,3.98,Klaipėda,Bandužiai
+2019-01,4.47,Klaipėda,Bandužiai
+2019-02,4.79,Klaipėda,Bandužiai
+2019-03,4.7,Klaipėda,Bandužiai
+2019-04,4.59,Klaipėda,Bandužiai
+2019-05,4.44,Klaipėda,Bandužiai
+2019-06,4.39,Klaipėda,Bandužiai
+2019-07,4.52,Klaipėda,Bandužiai
+2019-08,5.03,Klaipėda,Bandužiai
+2019-09,4.12,Klaipėda,Bandužiai
+2019-10,3.87,Klaipėda,Bandužiai
+2019-11,4.16,Klaipėda,Bandužiai
+2019-12,3.9,Klaipėda,Bandužiai
+2020-01,3.81,Klaipėda,Bandužiai
+2020-02,4.15,Klaipėda,Bandužiai
+2020-03,3.6,Klaipėda,Bandužiai
+2020-04,3.77,Klaipėda,Bandužiai
+2020-05,3.69,Klaipėda,Bandužiai
+2020-06,3.73,Klaipėda,Bandužiai
+2020-07,4.45,Klaipėda,Bandužiai
+2020-08,4.68,Klaipėda,Bandužiai
+2020-09,5.24,Klaipėda,Bandužiai
+2020-10,4.54,Klaipėda,Bandužiai
+2020-11,3.57,Klaipėda,Bandužiai
+2020-12,4.01,Klaipėda,Bandužiai
+2021-01,4.16,Klaipėda,Bandužiai
+2021-02,4.37,Klaipėda,Bandužiai
+2021-03,5.21,Klaipėda,Bandužiai
+2021-11,4.98,Klaipėda,Bandužiai
+2021-12,4.75,Klaipėda,Bandužiai
+2022-09,6.89,Klaipėda,Bandužiai
+2022-10,6.19,Klaipėda,Bandužiai
+2017-01,6.75,Klaipėda,Centras
+2017-02,6.49,Klaipėda,Centras
+2017-03,6.65,Klaipėda,Centras
+2017-04,6.91,Klaipėda,Centras
+2017-05,6.77,Klaipėda,Centras
+2017-06,6.96,Klaipėda,Centras
+2017-07,6.96,Klaipėda,Centras
+2017-08,7.57,Klaipėda,Centras
+2017-09,6.93,Klaipėda,Centras
+2017-10,6.6,Klaipėda,Centras
+2017-11,6.25,Klaipėda,Centras
+2017-12,6.35,Klaipėda,Centras
+2018-01,6.48,Klaipėda,Centras
+2018-02,6.85,Klaipėda,Centras
+2018-03,6.62,Klaipėda,Centras
+2018-04,6.86,Klaipėda,Centras
+2018-05,7.7,Klaipėda,Centras
+2018-06,7.54,Klaipėda,Centras
+2018-07,7.09,Klaipėda,Centras
+2018-08,7.34,Klaipėda,Centras
+2018-09,7.2,Klaipėda,Centras
+2018-10,7.36,Klaipėda,Centras
+2018-11,7.53,Klaipėda,Centras
+2018-12,7.47,Klaipėda,Centras
+2019-01,7.11,Klaipėda,Centras
+2019-02,7.41,Klaipėda,Centras
+2019-03,7.59,Klaipėda,Centras
+2019-04,7.94,Klaipėda,Centras
+2019-05,7.92,Klaipėda,Centras
+2019-06,7.08,Klaipėda,Centras
+2019-07,7.75,Klaipėda,Centras
+2019-08,8.14,Klaipėda,Centras
+2019-09,8.11,Klaipėda,Centras
+2019-10,7.93,Klaipėda,Centras
+2019-11,7.69,Klaipėda,Centras
+2019-12,7.65,Klaipėda,Centras
+2020-01,7.76,Klaipėda,Centras
+2020-02,7.63,Klaipėda,Centras
+2020-03,8.08,Klaipėda,Centras
+2020-04,7.72,Klaipėda,Centras
+2020-05,7.63,Klaipėda,Centras
+2020-06,8.32,Klaipėda,Centras
+2020-07,9.16,Klaipėda,Centras
+2020-08,9.26,Klaipėda,Centras
+2020-09,8.78,Klaipėda,Centras
+2020-10,8.19,Klaipėda,Centras
+2020-11,8.44,Klaipėda,Centras
+2020-12,9.23,Klaipėda,Centras
+2021-01,8.99,Klaipėda,Centras
+2021-02,8.23,Klaipėda,Centras
+2021-03,7.86,Klaipėda,Centras
+2021-04,8.1,Klaipėda,Centras
+2021-05,8.33,Klaipėda,Centras
+2021-06,8.72,Klaipėda,Centras
+2021-07,8.21,Klaipėda,Centras
+2021-08,8.19,Klaipėda,Centras
+2021-09,9.47,Klaipėda,Centras
+2021-10,8.92,Klaipėda,Centras
+2021-11,8.64,Klaipėda,Centras
+2021-12,8.02,Klaipėda,Centras
+2022-01,8.37,Klaipėda,Centras
+2022-02,8.33,Klaipėda,Centras
+2022-03,8.75,Klaipėda,Centras
+2022-04,11.38,Klaipėda,Centras
+2022-05,10.64,Klaipėda,Centras
+2022-06,10.58,Klaipėda,Centras
+2022-07,10.7,Klaipėda,Centras
+2022-08,10.79,Klaipėda,Centras
+2022-09,10.36,Klaipėda,Centras
+2022-10,10.09,Klaipėda,Centras
+2017-01,4.27,Klaipėda,Debrecenas
+2017-02,4.64,Klaipėda,Debrecenas
+2017-03,4.98,Klaipėda,Debrecenas
+2017-04,5.34,Klaipėda,Debrecenas
+2017-10,5.42,Klaipėda,Debrecenas
+2017-11,4.45,Klaipėda,Debrecenas
+2017-12,4.8,Klaipėda,Debrecenas
+2018-01,4.59,Klaipėda,Debrecenas
+2018-02,4.74,Klaipėda,Debrecenas
+2018-03,4.71,Klaipėda,Debrecenas
+2018-04,5.71,Klaipėda,Debrecenas
+2018-05,5.99,Klaipėda,Debrecenas
+2018-06,6.15,Klaipėda,Debrecenas
+2018-07,7.28,Klaipėda,Debrecenas
+2018-08,7.32,Klaipėda,Debrecenas
+2018-09,6.8,Klaipėda,Debrecenas
+2018-10,6.25,Klaipėda,Debrecenas
+2018-11,6.33,Klaipėda,Debrecenas
+2018-12,5.8,Klaipėda,Debrecenas
+2019-01,5.85,Klaipėda,Debrecenas
+2019-02,5.4,Klaipėda,Debrecenas
+2019-03,5.43,Klaipėda,Debrecenas
+2019-04,5.92,Klaipėda,Debrecenas
+2019-05,5.65,Klaipėda,Debrecenas
+2019-06,5.57,Klaipėda,Debrecenas
+2019-07,5.7,Klaipėda,Debrecenas
+2019-08,5.4,Klaipėda,Debrecenas
+2019-09,5.36,Klaipėda,Debrecenas
+2019-10,5.61,Klaipėda,Debrecenas
+2019-11,5.09,Klaipėda,Debrecenas
+2019-12,3.93,Klaipėda,Debrecenas
+2020-01,4.34,Klaipėda,Debrecenas
+2020-02,5.98,Klaipėda,Debrecenas
+2020-03,5.59,Klaipėda,Debrecenas
+2020-04,5.05,Klaipėda,Debrecenas
+2020-05,4.59,Klaipėda,Debrecenas
+2020-06,5.48,Klaipėda,Debrecenas
+2020-07,6.07,Klaipėda,Debrecenas
+2020-08,6.57,Klaipėda,Debrecenas
+2020-09,6.63,Klaipėda,Debrecenas
+2020-10,5.02,Klaipėda,Debrecenas
+2020-11,5.38,Klaipėda,Debrecenas
+2020-12,5.22,Klaipėda,Debrecenas
+2021-01,5.01,Klaipėda,Debrecenas
+2021-02,5.61,Klaipėda,Debrecenas
+2021-03,5.67,Klaipėda,Debrecenas
+2021-04,5.97,Klaipėda,Debrecenas
+2021-11,7.14,Klaipėda,Debrecenas
+2021-12,6.3,Klaipėda,Debrecenas
+2022-01,6.19,Klaipėda,Debrecenas
+2022-02,5.95,Klaipėda,Debrecenas
+2022-03,4.58,Klaipėda,Debrecenas
+2022-09,8.97,Klaipėda,Debrecenas
+2022-10,7.17,Klaipėda,Debrecenas
+2017-01,6.81,Klaipėda,Giruliai
+2017-02,7.36,Klaipėda,Giruliai
+2017-03,7.44,Klaipėda,Giruliai
+2017-04,7.19,Klaipėda,Giruliai
+2017-05,7.3,Klaipėda,Giruliai
+2017-11,6.42,Klaipėda,Giruliai
+2017-12,7.43,Klaipėda,Giruliai
+2018-01,7.32,Klaipėda,Giruliai
+2018-02,6.63,Klaipėda,Giruliai
+2018-03,6.27,Klaipėda,Giruliai
+2018-04,6.17,Klaipėda,Giruliai
+2018-05,5.94,Klaipėda,Giruliai
+2018-06,5.73,Klaipėda,Giruliai
+2018-08,6.27,Klaipėda,Giruliai
+2018-09,6.42,Klaipėda,Giruliai
+2018-10,6.31,Klaipėda,Giruliai
+2018-11,6.67,Klaipėda,Giruliai
+2018-12,7.09,Klaipėda,Giruliai
+2019-02,6.35,Klaipėda,Giruliai
+2019-03,9.57,Klaipėda,Giruliai
+2019-05,7.69,Klaipėda,Giruliai
+2019-06,8,Klaipėda,Giruliai
+2019-07,6.54,Klaipėda,Giruliai
+2019-08,8.98,Klaipėda,Giruliai
+2019-09,7.73,Klaipėda,Giruliai
+2019-10,7.06,Klaipėda,Giruliai
+2019-11,9.78,Klaipėda,Giruliai
+2019-12,10.06,Klaipėda,Giruliai
+2020-03,6.67,Klaipėda,Giruliai
+2020-08,9.27,Klaipėda,Giruliai
+2020-09,9,Klaipėda,Giruliai
+2020-10,8.35,Klaipėda,Giruliai
+2020-11,8.33,Klaipėda,Giruliai
+2021-03,11.49,Klaipėda,Giruliai
+2017-01,5.45,Klaipėda,Kaunas
+2017-02,5.74,Klaipėda,Kaunas
+2017-03,5.5,Klaipėda,Kaunas
+2017-04,5.75,Klaipėda,Kaunas
+2017-05,5.62,Klaipėda,Kaunas
+2017-06,5.24,Klaipėda,Kaunas
+2017-07,5.7,Klaipėda,Kaunas
+2017-08,6,Klaipėda,Kaunas
+2017-09,5.41,Klaipėda,Kaunas
+2017-10,4.94,Klaipėda,Kaunas
+2017-11,4.97,Klaipėda,Kaunas
+2017-12,5.21,Klaipėda,Kaunas
+2018-01,5.59,Klaipėda,Kaunas
+2018-02,5.62,Klaipėda,Kaunas
+2018-03,5.58,Klaipėda,Kaunas
+2018-04,5.02,Klaipėda,Kaunas
+2018-05,6.17,Klaipėda,Kaunas
+2018-06,5.87,Klaipėda,Kaunas
+2018-07,5.02,Klaipėda,Kaunas
+2018-08,5.94,Klaipėda,Kaunas
+2018-09,5.27,Klaipėda,Kaunas
+2018-10,5.96,Klaipėda,Kaunas
+2018-11,5.78,Klaipėda,Kaunas
+2018-12,5.78,Klaipėda,Kaunas
+2019-01,5.32,Klaipėda,Kaunas
+2019-02,4.55,Klaipėda,Kaunas
+2019-03,4.41,Klaipėda,Kaunas
+2019-04,7.41,Klaipėda,Kaunas
+2019-05,8.31,Klaipėda,Kaunas
+2019-06,6.58,Klaipėda,Kaunas
+2019-07,5.14,Klaipėda,Kaunas
+2019-08,6.58,Klaipėda,Kaunas
+2019-09,6.35,Klaipėda,Kaunas
+2019-10,7.31,Klaipėda,Kaunas
+2019-11,7.43,Klaipėda,Kaunas
+2019-12,6.17,Klaipėda,Kaunas
+2020-01,5.73,Klaipėda,Kaunas
+2020-02,4.97,Klaipėda,Kaunas
+2020-03,5.68,Klaipėda,Kaunas
+2020-04,6.36,Klaipėda,Kaunas
+2020-05,5.75,Klaipėda,Kaunas
+2020-06,5.83,Klaipėda,Kaunas
+2020-07,6.22,Klaipėda,Kaunas
+2020-08,5.89,Klaipėda,Kaunas
+2020-09,6.32,Klaipėda,Kaunas
+2020-10,6.33,Klaipėda,Kaunas
+2020-11,6.1,Klaipėda,Kaunas
+2020-12,5.55,Klaipėda,Kaunas
+2021-01,5.67,Klaipėda,Kaunas
+2021-02,5.08,Klaipėda,Kaunas
+2021-03,5.04,Klaipėda,Kaunas
+2021-04,6.76,Klaipėda,Kaunas
+2021-08,7.29,Klaipėda,Kaunas
+2021-09,7.64,Klaipėda,Kaunas
+2021-10,7.88,Klaipėda,Kaunas
+2021-11,7.7,Klaipėda,Kaunas
+2021-12,7.84,Klaipėda,Kaunas
+2022-02,7,Klaipėda,Kaunas
+2022-03,7.17,Klaipėda,Kaunas
+2022-08,10.19,Klaipėda,Kaunas
+2022-09,7.87,Klaipėda,Kaunas
+2022-10,7.76,Klaipėda,Kaunas
+2018-03,4.29,Klaipėda,Labrenciškės
+2018-10,4.29,Klaipėda,Labrenciškės
+2019-02,3.33,Klaipėda,Labrenciškės
+2019-05,6,Klaipėda,Labrenciškės
+2020-03,5.71,Klaipėda,Labrenciškės
+2020-05,1.24,Klaipėda,Labrenciškės
+2020-06,4.96,Klaipėda,Labrenciškės
+2020-07,2.22,Klaipėda,Labrenciškės
+2020-08,1.23,Klaipėda,Labrenciškės
+2020-09,1.23,Klaipėda,Labrenciškės
+2020-10,2.04,Klaipėda,Labrenciškės
+2021-01,1.24,Klaipėda,Labrenciškės
+2021-02,1.29,Klaipėda,Labrenciškės
+2021-03,1.42,Klaipėda,Labrenciškės
+2017-12,3.52,Klaipėda,Laukininkai
+2018-01,4.17,Klaipėda,Laukininkai
+2018-02,3.89,Klaipėda,Laukininkai
+2018-03,3.94,Klaipėda,Laukininkai
+2018-04,4.52,Klaipėda,Laukininkai
+2018-05,3.92,Klaipėda,Laukininkai
+2018-08,4.47,Klaipėda,Laukininkai
+2018-09,4.18,Klaipėda,Laukininkai
+2018-10,4.18,Klaipėda,Laukininkai
+2018-11,3.82,Klaipėda,Laukininkai
+2018-12,3.56,Klaipėda,Laukininkai
+2019-01,4.29,Klaipėda,Laukininkai
+2019-03,4.6,Klaipėda,Laukininkai
+2019-04,5.44,Klaipėda,Laukininkai
+2019-05,5.22,Klaipėda,Laukininkai
+2019-06,3.77,Klaipėda,Laukininkai
+2019-07,4.91,Klaipėda,Laukininkai
+2019-08,4.69,Klaipėda,Laukininkai
+2019-09,4.55,Klaipėda,Laukininkai
+2019-10,4.51,Klaipėda,Laukininkai
+2019-11,4.76,Klaipėda,Laukininkai
+2019-12,4.97,Klaipėda,Laukininkai
+2020-01,4.83,Klaipėda,Laukininkai
+2020-02,4.72,Klaipėda,Laukininkai
+2020-03,4.17,Klaipėda,Laukininkai
+2020-04,3.71,Klaipėda,Laukininkai
+2020-05,3.29,Klaipėda,Laukininkai
+2020-06,4.7,Klaipėda,Laukininkai
+2020-07,3.33,Klaipėda,Laukininkai
+2020-08,5.81,Klaipėda,Laukininkai
+2020-09,5.03,Klaipėda,Laukininkai
+2020-10,3.88,Klaipėda,Laukininkai
+2020-11,3.62,Klaipėda,Laukininkai
+2020-12,3.78,Klaipėda,Laukininkai
+2021-01,4.2,Klaipėda,Laukininkai
+2021-02,4.54,Klaipėda,Laukininkai
+2021-03,4.58,Klaipėda,Laukininkai
+2021-04,5.42,Klaipėda,Laukininkai
+2021-12,4.76,Klaipėda,Laukininkai
+2022-09,7.6,Klaipėda,Laukininkai
+2022-10,7.83,Klaipėda,Laukininkai
+2017-01,5.19,Klaipėda,Mažasis kaimelis
+2017-02,5.58,Klaipėda,Mažasis kaimelis
+2017-03,5.83,Klaipėda,Mažasis kaimelis
+2017-04,6.34,Klaipėda,Mažasis kaimelis
+2017-05,6.21,Klaipėda,Mažasis kaimelis
+2017-06,5.82,Klaipėda,Mažasis kaimelis
+2017-07,5.32,Klaipėda,Mažasis kaimelis
+2017-08,6.37,Klaipėda,Mažasis kaimelis
+2017-09,6.01,Klaipėda,Mažasis kaimelis
+2017-10,6.04,Klaipėda,Mažasis kaimelis
+2017-11,5.72,Klaipėda,Mažasis kaimelis
+2017-12,5.61,Klaipėda,Mažasis kaimelis
+2018-01,5.81,Klaipėda,Mažasis kaimelis
+2018-02,5.4,Klaipėda,Mažasis kaimelis
+2018-03,5.15,Klaipėda,Mažasis kaimelis
+2018-04,5.2,Klaipėda,Mažasis kaimelis
+2018-05,5.89,Klaipėda,Mažasis kaimelis
+2018-06,6.09,Klaipėda,Mažasis kaimelis
+2018-07,6.07,Klaipėda,Mažasis kaimelis
+2018-08,5.89,Klaipėda,Mažasis kaimelis
+2018-09,5.75,Klaipėda,Mažasis kaimelis
+2018-10,4.87,Klaipėda,Mažasis kaimelis
+2018-11,5.34,Klaipėda,Mažasis kaimelis
+2018-12,5.46,Klaipėda,Mažasis kaimelis
+2019-01,5.73,Klaipėda,Mažasis kaimelis
+2019-02,5.9,Klaipėda,Mažasis kaimelis
+2019-03,5.63,Klaipėda,Mažasis kaimelis
+2019-04,5.39,Klaipėda,Mažasis kaimelis
+2019-05,5.36,Klaipėda,Mažasis kaimelis
+2019-06,5.41,Klaipėda,Mažasis kaimelis
+2019-07,5.57,Klaipėda,Mažasis kaimelis
+2019-08,5.18,Klaipėda,Mažasis kaimelis
+2019-09,6.13,Klaipėda,Mažasis kaimelis
+2019-10,5.95,Klaipėda,Mažasis kaimelis
+2019-11,6,Klaipėda,Mažasis kaimelis
+2019-12,6.02,Klaipėda,Mažasis kaimelis
+2020-01,5.98,Klaipėda,Mažasis kaimelis
+2020-02,6.11,Klaipėda,Mažasis kaimelis
+2020-03,5.74,Klaipėda,Mažasis kaimelis
+2020-04,6.14,Klaipėda,Mažasis kaimelis
+2020-05,5.76,Klaipėda,Mažasis kaimelis
+2020-06,5.57,Klaipėda,Mažasis kaimelis
+2020-07,6.44,Klaipėda,Mažasis kaimelis
+2020-08,6.6,Klaipėda,Mažasis kaimelis
+2020-09,6.35,Klaipėda,Mažasis kaimelis
+2020-10,5.71,Klaipėda,Mažasis kaimelis
+2020-11,5.16,Klaipėda,Mažasis kaimelis
+2020-12,5.86,Klaipėda,Mažasis kaimelis
+2021-01,7.08,Klaipėda,Mažasis kaimelis
+2021-02,6.48,Klaipėda,Mažasis kaimelis
+2021-03,5.33,Klaipėda,Mažasis kaimelis
+2021-05,6.87,Klaipėda,Mažasis kaimelis
+2021-08,6.9,Klaipėda,Mažasis kaimelis
+2021-09,6.54,Klaipėda,Mažasis kaimelis
+2021-10,6.89,Klaipėda,Mažasis kaimelis
+2021-11,7.05,Klaipėda,Mažasis kaimelis
+2021-12,7.55,Klaipėda,Mažasis kaimelis
+2022-01,7.52,Klaipėda,Mažasis kaimelis
+2022-02,7.29,Klaipėda,Mažasis kaimelis
+2022-08,8.46,Klaipėda,Mažasis kaimelis
+2022-09,8.62,Klaipėda,Mažasis kaimelis
+2022-10,8.8,Klaipėda,Mažasis kaimelis
+2017-03,9.36,Klaipėda,Melnragė
+2017-05,9.7,Klaipėda,Melnragė
+2017-06,9.56,Klaipėda,Melnragė
+2017-10,7.49,Klaipėda,Melnragė
+2017-11,8.09,Klaipėda,Melnragė
+2017-12,9.06,Klaipėda,Melnragė
+2018-01,9.04,Klaipėda,Melnragė
+2018-02,8.33,Klaipėda,Melnragė
+2018-03,9.42,Klaipėda,Melnragė
+2018-04,9.15,Klaipėda,Melnragė
+2018-05,8.43,Klaipėda,Melnragė
+2018-06,7.39,Klaipėda,Melnragė
+2018-07,8.57,Klaipėda,Melnragė
+2018-08,8.49,Klaipėda,Melnragė
+2018-09,6.37,Klaipėda,Melnragė
+2018-10,6.06,Klaipėda,Melnragė
+2018-11,5.68,Klaipėda,Melnragė
+2018-12,4.69,Klaipėda,Melnragė
+2019-01,8.15,Klaipėda,Melnragė
+2019-02,7.98,Klaipėda,Melnragė
+2019-03,8.18,Klaipėda,Melnragė
+2019-04,6.19,Klaipėda,Melnragė
+2019-05,6.31,Klaipėda,Melnragė
+2019-06,5.85,Klaipėda,Melnragė
+2019-07,5.7,Klaipėda,Melnragė
+2019-08,5.96,Klaipėda,Melnragė
+2019-09,5.9,Klaipėda,Melnragė
+2019-10,6.3,Klaipėda,Melnragė
+2019-11,6.72,Klaipėda,Melnragė
+2019-12,6.78,Klaipėda,Melnragė
+2020-01,6.97,Klaipėda,Melnragė
+2020-02,7.42,Klaipėda,Melnragė
+2020-03,7.53,Klaipėda,Melnragė
+2020-04,7.83,Klaipėda,Melnragė
+2020-05,8.19,Klaipėda,Melnragė
+2020-06,7.68,Klaipėda,Melnragė
+2020-07,7.95,Klaipėda,Melnragė
+2020-08,7.72,Klaipėda,Melnragė
+2020-09,7.14,Klaipėda,Melnragė
+2020-10,5.75,Klaipėda,Melnragė
+2020-11,4.7,Klaipėda,Melnragė
+2020-12,5.31,Klaipėda,Melnragė
+2021-01,5.76,Klaipėda,Melnragė
+2021-02,6.68,Klaipėda,Melnragė
+2021-03,8.86,Klaipėda,Melnragė
+2021-10,6.23,Klaipėda,Melnragė
+2017-01,5.53,Klaipėda,Miškas
+2017-02,5.12,Klaipėda,Miškas
+2017-03,4.8,Klaipėda,Miškas
+2017-04,5.32,Klaipėda,Miškas
+2017-05,5.53,Klaipėda,Miškas
+2017-07,5.83,Klaipėda,Miškas
+2017-08,5.52,Klaipėda,Miškas
+2017-09,5.34,Klaipėda,Miškas
+2017-10,5.16,Klaipėda,Miškas
+2017-11,4.88,Klaipėda,Miškas
+2017-12,5.37,Klaipėda,Miškas
+2018-01,5.42,Klaipėda,Miškas
+2018-02,5.06,Klaipėda,Miškas
+2018-03,4.51,Klaipėda,Miškas
+2018-04,5.01,Klaipėda,Miškas
+2018-05,6.48,Klaipėda,Miškas
+2018-06,6.68,Klaipėda,Miškas
+2018-07,5.83,Klaipėda,Miškas
+2018-08,5.54,Klaipėda,Miškas
+2018-09,6.46,Klaipėda,Miškas
+2018-10,5.59,Klaipėda,Miškas
+2018-11,5.52,Klaipėda,Miškas
+2018-12,5.95,Klaipėda,Miškas
+2019-01,5.64,Klaipėda,Miškas
+2019-02,6.07,Klaipėda,Miškas
+2019-03,6.24,Klaipėda,Miškas
+2019-04,6.49,Klaipėda,Miškas
+2019-05,7.76,Klaipėda,Miškas
+2019-06,7.72,Klaipėda,Miškas
+2019-07,6.87,Klaipėda,Miškas
+2019-08,6.69,Klaipėda,Miškas
+2019-09,5.69,Klaipėda,Miškas
+2019-10,5.8,Klaipėda,Miškas
+2019-11,6.13,Klaipėda,Miškas
+2019-12,6.57,Klaipėda,Miškas
+2020-01,6.55,Klaipėda,Miškas
+2020-02,6.18,Klaipėda,Miškas
+2020-03,6.12,Klaipėda,Miškas
+2020-04,6.24,Klaipėda,Miškas
+2020-05,6.28,Klaipėda,Miškas
+2020-06,6.12,Klaipėda,Miškas
+2020-07,6.51,Klaipėda,Miškas
+2020-08,6.95,Klaipėda,Miškas
+2020-09,6.6,Klaipėda,Miškas
+2020-10,6.74,Klaipėda,Miškas
+2020-11,6.78,Klaipėda,Miškas
+2020-12,6.84,Klaipėda,Miškas
+2021-01,6.25,Klaipėda,Miškas
+2021-02,6.88,Klaipėda,Miškas
+2021-03,7.59,Klaipėda,Miškas
+2021-07,7.54,Klaipėda,Miškas
+2021-08,7.97,Klaipėda,Miškas
+2021-09,8.08,Klaipėda,Miškas
+2021-10,7.66,Klaipėda,Miškas
+2021-11,7.72,Klaipėda,Miškas
+2021-12,8.27,Klaipėda,Miškas
+2022-01,7.33,Klaipėda,Miškas
+2022-02,7.64,Klaipėda,Miškas
+2022-03,8.01,Klaipėda,Miškas
+2022-08,10,Klaipėda,Miškas
+2022-09,9.97,Klaipėda,Miškas
+2022-10,9.14,Klaipėda,Miškas
+2017-12,2.22,Klaipėda,Mokykla
+2018-01,3.05,Klaipėda,Mokykla
+2018-02,2.88,Klaipėda,Mokykla
+2018-03,3.76,Klaipėda,Mokykla
+2018-04,4.85,Klaipėda,Mokykla
+2018-07,5.45,Klaipėda,Mokykla
+2018-08,4.8,Klaipėda,Mokykla
+2018-09,5.06,Klaipėda,Mokykla
+2018-10,2.61,Klaipėda,Mokykla
+2018-12,1.54,Klaipėda,Mokykla
+2019-01,3.54,Klaipėda,Mokykla
+2019-02,7.14,Klaipėda,Mokykla
+2019-03,3.35,Klaipėda,Mokykla
+2019-04,1.99,Klaipėda,Mokykla
+2019-05,2.42,Klaipėda,Mokykla
+2019-06,1.98,Klaipėda,Mokykla
+2019-07,1.44,Klaipėda,Mokykla
+2019-08,2.6,Klaipėda,Mokykla
+2019-09,6.42,Klaipėda,Mokykla
+2019-10,5.59,Klaipėda,Mokykla
+2019-12,7,Klaipėda,Mokykla
+2020-01,6.75,Klaipėda,Mokykla
+2020-02,6.32,Klaipėda,Mokykla
+2020-06,6.33,Klaipėda,Mokykla
+2020-07,5.29,Klaipėda,Mokykla
+2020-08,7.56,Klaipėda,Mokykla
+2020-09,7.26,Klaipėda,Mokykla
+2020-10,6.64,Klaipėda,Mokykla
+2020-11,6.27,Klaipėda,Mokykla
+2021-02,5.43,Klaipėda,Mokykla
+2021-03,6.13,Klaipėda,Mokykla
+2021-12,5.16,Klaipėda,Mokykla
+2018-01,3.7,Klaipėda,Naujakiemis
+2018-02,4.63,Klaipėda,Naujakiemis
+2018-03,4.88,Klaipėda,Naujakiemis
+2018-04,4.61,Klaipėda,Naujakiemis
+2018-05,4.93,Klaipėda,Naujakiemis
+2018-06,5.19,Klaipėda,Naujakiemis
+2018-07,4.76,Klaipėda,Naujakiemis
+2018-08,5.7,Klaipėda,Naujakiemis
+2018-09,5.98,Klaipėda,Naujakiemis
+2018-10,6.18,Klaipėda,Naujakiemis
+2018-11,5.02,Klaipėda,Naujakiemis
+2018-12,4.5,Klaipėda,Naujakiemis
+2019-01,4.67,Klaipėda,Naujakiemis
+2019-02,4.47,Klaipėda,Naujakiemis
+2019-03,4.25,Klaipėda,Naujakiemis
+2019-04,4.48,Klaipėda,Naujakiemis
+2019-05,4.49,Klaipėda,Naujakiemis
+2019-07,6.8,Klaipėda,Naujakiemis
+2019-08,4.98,Klaipėda,Naujakiemis
+2019-09,5.27,Klaipėda,Naujakiemis
+2019-10,5.84,Klaipėda,Naujakiemis
+2019-11,5.23,Klaipėda,Naujakiemis
+2019-12,5,Klaipėda,Naujakiemis
+2020-01,4.78,Klaipėda,Naujakiemis
+2020-02,4.86,Klaipėda,Naujakiemis
+2020-03,5.2,Klaipėda,Naujakiemis
+2020-04,5.03,Klaipėda,Naujakiemis
+2020-05,4.69,Klaipėda,Naujakiemis
+2020-06,6.65,Klaipėda,Naujakiemis
+2020-07,5.98,Klaipėda,Naujakiemis
+2020-08,5.72,Klaipėda,Naujakiemis
+2020-09,4.8,Klaipėda,Naujakiemis
+2020-10,4.85,Klaipėda,Naujakiemis
+2020-11,5.17,Klaipėda,Naujakiemis
+2020-12,5.2,Klaipėda,Naujakiemis
+2021-01,5.77,Klaipėda,Naujakiemis
+2021-02,4.78,Klaipėda,Naujakiemis
+2021-03,4.91,Klaipėda,Naujakiemis
+2022-10,8.14,Klaipėda,Naujakiemis
+2018-01,6.94,Klaipėda,Paupiai
+2018-02,7.14,Klaipėda,Paupiai
+2018-03,4.03,Klaipėda,Paupiai
+2018-04,2.81,Klaipėda,Paupiai
+2018-05,3.57,Klaipėda,Paupiai
+2018-06,2.69,Klaipėda,Paupiai
+2018-07,2.54,Klaipėda,Paupiai
+2018-08,2.5,Klaipėda,Paupiai
+2018-09,3.01,Klaipėda,Paupiai
+2018-10,4.49,Klaipėda,Paupiai
+2018-11,4.12,Klaipėda,Paupiai
+2018-12,6.11,Klaipėda,Paupiai
+2019-01,6.24,Klaipėda,Paupiai
+2019-02,5.56,Klaipėda,Paupiai
+2019-03,5.44,Klaipėda,Paupiai
+2019-04,7.93,Klaipėda,Paupiai
+2019-05,3.56,Klaipėda,Paupiai
+2019-06,2.54,Klaipėda,Paupiai
+2019-07,2.22,Klaipėda,Paupiai
+2019-08,3.82,Klaipėda,Paupiai
+2019-09,5.58,Klaipėda,Paupiai
+2019-10,5.91,Klaipėda,Paupiai
+2019-11,7.11,Klaipėda,Paupiai
+2019-12,7.4,Klaipėda,Paupiai
+2020-01,6.13,Klaipėda,Paupiai
+2020-02,7.37,Klaipėda,Paupiai
+2020-04,3.9,Klaipėda,Paupiai
+2020-05,3.58,Klaipėda,Paupiai
+2020-06,1.94,Klaipėda,Paupiai
+2020-07,2.65,Klaipėda,Paupiai
+2020-08,3.26,Klaipėda,Paupiai
+2020-09,4.45,Klaipėda,Paupiai
+2020-10,7.1,Klaipėda,Paupiai
+2020-11,6.12,Klaipėda,Paupiai
+2020-12,6.27,Klaipėda,Paupiai
+2021-01,5.6,Klaipėda,Paupiai
+2021-03,8.13,Klaipėda,Paupiai
+2018-04,3.4,Klaipėda,Plytinė
+2018-05,3.97,Klaipėda,Plytinė
+2019-03,3.57,Klaipėda,Plytinė
+2019-04,3.28,Klaipėda,Plytinė
+2019-10,5.05,Klaipėda,Plytinė
+2020-08,4.53,Klaipėda,Plytinė
+2020-09,4.6,Klaipėda,Plytinė
+2021-02,4.26,Klaipėda,Plytinė
+2017-12,4.48,Klaipėda,Poilsis
+2018-01,5.37,Klaipėda,Poilsis
+2018-03,4.04,Klaipėda,Poilsis
+2018-04,4.13,Klaipėda,Poilsis
+2018-10,7.32,Klaipėda,Poilsis
+2018-11,6.12,Klaipėda,Poilsis
+2018-12,4.66,Klaipėda,Poilsis
+2019-01,4.75,Klaipėda,Poilsis
+2019-02,4.62,Klaipėda,Poilsis
+2019-03,4.97,Klaipėda,Poilsis
+2019-04,5.79,Klaipėda,Poilsis
+2019-05,5.28,Klaipėda,Poilsis
+2019-07,6.72,Klaipėda,Poilsis
+2019-09,5.5,Klaipėda,Poilsis
+2019-10,6.62,Klaipėda,Poilsis
+2019-11,5.05,Klaipėda,Poilsis
+2019-12,4.74,Klaipėda,Poilsis
+2020-01,5.71,Klaipėda,Poilsis
+2020-02,5.51,Klaipėda,Poilsis
+2020-03,6.67,Klaipėda,Poilsis
+2020-04,8.52,Klaipėda,Poilsis
+2020-05,7.11,Klaipėda,Poilsis
+2020-06,6.88,Klaipėda,Poilsis
+2020-07,5.52,Klaipėda,Poilsis
+2020-08,5.11,Klaipėda,Poilsis
+2020-09,5.24,Klaipėda,Poilsis
+2020-10,5.97,Klaipėda,Poilsis
+2020-11,6.84,Klaipėda,Poilsis
+2020-12,5.6,Klaipėda,Poilsis
+2021-01,5.49,Klaipėda,Poilsis
+2021-02,5.67,Klaipėda,Poilsis
+2021-03,5.33,Klaipėda,Poilsis
+2022-02,6.36,Klaipėda,Poilsis
+2022-09,7.75,Klaipėda,Poilsis
+2017-03,5.64,Klaipėda,Rumpiškės
+2017-09,4.72,Klaipėda,Rumpiškės
+2017-12,5.19,Klaipėda,Rumpiškės
+2018-01,5.11,Klaipėda,Rumpiškės
+2018-02,5,Klaipėda,Rumpiškės
+2018-04,6.2,Klaipėda,Rumpiškės
+2018-05,6.05,Klaipėda,Rumpiškės
+2018-06,5.33,Klaipėda,Rumpiškės
+2018-09,4.45,Klaipėda,Rumpiškės
+2018-10,4.9,Klaipėda,Rumpiškės
+2018-11,5.28,Klaipėda,Rumpiškės
+2018-12,4.52,Klaipėda,Rumpiškės
+2019-01,4.03,Klaipėda,Rumpiškės
+2019-02,4.43,Klaipėda,Rumpiškės
+2019-03,6.35,Klaipėda,Rumpiškės
+2019-04,6.1,Klaipėda,Rumpiškės
+2019-05,6.91,Klaipėda,Rumpiškės
+2019-06,5.41,Klaipėda,Rumpiškės
+2019-07,7.17,Klaipėda,Rumpiškės
+2019-08,7.87,Klaipėda,Rumpiškės
+2019-09,5.27,Klaipėda,Rumpiškės
+2019-10,4.49,Klaipėda,Rumpiškės
+2019-11,6.08,Klaipėda,Rumpiškės
+2019-12,5.03,Klaipėda,Rumpiškės
+2020-01,5.26,Klaipėda,Rumpiškės
+2020-02,6.32,Klaipėda,Rumpiškės
+2020-03,5.61,Klaipėda,Rumpiškės
+2020-04,4.46,Klaipėda,Rumpiškės
+2020-05,4.31,Klaipėda,Rumpiškės
+2020-06,5.37,Klaipėda,Rumpiškės
+2020-07,6.68,Klaipėda,Rumpiškės
+2020-08,5.84,Klaipėda,Rumpiškės
+2020-09,6.52,Klaipėda,Rumpiškės
+2020-10,5.87,Klaipėda,Rumpiškės
+2020-11,5.74,Klaipėda,Rumpiškės
+2020-12,5.98,Klaipėda,Rumpiškės
+2021-01,6.85,Klaipėda,Rumpiškės
+2021-02,8,Klaipėda,Rumpiškės
+2021-03,6.58,Klaipėda,Rumpiškės
+2021-12,7.28,Klaipėda,Rumpiškės
+2017-01,6.05,Klaipėda,Senamiestis
+2017-02,6.17,Klaipėda,Senamiestis
+2017-03,7.26,Klaipėda,Senamiestis
+2017-04,7.09,Klaipėda,Senamiestis
+2017-05,7.11,Klaipėda,Senamiestis
+2017-06,7.36,Klaipėda,Senamiestis
+2017-07,8.38,Klaipėda,Senamiestis
+2017-08,8.2,Klaipėda,Senamiestis
+2017-09,6.89,Klaipėda,Senamiestis
+2017-10,7.18,Klaipėda,Senamiestis
+2017-11,7.17,Klaipėda,Senamiestis
+2017-12,7.27,Klaipėda,Senamiestis
+2018-01,7.36,Klaipėda,Senamiestis
+2018-02,7.08,Klaipėda,Senamiestis
+2018-03,6.82,Klaipėda,Senamiestis
+2018-04,6.81,Klaipėda,Senamiestis
+2018-05,7.25,Klaipėda,Senamiestis
+2018-06,6.92,Klaipėda,Senamiestis
+2018-07,7.02,Klaipėda,Senamiestis
+2018-08,7.97,Klaipėda,Senamiestis
+2018-09,7.88,Klaipėda,Senamiestis
+2018-10,7.94,Klaipėda,Senamiestis
+2018-11,7.37,Klaipėda,Senamiestis
+2018-12,6.64,Klaipėda,Senamiestis
+2019-01,7.03,Klaipėda,Senamiestis
+2019-02,7.36,Klaipėda,Senamiestis
+2019-03,8,Klaipėda,Senamiestis
+2019-04,7.96,Klaipėda,Senamiestis
+2019-05,8.2,Klaipėda,Senamiestis
+2019-06,8.06,Klaipėda,Senamiestis
+2019-07,8.51,Klaipėda,Senamiestis
+2019-08,9.1,Klaipėda,Senamiestis
+2019-09,8.84,Klaipėda,Senamiestis
+2019-10,8.51,Klaipėda,Senamiestis
+2019-11,8.54,Klaipėda,Senamiestis
+2019-12,9.08,Klaipėda,Senamiestis
+2020-01,8.94,Klaipėda,Senamiestis
+2020-02,9.14,Klaipėda,Senamiestis
+2020-03,9.05,Klaipėda,Senamiestis
+2020-04,9.05,Klaipėda,Senamiestis
+2020-05,9.05,Klaipėda,Senamiestis
+2020-06,8.46,Klaipėda,Senamiestis
+2020-07,8.53,Klaipėda,Senamiestis
+2020-08,8.84,Klaipėda,Senamiestis
+2020-09,8.19,Klaipėda,Senamiestis
+2020-10,8.13,Klaipėda,Senamiestis
+2020-11,9.14,Klaipėda,Senamiestis
+2020-12,9.42,Klaipėda,Senamiestis
+2021-01,8.6,Klaipėda,Senamiestis
+2021-02,8.97,Klaipėda,Senamiestis
+2021-03,9.28,Klaipėda,Senamiestis
+2021-04,9.58,Klaipėda,Senamiestis
+2021-05,9.8,Klaipėda,Senamiestis
+2021-06,10.46,Klaipėda,Senamiestis
+2021-08,10.38,Klaipėda,Senamiestis
+2021-09,9.84,Klaipėda,Senamiestis
+2021-10,9.21,Klaipėda,Senamiestis
+2021-11,8.6,Klaipėda,Senamiestis
+2021-12,8.79,Klaipėda,Senamiestis
+2022-01,9.56,Klaipėda,Senamiestis
+2022-02,9.1,Klaipėda,Senamiestis
+2022-03,11.1,Klaipėda,Senamiestis
+2022-04,14.59,Klaipėda,Senamiestis
+2022-05,14.13,Klaipėda,Senamiestis
+2022-06,14.13,Klaipėda,Senamiestis
+2022-07,12.35,Klaipėda,Senamiestis
+2022-08,12.06,Klaipėda,Senamiestis
+2022-09,11.86,Klaipėda,Senamiestis
+2022-10,10.8,Klaipėda,Senamiestis
+2018-01,5.47,Klaipėda,Smeltė
+2018-02,4.98,Klaipėda,Smeltė
+2018-03,5.19,Klaipėda,Smeltė
+2018-06,2.63,Klaipėda,Smeltė
+2018-07,2.78,Klaipėda,Smeltė
+2018-08,1.33,Klaipėda,Smeltė
+2018-12,6.4,Klaipėda,Smeltė
+2019-01,4.59,Klaipėda,Smeltė
+2019-02,1.24,Klaipėda,Smeltė
+2019-03,1.01,Klaipėda,Smeltė
+2019-06,3.03,Klaipėda,Smeltė
+2019-07,5.65,Klaipėda,Smeltė
+2019-08,13.25,Klaipėda,Smeltė
+2019-10,5.7,Klaipėda,Smeltė
+2020-02,1.01,Klaipėda,Smeltė
+2020-05,4.83,Klaipėda,Smeltė
+2020-06,5.59,Klaipėda,Smeltė
+2020-07,6.25,Klaipėda,Smeltė
+2020-08,6.25,Klaipėda,Smeltė
+2020-09,6.35,Klaipėda,Smeltė
+2020-10,6.62,Klaipėda,Smeltė
+2020-11,6.57,Klaipėda,Smeltė
+2020-12,6.62,Klaipėda,Smeltė
+2021-01,6.9,Klaipėda,Smeltė
+2021-02,4.36,Klaipėda,Smeltė
+2021-03,2.9,Klaipėda,Smeltė
+2018-09,7.43,Klaipėda,Smiltynė
+2018-10,7.46,Klaipėda,Smiltynė
+2017-11,2.73,Klaipėda,Sportininkai
+2017-12,3.52,Klaipėda,Sportininkai
+2018-01,3.91,Klaipėda,Sportininkai
+2018-02,5.85,Klaipėda,Sportininkai
+2018-03,7.69,Klaipėda,Sportininkai
+2018-04,8.14,Klaipėda,Sportininkai
+2018-05,7.14,Klaipėda,Sportininkai
+2018-06,6.69,Klaipėda,Sportininkai
+2018-07,7.2,Klaipėda,Sportininkai
+2018-08,6.64,Klaipėda,Sportininkai
+2018-09,6.38,Klaipėda,Sportininkai
+2018-10,9.04,Klaipėda,Sportininkai
+2018-11,8.9,Klaipėda,Sportininkai
+2018-12,6.93,Klaipėda,Sportininkai
+2019-01,6.46,Klaipėda,Sportininkai
+2019-02,6.59,Klaipėda,Sportininkai
+2019-03,6.46,Klaipėda,Sportininkai
+2019-04,6.45,Klaipėda,Sportininkai
+2019-05,6.54,Klaipėda,Sportininkai
+2019-06,6.07,Klaipėda,Sportininkai
+2019-07,5.51,Klaipėda,Sportininkai
+2019-08,6.72,Klaipėda,Sportininkai
+2019-09,4.87,Klaipėda,Sportininkai
+2019-10,6.03,Klaipėda,Sportininkai
+2019-11,6.08,Klaipėda,Sportininkai
+2019-12,6.55,Klaipėda,Sportininkai
+2020-01,6.57,Klaipėda,Sportininkai
+2020-02,7.07,Klaipėda,Sportininkai
+2020-03,7.52,Klaipėda,Sportininkai
+2020-04,6.72,Klaipėda,Sportininkai
+2020-05,6.47,Klaipėda,Sportininkai
+2020-06,6.16,Klaipėda,Sportininkai
+2020-07,6.32,Klaipėda,Sportininkai
+2020-08,4.77,Klaipėda,Sportininkai
+2020-09,5.45,Klaipėda,Sportininkai
+2020-10,5.02,Klaipėda,Sportininkai
+2020-11,5.91,Klaipėda,Sportininkai
+2020-12,6.55,Klaipėda,Sportininkai
+2021-01,7.57,Klaipėda,Sportininkai
+2021-02,6.83,Klaipėda,Sportininkai
+2021-03,7.1,Klaipėda,Sportininkai
+2021-11,7.55,Klaipėda,Sportininkai
+2021-12,7.39,Klaipėda,Sportininkai
+2022-01,6.51,Klaipėda,Sportininkai
+2022-02,7.14,Klaipėda,Sportininkai
+2022-08,8.95,Klaipėda,Sportininkai
+2022-09,10.17,Klaipėda,Sportininkai
+2022-10,8.84,Klaipėda,Sportininkai
+2019-12,9.38,Klaipėda,Šauliai
+2020-01,9.38,Klaipėda,Šauliai
+2020-02,8.66,Klaipėda,Šauliai
+2020-03,7.38,Klaipėda,Šauliai
+2020-04,7.76,Klaipėda,Šauliai
+2020-07,9.82,Klaipėda,Šauliai
+2020-08,9.78,Klaipėda,Šauliai
+2020-10,11.56,Klaipėda,Šauliai
+2021-01,3.17,Klaipėda,Šauliai
+2017-07,5.32,Klaipėda,Tauralaukis
+2017-11,4.43,Klaipėda,Tauralaukis
+2017-12,4.11,Klaipėda,Tauralaukis
+2018-01,3.39,Klaipėda,Tauralaukis
+2018-02,3.07,Klaipėda,Tauralaukis
+2018-03,4.29,Klaipėda,Tauralaukis
+2018-04,3.72,Klaipėda,Tauralaukis
+2018-05,5.57,Klaipėda,Tauralaukis
+2018-06,3.52,Klaipėda,Tauralaukis
+2018-07,3.81,Klaipėda,Tauralaukis
+2018-08,4.4,Klaipėda,Tauralaukis
+2018-09,2.73,Klaipėda,Tauralaukis
+2018-10,4.14,Klaipėda,Tauralaukis
+2018-11,5.34,Klaipėda,Tauralaukis
+2018-12,5.35,Klaipėda,Tauralaukis
+2019-01,7.01,Klaipėda,Tauralaukis
+2019-02,7.02,Klaipėda,Tauralaukis
+2019-03,6.89,Klaipėda,Tauralaukis
+2019-04,6.88,Klaipėda,Tauralaukis
+2019-05,7.26,Klaipėda,Tauralaukis
+2019-06,6.98,Klaipėda,Tauralaukis
+2019-07,8,Klaipėda,Tauralaukis
+2019-08,10.2,Klaipėda,Tauralaukis
+2019-09,8.13,Klaipėda,Tauralaukis
+2019-10,6.87,Klaipėda,Tauralaukis
+2019-11,6.71,Klaipėda,Tauralaukis
+2019-12,6.58,Klaipėda,Tauralaukis
+2020-01,7.28,Klaipėda,Tauralaukis
+2020-02,5.17,Klaipėda,Tauralaukis
+2020-03,6.57,Klaipėda,Tauralaukis
+2020-04,4.97,Klaipėda,Tauralaukis
+2020-05,6.95,Klaipėda,Tauralaukis
+2020-06,7.41,Klaipėda,Tauralaukis
+2020-07,5.18,Klaipėda,Tauralaukis
+2020-08,8.6,Klaipėda,Tauralaukis
+2020-09,7.6,Klaipėda,Tauralaukis
+2020-10,7.87,Klaipėda,Tauralaukis
+2020-11,9.15,Klaipėda,Tauralaukis
+2020-12,7.63,Klaipėda,Tauralaukis
+2021-01,6.53,Klaipėda,Tauralaukis
+2021-02,7.04,Klaipėda,Tauralaukis
+2021-03,7.17,Klaipėda,Tauralaukis
+2021-10,8.89,Klaipėda,Tauralaukis
+2022-09,10.7,Klaipėda,Tauralaukis
+2018-03,6.15,Klaipėda,Trekas
+2018-04,5.81,Klaipėda,Trekas
+2018-05,7.5,Klaipėda,Trekas
+2018-06,5.41,Klaipėda,Trekas
+2018-07,5.83,Klaipėda,Trekas
+2018-09,11.33,Klaipėda,Trekas
+2018-10,6.45,Klaipėda,Trekas
+2018-11,4.34,Klaipėda,Trekas
+2018-12,5.76,Klaipėda,Trekas
+2019-01,4.27,Klaipėda,Trekas
+2019-09,8.75,Klaipėda,Trekas
+2019-10,8.11,Klaipėda,Trekas
+2019-11,8.38,Klaipėda,Trekas
+2019-12,7.55,Klaipėda,Trekas
+2020-01,7.47,Klaipėda,Trekas
+2020-02,10.83,Klaipėda,Trekas
+2020-03,9.97,Klaipėda,Trekas
+2020-04,9.67,Klaipėda,Trekas
+2020-08,7.33,Klaipėda,Trekas
+2020-10,8.12,Klaipėda,Trekas
+2020-11,10.22,Klaipėda,Trekas
+2018-01,4.35,Klaipėda,Varpai
+2018-08,3.78,Klaipėda,Varpai
+2018-09,3.59,Klaipėda,Varpai
+2018-10,2.61,Klaipėda,Varpai
+2018-11,3.58,Klaipėda,Varpai
+2018-12,3.43,Klaipėda,Varpai
+2019-01,3.43,Klaipėda,Varpai
+2019-03,5.11,Klaipėda,Varpai
+2019-04,6.16,Klaipėda,Varpai
+2019-05,4.59,Klaipėda,Varpai
+2019-06,4.76,Klaipėda,Varpai
+2019-07,5.42,Klaipėda,Varpai
+2019-08,4.42,Klaipėda,Varpai
+2019-09,4.38,Klaipėda,Varpai
+2019-12,5.04,Klaipėda,Varpai
+2020-01,4.75,Klaipėda,Varpai
+2020-02,5.19,Klaipėda,Varpai
+2020-03,6.31,Klaipėda,Varpai
+2020-04,5.56,Klaipėda,Varpai
+2020-05,5.75,Klaipėda,Varpai
+2020-06,6.25,Klaipėda,Varpai
+2020-07,5.7,Klaipėda,Varpai
+2020-08,6.09,Klaipėda,Varpai
+2020-09,6.29,Klaipėda,Varpai
+2020-10,5.42,Klaipėda,Varpai
+2020-11,7.19,Klaipėda,Varpai
+2020-12,5.34,Klaipėda,Varpai
+2021-01,5.62,Klaipėda,Varpai
+2021-02,5.64,Klaipėda,Varpai
+2021-03,6.35,Klaipėda,Varpai
+2017-01,5.5,Klaipėda,Vėtrungė
+2017-02,5.63,Klaipėda,Vėtrungė
+2017-03,5.95,Klaipėda,Vėtrungė
+2017-04,6,Klaipėda,Vėtrungė
+2017-05,6.97,Klaipėda,Vėtrungė
+2017-06,6.37,Klaipėda,Vėtrungė
+2017-08,7.81,Klaipėda,Vėtrungė
+2017-09,7.78,Klaipėda,Vėtrungė
+2017-10,5.86,Klaipėda,Vėtrungė
+2017-11,6.25,Klaipėda,Vėtrungė
+2017-12,6.51,Klaipėda,Vėtrungė
+2018-01,6.29,Klaipėda,Vėtrungė
+2018-02,6.5,Klaipėda,Vėtrungė
+2018-03,5.97,Klaipėda,Vėtrungė
+2018-04,5.82,Klaipėda,Vėtrungė
+2018-05,5.76,Klaipėda,Vėtrungė
+2018-06,5.79,Klaipėda,Vėtrungė
+2018-07,6.07,Klaipėda,Vėtrungė
+2018-08,4.81,Klaipėda,Vėtrungė
+2018-09,5.9,Klaipėda,Vėtrungė
+2018-10,6.51,Klaipėda,Vėtrungė
+2018-11,6.84,Klaipėda,Vėtrungė
+2018-12,6.53,Klaipėda,Vėtrungė
+2019-01,6.04,Klaipėda,Vėtrungė
+2019-02,6.19,Klaipėda,Vėtrungė
+2019-03,6.39,Klaipėda,Vėtrungė
+2019-04,6.53,Klaipėda,Vėtrungė
+2019-05,5.78,Klaipėda,Vėtrungė
+2019-06,5.85,Klaipėda,Vėtrungė
+2019-07,5.1,Klaipėda,Vėtrungė
+2019-08,6.97,Klaipėda,Vėtrungė
+2019-09,7.91,Klaipėda,Vėtrungė
+2019-10,7.18,Klaipėda,Vėtrungė
+2019-11,6.73,Klaipėda,Vėtrungė
+2019-12,6.87,Klaipėda,Vėtrungė
+2020-01,6.77,Klaipėda,Vėtrungė
+2020-02,7.11,Klaipėda,Vėtrungė
+2020-03,6.65,Klaipėda,Vėtrungė
+2020-04,6.99,Klaipėda,Vėtrungė
+2020-05,7.1,Klaipėda,Vėtrungė
+2020-06,6,Klaipėda,Vėtrungė
+2020-07,5.03,Klaipėda,Vėtrungė
+2020-08,6.67,Klaipėda,Vėtrungė
+2020-09,7.12,Klaipėda,Vėtrungė
+2020-10,5.84,Klaipėda,Vėtrungė
+2020-11,5.24,Klaipėda,Vėtrungė
+2020-12,5.88,Klaipėda,Vėtrungė
+2021-01,6.45,Klaipėda,Vėtrungė
+2021-02,7.64,Klaipėda,Vėtrungė
+2021-03,7.73,Klaipėda,Vėtrungė
+2021-04,7.96,Klaipėda,Vėtrungė
+2021-08,8.67,Klaipėda,Vėtrungė
+2021-09,8.62,Klaipėda,Vėtrungė
+2021-10,8.63,Klaipėda,Vėtrungė
+2021-11,8.61,Klaipėda,Vėtrungė
+2021-12,8.68,Klaipėda,Vėtrungė
+2022-01,8.41,Klaipėda,Vėtrungė
+2022-02,7.59,Klaipėda,Vėtrungė
+2022-08,10.81,Klaipėda,Vėtrungė
+2022-09,10.66,Klaipėda,Vėtrungė
+2022-10,10.22,Klaipėda,Vėtrungė
+2017-03,3.36,Klaipėda,Vingis
+2017-05,3.78,Klaipėda,Vingis
+2017-08,3.83,Klaipėda,Vingis
+2017-11,4.25,Klaipėda,Vingis
+2017-12,3.68,Klaipėda,Vingis
+2018-01,3.94,Klaipėda,Vingis
+2018-02,3.88,Klaipėda,Vingis
+2018-03,4.12,Klaipėda,Vingis
+2018-04,4.41,Klaipėda,Vingis
+2018-05,4.7,Klaipėda,Vingis
+2018-06,4.31,Klaipėda,Vingis
+2018-07,4.09,Klaipėda,Vingis
+2018-08,4.07,Klaipėda,Vingis
+2018-09,4.95,Klaipėda,Vingis
+2018-10,4.74,Klaipėda,Vingis
+2018-11,4.19,Klaipėda,Vingis
+2018-12,4.12,Klaipėda,Vingis
+2019-01,4.18,Klaipėda,Vingis
+2019-02,5.05,Klaipėda,Vingis
+2019-03,4.58,Klaipėda,Vingis
+2019-04,3.99,Klaipėda,Vingis
+2019-05,4.93,Klaipėda,Vingis
+2019-06,4.8,Klaipėda,Vingis
+2019-07,4.53,Klaipėda,Vingis
+2019-08,5.72,Klaipėda,Vingis
+2019-09,6.06,Klaipėda,Vingis
+2019-10,4.94,Klaipėda,Vingis
+2019-11,4.83,Klaipėda,Vingis
+2019-12,4.65,Klaipėda,Vingis
+2020-01,4.98,Klaipėda,Vingis
+2020-02,4.93,Klaipėda,Vingis
+2020-03,4.48,Klaipėda,Vingis
+2020-04,4.23,Klaipėda,Vingis
+2020-05,4.45,Klaipėda,Vingis
+2020-06,5.36,Klaipėda,Vingis
+2020-07,4.78,Klaipėda,Vingis
+2020-08,5.49,Klaipėda,Vingis
+2020-09,5.04,Klaipėda,Vingis
+2020-10,5.34,Klaipėda,Vingis
+2020-11,4.72,Klaipėda,Vingis
+2020-12,4.09,Klaipėda,Vingis
+2021-01,4.34,Klaipėda,Vingis
+2021-02,4.53,Klaipėda,Vingis
+2021-03,5.15,Klaipėda,Vingis
+2021-09,6.24,Klaipėda,Vingis
+2021-10,5.48,Klaipėda,Vingis
+2021-12,6.14,Klaipėda,Vingis
+2022-10,7.47,Klaipėda,Vingis
+2017-12,5.37,Klaipėda,Žardininkai
+2018-01,5.06,Klaipėda,Žardininkai
+2018-02,4.9,Klaipėda,Žardininkai
+2018-03,4.4,Klaipėda,Žardininkai
+2018-04,4.85,Klaipėda,Žardininkai
+2018-05,4.59,Klaipėda,Žardininkai
+2018-06,4.31,Klaipėda,Žardininkai
+2018-07,4.73,Klaipėda,Žardininkai
+2018-08,5.46,Klaipėda,Žardininkai
+2018-09,5.45,Klaipėda,Žardininkai
+2018-10,4.42,Klaipėda,Žardininkai
+2018-11,4.4,Klaipėda,Žardininkai
+2018-12,4.22,Klaipėda,Žardininkai
+2019-01,4.35,Klaipėda,Žardininkai
+2019-02,5.51,Klaipėda,Žardininkai
+2019-03,5.29,Klaipėda,Žardininkai
+2019-04,4.67,Klaipėda,Žardininkai
+2019-05,5.43,Klaipėda,Žardininkai
+2019-06,4.39,Klaipėda,Žardininkai
+2019-07,5.53,Klaipėda,Žardininkai
+2019-08,4.94,Klaipėda,Žardininkai
+2019-09,5.77,Klaipėda,Žardininkai
+2019-10,4.69,Klaipėda,Žardininkai
+2019-11,4.74,Klaipėda,Žardininkai
+2019-12,5.33,Klaipėda,Žardininkai
+2020-01,5.79,Klaipėda,Žardininkai
+2020-02,5.66,Klaipėda,Žardininkai
+2020-03,5.27,Klaipėda,Žardininkai
+2020-04,5.57,Klaipėda,Žardininkai
+2020-05,5.06,Klaipėda,Žardininkai
+2020-06,5.56,Klaipėda,Žardininkai
+2020-07,6.25,Klaipėda,Žardininkai
+2020-08,5.53,Klaipėda,Žardininkai
+2020-09,5.5,Klaipėda,Žardininkai
+2020-10,5.14,Klaipėda,Žardininkai
+2020-11,5.41,Klaipėda,Žardininkai
+2020-12,4.84,Klaipėda,Žardininkai
+2021-01,4.75,Klaipėda,Žardininkai
+2021-02,4.77,Klaipėda,Žardininkai
+2021-03,5.27,Klaipėda,Žardininkai
+2021-12,5.09,Klaipėda,Žardininkai
+2022-01,4.8,Klaipėda,Žardininkai
+2022-02,4.82,Klaipėda,Žardininkai
+2022-09,8.2,Klaipėda,Žardininkai
+2022-10,7.74,Klaipėda,Žardininkai
+2017-01,3.84,Klaipėda,Žvejybos uostas
+2017-02,3.94,Klaipėda,Žvejybos uostas
+2017-03,4.45,Klaipėda,Žvejybos uostas
+2017-04,4.42,Klaipėda,Žvejybos uostas
+2017-05,4.56,Klaipėda,Žvejybos uostas
+2017-10,4.47,Klaipėda,Žvejybos uostas
+2017-11,4.27,Klaipėda,Žvejybos uostas
+2017-12,4.16,Klaipėda,Žvejybos uostas
+2018-01,4.58,Klaipėda,Žvejybos uostas
+2018-02,4.32,Klaipėda,Žvejybos uostas
+2018-03,4.21,Klaipėda,Žvejybos uostas
+2018-04,3.98,Klaipėda,Žvejybos uostas
+2018-05,4.83,Klaipėda,Žvejybos uostas
+2018-06,4.96,Klaipėda,Žvejybos uostas
+2018-07,5.48,Klaipėda,Žvejybos uostas
+2018-08,4.81,Klaipėda,Žvejybos uostas
+2018-09,5.37,Klaipėda,Žvejybos uostas
+2018-10,4.75,Klaipėda,Žvejybos uostas
+2018-11,4.81,Klaipėda,Žvejybos uostas
+2018-12,5.32,Klaipėda,Žvejybos uostas
+2019-01,5.47,Klaipėda,Žvejybos uostas
+2019-02,5.19,Klaipėda,Žvejybos uostas
+2019-03,5.02,Klaipėda,Žvejybos uostas
+2019-04,5.11,Klaipėda,Žvejybos uostas
+2019-05,5.65,Klaipėda,Žvejybos uostas
+2019-06,5.94,Klaipėda,Žvejybos uostas
+2019-07,5.6,Klaipėda,Žvejybos uostas
+2019-08,4.79,Klaipėda,Žvejybos uostas
+2019-09,5.6,Klaipėda,Žvejybos uostas
+2019-10,5.58,Klaipėda,Žvejybos uostas
+2019-11,5.33,Klaipėda,Žvejybos uostas
+2019-12,5.01,Klaipėda,Žvejybos uostas
+2020-01,6.19,Klaipėda,Žvejybos uostas
+2020-02,5.49,Klaipėda,Žvejybos uostas
+2020-03,5.34,Klaipėda,Žvejybos uostas
+2020-04,5.07,Klaipėda,Žvejybos uostas
+2020-05,5.62,Klaipėda,Žvejybos uostas
+2020-06,5.34,Klaipėda,Žvejybos uostas
+2020-07,5.45,Klaipėda,Žvejybos uostas
+2020-08,5.34,Klaipėda,Žvejybos uostas
+2020-09,4.85,Klaipėda,Žvejybos uostas
+2020-10,5.51,Klaipėda,Žvejybos uostas
+2020-11,5.46,Klaipėda,Žvejybos uostas
+2020-12,5.71,Klaipėda,Žvejybos uostas
+2021-01,6.12,Klaipėda,Žvejybos uostas
+2021-02,6.01,Klaipėda,Žvejybos uostas
+2021-03,6.5,Klaipėda,Žvejybos uostas
+2021-04,7.76,Klaipėda,Žvejybos uostas
+2021-05,8.94,Klaipėda,Žvejybos uostas
+2021-09,7.48,Klaipėda,Žvejybos uostas
+2021-10,7.05,Klaipėda,Žvejybos uostas
+2021-11,7.34,Klaipėda,Žvejybos uostas
+2021-12,8.21,Klaipėda,Žvejybos uostas
+2022-01,8.54,Klaipėda,Žvejybos uostas
+2022-03,9.5,Klaipėda,Žvejybos uostas
+2022-09,9.62,Klaipėda,Žvejybos uostas
+2022-10,8.46,Klaipėda,Žvejybos uostas
+2017-01,4.92,Šiauliai,Centras
+2017-02,4.85,Šiauliai,Centras
+2017-03,4.85,Šiauliai,Centras
+2017-04,4.98,Šiauliai,Centras
+2017-05,5.05,Šiauliai,Centras
+2017-06,4.92,Šiauliai,Centras
+2017-07,4.99,Šiauliai,Centras
+2017-08,4.71,Šiauliai,Centras
+2017-09,4.91,Šiauliai,Centras
+2017-10,4.67,Šiauliai,Centras
+2017-11,5.06,Šiauliai,Centras
+2017-12,5.45,Šiauliai,Centras
+2018-01,5.22,Šiauliai,Centras
+2018-02,5,Šiauliai,Centras
+2018-03,5.04,Šiauliai,Centras
+2018-04,5.09,Šiauliai,Centras
+2018-05,5.15,Šiauliai,Centras
+2018-06,5.54,Šiauliai,Centras
+2018-07,5.76,Šiauliai,Centras
+2018-08,5.73,Šiauliai,Centras
+2018-09,5.87,Šiauliai,Centras
+2018-10,5.82,Šiauliai,Centras
+2018-11,5.75,Šiauliai,Centras
+2018-12,5.87,Šiauliai,Centras
+2019-01,5.75,Šiauliai,Centras
+2019-02,6.29,Šiauliai,Centras
+2019-03,6.49,Šiauliai,Centras
+2019-04,5.89,Šiauliai,Centras
+2019-05,6.32,Šiauliai,Centras
+2019-06,6.24,Šiauliai,Centras
+2019-07,5.89,Šiauliai,Centras
+2019-08,5.66,Šiauliai,Centras
+2019-09,5.17,Šiauliai,Centras
+2019-10,5.38,Šiauliai,Centras
+2019-11,5.74,Šiauliai,Centras
+2019-12,5.5,Šiauliai,Centras
+2020-01,5.31,Šiauliai,Centras
+2020-02,5.95,Šiauliai,Centras
+2020-03,5.77,Šiauliai,Centras
+2020-04,5.68,Šiauliai,Centras
+2020-05,5.7,Šiauliai,Centras
+2020-06,6.11,Šiauliai,Centras
+2020-07,5.85,Šiauliai,Centras
+2020-08,6.23,Šiauliai,Centras
+2020-09,6.16,Šiauliai,Centras
+2020-10,5.9,Šiauliai,Centras
+2020-11,6.58,Šiauliai,Centras
+2020-12,6.83,Šiauliai,Centras
+2021-01,6.95,Šiauliai,Centras
+2021-02,6.94,Šiauliai,Centras
+2021-03,6.8,Šiauliai,Centras
+2021-04,7.11,Šiauliai,Centras
+2021-05,7.66,Šiauliai,Centras
+2021-06,7.38,Šiauliai,Centras
+2021-07,7.42,Šiauliai,Centras
+2021-08,7.38,Šiauliai,Centras
+2021-09,6.92,Šiauliai,Centras
+2021-10,6.72,Šiauliai,Centras
+2021-11,6.45,Šiauliai,Centras
+2021-12,6.64,Šiauliai,Centras
+2022-01,6.51,Šiauliai,Centras
+2022-02,6.67,Šiauliai,Centras
+2022-03,7.01,Šiauliai,Centras
+2022-04,9.62,Šiauliai,Centras
+2022-05,9.07,Šiauliai,Centras
+2022-06,8.85,Šiauliai,Centras
+2022-07,8.96,Šiauliai,Centras
+2022-08,8.77,Šiauliai,Centras
+2022-09,8.12,Šiauliai,Centras
+2022-10,7.64,Šiauliai,Centras
+2017-01,4.23,Šiauliai,Dainiai
+2017-02,4.58,Šiauliai,Dainiai
+2017-03,4.4,Šiauliai,Dainiai
+2017-04,3.53,Šiauliai,Dainiai
+2017-05,3.39,Šiauliai,Dainiai
+2017-06,3.67,Šiauliai,Dainiai
+2017-07,3.96,Šiauliai,Dainiai
+2017-08,3.86,Šiauliai,Dainiai
+2017-09,3.53,Šiauliai,Dainiai
+2017-10,3.75,Šiauliai,Dainiai
+2017-11,3.3,Šiauliai,Dainiai
+2017-12,3.72,Šiauliai,Dainiai
+2018-01,3.59,Šiauliai,Dainiai
+2018-02,4.05,Šiauliai,Dainiai
+2018-03,4.37,Šiauliai,Dainiai
+2018-04,3.97,Šiauliai,Dainiai
+2018-05,3.98,Šiauliai,Dainiai
+2018-06,3.91,Šiauliai,Dainiai
+2018-07,4.07,Šiauliai,Dainiai
+2018-08,4.42,Šiauliai,Dainiai
+2018-09,3.91,Šiauliai,Dainiai
+2018-10,3.82,Šiauliai,Dainiai
+2018-11,3.82,Šiauliai,Dainiai
+2018-12,3.76,Šiauliai,Dainiai
+2019-01,4.11,Šiauliai,Dainiai
+2019-02,4.14,Šiauliai,Dainiai
+2019-03,4.51,Šiauliai,Dainiai
+2019-04,4.9,Šiauliai,Dainiai
+2019-05,5.49,Šiauliai,Dainiai
+2019-06,4.41,Šiauliai,Dainiai
+2019-07,4.22,Šiauliai,Dainiai
+2019-08,4.33,Šiauliai,Dainiai
+2019-09,4.39,Šiauliai,Dainiai
+2019-10,4.26,Šiauliai,Dainiai
+2019-11,4.21,Šiauliai,Dainiai
+2019-12,4.54,Šiauliai,Dainiai
+2020-01,4.02,Šiauliai,Dainiai
+2020-02,4.66,Šiauliai,Dainiai
+2020-03,4.86,Šiauliai,Dainiai
+2020-04,5.44,Šiauliai,Dainiai
+2020-05,5.12,Šiauliai,Dainiai
+2020-06,5.29,Šiauliai,Dainiai
+2020-07,4.86,Šiauliai,Dainiai
+2020-08,4.22,Šiauliai,Dainiai
+2020-09,5,Šiauliai,Dainiai
+2020-10,5.63,Šiauliai,Dainiai
+2020-11,5.94,Šiauliai,Dainiai
+2020-12,5.26,Šiauliai,Dainiai
+2021-01,5.55,Šiauliai,Dainiai
+2021-02,5.33,Šiauliai,Dainiai
+2021-03,5.27,Šiauliai,Dainiai
+2021-04,5.04,Šiauliai,Dainiai
+2021-05,4.78,Šiauliai,Dainiai
+2021-06,5.54,Šiauliai,Dainiai
+2021-07,5.8,Šiauliai,Dainiai
+2021-09,6.09,Šiauliai,Dainiai
+2021-10,5.93,Šiauliai,Dainiai
+2021-11,5.98,Šiauliai,Dainiai
+2021-12,5.84,Šiauliai,Dainiai
+2022-01,5.53,Šiauliai,Dainiai
+2022-02,5.71,Šiauliai,Dainiai
+2022-03,5.48,Šiauliai,Dainiai
+2022-06,6.72,Šiauliai,Dainiai
+2022-07,6.89,Šiauliai,Dainiai
+2022-08,7.73,Šiauliai,Dainiai
+2022-09,7.36,Šiauliai,Dainiai
+2022-10,6.85,Šiauliai,Dainiai
+2018-01,3.51,Šiauliai,Gytariai
+2018-02,3.83,Šiauliai,Gytariai
+2018-03,4,Šiauliai,Gytariai
+2018-04,4.06,Šiauliai,Gytariai
+2018-05,3.57,Šiauliai,Gytariai
+2018-06,4.65,Šiauliai,Gytariai
+2018-07,4.42,Šiauliai,Gytariai
+2018-08,4.15,Šiauliai,Gytariai
+2018-09,4.09,Šiauliai,Gytariai
+2018-10,4.28,Šiauliai,Gytariai
+2018-11,3.65,Šiauliai,Gytariai
+2018-12,4.51,Šiauliai,Gytariai
+2019-01,4.48,Šiauliai,Gytariai
+2019-02,4.53,Šiauliai,Gytariai
+2019-03,4.51,Šiauliai,Gytariai
+2019-04,4.39,Šiauliai,Gytariai
+2019-05,3.87,Šiauliai,Gytariai
+2019-06,4.72,Šiauliai,Gytariai
+2019-07,3.45,Šiauliai,Gytariai
+2019-08,4.09,Šiauliai,Gytariai
+2019-09,3.94,Šiauliai,Gytariai
+2019-10,4.41,Šiauliai,Gytariai
+2019-11,5.14,Šiauliai,Gytariai
+2019-12,4.94,Šiauliai,Gytariai
+2020-01,4.8,Šiauliai,Gytariai
+2020-02,4.7,Šiauliai,Gytariai
+2020-03,4.33,Šiauliai,Gytariai
+2020-04,3.96,Šiauliai,Gytariai
+2020-05,4.04,Šiauliai,Gytariai
+2020-06,4.3,Šiauliai,Gytariai
+2020-07,4.15,Šiauliai,Gytariai
+2020-08,3.71,Šiauliai,Gytariai
+2020-09,4.38,Šiauliai,Gytariai
+2020-10,5.35,Šiauliai,Gytariai
+2020-11,4.77,Šiauliai,Gytariai
+2020-12,4.53,Šiauliai,Gytariai
+2021-01,4.54,Šiauliai,Gytariai
+2021-02,4.55,Šiauliai,Gytariai
+2021-09,5.07,Šiauliai,Gytariai
+2021-10,5.04,Šiauliai,Gytariai
+2021-12,5.03,Šiauliai,Gytariai
+2022-02,5.03,Šiauliai,Gytariai
+2022-08,6.69,Šiauliai,Gytariai
+2022-09,5.77,Šiauliai,Gytariai
+2022-10,6.52,Šiauliai,Gytariai
+2018-01,3.92,Šiauliai,Gubernija
+2018-02,3.75,Šiauliai,Gubernija
+2018-05,4.17,Šiauliai,Gubernija
+2018-11,2.1,Šiauliai,Gubernija
+2018-12,1.94,Šiauliai,Gubernija
+2019-02,4.06,Šiauliai,Gubernija
+2019-03,3.39,Šiauliai,Gubernija
+2019-04,3.25,Šiauliai,Gubernija
+2019-06,4.66,Šiauliai,Gubernija
+2019-07,4.53,Šiauliai,Gubernija
+2019-08,3.27,Šiauliai,Gubernija
+2019-09,3.73,Šiauliai,Gubernija
+2019-10,4.26,Šiauliai,Gubernija
+2019-11,4.12,Šiauliai,Gubernija
+2020-01,3.21,Šiauliai,Gubernija
+2020-02,3.72,Šiauliai,Gubernija
+2020-03,3.88,Šiauliai,Gubernija
+2021-02,3.29,Šiauliai,Gubernija
+2021-03,3.69,Šiauliai,Gubernija
+2017-01,3.57,Šiauliai,Lieporiai
+2017-02,3.26,Šiauliai,Lieporiai
+2017-03,3.74,Šiauliai,Lieporiai
+2017-04,4.82,Šiauliai,Lieporiai
+2017-05,4.19,Šiauliai,Lieporiai
+2017-07,4.13,Šiauliai,Lieporiai
+2017-08,3.85,Šiauliai,Lieporiai
+2017-09,4.08,Šiauliai,Lieporiai
+2017-10,4.03,Šiauliai,Lieporiai
+2017-11,4,Šiauliai,Lieporiai
+2017-12,4.12,Šiauliai,Lieporiai
+2018-01,3.68,Šiauliai,Lieporiai
+2018-02,3.4,Šiauliai,Lieporiai
+2018-03,3.48,Šiauliai,Lieporiai
+2018-04,3.75,Šiauliai,Lieporiai
+2018-05,3.56,Šiauliai,Lieporiai
+2018-06,3.66,Šiauliai,Lieporiai
+2018-07,4.51,Šiauliai,Lieporiai
+2018-08,4.35,Šiauliai,Lieporiai
+2018-09,4.34,Šiauliai,Lieporiai
+2018-10,5.09,Šiauliai,Lieporiai
+2018-11,5.13,Šiauliai,Lieporiai
+2019-01,3.78,Šiauliai,Lieporiai
+2019-02,4.44,Šiauliai,Lieporiai
+2019-03,4.4,Šiauliai,Lieporiai
+2019-04,5.18,Šiauliai,Lieporiai
+2019-05,4.62,Šiauliai,Lieporiai
+2019-06,4.71,Šiauliai,Lieporiai
+2019-07,4.2,Šiauliai,Lieporiai
+2019-08,4.26,Šiauliai,Lieporiai
+2019-09,4.49,Šiauliai,Lieporiai
+2019-10,4.4,Šiauliai,Lieporiai
+2019-11,4.65,Šiauliai,Lieporiai
+2019-12,4.2,Šiauliai,Lieporiai
+2020-01,4.18,Šiauliai,Lieporiai
+2020-02,4.02,Šiauliai,Lieporiai
+2020-03,4.61,Šiauliai,Lieporiai
+2020-04,4.67,Šiauliai,Lieporiai
+2020-05,4.47,Šiauliai,Lieporiai
+2020-06,4.33,Šiauliai,Lieporiai
+2020-07,4.53,Šiauliai,Lieporiai
+2020-08,5.02,Šiauliai,Lieporiai
+2020-09,4.87,Šiauliai,Lieporiai
+2020-10,4.93,Šiauliai,Lieporiai
+2020-11,5.04,Šiauliai,Lieporiai
+2020-12,5.32,Šiauliai,Lieporiai
+2021-01,5.35,Šiauliai,Lieporiai
+2021-02,5.26,Šiauliai,Lieporiai
+2021-03,5.14,Šiauliai,Lieporiai
+2021-09,5.09,Šiauliai,Lieporiai
+2021-10,5.33,Šiauliai,Lieporiai
+2021-11,5.97,Šiauliai,Lieporiai
+2021-12,6.05,Šiauliai,Lieporiai
+2022-01,5.21,Šiauliai,Lieporiai
+2022-02,5.16,Šiauliai,Lieporiai
+2022-03,5.66,Šiauliai,Lieporiai
+2022-06,6.6,Šiauliai,Lieporiai
+2022-08,6.58,Šiauliai,Lieporiai
+2022-09,5.9,Šiauliai,Lieporiai
+2022-10,6.04,Šiauliai,Lieporiai
+2018-06,3,Šiauliai,Medelynas
+2018-09,3.56,Šiauliai,Medelynas
+2019-10,4.78,Šiauliai,Medelynas
+2020-07,2.97,Šiauliai,Medelynas
+2020-08,2.87,Šiauliai,Medelynas
+2018-01,4.81,Šiauliai,Šimšė
+2018-02,4.55,Šiauliai,Šimšė
+2018-05,5.57,Šiauliai,Šimšė
+2018-06,2.77,Šiauliai,Šimšė
+2018-08,3.17,Šiauliai,Šimšė
+2018-09,3.12,Šiauliai,Šimšė
+2018-11,4.02,Šiauliai,Šimšė
+2019-01,4.04,Šiauliai,Šimšė
+2019-03,4.04,Šiauliai,Šimšė
+2019-05,5.54,Šiauliai,Šimšė
+2019-06,5.45,Šiauliai,Šimšė
+2019-09,3.89,Šiauliai,Šimšė
+2019-10,4.36,Šiauliai,Šimšė
+2019-11,3.81,Šiauliai,Šimšė
+2019-12,3.94,Šiauliai,Šimšė
+2020-01,4.18,Šiauliai,Šimšė
+2020-03,5.32,Šiauliai,Šimšė
+2020-04,5.9,Šiauliai,Šimšė
+2020-07,4.15,Šiauliai,Šimšė
+2020-09,5.27,Šiauliai,Šimšė
+2020-12,4.47,Šiauliai,Šimšė
+2021-01,5.63,Šiauliai,Šimšė
+2018-11,3.32,Šiauliai,Zokniai
+2018-12,5.14,Šiauliai,Zokniai
+2019-01,4.44,Šiauliai,Zokniai
+2019-02,3.74,Šiauliai,Zokniai
+2019-03,3.75,Šiauliai,Zokniai
+2019-04,3.75,Šiauliai,Zokniai
+2019-11,5.73,Šiauliai,Zokniai
+2019-12,5.67,Šiauliai,Zokniai
+2021-02,5,Šiauliai,Zokniai
+2017-08,3.79,Šiauliai,Žaliūkiai
+2017-12,3.31,Šiauliai,Žaliūkiai
+2018-01,2.57,Šiauliai,Žaliūkiai
+2018-02,4.09,Šiauliai,Žaliūkiai
+2018-03,4.11,Šiauliai,Žaliūkiai
+2018-05,4.97,Šiauliai,Žaliūkiai
+2018-06,5.75,Šiauliai,Žaliūkiai
+2018-07,5.46,Šiauliai,Žaliūkiai
+2018-09,3.46,Šiauliai,Žaliūkiai
+2018-10,3.58,Šiauliai,Žaliūkiai
+2018-11,3.15,Šiauliai,Žaliūkiai
+2018-12,3.1,Šiauliai,Žaliūkiai
+2019-01,3.18,Šiauliai,Žaliūkiai
+2019-02,3.87,Šiauliai,Žaliūkiai
+2019-03,5.24,Šiauliai,Žaliūkiai
+2019-04,6.9,Šiauliai,Žaliūkiai
+2019-05,7.18,Šiauliai,Žaliūkiai
+2019-06,9,Šiauliai,Žaliūkiai
+2019-07,5.78,Šiauliai,Žaliūkiai
+2019-08,4.69,Šiauliai,Žaliūkiai
+2019-09,3.9,Šiauliai,Žaliūkiai
+2019-10,4.1,Šiauliai,Žaliūkiai
+2019-11,4.49,Šiauliai,Žaliūkiai
+2020-02,3.16,Šiauliai,Žaliūkiai
+2020-03,5.31,Šiauliai,Žaliūkiai
+2020-04,5.62,Šiauliai,Žaliūkiai
+2020-05,6.98,Šiauliai,Žaliūkiai
+2020-06,3.76,Šiauliai,Žaliūkiai
+2020-07,3.42,Šiauliai,Žaliūkiai
+2020-08,6.39,Šiauliai,Žaliūkiai
+2020-09,5.26,Šiauliai,Žaliūkiai
+2020-10,5.82,Šiauliai,Žaliūkiai
+2020-11,5.34,Šiauliai,Žaliūkiai
+2020-12,5.38,Šiauliai,Žaliūkiai
+2021-02,4.52,Šiauliai,Žaliūkiai
+2021-08,6.38,Šiauliai,Žaliūkiai
+2021-11,4.2,Šiauliai,Žaliūkiai
+2022-09,8.03,Šiauliai,Žaliūkiai
+2022-10,8.13,Šiauliai,Žaliūkiai
+2017-01,5.22,Panevėžys,Centras
+2017-02,5.17,Panevėžys,Centras
+2017-03,5.96,Panevėžys,Centras
+2017-04,5.88,Panevėžys,Centras
+2017-05,6.23,Panevėžys,Centras
+2017-06,5.88,Panevėžys,Centras
+2017-07,5.97,Panevėžys,Centras
+2017-08,6.43,Panevėžys,Centras
+2017-09,6.35,Panevėžys,Centras
+2017-10,6.31,Panevėžys,Centras
+2017-11,6.64,Panevėžys,Centras
+2017-12,6.57,Panevėžys,Centras
+2018-01,6.74,Panevėžys,Centras
+2018-02,6.9,Panevėžys,Centras
+2018-03,6.31,Panevėžys,Centras
+2018-04,6.69,Panevėžys,Centras
+2018-05,6.25,Panevėžys,Centras
+2018-06,7.19,Panevėžys,Centras
+2018-07,7.43,Panevėžys,Centras
+2018-08,6.74,Panevėžys,Centras
+2018-09,6.74,Panevėžys,Centras
+2018-10,5.91,Panevėžys,Centras
+2018-11,5.77,Panevėžys,Centras
+2018-12,5.84,Panevėžys,Centras
+2019-01,6.49,Panevėžys,Centras
+2019-02,6.15,Panevėžys,Centras
+2019-03,6.29,Panevėžys,Centras
+2019-04,6.67,Panevėžys,Centras
+2019-05,6.86,Panevėžys,Centras
+2019-06,7.49,Panevėžys,Centras
+2019-07,6.2,Panevėžys,Centras
+2019-08,6.3,Panevėžys,Centras
+2019-09,6.34,Panevėžys,Centras
+2019-10,5.77,Panevėžys,Centras
+2019-11,6.39,Panevėžys,Centras
+2019-12,5.87,Panevėžys,Centras
+2020-01,6.36,Panevėžys,Centras
+2020-02,6.34,Panevėžys,Centras
+2020-03,6.05,Panevėžys,Centras
+2020-04,5.5,Panevėžys,Centras
+2020-05,5.72,Panevėžys,Centras
+2020-06,5.66,Panevėžys,Centras
+2020-07,6,Panevėžys,Centras
+2020-08,6.06,Panevėžys,Centras
+2020-09,5.3,Panevėžys,Centras
+2020-10,5.99,Panevėžys,Centras
+2020-11,6.72,Panevėžys,Centras
+2020-12,6.99,Panevėžys,Centras
+2021-01,6.24,Panevėžys,Centras
+2021-02,5.07,Panevėžys,Centras
+2021-03,5.75,Panevėžys,Centras
+2021-04,6.28,Panevėžys,Centras
+2021-05,6.81,Panevėžys,Centras
+2021-06,6.73,Panevėžys,Centras
+2021-07,7.31,Panevėžys,Centras
+2021-08,6.97,Panevėžys,Centras
+2021-09,6.68,Panevėžys,Centras
+2021-10,6.75,Panevėžys,Centras
+2021-11,6.6,Panevėžys,Centras
+2021-12,6.92,Panevėžys,Centras
+2022-01,6.85,Panevėžys,Centras
+2022-02,5.98,Panevėžys,Centras
+2022-03,6.59,Panevėžys,Centras
+2022-04,5.86,Panevėžys,Centras
+2022-06,7.23,Panevėžys,Centras
+2022-07,7.75,Panevėžys,Centras
+2022-08,8.77,Panevėžys,Centras
+2022-09,7.71,Panevėžys,Centras
+2022-10,7.13,Panevėžys,Centras
+2018-01,4.08,Panevėžys,Klaipėdos
+2018-02,5.8,Panevėžys,Klaipėdos
+2018-03,4.08,Panevėžys,Klaipėdos
+2018-04,4.63,Panevėžys,Klaipėdos
+2018-05,4.25,Panevėžys,Klaipėdos
+2018-06,4.31,Panevėžys,Klaipėdos
+2018-07,4.67,Panevėžys,Klaipėdos
+2018-08,5.49,Panevėžys,Klaipėdos
+2018-09,4.9,Panevėžys,Klaipėdos
+2018-10,4.35,Panevėžys,Klaipėdos
+2018-11,4.07,Panevėžys,Klaipėdos
+2018-12,4.1,Panevėžys,Klaipėdos
+2019-01,4.08,Panevėžys,Klaipėdos
+2019-02,4.82,Panevėžys,Klaipėdos
+2019-03,3.77,Panevėžys,Klaipėdos
+2019-04,3.62,Panevėžys,Klaipėdos
+2019-05,4.17,Panevėžys,Klaipėdos
+2019-06,5.68,Panevėžys,Klaipėdos
+2019-07,5.36,Panevėžys,Klaipėdos
+2019-08,5.7,Panevėžys,Klaipėdos
+2019-09,3.88,Panevėžys,Klaipėdos
+2019-10,4.04,Panevėžys,Klaipėdos
+2019-11,3.9,Panevėžys,Klaipėdos
+2019-12,4,Panevėžys,Klaipėdos
+2020-01,4.54,Panevėžys,Klaipėdos
+2020-02,4.59,Panevėžys,Klaipėdos
+2020-03,4.4,Panevėžys,Klaipėdos
+2020-04,4.77,Panevėžys,Klaipėdos
+2020-05,4.67,Panevėžys,Klaipėdos
+2020-06,4.99,Panevėžys,Klaipėdos
+2020-07,4.93,Panevėžys,Klaipėdos
+2020-08,4.37,Panevėžys,Klaipėdos
+2020-09,3.97,Panevėžys,Klaipėdos
+2020-10,4.3,Panevėžys,Klaipėdos
+2020-11,3.97,Panevėžys,Klaipėdos
+2020-12,4.69,Panevėžys,Klaipėdos
+2021-01,4.79,Panevėžys,Klaipėdos
+2021-02,5.24,Panevėžys,Klaipėdos
+2021-03,5.02,Panevėžys,Klaipėdos
+2021-06,6.25,Panevėžys,Klaipėdos
+2021-09,4.43,Panevėžys,Klaipėdos
+2021-10,4.67,Panevėžys,Klaipėdos
+2021-12,4.67,Panevėžys,Klaipėdos
+2022-01,4.39,Panevėžys,Klaipėdos
+2022-02,4.65,Panevėžys,Klaipėdos
+2022-03,5.12,Panevėžys,Klaipėdos
+2022-08,6.07,Panevėžys,Klaipėdos
+2022-09,6.71,Panevėžys,Klaipėdos
+2022-10,6.2,Panevėžys,Klaipėdos
+2017-12,2.77,Panevėžys,Kniaudiškiai
+2018-02,5.61,Panevėžys,Kniaudiškiai
+2018-03,4.85,Panevėžys,Kniaudiškiai
+2018-04,4.85,Panevėžys,Kniaudiškiai
+2018-05,4.53,Panevėžys,Kniaudiškiai
+2018-06,3.82,Panevėžys,Kniaudiškiai
+2018-07,3.81,Panevėžys,Kniaudiškiai
+2018-08,4.01,Panevėžys,Kniaudiškiai
+2018-09,4.48,Panevėžys,Kniaudiškiai
+2018-10,4.03,Panevėžys,Kniaudiškiai
+2018-11,3.92,Panevėžys,Kniaudiškiai
+2018-12,3.93,Panevėžys,Kniaudiškiai
+2019-01,3.72,Panevėžys,Kniaudiškiai
+2019-02,3.58,Panevėžys,Kniaudiškiai
+2019-03,3.93,Panevėžys,Kniaudiškiai
+2019-04,4.16,Panevėžys,Kniaudiškiai
+2019-05,4.04,Panevėžys,Kniaudiškiai
+2019-06,4.66,Panevėžys,Kniaudiškiai
+2019-07,4.75,Panevėžys,Kniaudiškiai
+2019-08,4.62,Panevėžys,Kniaudiškiai
+2019-09,4.6,Panevėžys,Kniaudiškiai
+2019-10,4.27,Panevėžys,Kniaudiškiai
+2019-11,4.15,Panevėžys,Kniaudiškiai
+2019-12,4.63,Panevėžys,Kniaudiškiai
+2020-01,4.58,Panevėžys,Kniaudiškiai
+2020-02,4.27,Panevėžys,Kniaudiškiai
+2020-03,4.7,Panevėžys,Kniaudiškiai
+2020-04,4.44,Panevėžys,Kniaudiškiai
+2020-05,4.84,Panevėžys,Kniaudiškiai
+2020-06,4.7,Panevėžys,Kniaudiškiai
+2020-07,5.21,Panevėžys,Kniaudiškiai
+2020-08,4.06,Panevėžys,Kniaudiškiai
+2020-09,4.38,Panevėžys,Kniaudiškiai
+2020-10,4.08,Panevėžys,Kniaudiškiai
+2020-11,4.69,Panevėžys,Kniaudiškiai
+2020-12,4.92,Panevėžys,Kniaudiškiai
+2021-01,5.57,Panevėžys,Kniaudiškiai
+2021-02,4.76,Panevėžys,Kniaudiškiai
+2021-03,5.53,Panevėžys,Kniaudiškiai
+2021-04,4.88,Panevėžys,Kniaudiškiai
+2021-09,6.73,Panevėžys,Kniaudiškiai
+2022-02,4.78,Panevėžys,Kniaudiškiai
+2022-10,6.21,Panevėžys,Kniaudiškiai
+2018-01,3.7,Panevėžys,Molainiai
+2018-02,4.46,Panevėžys,Molainiai
+2018-03,4.48,Panevėžys,Molainiai
+2018-04,3.79,Panevėžys,Molainiai
+2018-05,3.85,Panevėžys,Molainiai
+2018-07,5.86,Panevėžys,Molainiai
+2018-08,5.72,Panevėžys,Molainiai
+2018-09,4.63,Panevėžys,Molainiai
+2018-10,4.51,Panevėžys,Molainiai
+2018-11,4.79,Panevėžys,Molainiai
+2018-12,5.26,Panevėžys,Molainiai
+2019-01,4.74,Panevėžys,Molainiai
+2019-02,4.65,Panevėžys,Molainiai
+2019-03,4.72,Panevėžys,Molainiai
+2019-04,4.55,Panevėžys,Molainiai
+2019-06,4.72,Panevėžys,Molainiai
+2019-07,4.82,Panevėžys,Molainiai
+2019-08,4.54,Panevėžys,Molainiai
+2019-10,2.52,Panevėžys,Molainiai
+2019-11,3.99,Panevėžys,Molainiai
+2020-01,3.75,Panevėžys,Molainiai
+2020-02,3.9,Panevėžys,Molainiai
+2020-04,3.65,Panevėžys,Molainiai
+2020-05,4.53,Panevėžys,Molainiai
+2020-06,4.72,Panevėžys,Molainiai
+2020-07,4.78,Panevėžys,Molainiai
+2020-11,4.79,Panevėžys,Molainiai
+2020-12,3.26,Panevėžys,Molainiai
+2021-03,4.76,Panevėžys,Molainiai
+2022-10,5.21,Panevėžys,Molainiai
+2017-12,7.71,Panevėžys,Pilėnai
+2018-01,7.32,Panevėžys,Pilėnai
+2018-02,5.11,Panevėžys,Pilėnai
+2018-05,4.41,Panevėžys,Pilėnai
+2018-06,4.99,Panevėžys,Pilėnai
+2018-07,4.29,Panevėžys,Pilėnai
+2018-08,4.72,Panevėžys,Pilėnai
+2018-10,4.44,Panevėžys,Pilėnai
+2018-11,3.27,Panevėžys,Pilėnai
+2018-12,3.84,Panevėžys,Pilėnai
+2019-01,4.26,Panevėžys,Pilėnai
+2019-06,4.32,Panevėžys,Pilėnai
+2019-07,4.87,Panevėžys,Pilėnai
+2019-08,4.73,Panevėžys,Pilėnai
+2019-10,6.99,Panevėžys,Pilėnai
+2019-11,6.23,Panevėžys,Pilėnai
+2019-12,5.28,Panevėžys,Pilėnai
+2020-01,4.15,Panevėžys,Pilėnai
+2020-02,4.76,Panevėžys,Pilėnai
+2020-03,4.77,Panevėžys,Pilėnai
+2020-05,3.93,Panevėžys,Pilėnai
+2020-06,5.09,Panevėžys,Pilėnai
+2020-07,5.08,Panevėžys,Pilėnai
+2020-08,5.1,Panevėžys,Pilėnai
+2020-09,5.83,Panevėžys,Pilėnai
+2020-10,4.55,Panevėžys,Pilėnai
+2020-11,3.65,Panevėžys,Pilėnai
+2020-12,4.02,Panevėžys,Pilėnai
+2021-01,5.18,Panevėžys,Pilėnai
+2021-02,5.23,Panevėžys,Pilėnai
+2021-03,4.63,Panevėžys,Pilėnai
+2021-11,4.65,Panevėžys,Pilėnai
+2021-12,4.95,Panevėžys,Pilėnai
+2020-01,3.53,Panevėžys,Rožės
+2020-12,6.4,Panevėžys,Rožės
+2018-03,7.66,Panevėžys,Skaistakalnis
+2018-08,5.94,Panevėžys,Skaistakalnis
+2018-09,5.66,Panevėžys,Skaistakalnis
+2018-10,7.06,Panevėžys,Skaistakalnis
+2018-11,7.03,Panevėžys,Skaistakalnis
+2018-12,5,Panevėžys,Skaistakalnis
+2019-05,5.14,Panevėžys,Skaistakalnis
+2019-06,6.29,Panevėžys,Skaistakalnis
+2019-07,6.99,Panevėžys,Skaistakalnis
+2019-11,4.41,Panevėžys,Skaistakalnis
+2020-04,5.73,Panevėžys,Skaistakalnis
+2020-05,6.37,Panevėžys,Skaistakalnis
+2020-06,4.65,Panevėžys,Skaistakalnis
+2020-07,6.57,Panevėžys,Skaistakalnis
+2020-08,6.62,Panevėžys,Skaistakalnis
+2020-09,7.22,Panevėžys,Skaistakalnis
+2020-10,5.26,Panevėžys,Skaistakalnis
+2020-11,4,Panevėžys,Skaistakalnis
+2020-12,3.97,Panevėžys,Skaistakalnis
+2021-01,3.95,Panevėžys,Skaistakalnis
+2021-02,4.12,Panevėžys,Skaistakalnis
+2021-03,5.39,Panevėžys,Skaistakalnis
+2018-03,4.92,Panevėžys,Tulpės
+2018-09,3.87,Panevėžys,Tulpės
+2018-10,3.8,Panevėžys,Tulpės
+2018-11,4.78,Panevėžys,Tulpės
+2018-12,5.17,Panevėžys,Tulpės
+2019-01,3.82,Panevėžys,Tulpės
+2019-07,4.08,Panevėžys,Tulpės
+2019-09,4.41,Panevėžys,Tulpės
+2019-12,4.55,Panevėžys,Tulpės
+2020-01,4.78,Panevėžys,Tulpės
+2020-02,6.5,Panevėžys,Tulpės
+2020-03,5.42,Panevėžys,Tulpės
+2020-04,5.13,Panevėžys,Tulpės
+2020-05,7.18,Panevėžys,Tulpės
+2020-06,5.93,Panevėžys,Tulpės
+2020-07,6.4,Panevėžys,Tulpės
+2020-08,5.4,Panevėžys,Tulpės
+2020-12,7.6,Panevėžys,Tulpės
+2021-02,2.63,Panevėžys,Tulpės
+2018-01,2.35,Panevėžys,Žemaičiai
+2018-05,4.32,Panevėžys,Žemaičiai
+2018-06,3.17,Panevėžys,Žemaičiai
+2018-08,3.51,Panevėžys,Žemaičiai
+2018-09,5.17,Panevėžys,Žemaičiai
+2019-01,3.87,Panevėžys,Žemaičiai
+2019-02,4.15,Panevėžys,Žemaičiai
+2019-03,3.49,Panevėžys,Žemaičiai
+2019-05,5.94,Panevėžys,Žemaičiai
+2019-06,4.65,Panevėžys,Žemaičiai
+2019-08,4.17,Panevėžys,Žemaičiai
+2019-09,3.45,Panevėžys,Žemaičiai
+2019-10,4.1,Panevėžys,Žemaičiai
+2019-11,4.46,Panevėžys,Žemaičiai
+2019-12,4.1,Panevėžys,Žemaičiai
+2020-01,4.29,Panevėžys,Žemaičiai
+2020-03,4.78,Panevėžys,Žemaičiai
+2020-04,4.43,Panevėžys,Žemaičiai
+2020-05,4.7,Panevėžys,Žemaičiai
+2020-06,3.95,Panevėžys,Žemaičiai
+2020-07,6.91,Panevėžys,Žemaičiai
+2020-08,5.44,Panevėžys,Žemaičiai
+2020-09,4.05,Panevėžys,Žemaičiai
+2020-10,4.16,Panevėžys,Žemaičiai
+2020-11,3.69,Panevėžys,Žemaičiai
+2020-12,4.9,Panevėžys,Žemaičiai
+2021-03,3.54,Panevėžys,Žemaičiai
+2021-11,5.68,Panevėžys,Žemaičiai
+2022-02,4.96,Panevėžys,Žemaičiai
+2018-06,5.81,Alytus,Dainava
+2018-10,6.03,Alytus,Dainava
+2019-09,10.34,Alytus,Dainava
+2019-10,10.34,Alytus,Dainava
+2019-11,6.42,Alytus,Dainava
+2019-12,8.4,Alytus,Dainava
+2020-01,6.58,Alytus,Dainava
+2020-02,5.59,Alytus,Dainava
+2020-06,4.41,Alytus,Dainava
+2020-07,4.78,Alytus,Dainava
+2020-08,7.09,Alytus,Dainava
+2020-09,5.75,Alytus,Dainava
+2021-01,9.44,Alytus,Dainava
+2021-02,6.99,Alytus,Dainava
+2021-03,7.67,Alytus,Dainava
+2018-03,4.23,Alytus,Pirmas Alytus
+2018-04,3.63,Alytus,Pirmas Alytus
+2018-05,3.06,Alytus,Pirmas Alytus
+2018-06,4.12,Alytus,Pirmas Alytus
+2018-11,4.23,Alytus,Pirmas Alytus
+2018-12,4.23,Alytus,Pirmas Alytus
+2019-01,3.06,Alytus,Pirmas Alytus
+2019-03,4.23,Alytus,Pirmas Alytus
+2019-11,4.81,Alytus,Pirmas Alytus
+2020-06,5.56,Alytus,Pirmas Alytus
+2020-07,5.27,Alytus,Pirmas Alytus
+2020-08,4.81,Alytus,Pirmas Alytus
+2020-09,4.81,Alytus,Pirmas Alytus
+2021-02,4.5,Alytus,Pirmas Alytus
+2021-03,4.5,Alytus,Pirmas Alytus
+2018-01,3.84,Alytus,Putinai
+2018-03,3.3,Alytus,Putinai
+2018-07,4.31,Alytus,Putinai
+2018-08,4.16,Alytus,Putinai
+2018-09,3.77,Alytus,Putinai
+2018-10,2.65,Alytus,Putinai
+2018-11,2.53,Alytus,Putinai
+2019-04,5.29,Alytus,Putinai
+2019-05,4.01,Alytus,Putinai
+2019-08,4.55,Alytus,Putinai
+2019-09,6.34,Alytus,Putinai
+2019-10,6.97,Alytus,Putinai
+2020-02,5.18,Alytus,Putinai
+2020-03,4.93,Alytus,Putinai
+2020-04,6.19,Alytus,Putinai
+2020-05,6.51,Alytus,Putinai
+2020-06,6.08,Alytus,Putinai
+2020-07,6.26,Alytus,Putinai
+2020-10,5,Alytus,Putinai
+2020-11,3.43,Alytus,Putinai
+2020-12,5.02,Alytus,Putinai
+2021-01,5.81,Alytus,Putinai
+2021-03,7.03,Alytus,Putinai
+2022-10,5.89,Alytus,Putinai
+2018-01,6.12,Alytus,Senamiestis
+2018-02,5.49,Alytus,Senamiestis
+2018-03,4.58,Alytus,Senamiestis
+2018-04,5.05,Alytus,Senamiestis
+2018-05,3.42,Alytus,Senamiestis
+2018-06,3.76,Alytus,Senamiestis
+2018-07,4.28,Alytus,Senamiestis
+2018-08,3.72,Alytus,Senamiestis
+2018-09,3.71,Alytus,Senamiestis
+2018-10,4.01,Alytus,Senamiestis
+2018-11,4.3,Alytus,Senamiestis
+2018-12,4.47,Alytus,Senamiestis
+2019-06,4.34,Alytus,Senamiestis
+2019-07,3.11,Alytus,Senamiestis
+2019-08,5.23,Alytus,Senamiestis
+2019-09,4.14,Alytus,Senamiestis
+2019-10,4.29,Alytus,Senamiestis
+2019-11,6.27,Alytus,Senamiestis
+2019-12,5.58,Alytus,Senamiestis
+2020-01,4.43,Alytus,Senamiestis
+2020-02,4.15,Alytus,Senamiestis
+2020-03,4.03,Alytus,Senamiestis
+2020-04,4.13,Alytus,Senamiestis
+2020-05,4.92,Alytus,Senamiestis
+2020-06,4.42,Alytus,Senamiestis
+2020-08,6.36,Alytus,Senamiestis
+2020-09,5.74,Alytus,Senamiestis
+2020-10,5.94,Alytus,Senamiestis
+2020-11,6.04,Alytus,Senamiestis
+2020-12,6.04,Alytus,Senamiestis
+2018-02,4.11,Alytus,Vidzgiris
+2018-03,3.96,Alytus,Vidzgiris
+2018-05,4.03,Alytus,Vidzgiris
+2018-06,6.16,Alytus,Vidzgiris
+2018-07,6.47,Alytus,Vidzgiris
+2018-11,5.83,Alytus,Vidzgiris
+2018-12,4.37,Alytus,Vidzgiris
+2019-01,3.8,Alytus,Vidzgiris
+2019-02,6.47,Alytus,Vidzgiris
+2019-03,5.45,Alytus,Vidzgiris
+2019-04,5.46,Alytus,Vidzgiris
+2019-06,2.73,Alytus,Vidzgiris
+2019-07,4.18,Alytus,Vidzgiris
+2019-08,4.89,Alytus,Vidzgiris
+2019-10,4.95,Alytus,Vidzgiris
+2019-11,4.57,Alytus,Vidzgiris
+2019-12,6.16,Alytus,Vidzgiris
+2020-01,6.39,Alytus,Vidzgiris
+2020-02,5.2,Alytus,Vidzgiris
+2020-03,5.3,Alytus,Vidzgiris
+2020-04,5.69,Alytus,Vidzgiris
+2020-05,6.33,Alytus,Vidzgiris
+2020-06,5.01,Alytus,Vidzgiris
+2020-07,4.28,Alytus,Vidzgiris
+2020-08,4.45,Alytus,Vidzgiris
+2020-09,4.2,Alytus,Vidzgiris
+2020-10,3.97,Alytus,Vidzgiris
+2020-11,5.75,Alytus,Vidzgiris
+2020-12,5.57,Alytus,Vidzgiris
+2021-01,5.06,Alytus,Vidzgiris
+2021-02,5.84,Alytus,Vidzgiris
+2021-10,4.63,Alytus,Vidzgiris
+2021-12,5,Alytus,Vidzgiris
+2022-09,6.78,Alytus,Vidzgiris
+2022-10,7.08,Alytus,Vidzgiris
 2020-10,6.68,Palanga,Palanga
 2020-11,6.72,Palanga,Palanga
 2020-12,5.73,Palanga,Palanga

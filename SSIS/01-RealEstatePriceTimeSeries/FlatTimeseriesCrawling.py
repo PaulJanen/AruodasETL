@@ -67,8 +67,7 @@ def GetPropertyTypeTimeseries(propertyType, driver):
     sleep(0.1)
 
     globalDataFrame = pd.DataFrame()
-    #regions = ["Vilnius","Kaunas","Klaipėda","Šiauliai","Panevėžys","Alytus","Palanga"]
-    regions = ["Palanga"]
+    regions = ["Vilnius","Kaunas","Klaipėda","Šiauliai","Panevėžys","Alytus","Palanga"]
     for region in regions:
         elementDropdown = driver.find_element(By.NAME,"region[0]")
         select = Select(elementDropdown)

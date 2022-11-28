@@ -12,7 +12,7 @@
   DTS:ObjectName="InsertAllData"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{553F8154-57B4-435D-B812-CD1694B2BFE6}">
+  DTS:VersionGUID="{2F9B10A0-24EF-43BC-9DFF-A884B505332D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

@@ -1,56 +1,206 @@
-﻿Price,PricePerM2,Area,floor,Number of floors,Room count,Built year,Heating,Equipment,City,District,href
-37880,1894,20.0,1,3,1,1987-01-01,"Electric, aerothermal",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-demesio-liko-paskutiniai-butai-1-3087059/
-76000,1363,55.75,3,3,2,2022-01-01,"Electric, aerothermal",Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsio-apartamentai-per-du-aukstus-1-3262040/
-26964,1498,18.0,2,3,2,1998-01-01,"Electric, aerothermal, other",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-demesio-liko-3-butai-kaina-nuo-1350-eur-1-3013611/
-27200,1600,17.0,2,5,2,2019-01-01,"Electric, aerothermal, other",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsis-kitaip-apartamentai-tai-itin-1-3034605/
-189000,2779,68.0,2,3,2,2006-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-apartamentai-arciau-juros-nebuna-1-3176588/
-151500,2386,63.5,1,2,3,2022-01-01,"Electric, sun energy",Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-elijos-g-top-4-perkamiausiu-projektu-pajuryje-su-1-3186232/
-51500,2341,22.0,1,3,1,1987-01-01,Electric,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-jaukus-su-pilna-apdaila-butas-1-3201321/
-129600,2700,48.0,1,8,2,2012-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-naujai-suremontuotas-dvieju-1-3264266/
-36500,2147,17.0,1,3,1,1998-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodami-butai-bute-atliktas-kapitalinis-1-3226902/
-75000,1974,38.0,3,3,2,1990-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-vilties-tak-parduodamas-2-kambariu-butas-sventojoje-1-3259578/
-195000,3611,54.0,1,2,2,2021-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-parduodami-moderniai-ir-kokybiskai-irengti-1-3258782/
-142000,2358,60.21,5,6,2,2010-01-01,"Central thermostat, gas",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-apartamentai-prie-juros-parduodami-1-3258256/
-84999,1758,48.35,2,3,2,1988-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-parduodami-labai-tvarkingi-pilnai-irengti-1-3197331/
-74000,1966,37.64,3,4,1,1991-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-vieno-kambario-butas-sventojoje-1-3255306/
-75900,2256,33.64,1,4,1,2006-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-1-kambario-butas-ne-poilsio-1-3253849/
-93900,1341,70.0,1,4,3,1994-01-01,Gas,Other,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-lieknu-g-parduodamas-70-m2-butas-palangoje-sventoji-1-3253715/
-170000,1985,85.64,4,4,4,1996-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-pusyno-g-parduodamas-4-kambariu-butas-sventojoje-1-3263504/
-59000,756,78.0,3,3,2,1984-01-01,Electric,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsio-apartamentai-per-du-aukstus-1-3253467/
-131000,2397,54.65,2,7,2,2010-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodomas-butas-elijos-komplekse-sventojoje-1-3222068/
-190000,5262,36.11,2,2,2,2020-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-bustas-prie-baltijos-juros-nutoles-vos-500-1-3189050/
-70000,2108,33.21,2,4,1,1991-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-isikurk-savo-buste-prie-juros-jau-siandien-1-3199363/
-70000,2806,24.95,3,4,1,1991-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-isikurk-savo-buste-prie-juros-jau-siandien-1-3212830/
-139000,2527,55.0,2,6,2,2010-01-01,Central thermostat,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-puikus-dvieju-kambariu-irengtas-1-3213608/
-90500,2155,42.0,2,3,2,2022-01-01,"Electric, sun energy",Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-kregzdziu-g-atnaujinta-pastatai-06-16-d-iregistruoti-nt-1-3214602/
-130000,2167,60.0,1,2,3,1974-01-01,Central,Other,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-zuvedru-g-3-ju-kmb-butas-su-ukiniu-muriniu-sandeliuku-1-3242571/
-178000,4999,35.61,4,4,2,2017-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-isskirtinio-jaukumo-2-kambariu-1-3218454/
-245000,2722,90.0,1,1,4,2008-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-gulbiu-g-parduodamas-jaukiai-irengtas-dvieju-aukstu-1-2933553/
-127000,2954,42.99,1,1,2,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3028911/
-198000,2712,73.0,4,4,3,1991-01-01,Central,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-pusyno-g-parduodamas-3-kambariu-butas-sventojoje-1-3239136/
-135000,2755,49.0,1,7,2,2010-01-01,"Electric, gas",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-apartamentai-orientuoti-i-pietryciu-puse-1-3169526/
-137218,2300,59.66,1,3,3,2022-01-01,Electric,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-naujas-bustas-jusu-seimai-gyvenimui-prie-1-3262394/
-130728,3900,33.52,2,4,1,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3028915/
-105765,3300,32.05,4,4,1,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3026093/
-56000,2667,21.0,1,2,1,2022-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-paupio-g-naras-penkiu-butu-poilsio-namas-1-3216034/
-51500,2341,22.0,1,3,1,1987-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-1-kambario-butas-mokyklos-g-sventojoje-1-3266592/
-128500,2380,54.0,2,9,2,2020-01-01,Central thermostat,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-2-kambariu-butas-mokyklos-g-sventojoje-1-3256428/
-86823,2773,31.31,2,3,2,2022-01-01,Electric,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-pristatome-naujai-vystoma-32-gyvenamuju-butu-1-3264540/
-131187,2120,61.87,1,3,3,2022-01-01,Electric,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-gyvenimas-kaip-atostogos-ant-bangos-1-3264408/
-139530,2791,50.0,1,7,2,2010-01-01,Central thermostat,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-dvieju-kambariu-butas-su-terasa-1-3195354/
-115000,3617,31.79,5,7,1,2018-01-01,Central thermostat,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-studio-tipo-butas-su-balkonu-1-3223404/
-182000,2866,63.5,1,2,3,2022-01-01,"Electric, sun energy",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-elijos-g-nepraleiskite-progos-apziureti-isskirtiniu-1-3209623/
-195000,2987,65.28,4,4,3,2008-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-iki-papludimio-tik-500-metru-sventojoje-1-3256166/
-175000,2917,60.0,3,6,2,2021-01-01,Gas,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-dvieju-kambariu-butas-elijos-1-3255938/
-245000,4900,50.0,1,3,2,2020-01-01,"Electric, aerothermal",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-butas-sventosios-vartu-projekte-1-3255328/
-96000,2145,44.76,1,2,2,1966-01-01,"Electric, gas, other",Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-zuvedru-g-sventojoje-parduodamas-erdvus-sviesus-1-3252717/
-70000,1614,43.37,4,4,2,1986-01-01,Central,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-lieknu-g-puiki-galimybe-susikurti-savo-svajoniu-namus-1-3252709/
-180000,2831,63.58,4,8,2,2010-01-01,Central thermostat,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-2-kambariu-butas-mokyklos-g-sventojoje-1-3247751/
-87000,2009,43.31,1,4,2,2006-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-2-kambariu-butas-sventojoje-1-3233568/
-89900,2140,42.0,2,3,2,2022-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-kregzdziu-g-aprasymas-2022m-spalis-jau-kyla-trecias-1-3221480/
-94000,1424,66.0,3,3,3,1988-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-parduodamas-3-kambariu-butas-meguvos-g-1-3223866/
-95000,1573,60.38,2,4,2,1988-01-01,Electric,Fully equipped,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-irengtas-2-kambariu-erdvus-butas-1-3223272/
-153387,3900,39.33,1,1,2,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3028895/
-176812,3750,47.15,2,4,2,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3026119/
-150282,3300,45.54,4,4,2,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambariu-butas-dar-statomame-1-3026101/
-117018,3300,35.46,4,4,1,2022-01-01,Gas,Partial decoration,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3026099/
+﻿Price,PricePerM2,Area,floor,Number of floors,Room count,Built year,Heating,Equipment,NearestKindergarten,NearestEducational,NearestShop,NearestStop,CrimeRate,City,District,href
+86823,2773,31.31,2,3,2,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-pristatome-naujai-vystoma-32-gyvenamuju-butu-1-3264540/
+37880,1894,20.0,1,3,1,1987-01-01,"Electric, aerothermal",Fully equipped,0.61,0.75,0.79,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-demesio-liko-paskutiniai-butai-1-3087059/
+76000,1363,55.75,3,3,2,2022-01-01,"Electric, aerothermal",Partial decoration,0.65,0.78,0.46,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsio-apartamentai-per-du-aukstus-1-3262040/
+26964,1498,18.0,2,3,2,1998-01-01,"Electric, aerothermal, other",Fully equipped,0.65,0.78,0.46,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-demesio-liko-3-butai-kaina-nuo-1350-eur-1-3013611/
+27200,1600,17.0,2,5,2,2019-01-01,"Electric, aerothermal, other",Fully equipped,0.69,0.82,0.43,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsis-kitaip-apartamentai-tai-itin-1-3034605/
+189000,2779,68.0,2,3,2,2006-01-01,Electric,Fully equipped,0.83,0.94,0.44,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-apartamentai-arciau-juros-nebuna-1-3176588/
+50000,2870,17.42,2,3,1,1984-01-01,Electric,Fully equipped,0.65,0.78,0.46,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-paskutiniai-studijos-tipo-poilsio-1-3253705/
+189000,2996,63.09,3,8,2,2020-01-01,Central thermostat,Fully equipped,1.1,1.3,0.14,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-siulome-pilnai-irengta-2-kamb-buta-dar-1-3267722/
+72000,3201,22.49,3,3,2,1986-01-01,Electric,Fully equipped,0.65,0.78,0.46,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsio-apartamentai-per-du-aukstus-1-3234586/
+51500,2341,22.0,1,3,1,1987-01-01,Electric,Partial decoration,0.61,0.75,0.79,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-jaukus-su-pilna-apdaila-butas-1-3201321/
+129600,2700,48.0,1,8,2,2012-01-01,Gas,Fully equipped,0.49,0.63,0.67,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-naujai-suremontuotas-dvieju-1-3264266/
+36500,2147,17.0,1,3,1,1998-01-01,Electric,Fully equipped,0.06,0.19,0.49,,1,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodami-butai-bute-atliktas-kapitalinis-1-3226902/
+75000,1974,38.0,3,3,2,1990-01-01,Electric,Fully equipped,0.83,0.96,0.35,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-vilties-tak-parduodamas-2-kambariu-butas-sventojoje-1-3259578/
+188000,3481,54.0,1,2,2,2021-01-01,Electric,Fully equipped,0.59,0.56,0.41,,2,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-parduodami-moderniai-ir-kokybiskai-irengti-1-3258782/
+135000,2242,60.21,5,6,2,2010-01-01,"Central thermostat, gas",Fully equipped,1.1,1.3,0.14,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-apartamentai-prie-juros-parduodami-1-3258256/
+89500,1851,48.35,2,3,2,1988-01-01,Electric,Fully equipped,0.34,0.45,0.73,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-parduodami-labai-tvarkingi-pilnai-irengti-1-3197331/
+74000,1966,37.64,3,4,1,1991-01-01,Electric,Fully equipped,0.67,0.81,0.58,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-vieno-kambario-butas-sventojoje-1-3255306/
+75900,2256,33.64,1,4,1,2006-01-01,Electric,Fully equipped,0.81,0.96,0.66,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-1-kambario-butas-ne-poilsio-1-3253849/
+93900,1341,70.0,1,4,3,1994-01-01,Gas,Other,0.33,0.46,0.56,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-lieknu-g-parduodamas-70-m2-butas-palangoje-sventoji-1-3253715/
+165000,1927,85.64,4,4,4,1996-01-01,Gas,Fully equipped,0.11,0.14,0.41,,1,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-pusyno-g-parduodamas-4-kambariu-butas-sventojoje-1-3263504/
+59000,756,78.0,3,3,2,1984-01-01,Electric,Partial decoration,0.65,0.78,0.46,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-poilsio-apartamentai-per-du-aukstus-1-3253467/
+131000,2397,54.65,2,7,2,2010-01-01,Gas,Fully equipped,1.2,1.3,0.18,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodomas-butas-elijos-komplekse-sventojoje-1-3222068/
+190000,5262,36.11,2,2,2,2020-01-01,Electric,Fully equipped,0.63,0.57,0.32,,2,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-bustas-prie-baltijos-juros-nutoles-vos-500-1-3189050/
+70000,2108,33.21,2,4,1,1991-01-01,Electric,Fully equipped,0.67,0.81,0.58,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-isikurk-savo-buste-prie-juros-jau-siandien-1-3199363/
+70000,2806,24.95,3,4,1,1991-01-01,Electric,Fully equipped,0.67,0.81,0.58,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-isikurk-savo-buste-prie-juros-jau-siandien-1-3212830/
+139000,2527,55.0,2,6,2,2010-01-01,Central thermostat,Fully equipped,1.2,1.3,0.15,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-puikus-dvieju-kambariu-irengtas-1-3213608/
+90500,2155,42.0,2,3,2,2022-01-01,"Electric, sun energy",Partial decoration,1.9,1.8,1.4,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-kregzdziu-g-atnaujinta-pastatai-06-16-d-iregistruoti-nt-1-3214602/
+130000,2167,60.0,1,2,3,1974-01-01,Central,Other,0.15,0.12,0.37,,1,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-zuvedru-g-3-ju-kmb-butas-su-ukiniu-muriniu-sandeliuku-1-3242571/
+180000,2757,65.28,4,4,3,2008-01-01,Gas,Fully equipped,0.49,0.63,0.65,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-iki-papludimio-tik-500-metru-sventojoje-1-3256166/
+137218,2300,59.66,1,3,3,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-naujas-bustas-jusu-seimai-gyvenimui-prie-1-3262394/
+178000,4999,35.61,4,4,2,2017-01-01,Gas,Fully equipped,0.77,0.88,0.45,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-isskirtinio-jaukumo-2-kambariu-1-3218454/
+151500,2386,63.5,1,2,3,2022-01-01,"Electric, sun energy",Partial decoration,1.1,1.2,0.97,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-elijos-g-top-4-perkamiausiu-projektu-pajuryje-su-1-3186232/
+118000,2185,54.0,2,9,2,2020-01-01,Central thermostat,Fully equipped,1.1,1.3,0.06,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-2-kambariu-butas-mokyklos-g-sventojoje-1-3256428/
+90500,2155,42.0,2,3,2,2022-01-01,Electric,Fully equipped,1.8,1.7,1.2,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-kregzdziu-g-aprasymas-2022m-puiki-zinia-lapkricio-1-3221480/
+65000,1477,44.0,4,4,2,1986-01-01,Central,Fully equipped,0.3,0.41,0.45,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-lieknu-g-puiki-galimybe-susikurti-savo-svajoniu-namus-1-3270406/
+56000,2667,21.0,1,2,1,2022-01-01,Electric,Fully equipped,1.2,1.2,0.81,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-paupio-g-naras-penkiu-butu-poilsio-namas-1-3267824/
+180000,2831,63.58,4,8,2,2010-01-01,Central thermostat,Fully equipped,1.2,1.3,0.18,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-2-kambariu-butas-mokyklos-g-sventojoje-1-3267348/
+51500,2341,22.0,1,3,1,1987-01-01,Electric,Fully equipped,0.83,0.97,0.71,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-1-kambario-butas-mokyklos-g-sventojoje-1-3266592/
+131187,2120,61.87,1,3,3,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-gyvenimas-kaip-atostogos-ant-bangos-1-3264408/
+139530,2791,50.0,1,7,2,2010-01-01,Central thermostat,Fully equipped,1.1,1.3,0.14,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-dvieju-kambariu-butas-su-terasa-1-3195354/
+115000,3617,31.79,5,7,1,2018-01-01,Central thermostat,Fully equipped,1.1,1.3,0.14,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-studio-tipo-butas-su-balkonu-1-3223404/
+182000,2866,63.5,1,2,3,2022-01-01,"Electric, sun energy",Fully equipped,1.1,1.2,0.97,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-elijos-g-nepraleiskite-progos-apziureti-isskirtiniu-1-3209623/
+175000,2917,60.0,3,6,2,2021-01-01,Gas,Fully equipped,0.93,1.1,0.49,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-dvieju-kambariu-butas-elijos-1-3255938/
+245000,4900,50.0,1,3,2,2020-01-01,"Electric, aerothermal",Fully equipped,0.61,0.57,0.41,,2,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-prieplaukos-g-butas-sventosios-vartu-projekte-1-3255328/
+96000,2145,44.76,1,2,2,1966-01-01,"Electric, gas, other",Fully equipped,0.35,0.24,0.22,,1,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-zuvedru-g-sventojoje-parduodamas-erdvus-sviesus-1-3252717/
+87000,2009,43.31,1,4,2,2006-01-01,Electric,Fully equipped,0.81,0.96,0.66,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-2-kambariu-butas-sventojoje-1-3233568/
+94000,1424,66.0,3,3,3,1988-01-01,Electric,Fully equipped,0.64,0.76,0.49,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-meguvos-g-parduodamas-3-kambariu-butas-meguvos-g-1-3223866/
+95000,1573,60.38,2,4,2,1988-01-01,Electric,Fully equipped,0.83,0.97,0.71,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-mokyklos-g-parduodamas-irengtas-2-kambariu-erdvus-butas-1-3223272/
+130728,3900,33.52,2,4,1,2022-01-01,Gas,Partial decoration,0.8,0.91,0.43,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3028915/
+127000,2954,42.99,1,1,2,2022-01-01,Gas,Partial decoration,0.8,0.91,0.43,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3028911/
+153387,3900,39.33,1,1,2,2022-01-01,Gas,Partial decoration,0.8,0.91,0.43,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3028895/
+176812,3750,47.15,2,4,2,2022-01-01,Gas,Partial decoration,0.95,1.1,0.25,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambario-butas-dar-statomame-1-3026119/
+150282,3300,45.54,4,4,2,2022-01-01,Gas,Partial decoration,0.95,1.1,0.25,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-2-kambariu-butas-dar-statomame-1-3026101/
+117018,3300,35.46,4,4,1,2022-01-01,Gas,Partial decoration,0.95,1.1,0.25,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3026099/
+105765,3300,32.05,4,4,1,2022-01-01,Gas,Partial decoration,0.95,1.1,0.25,,0,Palanga,Šventoji,https://en.aruodas.lt/butai-palangoje-sventojoje-juros-g-parduodamas-1-kambario-butas-dar-statomame-1-3026093/
+96200,2532,38.0,1,2,3,2023-01-01,Aerothermal,Partial decoration,4.3,4.5,0.47,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-naujame-uzdarame-kvartale-parduodami-2-3-1-3256832/
+187370,5320,35.22,2,2,2,2022-01-01,Gas,Fully equipped,0.52,0.23,0.22,0.32,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-liepu-tak-parduodami-puikus-sviesus-ka-tik-naujai-1-3259264/
+170000,3358,50.62,1,4,2,2022-01-01,"Electric, central thermostat",Partial decoration,2.0,2.2,1.7,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-vanagupes-pusys-isskirtines-kokybes-1-3095067/
+115000,2093,54.95,3,4,2,1986-01-01,Electric,Fully equipped,0.6,0.84,0.37,0.36,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-kretingos-g-parduodamas-2-k-butas-palangoje-kretingos-g-1-3249987/
+98000,2970,33.0,2,4,2,2022-01-01,Central thermostat,Partial decoration,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270270/
+193200,3645,53.0,4,4,3,2022-01-01,Central thermostat,Fully equipped,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270282/
+150000,3204,46.82,1,5,2,2019-01-01,Central thermostat,Fully equipped,0.54,0.71,0.33,0.36,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-veziu-g-parduodamas-premium-klases-butas-su-nuostabiu-1-3087225/
+285900,3700,77.28,1,2,4,2022-01-01,Other,Fully equipped,0.54,0.52,0.13,0.17,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-veziu-g-naujas-kotedzu-kvartalas-veziu-gatveje-1-3180730/
+175200,3306,53.0,4,4,3,2022-01-01,Central thermostat,Partial decoration,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-wwwsantjagolt-vienas-greiciausiai-1-3270274/
+98500,3397,29.0,2,4,1,2022-01-01,Central thermostat,Partial decoration,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-wwwsantjagolt-vienas-greiciausiai-1-3268494/
+144600,3077,47.0,1,4,2,2022-01-01,Central thermostat,Fully equipped,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270280/
+111700,3723,30.0,4,4,1,2022-01-01,Central thermostat,Fully equipped,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270276/
+133500,2840,47.0,1,4,2,2022-01-01,Central thermostat,Partial decoration,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-wwwsantjagolt-vienas-greiciausiai-1-3270272/
+145000,1712,84.71,2,3,4,1985-01-01,Central thermostat,Fully equipped,0.16,0.16,0.12,0.57,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-sauletekio-tak-paduodamas-erdvus-patogiai-isplanuotas-4-k-1-3218748/
+111800,3388,33.0,2,2,2,2022-01-01,Central thermostat,Fully equipped,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270278/
+200800,3523,57.0,1,4,2,2022-01-01,Central thermostat,Fully equipped,1.4,1.7,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-svajojate-apie-pajuryje-esancius-prabangius-1-3270580/
+83182,2200,37.81,2,3,1,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-parduodamas-patogaus-isplanavimo-studijos-1-3209137/
+152100,4346,35.0,2,3,2,2022-01-01,Aerothermal,Fully equipped,3.9,4.2,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-uzkanaves-g-ar-zinote-kas-cia-graziausia-jura-1-3254477/
+143350,4096,35.0,2,3,2,2022-01-01,Aerothermal,Partial decoration,3.9,4.2,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-uzkanaves-g-pasiulymas-yra-galimybe-apartamentus-1-3263812/
+115000,3446,33.37,8,10,2,1978-01-01,Central,Fully equipped,1.6,1.9,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-parduodamas-2-kambariu-butas-iskirtine-30-1-3270500/
+280000,5159,54.27,2,3,3,2022-01-01,Gas,Fully equipped,1.5,1.7,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-vanagupes-parkas-vieta-kur-susijungia-1-3178052/
+389000,7481,52.0,2,3,3,2022-01-01,Electric,Fully equipped,3.9,4.2,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-uzkanaves-g-ar-zinote-kas-cia-graziausia-jura-1-3253965/
+89000,2826,31.49,1,2,2,2022-01-01,Electric,Other,4.3,4.5,0.57,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-vertinantiems-ramu-gyvenima-nedideles-1-3264254/
+144000,3000,48.0,1,3,2,2022-01-01,Aerothermal,Fully equipped,3.1,3.3,2.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-sergiskiu-g-parduodamas-apartamentas-i-aukste-su-didele-1-3259700/
+148000,2552,58.0,3,3,4,2020-01-01,"Electric, aerothermal",Fully equipped,0.88,1.0,0.6,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-parduodamas-pilnai-irengtas-su-baldais-1-2968609/
+359000,4305,83.4,3,4,3,1992-01-01,Central thermostat,Partial decoration,0.3,0.18,0.24,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-maironio-g-palanga-dreams-tai-boutique-tipo-1-3226206/
+155000,3163,49.0,4,4,2,2008-01-01,"Central, central thermostat",Fully equipped,1.6,1.8,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-vytauto-g-isskirtinis-butas-su-didele-terasa-i-vakaru-1-3173480/
+129477,3120,41.5,3,4,2,2015-01-01,Gas,Fully equipped,0.35,0.36,0.17,0.74,4,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ganyklu-g-maluno-vilos-projekte-2-kambariu-butas-1-3195436/
+149000,3808,39.13,1,3,2,2021-01-01,Electric,Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-irengtas-2-kambariu-butas-su-1-3254135/
+194000,3403,57.01,2,3,3,2022-01-01,Electric,Partial decoration,2.6,2.7,1.5,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-sviesos-g-parduodamas-3k-butas-naujai-vystomame-1-3219962/
+39000,1696,23.0,1,1,2,1985-01-01,Other,Partial decoration,0.77,0.7,0.94,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-pristatome-nauja-pajurio-projekta-palangos-1-3268706/
+560000,5093,109.95,1,3,4,2019-01-01,Gas,Fully equipped,0.46,0.22,0.38,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-gintaro-g-parduodamas-109-kvm-butas-su-pilna-apdaila-1-3268236/
+120000,3885,30.89,2,3,2,2021-01-01,Electric,Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-irengtas-2-kambariu-butas-su-1-3254111/
+139000,2940,47.28,2,3,3,2022-01-01,Electric,Partial decoration,2.6,2.7,1.5,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-sviesos-g-parduodamas-3k-butas-naujai-vystomame-1-3257430/
+150000,4002,37.48,1,4,2,2016-01-01,Central thermostat,Fully equipped,2.1,2.3,1.7,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-parduodami-naujai-irengti-apartamentai-1-3270844/
+83048,2250,36.91,4,4,2,2022-01-01,Central thermostat,Partial decoration,0.58,0.5,0.75,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-smilgu-g-parduodami-naujos-statybos-butai-smilgu-g-1-3245569/
+278000,4849,57.33,1,1,3,2021-01-01,Gas,Fully equipped,5.5,5.7,1.5,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vingio-g-modernus-pilnai-irengtas-namas-naujai-1-3269806/
+170500,2712,62.86,1,2,3,2022-01-01,Electric,Fully equipped,4.3,4.5,0.57,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-erdvus-namai-ramioje-gyvenvieteje-puiki-1-3228948/
+119900,3766,31.84,1,2,2,2022-01-01,Electric,Other,4.3,4.4,0.65,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-paliepgiriu-kel-sparciai-vystomame-projekte-mano-jura-3-i-1-3264264/
+92425,2350,39.33,1,3,1,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-parduodamas-patogaus-isplanavimo-studijos-1-3264536/
+155900,3053,51.07,2,4,2,2007-01-01,Central thermostat,Fully equipped,1.6,1.8,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-pilnai-irengtas-butas-palangoje-ramioje-1-3256978/
+108000,2400,45.0,1,3,2,2022-01-01,Electric,Partial decoration,0.32,0.46,0.75,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-parduodamas-2-kambariu-butas-su-terasa-ir-1-3264550/
+189000,2933,64.43,7,7,2,2010-01-01,Gas,Fully equipped,1.2,1.3,0.18,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-sventojoje-poilsio-apartamentu-komplekse-1-3261988/
+214000,5427,39.43,2,3,2,2022-01-01,Gas,Fully equipped,1.5,1.7,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-megaukites-juros-osimu-kasdien-jau-uzbaigti-1-3266410/
+224000,5685,39.4,3,3,2,2022-01-01,Gas,Fully equipped,1.6,1.8,1.3,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-kai-kava-paskanina-pusu-ir-saku-aromatas-o-1-3266426/
+120990,2161,56.0,1,2,3,2022-01-01,Other,Partial decoration,0.58,0.72,0.37,0.69,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-zaros-g-lagom-palanga-siaures-veju-ikveptas-1-3205099/
+140000,3929,35.63,5,5,2,2008-01-01,Central thermostat,Fully equipped,1.6,1.9,1.3,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-palangoje-vanagupes-g-parduodamas-jaukus-2-1-3225030/
+120000,2609,46.0,1,4,2,1969-01-01,Central thermostat,Fully equipped,0.04,0.47,0.13,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kastycio-g-palangos-centras-renovuotas-namas-1-3266126/
+59500,3561,16.71,2,3,1,1968-01-01,Electric,Fully equipped,0.49,0.19,0.16,0.99,3,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-j-biliuno-g-palangos-centrineje-miesto-dalyje-parduodamas-1-3269740/
+135000,2877,46.93,4,4,2,2007-01-01,Central thermostat,Fully equipped,1.6,1.8,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-pilnai-irengtas-2-kamb-butas-palangoje-1-3269540/
+120000,2967,40.44,1,2,2,2022-01-01,Aerothermal,Partial decoration,5.1,5.3,1.2,0.94,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-2-ir-3-kambariu-butai-vaivorykstes-g-1-3170908/
+155000,4697,33.0,1,1,3,2018-01-01,Gas,Fully equipped,2.8,3.0,1.4,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kontininku-g-3-kambariu-butas-su-lauko-terasa-projekte-1-3264106/
+143900,4596,31.31,4,5,2,2015-01-01,Central thermostat,Fully equipped,0.62,0.48,0.48,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ziogu-g-ieskantiems-namu-su-amzinai-zaliuojanciu-1-3256726/
+132000,3300,40.0,1,2,2,2016-01-01,Electric,Fully equipped,4.4,4.5,0.73,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-paliepgiriu-kel-parduodami-apartamentai-kunigiskese-su-1-3187772/
+199000,4422,45.0,3,3,2,2022-01-01,Electric,Fully equipped,4.3,4.5,0.53,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-pajurio-namai-kunigiskese-kvepiantys-1-3265134/
+169000,2678,63.1,4,8,2,2020-01-01,Gas,Fully equipped,1.1,1.3,0.06,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-jura-pro-langus-raibuliuoja-horizonte-1-3241220/
+149600,2194,68.2,2,2,3,1920-01-01,Central,Fully equipped,0.59,0.26,0.1,0.73,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kretingos-g-paciame-miesto-centre-salia-senosios-1-3269648/
+117000,3656,32.0,2,3,2,2021-01-01,Other,Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-pilnai-isbaigtas-jaukus-butas-1-3269816/
+145000,4028,36.0,3,3,3,2021-01-01,Electric,Fully equipped,2.8,3.0,1.3,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kontininku-g-prie-misko-ramioje-vietoje-su-patogiu-1-3269808/
+165000,2661,62.0,2,3,3,1965-01-01,"Electric, gas, solid fuel, sun energy",Fully equipped,0.28,0.41,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-maironio-g-butas-8-butu-name-su-nuosava-uzdara-1-3269248/
+240000,4800,50.0,1,2,3,2022-01-01,Gas,Fully equipped,3.4,3.6,0.74,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-knygnesiu-g-isskirtinis-visiskai-naujas-bustas-1-3249203/
+99999,3906,25.6,1,2,2,1975-01-01,Electric,Fully equipped,0.52,0.2,0.26,0.3,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-dzuku-g-parduodamas-2-kambariu-butas-per-du-aukstus-1-3268780/
+67500,4821,14.0,4,4,1,2019-01-01,Electric,Fully equipped,0.35,0.46,0.08,0.84,3,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-maluno-g-super-mini-loftas-su-sildomu-baseinu-1-3267950/
+210000,3535,59.41,3,3,2,2006-01-01,Gas,Fully equipped,1.6,1.8,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-vanagupes-g-gera-kaina-2-ju-kambariu-butas-palangoje-1-3172874/
+96000,1885,50.94,2,4,2,1995-01-01,Electric,Fully equipped,0.53,0.78,0.3,0.32,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vasaros-g-parduodamas-2-ju-kambariu-butas-vasaros-g-1-3237876/
+225000,2473,91.0,4,4,3,2000-01-01,Electric,Fully equipped,0.4,0.14,0.51,0.92,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-pietvakariu-puse-juros-link-mini-buto-1-3156717/
+145000,2291,63.3,4,4,4,1991-01-01,Central,Fully equipped,0.38,0.26,0.1,0.76,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-jurates-g-parduodamas-butas-palangos-centre-bute-yra-1-3248233/
+339000,6308,53.74,1,3,3,2022-01-01,Gas,Fully equipped,0.44,0.56,0.12,0.84,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-parduodami-apartamentai-su-pilna-apdaila-1-3237844/
+220000,5789,38.0,1,2,2,2018-01-01,Gas,Fully equipped,3.3,3.5,0.82,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-genio-g-skoningai-irengtas-38-kvm-butas-su-145-kv-1-3243557/
+135000,3068,44.0,1,1,2,1968-01-01,Central thermostat,Fully equipped,0.06,0.48,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kastycio-g-parduodamas-2-ju-kambariu-butas-palangos-1-3239416/
+135000,3462,39.0,2,3,2,2021-01-01,"Electric, other",Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodami-2-kambariu-poilsio-paskirties-1-3184502/
+125000,4032,31.0,1,3,2,2021-01-01,"Electric, aerothermal",Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-irengtas-butas-su-terasa-projekte-1-3232420/
+264900,3784,70.0,2,2,3,2015-01-01,Gas,Fully equipped,0.31,0.51,0.31,0.32,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-kapsu-g-parduodu-kotedza-senojoje-palangoje-su-1-3263896/
+195000,4875,40.0,1,3,2,1990-01-01,Central thermostat,Fully equipped,0.47,0.35,0.12,0.68,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vasario-16-osios-g-palangos-centre-parduodamas-siltas-jaukus-1-3264532/
+385000,4099,93.93,2,4,4,1980-01-01,"Electric, solid fuel",Fully equipped,0.4,0.14,0.51,0.92,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-parduodamas-keturiu-kambariu-butas-1-3264068/
+120000,2667,45.0,2,2,3,2018-01-01,Gas,Fully equipped,3.9,4.1,0.61,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-3-kambariu-gerai-irengtas-butas-1-3224712/
+73600,3601,20.44,4,5,1,2007-01-01,Central thermostat,Fully equipped,0.5,0.2,0.05,0.54,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-palangos-centre-plytu-gatve-9-parduodamas-1-3232414/
+81100,3601,22.52,3,5,1,2007-01-01,Central thermostat,Fully equipped,0.5,0.2,0.05,0.54,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-palangos-centre-plytu-gatve-9-parduodamas-1-3232408/
+73600,3601,20.44,3,5,1,2007-01-01,"Central, central thermostat",Fully equipped,0.5,0.2,0.05,0.54,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-palangos-centre-plytu-gatve-9-parduodamas-1-3232384/
+143000,1592,89.85,3,3,4,1992-01-01,Central,Fully equipped,0.31,0.24,0.49,0.94,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-bangu-g-parduodamas-butas-palangoje-du-erdvus-1-3241814/
+220000,3235,68.0,4,4,3,2013-01-01,Gas,Fully equipped,0.31,0.37,0.17,0.79,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-ganyklu-g-parduodamas-pilnai-irengtas-butas-palangos-1-3262544/
+289000,5780,50.0,3,3,3,2022-01-01,Gas,Fully equipped,1.6,1.8,1.3,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-prabangus-ir-issskirtinis-projektas-1-3262238/
+85000,2756,30.84,1,2,1,2022-01-01,Other,Partial decoration,3.0,3.2,2.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ziemgalos-g-parduodami-butai-gyenamajame-name-monciskes-1-3262174/
+290000,2500,116.0,3,3,4,2000-01-01,Gas,Fully equipped,0.24,0.65,0.19,0.77,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medziotoju-g-palangojenetoli-parko-be-tarpininku-1-3261996/
+85000,3978,21.37,4,4,1,1983-01-01,Central,Fully equipped,0.6,0.67,0.28,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-j-simpsono-g-parduodami-jaukus-kompaktiski-apartamentai-1-3261906/
+455000,5549,82.0,1,2,3,1994-01-01,Other,Fully equipped,0.19,0.24,0.2,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-parduodamas-erdvus-82-kvm-butas-ramioje-1-3261830/
+167000,2782,60.03,5,7,2,2010-01-01,"Central thermostat, other",Fully equipped,1.1,1.3,0.14,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-2-kambariu-butas-mokyklos-gsventojoje-1-3261802/
+82000,3280,25.0,1,4,1,2012-01-01,"Central thermostat, other",Fully equipped,0.89,1.1,0.63,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-karklu-g-parduodamas-demesio-vertas-butas-palangoje-1-3259620/
+133900,3031,44.18,1,3,3,2022-01-01,Geothermal,Fully equipped,0.45,0.34,0.56,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-bangu-g-butas-su-65-kv-metru-terasa-i-miskelio-puse-1-3261116/
+29000,1888,15.36,1,1,1,1985-01-01,Other,Partial decoration,0.77,0.7,0.94,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-pristatome-nauja-pajurio-projekta-palangos-1-3270310/
+44000,1913,23.0,1,1,2,1985-01-01,Other,Partial decoration,0.77,0.7,0.94,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-pristatome-nauja-pajurio-projekta-palangos-1-3270298/
+99999,3333,30.0,2,3,2,1995-01-01,"Electric, gas, other",Fully equipped,0.28,0.41,0.17,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-maironio-g-5-butai-8-butu-name-su-nuosava-uzdara-1-3269194/
+120000,3282,36.56,2,3,2,2022-01-01,Electric,Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-pilnai-irengtas-2-kambariu-butas-ramioje-1-3171686/
+137000,3513,39.0,1,1,3,2021-01-01,"Electric, aerothermal",Fully equipped,4.9,5.0,1.0,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-aido-tak-butas-poilsiui-ir-sielos-atgaivai-kunigiskese-1-3258584/
+109000,4739,23.0,1,3,1,2017-01-01,Electric,Fully equipped,0.3,0.51,0.13,0.86,3,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-maluno-g-butas-pirmame-aukste-turi-privacia-terasa-1-3257334/
+170000,4250,40.0,1,2,2,2020-01-01,Electric,Fully equipped,5.1,5.3,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-galima-pagalba-gauti-paskola-parduodamas-1-3266816/
+112255,1990,56.41,1,4,2,1978-01-01,Central,Fully equipped,0.35,0.75,0.09,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-ganyklu-g-butas-parduodamas-su-baldais-ir-buitine-1-3178942/
+57000,1341,42.49,1,5,2,1977-01-01,Electric,Fully equipped,0.12,0.24,0.24,0.29,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-klaipedos-pl-parduodamas-15-kambariu-butas-palangoje-1-3053487/
+75000,3750,20.0,4,4,1,2000-01-01,Gas,Fully equipped,0.62,0.21,0.33,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-s-neries-g-kaina-derinama-skambinti-nr-37060279876-1-3071165/
+192000,3875,49.55,1,9,2,2014-01-01,Central,Fully equipped,0.73,0.62,0.36,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-s-daukanto-g-bunant-paciame-palangos-centre-nusikelkite-i-1-3256004/
+149000,2058,72.41,3,5,2,2014-01-01,Central,Fully equipped,0.44,0.44,0.69,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-ramioje-palangos-dalyje-parduodamas-jaukus-ir-1-3255506/
+137000,5269,26.0,2,3,2,2017-01-01,Liquid,Fully equipped,0.46,0.48,0.05,0.79,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-parduodamas-butas-unikalioje-vietoje-salia-1-3254871/
+132000,2750,48.0,1,2,2,2009-01-01,Gas,Fully equipped,0.42,0.21,0.01,0.69,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-ganyklu-g-butas-centre-parduodamas-jaukus-butas-1-3253799/
+114500,3271,35.0,1,4,2,2012-01-01,Central thermostat,Fully equipped,0.86,1.1,0.55,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-karklu-g-butas-prestiziniame-palangos-rajone-dvieju-1-3253433/
+379000,6064,62.5,1,3,2,2008-01-01,Gas,Fully equipped,0.87,0.51,0.44,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-a-mickeviciaus-g-gyvenamos-patalpos-yra-palangos-centre-salia-1-3253339/
+130000,2500,52.0,1,4,2,1991-01-01,Central,Fully equipped,0.39,0.35,0.6,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-1-3194792/
+156000,2426,64.31,3,4,3,1992-01-01,Central,Fully equipped,0.34,0.31,0.56,0.97,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-parduodamas-siltas-ir-labai-jaukus-3-kambariu-1-2357025/
+78000,3965,19.67,2,3,1,2021-01-01,Electric,Fully equipped,5.6,5.7,1.6,0.71,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-vaivorykstes-g-studija-quot-mano-jura-2quot-komplekse-1-3252883/
+125000,1736,72.0,2,4,3,1992-01-01,Central,Fully equipped,0.44,0.36,0.62,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-bangu-g-parduodamas-labai-geros-bukles-butas-1-3014197/
+189000,3247,58.2,2,7,2,2010-01-01,Central,Fully equipped,1.1,1.3,0.14,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-mokyklos-g-parduodamas-2-kambariu-butas-mokyklos-g-1-3252167/
+135000,4994,27.03,3,3,2,2021-01-01,Gas,Fully equipped,4.1,4.3,0.12,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-nendres-g-labai-grazus-ir-jaukus-2-kamb-butukas-prie-1-3037927/
+117000,3454,33.87,3,5,2,2022-01-01,Central,Partial decoration,1.6,1.8,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-parduodamas-butas-su-daline-apdaila-naujos-1-3261168/
+151000,2288,66.0,0,3,2,1995-01-01,Gas,Fully equipped,0.17,0.55,0.49,0.51,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-zemaiciu-g-savininkas-parduoda-naujai-irengtas-patalpas-1-3251489/
+85000,1585,53.64,2,4,2,1981-01-01,Central,Fully equipped,0.14,0.38,0.15,0.44,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-taikos-g-patikslinimas-balkonas-i-kvadratura-1-3085031/
+85000,2214,38.4,4,4,2,1989-01-01,"Central thermostat, other",Fully equipped,1.9,2.1,1.6,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-skubiai-savininkas-parduoda-puiku-buta-uz-1-3270066/
+155000,4189,37.0,3,3,2,2019-01-01,Gas,Fully equipped,3.9,4.0,0.43,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-kunigiskiu-g-naujos-statybos-2-ju-kambariu-butas-1-3220162/
+185000,2937,63.0,2,4,3,2022-01-01,Central thermostat,Partial decoration,0.37,0.22,0.38,0.93,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ziogu-g-pilnai-irengtas-butas-parduodamas-pilnai-1-3251059/
+88000,1986,44.32,4,4,2,1990-01-01,Central,Fully equipped,0.43,0.38,0.64,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-medvalakio-g-praduodamas-2-ju-kambariu-butas-su-baldais-1-3250795/
+95000,1818,52.26,1,2,2,1936-01-01,Gas,Fully equipped,0.22,0.63,0.28,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ganyklu-g-parduodamos-2-kambariu-administracines-1-3204587/
+149000,2811,53.0,2,2,2,2022-01-01,Gas,Partial decoration,3.4,3.6,0.78,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-genio-g-netoli-nuostabaus-palangos-pusyno-arti-juros-1-3249649/
+118000,3996,29.53,4,4,2,2022-01-01,Electric,Partial decoration,0.14,0.47,0.06,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-itin-aukstos-kokybes-projekte-paciame-1-3237234/
+120000,3282,36.56,2,3,2,2022-01-01,Electric,Fully equipped,5.6,5.7,1.6,0.75,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-vaivorykstes-g-pilnai-irengtas-2-kambariu-butas-ramioje-1-3171688/
+129900,4811,27.0,2,3,1,1964-01-01,Central thermostat,Fully equipped,0.59,0.31,0.15,0.9,3,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-pacioje-palangos-sirdyje-salia-palangos-1-3249149/
+79000,4134,19.11,1,3,1,2022-01-01,Electric,Fully equipped,5.7,5.8,1.7,0.7,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-mano-jura-2-projekte-parduodami-pilnai-1-3249115/
+97200,1870,51.99,2,3,2,1990-01-01,Central,Fully equipped,0.26,0.19,0.45,0.89,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-bangu-g-parduodamas-2-kambariu-butas-su-rusiu-1-3209373/
+255000,7286,35.0,4,5,2,2018-01-01,Central thermostat,Fully equipped,0.56,0.67,0.24,0.0,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-j-simpsono-g-puikus-pasiulymas-palangos-centre-1-3268216/
+439000,6011,73.03,2,3,3,2022-01-01,Gas,Fully equipped,0.44,0.56,0.12,0.84,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vytauto-g-visiskai-naujas-projektas-palangoje-vytauto-1-3217592/
+77000,4053,19.0,1,4,1,1980-01-01,Central,Fully equipped,0.25,0.5,0.04,0.17,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-sodu-g-skubiai-parduodamas-butas-butas-studijos-1-3247853/
+270000,6000,45.0,2,5,2,2007-01-01,Central,Fully equipped,0.67,0.67,0.34,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-s-daukanto-g-parduodamas-su-baldais-ir-buitine-technika-1-3217154/
+150000,6000,25.0,1,3,1,2022-01-01,Aerothermal,Fully equipped,0.58,0.24,0.51,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-smilciu-g-puiki-visiskai-nauja-kokybiskai-irengta-1-3247243/
+127000,2540,50.0,1,5,2,1992-01-01,Central thermostat,Fully equipped,0.75,1.1,0.37,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-druskininku-g-namas-renovuotas-2015-metais-ismoketa-1-3222066/
+179000,2417,74.05,3,5,3,2018-01-01,Central thermostat,Fully equipped,0.59,0.5,0.11,0.14,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-veziu-g-palangoje-veziu-g10-parduodamas-3-k-butas-1-3247151/
+150000,2250,66.67,1,2,3,2022-01-01,Other,Partial decoration,3.0,3.2,2.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-ziemgalos-g-parduodami-butai-gyenamajame-name-monciskes-1-3257354/
+62000,2480,25.0,1,4,1,1990-01-01,Central thermostat,Fully equipped,0.61,0.65,0.28,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-s-daukanto-g-parduodamas-1-kambario-butas-sdaukanto-17-1-3211644/
+98500,2463,40.0,1,2,2,2022-01-01,Aerothermal,Fully equipped,3.9,4.0,0.75,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-paliepgiriu-kel-parduodami-40-m2-poilsio-patalpos-butai-su-1-3245493/
+99500,2488,40.0,2,2,2,2022-01-01,Aerothermal,Fully equipped,3.9,4.0,0.75,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-paliepgiriu-kel-parduodami-40-m2-poilsio-patalpos-butai-su-1-3245497/
+116000,3515,33.0,1,2,2,2022-01-01,Gas,Fully equipped,0.6,0.6,0.22,0.24,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-veziu-g-irengtas-2-kambariu-butas-su-terasa-palangos-1-3245883/
+80000,2667,30.0,3,5,1,1990-01-01,Central thermostat,Fully equipped,1.9,2.1,1.6,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vanagupes-g-vanagupes-13-antras-namas-nuo-juros-kelios-1-3245649/
+125000,1650,75.74,2,3,4,1992-01-01,Central,Fully equipped,0.44,0.36,0.62,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-bangu-g-parduodamas-suremontuotas-erdvus-1-3245531/
+130000,3250,40.0,2,12,2,1978-01-01,Central,Fully equipped,1.7,1.9,1.3,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-vytauto-g-tvarkingas-butas-palangoje-lino-komplekse-1-3245129/
+55000,3056,18.0,2,3,1,2000-01-01,Gas,Fully equipped,0.53,0.17,0.08,0.54,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-parduodami-naujai-sutvarkyti-vieno-kambario-1-3244725/
+65000,2600,25.0,2,3,1,2000-01-01,Gas,Fully equipped,0.53,0.17,0.08,0.54,5,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-plytu-g-parduodami-naujai-sutvarkyti-vieno-kambario-1-3244643/
+96000,2382,40.31,1,2,2,2022-01-01,Aerothermal,Partial decoration,4.2,4.4,0.41,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-2-kambariu-butai-vaivorykstes-g-palangoje-1-3199857/
+189000,5936,31.84,3,3,2,2022-01-01,Electric,Fully equipped,0.6,0.54,0.34,,2,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-prieplaukos-g-parduodamas-kokybiskai-bei-moderniai-irengtas-1-3240034/
+79000,3950,20.0,1,4,1,2018-01-01,Electric,Fully equipped,0.33,0.49,0.11,0.81,3,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-palangoje-maluno-g-62-000-eur-be-pvm-paskutine-kaina-1-3243743/
+187000,6032,31.0,1,4,2,1989-01-01,Central thermostat,Fully equipped,0.16,0.37,0.24,0.97,4,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-gintaro-g-patogaus-isplanavimo-2-kambariu-3470-kv-m-1-3213068/
+331800,7900,42.0,2,3,2,2019-01-01,Geothermal,Fully equipped,0.65,0.57,0.25,,1,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-s-daukanto-g-parduodamas-isskirtinis-butas-su-privaciu-1-2991143/
+188000,3418,55.0,2,2,3,2019-01-01,Gas,Fully equipped,3.0,3.2,1.2,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-genio-g-3-kambariu-butas-genio-g-palangoje-1-3227504/
+124000,5391,23.0,1,2,1,2020-01-01,Electric,Fully equipped,3.7,3.9,0.58,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-butas-vaivorykstes-namu-komplekse-kunigiskese-1-3243635/
+250000,3846,65.0,1,2,3,2020-01-01,Aerothermal,Fully equipped,5.1,5.3,1.1,,0,Palanga,Palanga,https://en.aruodas.lt/butai-palangoje-vaivorykstes-g-parduodamas-puikus-3-kamb-butas-1-3270096/

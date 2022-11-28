@@ -1,0 +1,1267 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/15/2022 7:44:06 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="INTUNE-3M3ZXT2"
+  DTS:CreatorName="INTERNAL\paulius.janenas"
+  DTS:DTSID="{21F3CED1-499E-49EF-AFFC-497D8601528E}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.180"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="05_ImportingDataToStage"
+  DTS:PackageType="5"
+  DTS:VersionBuild="17"
+  DTS:VersionGUID="{57EC9D73-6BC4-4DD7-AAB9-CEF35901D747}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{43A91971-7AA3-4DD7-8602-E64D7CFC1B55}"
+      DTS:ObjectName="Flat File Connection Manager">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x0022_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\Output\FlatForecastNN.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Price"
+              DTS:DTSID="{6A5C8C52-2483-4A36-83FF-72779D569720}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="PricePerM2"
+              DTS:DTSID="{1BE2341E-0538-4602-9F07-0D55CB4F3A26}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Area"
+              DTS:DTSID="{0F4403CA-3BA3-4047-967C-AE16A8061E39}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="floor"
+              DTS:DTSID="{F0846E36-7FDB-4832-A08A-CA480C07F122}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Number of floors"
+              DTS:DTSID="{B0412DE9-14F2-4DBB-867C-9F063C97246C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Room count"
+              DTS:DTSID="{D2F73784-1811-459F-B832-32A2F871EE74}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Heating"
+              DTS:DTSID="{724ED3C0-CB2A-4E95-B97B-78FA17589213}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Equipment"
+              DTS:DTSID="{A0B6E1C4-5E05-4D4A-A2F4-1C2DD47B3E99}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NearestKindergarten"
+              DTS:DTSID="{488887F3-110D-45C0-85A4-FE3E04C38A79}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NearestEducational"
+              DTS:DTSID="{13B5969F-E200-435A-A6AD-A6AB419D6C73}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NearestShop"
+              DTS:DTSID="{3142EF10-2A32-4F42-9C03-750BEF333816}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NearestStop"
+              DTS:DTSID="{F1DD15D6-BE94-4CFB-86A9-845F0E95F816}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="CrimeRate"
+              DTS:DTSID="{285237C4-0124-4B9F-B6D8-C1591D6F4125}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="City"
+              DTS:DTSID="{7CB03757-2014-458F-8C10-ECBD05B21B42}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="District"
+              DTS:DTSID="{D8A13F17-811C-4F1F-8F25-B1FC0F8B5A08}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="1024"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="href"
+              DTS:DTSID="{AA3B010A-A31F-4BDF-B715-2F7986A71B50}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Losses"
+              DTS:DTSID="{109A72F5-00DF-48C3-A75C-9845EF2B6811}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="PredictedPrice"
+              DTS:DTSID="{E4451DD4-AB53-4AAA-9A82-5371A7A70C9E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="7"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Year Built"
+              DTS:DTSID="{0DDA4459-08CC-40B9-8528-9F73BB60C821}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="7"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ScrapingDate"
+              DTS:DTSID="{E3A0B09C-7FFF-4E86-8405-4930D75C0C4D}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[INTUNE-3M3ZXT2.Aruodas]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{81167494-30CC-4A40-9CF2-9061FE0217E5}"
+      DTS:ObjectName="INTUNE-3M3ZXT2.Aruodas">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=INTUNE-3M3ZXT2;Initial Catalog=Aruodas;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Import data to Stage_AllListings"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{1B3C894E-68C9-4C5F-BAAA-4F2460B7D2EE}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Import data to Stage_AllListings"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Import data to Stage_AllListings\Flat File Source"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="1033"
+              name="Flat File Source"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">true</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Import data to Stage_AllListings\Flat File Source.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager]"
+                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Price]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Price]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Price]"
+                      name="Price"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PricePerM2]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[PricePerM2]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PricePerM2]"
+                      name="PricePerM2"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Area]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Area]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Area]"
+                      name="Area"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[floor]"
+                      dataType="i1"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[floor]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[floor]"
+                      name="floor"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Number of floors]"
+                      dataType="i1"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Number of floors]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Number of floors]"
+                      name="Number of floors"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Room count]"
+                      dataType="i1"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Room count]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Room count]"
+                      name="Room count"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Heating]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Heating]"
+                      length="100"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Heating]"
+                      name="Heating"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Equipment]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Equipment]"
+                      length="100"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Equipment]"
+                      name="Equipment"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[City]"
+                      length="100"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]"
+                      name="City"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[District]"
+                      length="100"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]"
+                      name="District"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[href]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[href]"
+                      length="1024"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[href]"
+                      name="href"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Losses]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Losses]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Losses]"
+                      name="Losses"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PredictedPrice]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[PredictedPrice]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PredictedPrice]"
+                      name="PredictedPrice"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Year Built]"
+                      dataType="date"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Year Built]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Year Built]"
+                      name="Year Built"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[ScrapingDate]"
+                      dataType="date"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ScrapingDate]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[ScrapingDate]"
+                      name="ScrapingDate"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestKindergarten]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestKindergarten]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestKindergarten]"
+                      name="NearestKindergarten"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestEducational]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestEducational]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestEducational]"
+                      name="NearestEducational"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestShop]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestShop]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestShop]"
+                      name="NearestShop"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestStop]"
+                      dataType="r4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestStop]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestStop]"
+                      name="NearestStop"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[CrimeRate]"
+                      dataType="i1"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CrimeRate]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[CrimeRate]"
+                      name="CrimeRate"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Price]"
+                      dataType="r4"
+                      name="Price" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[PricePerM2]"
+                      dataType="r4"
+                      name="PricePerM2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Area]"
+                      dataType="r4"
+                      name="Area" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[floor]"
+                      dataType="i1"
+                      name="floor" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Number of floors]"
+                      dataType="i1"
+                      name="Number of floors" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Room count]"
+                      dataType="i1"
+                      name="Room count" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Heating]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="Heating" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Equipment]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="Equipment" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[City]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="City" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[District]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="District" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[href]"
+                      codePage="65001"
+                      dataType="str"
+                      length="1024"
+                      name="href" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Losses]"
+                      dataType="r4"
+                      name="Losses" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[PredictedPrice]"
+                      dataType="r4"
+                      name="PredictedPrice" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Year Built]"
+                      dataType="date"
+                      name="Year Built" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ScrapingDate]"
+                      dataType="date"
+                      name="ScrapingDate" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestKindergarten]"
+                      dataType="r4"
+                      name="NearestKindergarten" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestEducational]"
+                      dataType="r4"
+                      name="NearestEducational" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestShop]"
+                      dataType="r4"
+                      name="NearestShop" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[NearestStop]"
+                      dataType="r4"
+                      name="NearestStop" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CrimeRate]"
+                      dataType="i1"
+                      name="CrimeRate" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="65001"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Import data to Stage_AllListings\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[stage].[AllListings]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">65001</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">true</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Import data to Stage_AllListings\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[INTUNE-3M3ZXT2.Aruodas]"
+                  connectionManagerRefId="Package.ConnectionManagers[INTUNE-3M3ZXT2.Aruodas]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Price]"
+                      cachedDataType="r4"
+                      cachedName="Price"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Price]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Price]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[PricePerM2]"
+                      cachedDataType="r4"
+                      cachedName="PricePerM2"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[PricePerM2]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PricePerM2]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Area]"
+                      cachedDataType="r4"
+                      cachedName="Area"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Area]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Area]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[floor]"
+                      cachedDataType="i1"
+                      cachedName="floor"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[floor]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[floor]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Number of floors]"
+                      cachedDataType="i1"
+                      cachedName="Number of floors"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Number of floors]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Number of floors]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Room count]"
+                      cachedDataType="i1"
+                      cachedName="Room count"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Room count]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Room count]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Equipment]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="100"
+                      cachedName="Equipment"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Equipment]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Equipment]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[City]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="100"
+                      cachedName="City"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[City]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[District]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="100"
+                      cachedName="District"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[District]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[href]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="1024"
+                      cachedName="href"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[href]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[href]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[PredictedPrice]"
+                      cachedDataType="r4"
+                      cachedName="PredictedPrice"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[PredictedPrice]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[PredictedPrice]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Heating]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="100"
+                      cachedName="Heating"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Heating_Type]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Heating]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Year Built]"
+                      cachedDataType="date"
+                      cachedName="Year Built"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Built year]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Year Built]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ScrapingDate]"
+                      cachedDataType="date"
+                      cachedName="ScrapingDate"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ScrapingDate]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[ScrapingDate]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[NearestKindergarten]"
+                      cachedDataType="r4"
+                      cachedName="NearestKindergarten"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestKindergarten]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestKindergarten]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[NearestEducational]"
+                      cachedDataType="r4"
+                      cachedName="NearestEducational"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestEducational]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestEducational]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[NearestShop]"
+                      cachedDataType="r4"
+                      cachedName="NearestShop"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestShop]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestShop]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[NearestStop]"
+                      cachedDataType="r4"
+                      cachedName="NearestStop"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestStop]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[NearestStop]" />
+                    <inputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CrimeRate]"
+                      cachedDataType="i1"
+                      cachedName="CrimeRate"
+                      externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CrimeRate]"
+                      lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[CrimeRate]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Price]"
+                      dataType="numeric"
+                      name="Price"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[PricePerM2]"
+                      dataType="numeric"
+                      name="PricePerM2"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Area]"
+                      dataType="numeric"
+                      name="Area"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[floor]"
+                      dataType="i4"
+                      name="floor" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Number of floors]"
+                      dataType="i4"
+                      name="Number of floors" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Room count]"
+                      dataType="i4"
+                      name="Room count" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Built year]"
+                      dataType="dbDate"
+                      name="Built year" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Heating_Type]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="Heating_Type" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Equipment]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="Equipment" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[City]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="City" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[District]"
+                      codePage="65001"
+                      dataType="str"
+                      length="100"
+                      name="District" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[href]"
+                      codePage="65001"
+                      dataType="str"
+                      length="1024"
+                      name="href" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[LOAD_DTS]"
+                      dataType="dbTimeStamp"
+                      name="LOAD_DTS" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[PredictedPrice]"
+                      dataType="numeric"
+                      name="PredictedPrice"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ScrapingDate]"
+                      dataType="dbDate"
+                      name="ScrapingDate" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestKindergarten]"
+                      dataType="numeric"
+                      name="NearestKindergarten"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestEducational]"
+                      dataType="numeric"
+                      name="NearestEducational"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestShop]"
+                      dataType="numeric"
+                      name="NearestShop"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NearestStop]"
+                      dataType="numeric"
+                      name="NearestStop"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CrimeRate]"
+                      dataType="i4"
+                      name="CrimeRate" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Import data to Stage_AllListings\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Import data to Stage_AllListings\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Import data to Stage_AllListings\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Import data to Stage_AllListings\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Import data to Stage_AllListings.Paths[Flat File Source Output]"
+              endId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Flat File Source Output"
+              startId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Truncate Stage_AllListings"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{060D52C6-3502-406D-985A-E90148F2EAFF}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Truncate Stage_AllListings"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{81167494-30CC-4A40-9CF2-9061FE0217E5}"
+          SQLTask:SqlStatementSource="Truncate table Aruodas.stage.AllListings" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{8E059920-A4E7-4DAA-A186-7174C3219184}"
+      DTS:From="Package\Truncate Stage_AllListings"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Import data to Stage_AllListings" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="230,42"
+          Id="Package\Import data to Stage_AllListings"
+          TopLeft="438,251" />
+        <NodeLayout
+          Size="203,42"
+          Id="Package\Truncate Stage_AllListings"
+          TopLeft="444,148" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="549.25,190">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,61"
+              Start="0,0"
+              End="0,53.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,53.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Import data to Stage_AllListings">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Import data to Stage_AllListings\OLE DB Destination"
+          TopLeft="603,323" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Import data to Stage_AllListings\Flat File Source"
+          TopLeft="611,200" />
+        <EdgeLayout
+          Id="Package\Import data to Stage_AllListings.Paths[Flat File Source Output]"
+          TopLeft="687.5,242">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,81"
+              Start="0,0"
+              End="0,73.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,73.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Import data to Stage_AllListings\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

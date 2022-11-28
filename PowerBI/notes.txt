@@ -1,0 +1,2 @@
+visual studio - tabular mode
+pradzioj importint, visualizacija ir ataskaita, webe pabuslishint

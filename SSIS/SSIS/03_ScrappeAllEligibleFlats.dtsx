@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/5/2022 10:25:02 AM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="03_ScrappeAllEligibleFlats"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{84551FB7-E917-41F6-969D-9A75D51CDEE7}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{07FCD589-B053-463D-9ED2-17E7A37681B9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -50,7 +50,7 @@
         <NodeLayout
           Size="178,42"
           Id="Package\GettAllEligibleListings"
-          TopLeft="882,189" />
+          TopLeft="723,345" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/2/2022 9:44:08 AM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="02_FindMostProfitableDistricts"
   DTS:PackageType="5"
-  DTS:VersionBuild="11"
-  DTS:VersionGUID="{F8E3B937-2F20-42FE-862A-78C2D005E7A5}">
+  DTS:VersionBuild="14"
+  DTS:VersionGUID="{EB922880-3371-403B-B30E-868316F0D8A6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -268,7 +268,7 @@
               contactInfo="Includes and runs custom script code. For example, apply a business rule that limits the range of valid values in an &quot;income&quot; column or add values in two columns and calculate the average of the sum.;Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;12"
               description="Includes and runs custom script code. For example, apply a business rule that limits the range of valid values in an &quot;income&quot; column or add values in two columns and calculate the average of the sum."
               name="CreateAllEligibleListingsSource"
-              version="12">
+              version="10">
               <properties>
                 <property
                   dataType="System.String"
@@ -279,100 +279,38 @@
                   <arrayElements
                     arrayElementCount="30">
                     <arrayElement
-                      dataType="System.String"><![CDATA[ComponentWrapper.cs]]></arrayElement>
+                      dataType="System.String"><![CDATA[Properties\AssemblyInfo.cs]]></arrayElement>
                     <arrayElement
                       dataType="System.String"><![CDATA[UTF8]]></arrayElement>
                     <arrayElement
-                      dataType="System.String"><![CDATA[/* THIS IS AUTO-GENERATED CODE THAT WILL BE OVERWRITTEN! DO NOT EDIT!
-*  Microsoft SQL Server Integration Services component wrapper
-*  This module defines the base class for your component
-*  THIS IS AUTO-GENERATED CODE THAT WILL BE OVERWRITTEN! DO NOT EDIT! */
+                      dataType="System.String"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
 
-using System;
-using System.Data;
-using Microsoft.SqlServer.Dts.Pipeline;
-using Microsoft.SqlServer.Dts.Pipeline.Wrapper;
-using Microsoft.SqlServer.Dts.Runtime.Wrapper;
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("SC_8f66a13e2b8247379fff24c0402acff4")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("SC_8f66a13e2b8247379fff24c0402acff4")]
+[assembly: AssemblyCopyright("Copyright @  2022")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-public class UserComponent: ScriptComponent
-{
-    public Connections Connections;
-    public Variables Variables;
-    public UserComponent()
-    {
-        Connections = new Connections(this);
-        Variables = new Variables(this);
-    }
-
-    public AllEligibleListingsBuffer AllEligibleListingsBuffer;
-
-    public virtual void FinishOutputs()
-    {
-    }
-
-    private void MarkOutputsFinished()
-    {
-
-        if (null != AllEligibleListingsBuffer)
-        {
-            AllEligibleListingsBuffer.SetEndOfRowset();
-            AllEligibleListingsBuffer = null;
-        }
-
-    }
-
-    public override void PrimeOutput(int Outputs, int[] OutputIDs, PipelineBuffer[] Buffers, OutputNameMap OutputMap)
-    {
-       for(int Idx = 0; Idx < Outputs; Idx++)
-       {
-            if(OutputIDs[Idx] == GetOutputID(OutputMap, @"AllEligibleListings"))
-            {
-                AllEligibleListingsBuffer = new AllEligibleListingsBuffer(Buffers[Idx], GetColumnIndexes(OutputIDs[Idx]), OutputMap);
-            }
-        }
-
-        CreateNewOutputRows();
-
-        FinishOutputs();
-        MarkOutputsFinished();
-
-    }
-
-    public virtual void CreateNewOutputRows()
-    {
-    }
-
-}
-
-public class Connections
-{
-    ScriptComponent ParentComponent;
-
-    public Connections(ScriptComponent Component)
-    {
-        ParentComponent = Component;
-    }
-
-}
-
-public class Variables
-{
-    ScriptComponent ParentComponent;
-
-    public Variables(ScriptComponent Component)
-    {
-        ParentComponent = Component;
-    }
-
-    public Object AllEligibleListings
-    {
-        get
-        {
-            return (Object)(ParentComponent.ReadOnlyVariables["AllEligibleListings"].GetValueWithContext(ScriptComponent.EvaluatorContext));
-        }
-    }
-
-}
+[assembly: AssemblyVersion("1.0.0.0")]
 ]]></arrayElement>
                     <arrayElement
                       dataType="System.String"><![CDATA[Properties\Resources.resx]]></arrayElement>
@@ -632,36 +570,99 @@ public class AllEligibleListingsBuffer: ScriptBuffer
 }
 ]]></arrayElement>
                     <arrayElement
-                      dataType="System.String"><![CDATA[Properties\Settings.Designer.cs]]></arrayElement>
+                      dataType="System.String"><![CDATA[ComponentWrapper.cs]]></arrayElement>
                     <arrayElement
                       dataType="System.String"><![CDATA[UTF8]]></arrayElement>
                     <arrayElement
-                      dataType="System.String"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+                      dataType="System.String"><![CDATA[/* THIS IS AUTO-GENERATED CODE THAT WILL BE OVERWRITTEN! DO NOT EDIT!
+*  Microsoft SQL Server Integration Services component wrapper
+*  This module defines the base class for your component
+*  THIS IS AUTO-GENERATED CODE THAT WILL BE OVERWRITTEN! DO NOT EDIT! */
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="SC_8f66a13e2b8247379fff24c0402acff4.Properties.Settings.get_Default():SC_8f66a13e2b8247379fff24c0402acff4.Properties.Sett" +
-    "ings")]
+using System;
+using System.Data;
+using Microsoft.SqlServer.Dts.Pipeline;
+using Microsoft.SqlServer.Dts.Pipeline.Wrapper;
+using Microsoft.SqlServer.Dts.Runtime.Wrapper;
 
-namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
+public class UserComponent: ScriptComponent
+{
+    public Connections Connections;
+    public Variables Variables;
+    public UserComponent()
+    {
+        Connections = new Connections(this);
+        Variables = new Variables(this);
+    }
+
+    public AllEligibleListingsBuffer AllEligibleListingsBuffer;
+
+    public virtual void FinishOutputs()
+    {
+    }
+
+    private void MarkOutputsFinished()
+    {
+
+        if (null != AllEligibleListingsBuffer)
+        {
+            AllEligibleListingsBuffer.SetEndOfRowset();
+            AllEligibleListingsBuffer = null;
+        }
+
+    }
+
+    public override void PrimeOutput(int Outputs, int[] OutputIDs, PipelineBuffer[] Buffers, OutputNameMap OutputMap)
+    {
+       for(int Idx = 0; Idx < Outputs; Idx++)
+       {
+            if(OutputIDs[Idx] == GetOutputID(OutputMap, @"AllEligibleListings"))
+            {
+                AllEligibleListingsBuffer = new AllEligibleListingsBuffer(Buffers[Idx], GetColumnIndexes(OutputIDs[Idx]), OutputMap);
             }
         }
+
+        CreateNewOutputRows();
+
+        FinishOutputs();
+        MarkOutputsFinished();
+
     }
+
+    public virtual void CreateNewOutputRows()
+    {
+    }
+
+}
+
+public class Connections
+{
+    ScriptComponent ParentComponent;
+
+    public Connections(ScriptComponent Component)
+    {
+        ParentComponent = Component;
+    }
+
+}
+
+public class Variables
+{
+    ScriptComponent ParentComponent;
+
+    public Variables(ScriptComponent Component)
+    {
+        ParentComponent = Component;
+    }
+
+    public Object AllEligibleListings
+    {
+        get
+        {
+            return (Object)(ParentComponent.ReadOnlyVariables["AllEligibleListings"].GetValueWithContext(ScriptComponent.EvaluatorContext));
+        }
+    }
+
 }
 ]]></arrayElement>
                     <arrayElement
@@ -711,10 +712,10 @@ namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Microsoft.SqlServer.TxScript, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.DTSRuntimeWrap, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.DTSPipelineWrap, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.PipelineHost, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.TxScript, Version=15.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.DTSRuntimeWrap, Version=15.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.DTSPipelineWrap, Version=15.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.PipelineHost, Version=15.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
     <Compile Include="main.cs" />
     <Compile Include="BufferWrapper.cs" />
     <Compile Include="ComponentWrapper.cs" />
@@ -767,7 +768,7 @@ namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
     <msb:CodeName>SC_8f66a13e2b8247379fff24c0402acff4</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>SC_8f66a13e2b8247379fff24c0402acff4</msb:DisplayName>
-    <msb:ProjectId>{D67CB90B-45FB-49A3-97D8-83C3F33409E9}</msb:ProjectId>
+    <msb:ProjectId>{A869A766-13CB-4EDB-9243-33A88CF859E6}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="SC_8f66a13e2b8247379fff24c0402acff4.csproj" />
@@ -782,38 +783,37 @@ namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
   </msb:ItemGroup>
 </c:Project>]]></arrayElement>
                     <arrayElement
-                      dataType="System.String"><![CDATA[Properties\AssemblyInfo.cs]]></arrayElement>
+                      dataType="System.String"><![CDATA[Properties\Settings.Designer.cs]]></arrayElement>
                     <arrayElement
                       dataType="System.String"><![CDATA[UTF8]]></arrayElement>
                     <arrayElement
-                      dataType="System.String"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
+                      dataType="System.String"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
 
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("SC_8f66a13e2b8247379fff24c0402acff4")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SC_8f66a13e2b8247379fff24c0402acff4")]
-[assembly: AssemblyCopyright("Copyright @  2022")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="SC_8f66a13e2b8247379fff24c0402acff4.Properties.Settings.get_Default():SC_8f66a13e2b8247379fff24c0402acff4.Properties.Sett" +
+    "ings")]
 
-[assembly: AssemblyVersion("1.0.0.0")]
+namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}
 ]]></arrayElement>
                     <arrayElement
                       dataType="System.String"><![CDATA[Properties\Settings.settings]]></arrayElement>
@@ -914,7 +914,7 @@ namespace SC_8f66a13e2b8247379fff24c0402acff4.Properties {
                     <arrayElement
                       dataType="System.String"><![CDATA[TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAF4jYmMAAAAAAAAAAOAAIiALATAAABYAAAAIAAAAAAAAbjUA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAJhphGMAAAAAAAAAAOAAIiALATAAABYAAAAIAAAAAAAAbjUA
 AAAgAAAAQAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACAAAAAAgAAAAAAAAMAYIUAABAA
 ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAABw1AABPAAAAAEAAAEgEAAAAAAAAAAAAAAAAAAAA
 AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1003,8 +1003,8 @@ eQAgAGMAYQBuAG4AbwB0ACAAYgBlACAAcwBlAHQAIAB0AG8AIABGAGEAbABzAGUALgAgAEEAcwBz
 AGkAZwBuACAAYQAgAHYAYQBsAHUAZQAgAHQAbwAgAHQAaABlACAAYwBvAGwAdQBtAG4AIABpAG4A
 cwB0AGUAYQBkAC4AACdBAGwAbABFAGwAaQBnAGkAYgBsAGUATABpAHMAdABpAG4AZwBzAABxUwBD
 AF8AOABmADYANgBhADEAMwBlADIAYgA4ADIANAA3ADMANwA5AGYAZgBmADIANABjADAANAAwADIA
-YQBjAGYAZgA0AC4AUAByAG8AcABlAHIAdABpAGUAcwAuAFIAZQBzAG8AdQByAGMAZQBzAABwAaAb
-U/StSpyM8I4m6txrAAQgAQEIAyAAAQUgAQEREQQgAQEOBSABARFpCgcEEjkSPRJBEkUGIAIIEjkc
+YQBjAGYAZgA0AC4AUAByAG8AcABlAHIAdABpAGUAcwAuAFIAZQBzAG8AdQByAGMAZQBzAAAgpyDw
+S/uwQ7WzCqk1J/nEAAQgAQEIAyAAAQUgAQEREQQgAQEOBSABARFpCgcEEjkSPRJBEkUGIAIIEjkc
 BCAAEn0EIAASPQMgABwEIAEcDgMgAA4DIAACCSADARJNHQgSUQUgAgEIHAMHAQgGAAIIElEOBSAB
 HQgIBSAAEoCJBiABEoCNHAUAABKAkQYgARwSgJUIAAESgJkRgJ0FIAASgKEHIAIBDhKAoQi3elxW
 GTTgiQiJhF3NgIDMkQMGEhQDBhIYAwYSDAMGElUDBhJhAwYSZQMGEiAEIAEBAgsgBAEIHQgdEk0S
@@ -1127,8 +1127,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></arrayElement>
               contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Flat File Destination"
               localeId="1033"
-              name="Flat File Destination"
-              version="1">
+              name="Flat File Destination">
               <properties>
                 <property
                   dataType="System.Boolean"
@@ -1223,8 +1222,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></arrayElement>
               contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Flat File Destination"
               localeId="1033"
-              name="Flat File Destination"
-              version="1">
+              name="Flat File Destination">
               <properties>
                 <property
                   dataType="System.Boolean"
@@ -1516,8 +1514,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></arrayElement>
               contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Flat File Destination"
               localeId="1033"
-              name="Flat File Destination"
-              version="1">
+              name="Flat File Destination">
               <properties>
                 <property
                   dataType="System.Boolean"
@@ -2040,7 +2037,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></arrayElement>
     design-time-name="Package\LoadFlatRent">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="141,42"
           Id="Package\LoadFlatRent\LoadFlatRent"
@@ -2068,7 +2065,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></arrayElement>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
