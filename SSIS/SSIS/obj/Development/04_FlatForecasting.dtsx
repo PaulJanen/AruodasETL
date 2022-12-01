@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="04_FlatForecasting"
   DTS:PackageType="5"
-  DTS:VersionBuild="20"
-  DTS:VersionGUID="{1E2B5FA8-D279-436E-AE6F-EC97CCE2A3FC}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{D9D7450B-6D71-4814-B30A-63B93B8724A5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           ConnectByProxy="False">
           <AccountKey
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABqUhxylSmFzoUhczmH3ew0kMaHsW5mLLKMDQuUL5ZZDwAAAAAOgAAAAAIAACAAAABvz/pZDKofJh6N+RGGpWFkpYB93ZX2mM47N54RBwjhocAAAAB/AxlP7+fLTIRCMkrRbSCL0Ir0VPOEXE1FyPNiVv1zd93k1BWgGZXFaxTXeJxGBoTD9pHUkmBh0KvIhs2KqyMJdwa7rWDk6ba7yjMzvrn8tOHw5rYAvAuygZfEvC53DR+YqeaIqrUKgmBNyFbNmyP0IlDEZ3PAp4EV4cL1GbwqZFB0IyKzS/PSMIIjI3RtoA8uMtOvI+mUH2dSjUBzZhRy+uljggZh7GfBZXMXTko6j9XJl15uyNIvEP4HuyZzR2tAAAAAPkRuKdPuN9u20Ki1z32bh5vovK3pkuhw0ZYZ7vjKwq6SO2Y8e/DxtjBfLaxE80dNt+5J4ZErHpoBsgDyYLOwnQ</AccountKey>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACfZGHrKTl6WtxPmxEkBXQJhp/kg4olfaGgFwfXlSRJCAAAAAAOgAAAAAIAACAAAADtDDv1J2YVf0FQJILLU0j0VFOyfRjvqMIdG3+UCAWjYMAAAAAF95bA7JuSgBNieYtFxqvkrt5T2gZxzNkuXmJzPZTRIVNMsec6kqLyvfABkKMbTA4lLdMNCdnD21A9IQ3i6VVBwekVx/9Pk1Tg4s1BNZUEMBwwR42tR/ktsBgteEy9lrUkbjN4YnO32RzTuDC27Q726URRuhVhbvhL5HsqtG9tu24XuN6L2vj+FeyfULgku3NR7n3rExNemkVmbC+FFLav1zWlZWmAxWwqTasT/8wRcn68HPBG5bDtq5jQ62l2TKxAAAAAvNHoB5Qe6lfS0tfRcw4ktsFCog9RiYiEa60dwZ7VWkzC7vgANHKsDaAfP8HHAGUHnU3nBLuCpjKfoNZqLxqDvQ</AccountKey>
         </AzureStorageConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="ScrappedDate">
       <DTS:VariableValue
-        DTS:DataType="8">2022-11-28</DTS:VariableValue>
+        DTS:DataType="8">2022-11-29</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -54,7 +54,7 @@
       DTS:ExecutableType="CopyFromBlobTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Azure Blob Download Task"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <CopyFromBlobTask
@@ -71,7 +71,6 @@
       DTS:refId="Package\ForecastFlatPrices"
       DTS:CreationName="Microsoft.ExecuteProcess"
       DTS:Description="Execute Process Task"
-      DTS:Disabled="True"
       DTS:DTSID="{521ebfce-c9e6-4ce9-8972-64323b0f41cd}"
       DTS:ExecutableType="Microsoft.ExecuteProcess"
       DTS:LocaleID="-1"
@@ -84,10 +83,20 @@
       <DTS:ObjectData>
         <ExecuteProcessData
           Executable="C:\Users\paulius.janenas\AppData\Local\Programs\Python\Python310\python.exe"
-          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\FlatForecasting.py&quot; &quot;2022-11-28&quot;" />
+          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\FlatForecasting.py&quot; &quot;2022-11-29&quot;" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{6C74410E-1933-4E95-9852-40AF132ACF0E}"
+      DTS:From="Package\Azure Blob Download Task"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\ForecastFlatPrices" />
+  </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
 <!--If you manually edit this section and make a mistake, you can delete it. -->
@@ -99,15 +108,37 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\ForecastFlatPrices"
-          TopLeft="824,414" />
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="204,42"
           Id="Package\Azure Blob Download Task"
           TopLeft="800,278" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\ForecastFlatPrices"
+          TopLeft="824,414" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="903.75,320">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,94"
+              Start="0,0"
+              End="0,86.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,86.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>

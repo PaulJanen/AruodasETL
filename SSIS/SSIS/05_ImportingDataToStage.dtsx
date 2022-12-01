@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/15/2022 7:44:06 AM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="05_ImportingDataToStage"
   DTS:PackageType="5"
-  DTS:VersionBuild="17"
-  DTS:VersionGUID="{57EC9D73-6BC4-4DD7-AAB9-CEF35901D747}">
+  DTS:VersionBuild="20"
+  DTS:VersionGUID="{CF04EDFA-BB38-429A-BB5B-11AF06310E65}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -38,7 +38,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="Price"
-              DTS:DTSID="{6A5C8C52-2483-4A36-83FF-72779D569720}"
+              DTS:DTSID="{B40124AB-C32E-4B3E-8769-3BEF75FB16B6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -46,7 +46,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="PricePerM2"
-              DTS:DTSID="{1BE2341E-0538-4602-9F07-0D55CB4F3A26}"
+              DTS:DTSID="{470C4048-AA0E-423D-BBBE-7A6DB5217DF1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -54,7 +54,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="Area"
-              DTS:DTSID="{0F4403CA-3BA3-4047-967C-AE16A8061E39}"
+              DTS:DTSID="{59DEED7E-99A5-436B-BE56-1ABB4E7C4C83}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -62,7 +62,7 @@
               DTS:DataType="16"
               DTS:TextQualified="True"
               DTS:ObjectName="floor"
-              DTS:DTSID="{F0846E36-7FDB-4832-A08A-CA480C07F122}"
+              DTS:DTSID="{82200D5B-DA4B-4941-B46B-F71CB8CDCF5D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -70,7 +70,7 @@
               DTS:DataType="16"
               DTS:TextQualified="True"
               DTS:ObjectName="Number of floors"
-              DTS:DTSID="{B0412DE9-14F2-4DBB-867C-9F063C97246C}"
+              DTS:DTSID="{F6F93019-98F2-446E-B37E-38F4B668CBCE}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -78,7 +78,7 @@
               DTS:DataType="16"
               DTS:TextQualified="True"
               DTS:ObjectName="Room count"
-              DTS:DTSID="{D2F73784-1811-459F-B832-32A2F871EE74}"
+              DTS:DTSID="{19325E07-46F4-4D54-B276-491B7EEA458A}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -87,7 +87,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Heating"
-              DTS:DTSID="{724ED3C0-CB2A-4E95-B97B-78FA17589213}"
+              DTS:DTSID="{C72F039E-F2D3-4FC8-888E-36F6A479EDD6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -96,7 +96,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Equipment"
-              DTS:DTSID="{A0B6E1C4-5E05-4D4A-A2F4-1C2DD47B3E99}"
+              DTS:DTSID="{866609D9-E14B-4679-82A6-CDC425109948}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -104,7 +104,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="NearestKindergarten"
-              DTS:DTSID="{488887F3-110D-45C0-85A4-FE3E04C38A79}"
+              DTS:DTSID="{DA737062-50D7-40C6-B0E4-A96E427F2475}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -112,7 +112,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="NearestEducational"
-              DTS:DTSID="{13B5969F-E200-435A-A6AD-A6AB419D6C73}"
+              DTS:DTSID="{94EBA1CD-E1EB-46FD-89FF-757D945E0E16}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -120,7 +120,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="NearestShop"
-              DTS:DTSID="{3142EF10-2A32-4F42-9C03-750BEF333816}"
+              DTS:DTSID="{54BCA284-C6B6-4A2D-A7BB-AA98F3FAB087}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -128,7 +128,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="NearestStop"
-              DTS:DTSID="{F1DD15D6-BE94-4CFB-86A9-845F0E95F816}"
+              DTS:DTSID="{6CFC077C-E621-42ED-815F-D7C2BF9D12B1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -136,7 +136,7 @@
               DTS:DataType="16"
               DTS:TextQualified="True"
               DTS:ObjectName="CrimeRate"
-              DTS:DTSID="{285237C4-0124-4B9F-B6D8-C1591D6F4125}"
+              DTS:DTSID="{788AFCB5-BFB8-4E34-9F59-A50A13CBC136}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -145,7 +145,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="City"
-              DTS:DTSID="{7CB03757-2014-458F-8C10-ECBD05B21B42}"
+              DTS:DTSID="{874DC370-BEF3-4551-8C42-DE49A99A042E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -154,7 +154,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="District"
-              DTS:DTSID="{D8A13F17-811C-4F1F-8F25-B1FC0F8B5A08}"
+              DTS:DTSID="{1D6D15FB-2222-439D-B5A5-F4FC81744E8F}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -163,7 +163,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="href"
-              DTS:DTSID="{AA3B010A-A31F-4BDF-B715-2F7986A71B50}"
+              DTS:DTSID="{E3531C85-9B06-4AC6-B3B3-EB79E442E07A}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -171,7 +171,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="Losses"
-              DTS:DTSID="{109A72F5-00DF-48C3-A75C-9845EF2B6811}"
+              DTS:DTSID="{DE2190BA-E365-4676-8766-A5A855291755}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -179,7 +179,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="PredictedPrice"
-              DTS:DTSID="{E4451DD4-AB53-4AAA-9A82-5371A7A70C9E}"
+              DTS:DTSID="{528336F7-3C4C-4611-A88F-3B99960A56EF}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -187,7 +187,7 @@
               DTS:DataType="7"
               DTS:TextQualified="True"
               DTS:ObjectName="Year Built"
-              DTS:DTSID="{0DDA4459-08CC-40B9-8528-9F73BB60C821}"
+              DTS:DTSID="{1147CE30-E120-48C9-8927-CF73FAF0EBB2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -195,7 +195,7 @@
               DTS:DataType="7"
               DTS:TextQualified="True"
               DTS:ObjectName="ScrapingDate"
-              DTS:DTSID="{E3A0B09C-7FFF-4E86-8405-4930D75C0C4D}"
+              DTS:DTSID="{36DFFFB5-15B5-45DE-A79E-58D736FBD288}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -427,12 +427,11 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]"
-                      codePage="65001"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[City]"
-                      length="100"
+                      length="50"
                       lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]"
                       name="City"
                       truncationRowDisposition="FailComponent">
@@ -449,12 +448,11 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]"
-                      codePage="65001"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[District]"
-                      length="100"
+                      length="50"
                       lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]"
                       name="District"
                       truncationRowDisposition="FailComponent">
@@ -820,7 +818,7 @@
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -913,17 +911,15 @@
                       lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[Equipment]" />
                     <inputColumn
                       refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[City]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="100"
+                      cachedDataType="wstr"
+                      cachedLength="50"
                       cachedName="City"
                       externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[City]"
                       lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[City]" />
                     <inputColumn
                       refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[District]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="100"
+                      cachedDataType="wstr"
+                      cachedLength="50"
                       cachedName="District"
                       externalMetadataColumnId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[District]"
                       lineageId="Package\Import data to Stage_AllListings\Flat File Source.Outputs[Flat File Source Output].Columns[District]" />
@@ -1042,14 +1038,12 @@
                       name="Equipment" />
                     <externalMetadataColumn
                       refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[City]"
-                      codePage="65001"
-                      dataType="str"
+                      dataType="wstr"
                       length="100"
                       name="City" />
                     <externalMetadataColumn
                       refId="Package\Import data to Stage_AllListings\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[District]"
-                      codePage="65001"
-                      dataType="str"
+                      dataType="wstr"
                       length="100"
                       name="District" />
                     <externalMetadataColumn
@@ -1218,27 +1212,39 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="171,42"
-          Id="Package\Import data to Stage_AllListings\OLE DB Destination"
-          TopLeft="603,323" />
-        <NodeLayout
           Size="151,42"
           Id="Package\Import data to Stage_AllListings\Flat File Source"
-          TopLeft="611,200" />
+          TopLeft="609,200" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Import data to Stage_AllListings\OLE DB Destination"
+          TopLeft="610,333" />
         <EdgeLayout
           Id="Package\Import data to Stage_AllListings.Paths[Flat File Source Output]"
-          TopLeft="687.5,242">
+          TopLeft="684.5,242">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,81"
+              EndConnector="11,91"
               Start="0,0"
-              End="0,73.5">
+              End="11,83.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,73.5" />
+                    End="0,41.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,41.5"
+                    Point2="0,45.5"
+                    Point3="4,45.5" />
+                  <mssgle:LineSegment
+                    End="7,45.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="7,45.5"
+                    Point2="11,45.5"
+                    Point3="11,49.5" />
+                  <mssgle:LineSegment
+                    End="11,83.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

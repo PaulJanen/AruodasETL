@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="04_FlatForecasting"
   DTS:PackageType="5"
-  DTS:VersionBuild="20"
-  DTS:VersionGUID="{1E2B5FA8-D279-436E-AE6F-EC97CCE2A3FC}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{D9D7450B-6D71-4814-B30A-63B93B8724A5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           ConnectByProxy="False">
           <AccountKey
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB+Xiye+drLqHoaCi6TxZBMERDV2ez5djZbkv/UrppixgAAAAAOgAAAAAIAACAAAABBwOtd8SpMBNJPbnD8uqTsyFKmkNhrItockyUhNTvYUcAAAABh44MbzzJ7quHmQrAFrJGwGBZYFkvjuvr/MTQmZYb+J9JeKUG91cqAM8h/aulqh8jJa5JNKUWvRhCr/jXgS9lePhY93arBQR3CdbqYIhdBzV6QTXn55qyHtgBcRbDx2/CJRww0Shviu3xQ9GfgSEfQgLGi2vsQFnqxo8vrapu2l7cEbqwM9a/3VrRX/zGCKviSckmk8rKfwDBaksH8czKR5lWt+Okc5EMk6ZdNMZXZs0Aa19IkL1RkHaceImLxnaNAAAAAKb6DHGyhJgYHUoicSNFZ6sexmXjjs+Kiap9oI6QyQCSxuD+xcD6Yy7f25U2NDu6ErE0W0Umla1y2UpnFMMo64A</AccountKey>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ7atEPZ0yUWD6NM6QbyEHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACIUa6aErco2VoUSFGMZcg5mWK98eHgUw7LLWNW6vr+vAAAAAAOgAAAAAIAACAAAAACfmNiD4uhmWRMeJYJzwYz4jrvQK2pMgTk0yB/tZfBucAAAADlDo060DjOaGeX+378y/4RlnSKXVM0C3sYAmh2trqMLGpj/n21pGXw4UP+bmXEqMVlK0gP4EgVQLh3RyCt3ZL+NddtbFb5lHLcwxXE8X4vNzeERMH8ciQtTs9RlvtatoS0CVJARtI5lYjtANzjsToIEOoSkwCMaOeN9PfXMp8XV0iwyLPlWXNKjCHUhSvLonkLm+1aqXgVz7nvlK/T3lWXuXx/KiznTSm8IG5Dvu3PbAaIUyc3xPGrGAa3RBlrRUpAAAAA8jtS2PHcV7xnmJux+adJF8X0GvbbCRvCxUN7Xv+V31Wl8psp9+akSFILDdw4JqEAuk6BuuTN7SALqobWpF/ezw</AccountKey>
         </AzureStorageConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="ScrappedDate">
       <DTS:VariableValue
-        DTS:DataType="8">2022-11-28</DTS:VariableValue>
+        DTS:DataType="8">2022-11-29</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -71,23 +71,32 @@
       DTS:refId="Package\ForecastFlatPrices"
       DTS:CreationName="Microsoft.ExecuteProcess"
       DTS:Description="Execute Process Task"
-      DTS:Disabled="True"
       DTS:DTSID="{521ebfce-c9e6-4ce9-8972-64323b0f41cd}"
       DTS:ExecutableType="Microsoft.ExecuteProcess"
       DTS:LocaleID="-1"
       DTS:ObjectName="ForecastFlatPrices"
       DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:PropertyExpression
         DTS:Name="Arguments">"\"C:\\Users\\paulius.janenas\\Documents\\GitHub\\AruodasETL\\SSIS\\04-PriceForecasting\\FlatForecasting.py\" " + "\"" + @[User::ScrappedDate] + "\""</DTS:PropertyExpression>
       <DTS:ObjectData>
         <ExecuteProcessData
           Executable="C:\Users\paulius.janenas\AppData\Local\Programs\Python\Python310\python.exe"
-          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\FlatForecasting.py&quot; &quot;2022-11-28&quot;" />
+          Arguments="&quot;C:\Users\paulius.janenas\Documents\GitHub\AruodasETL\SSIS\04-PriceForecasting\FlatForecasting.py&quot; &quot;2022-11-29&quot;" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{6C74410E-1933-4E95-9852-40AF132ACF0E}"
+      DTS:From="Package\Azure Blob Download Task"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\ForecastFlatPrices" />
+  </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
 <!--If you manually edit this section and make a mistake, you can delete it. -->
@@ -99,15 +108,37 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\ForecastFlatPrices"
-          TopLeft="824,414" />
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="204,42"
           Id="Package\Azure Blob Download Task"
           TopLeft="800,278" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\ForecastFlatPrices"
+          TopLeft="824,414" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="903.75,320">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,94"
+              Start="0,0"
+              End="0,86.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,86.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>

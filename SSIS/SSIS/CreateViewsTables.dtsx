@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/16/2022 1:06:47 PM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CreateViewsTables"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{AA4B534C-2282-401A-AA0C-788BB9B59E60}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{55155E57-8D5A-4859-A8C5-653F84AA5D7F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -40,7 +40,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create City view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -57,7 +57,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create District view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -74,7 +74,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Equipment view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -91,12 +91,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create FlatForecasting view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{46A7B4E2-F9C8-47AF-BD8B-2FEBA4B9CF90}"
-          SQLTask:SqlStatementSource="&#xA;Drop view if exists dataMart.FlatForecasting &#xA;Go&#xA;Create View dataMart.FlatForecasting as&#xA;Select&#x9;HUB_FLAT.HK&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_City&#xA;&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.DistrictHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER( DATEPART(month, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_CityDistrict&#xA;&#xA;&#x9;&#x9;,LINK_FLATLOCATIONEQUIPMENT.EquipmentHK as HK_Equipment&#xA;&#x9;&#x9;,heatingValidity.HeatingHK as HK_Heating&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_ScrappingDate&#xA;&#x9;&#x9;,heatingValidity.ValidTo&#xA;&#x9;&#x9;,heatingValidity.Validity&#xA;&#x9;&#x9;,HUB_FLAT.href&#xA;&#x9;&#x9;,flat.LoadEndDate&#xA;from HUB_FLAT &#xA;inner join LINK_FLATLOCATIONEQUIPMENT on LINK_FLATLOCATIONEQUIPMENT.FlatHK = HUB_FLAT.HK&#xA;inner join SAT_FLATHEATINGVALIDITY as heatingValidity on heatingValidity.FlatHK = HUB_FLAT.HK&#xA;inner join SAT_FLAT as flat on flat.HK = HUB_FLAT.HK&#xA;&#xA;inner join dataMart.City on dataMart.City.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2)&#xA;&#xA;inner join dataMart.District on dataMart.District.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.DistrictHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER( DATEPART(month, flat.ScrapingDate)) AS NVARCHAR(4000)))),2)&#xA;&#xA;inner join dataMart.ScrappedDate on dataMart.ScrappedDate.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) &#xA;&#xA;inner join dataMart.Equipment on dataMart.Equipment.HK = LINK_FLATLOCATIONEQUIPMENT.EquipmentHK&#xA;inner join dataMart.Heating on dataMart.Heating.HK = heatingValidity.HeatingHK" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="&#xA;Drop view if exists dataMart.FlatForecasting &#xA;Go&#xA;Create View dataMart.FlatForecasting as&#xA;Select&#x9;HUB_FLAT.HK&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_City&#xA;&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.DistrictHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER( DATEPART(month, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_CityDistrict&#xA;&#xA;&#x9;&#x9;,LINK_FLATLOCATIONEQUIPMENT.EquipmentHK as HK_Equipment&#xA;&#x9;&#x9;,heatingValidity.HeatingHK as HK_Heating&#xA;&#x9;&#x9;,CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) as HK_ScrappingDate&#xA;&#x9;&#x9;,heatingValidity.ValidTo&#xA;&#x9;&#x9;,heatingValidity.Validity&#xA;&#x9;&#x9;,HUB_FLAT.href&#xA;&#x9;&#x9;,flat.BuiltYear&#xA;&#x9;&#x9;,flat.Price&#xA;&#x9;&#x9;,flat.PredictedPrice&#xA;&#x9;&#x9;,flat.LoadEndDate&#xA;from HUB_FLAT &#xA;inner join LINK_FLATLOCATIONEQUIPMENT on LINK_FLATLOCATIONEQUIPMENT.FlatHK = HUB_FLAT.HK&#xA;inner join SAT_FLATHEATINGVALIDITY as heatingValidity on heatingValidity.FlatHK = HUB_FLAT.HK&#xA;inner join SAT_FLAT as flat on flat.HK = HUB_FLAT.HK&#xA;&#xA;inner join dataMart.City on dataMart.City.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2)&#xA;&#xA;inner join dataMart.District on dataMart.District.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.CityHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(LINK_FLATLOCATIONEQUIPMENT.DistrictHK) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000))&#xA;&#x9;&#x9;&#x9;&#x9;,CAST(UPPER( DATEPART(month, flat.ScrapingDate)) AS NVARCHAR(4000)))),2)&#xA;&#xA;inner join dataMart.ScrappedDate on dataMart.ScrappedDate.HK = CONVERT(VARCHAR(128),HASHBYTES('MD5', CONCAT('1', CAST(UPPER(DATEPART(YEAR, flat.ScrapingDate)) AS NVARCHAR(4000)),&#xA;&#x9;&#x9; CAST(UPPER(DATEPART(MONTH, flat.ScrapingDate)) AS NVARCHAR(4000)))),2) &#xA;&#xA;inner join dataMart.Equipment on dataMart.Equipment.HK = LINK_FLATLOCATIONEQUIPMENT.EquipmentHK&#xA;inner join dataMart.Heating on dataMart.Heating.HK = heatingValidity.HeatingHK" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -108,7 +108,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Heating view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -125,7 +125,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create ScrappedDate view"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -143,7 +143,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Select Test Case"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData

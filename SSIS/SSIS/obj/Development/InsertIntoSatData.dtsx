@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="InsertIntoSatData"
   DTS:PackageType="5"
-  DTS:VersionBuild="8"
-  DTS:VersionGUID="{FF271526-4F05-492E-BB55-826401B2F867}">
+  DTS:VersionBuild="9"
+  DTS:VersionGUID="{DB769B47-4099-47B9-AF3A-4D1408898FC2}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
